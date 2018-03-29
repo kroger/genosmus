@@ -1,5 +1,5 @@
 
-- MUSA69 – Literatura e Estruturação Musical I
+- [MUSA69 – Literatura e Estruturação Musical I](/marcos/musa69)
 - MUSA71 – Literatura e Estruturação Musical III
 - MUSA83 – Introdução à Instrumentação
 - MUSA92 – Princípios práticos de informática em Música
