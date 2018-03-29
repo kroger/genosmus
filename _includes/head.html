@@ -1,0 +1,26 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% assign title = page.title | default: site.title | escape %}
+  {% assign canonical = page.url | replace:'index.html','' | absolute_url %}
+  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape %}
+
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  {% if page.keywords %}
+    {% if page.keywords.first %}
+      {% assign keywords = page.keywords | join: ',' %}
+    {% else %}
+      {% assign keywords = page.keywords %}
+    {% endif %}
+    <meta name="keywords" content="{{ keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ canonical }}">
+
+  {% include fonts.html %}
+  {% include google_analytics.html %}
+</head>

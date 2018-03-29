@@ -2,7 +2,18 @@ title: Genos
 description: "Grupo de Pesquisa em Computação Musical"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://genosmus.com"
+google_analytics: "aoeuaoeu"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-whiteglass
+
+# Markdown settings
+kramdown:
+  auto_ids: false
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+
+exclude: [.idea]
