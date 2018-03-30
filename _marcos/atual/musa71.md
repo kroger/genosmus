@@ -4,9 +4,6 @@ layout: disciplina
 toc: true
 ---
 
-**Professor**: [Marcos Sampaio](http://genosmus.com/pessoas/marcos-sampaio) (marcos@sampaio.me)
-
-
 ## Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados.

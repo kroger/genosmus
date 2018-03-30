@@ -3,12 +3,6 @@ layout: disciplina
 title: MUSB18 -- Composição IX
 ---
 
-**Professor:** Pedro Kroger (kroger@pedrokroger.net)
-  
-**Página da disciplina:** http://genosmus.com/musb18
-
-Sextas, 9:45--12:30
-
 ## Ementa
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de habilidades na manipulação e exploração de fenômenos musicais e textuais relacionados às estruturas de grandes dimensões, bem como fenômenos extra-musicais ligados a estas, com audição comentada de obras representativas do século XX, de grandes dimensões.

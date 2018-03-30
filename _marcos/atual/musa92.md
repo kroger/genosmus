@@ -4,13 +4,11 @@ layout: disciplina
 toc: true
 ---
 
-**Professor**: [Marcos Sampaio](http://genosmus.com/pessoas/marcos-sampaio) (marcos@sampaio.me)
-
-## Ementa {#Ementa}
+## Ementa
 
 Estudos práticos visando contextualizar as principais ferramentas de tecnologia digital aplicadas à música. Desenvolvimento de habilidades na utilização dessas ferramentas.
 
-## Conteúdo programático {#Conteúdo_programático}
+## Conteúdo programático
 
   1. Software: livre, proprietário, gratuito, pago. Alternativas
   2. Organização de arquivos no computador: documentos, música, imagens, ebooks, etc.
@@ -22,7 +20,7 @@ Estudos práticos visando contextualizar as principais ferramentas de tecnologia
   8. Edição de partitura
   9. Áudio: formatos e conversão, edição
 
-## Avaliação {#Avaliação}
+## Avaliação
 
 A avaliação nesta disciplina é feita mediante trabalhos escritos e seminários. Os trabalhos só serão aceitos entregues rigorosamente no prazo — até o início da aula do dia marcado para entrega. A data e horário do envio do email servirão como registro.
 
@@ -30,7 +28,7 @@ O aluno que não puder entregar o trabalho no prazo poderá entregá-lo no prazo
 
 Em caso de dúvidas sobre a nota de algum trabalho, o prazo para reclamar será de uma semana. Após esse prazo a nota não será modificada.
 
-## Assiduidade e pontualidade {#Assiduidade_e_pontualidade}
+## Assiduidade e pontualidade
 
 Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas.
 
@@ -38,15 +36,15 @@ A carga horária da disciplina é de 17 horas semestrais. De acordo com o Regula
 
 Um atraso de mais de 15 minutos ou saída com mais de 15 minutos antes do final da aula será considerado como falta. Dessa forma atrasos poderão implicar em reprovação.
 
-## Cronograma {#Cronograma}
+## Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
 
 
 
-## Trabalhos {#Trabalhos}
+## Trabalhos
 
-### Trabalhos escritos {#Trabalhos_escritos}
+### Trabalhos escritos
 
 Valor: 50%
 
@@ -61,13 +59,13 @@ Os trabalhos deverão ser entregues por email.
   * Trabalho 1. Entrega em 17/05/2018
   * Trabalho 2. Entrega em 07/06/2018
 
-### Seminários {#Seminários}
+### Seminários
 
 Valor: 50%
 
 Os seminários serão apresentados por trios de estudantes sobre tema previamente definido. A apresentação é conjunta, mas a nota individual.
 
-#### Temas {#Temas}
+#### Temas
 
   1. Edição de áudio avançada
   2. Edição de partitura avançada
@@ -77,15 +75,15 @@ Os seminários serão apresentados por trios de estudantes sobre tema previament
   6. Ferramentas de pesquisa acadêmica (bibliografia, texto, etc.)
   7. Criação de página na internet (WordPress, etc.)
 
-#### Trios e duos {#Trios_e_duos}
+#### Trios e duos
 
 Temas, integrantes e datas de apresentação
 
 [Em construção]
 
-##### Cronograma {#Cronograma6906384}
+##### Cronograma
 
-  * 21/12 &#8211; Jarbas (trilha?)
+  * 21/12 -- Jarbas (trilha?)
   * Núbia, Cleiane e Carol (aplicativos dispositivos móveis. definir)
   * Ellen e Xavier (ferramentas educação musical)
   * Wellington (Finale)
@@ -93,14 +91,14 @@ Temas, integrantes e datas de apresentação
   * Izã (O que o educador musical precisa para sobreviver: colar partitura, sumário, etc)
   * Alex (Edição de áudio)
 
-## Notas e frequência {#Notas_e_frequência}
+## Notas e frequência
 
 
 
-#### Gráficos de desempenho da turma {#Gráficos_de_desempenho_da_turma}
+#### Gráficos de desempenho da turma
 
 
 
-## Links {#Links}
+## Links
 
 Os links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.

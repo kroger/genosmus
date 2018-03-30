@@ -8,6 +8,7 @@ e hospedado no [Netlify](https://app.netlify.com).
 Diretórios
 
     _pages
+	_data/docentes.yml
     
 ## Instalando Ruby
 

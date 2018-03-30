@@ -4,9 +4,6 @@ layout: disciplina
 toc: true
 ---
 
-**Professor**: [Marcos Sampaio](http://genosmus.com/pessoas/marcos-sampaio) (marcos@sampaio.me)
-
-
 ## Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto estrito, da harmonia, e da construção de frases musicais básicas. Apreciação de obras musicais referentes aos elementos estudados.
