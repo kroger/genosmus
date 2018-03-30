@@ -17,3 +17,8 @@ kramdown:
   toc_levels: 1..6
 
 exclude: [.idea]
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
