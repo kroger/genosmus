@@ -116,4 +116,4 @@ Em construção
 
 ## Links
 
-  * <a href="http://dmusufba.com/" target="_blank" rel="noopener">Departamento de Música da UFBA</a>
+- [Departamento de Música da UFBA](http://dmusufba.com)
