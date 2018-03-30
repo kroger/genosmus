@@ -6,7 +6,7 @@ google_analytics: "UA-25220567-1"
 semestre: "2018.1"
 
 markdown: kramdown
-exclude: [.idea]
+exclude: [.idea, img]
 
 collections:
   pages:
