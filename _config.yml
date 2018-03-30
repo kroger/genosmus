@@ -1,24 +1,27 @@
-title: Genos
+title: "Genos"
 description: "Grupo de Pesquisa em Computação Musical"
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://genosmus.com"
-google_analytics: "aoeuaoeu"
+google_analytics: "UA-25220567-1"
 
-# Build settings
+semestre: "2018.1"
+
 markdown: kramdown
-
-# Markdown settings
-kramdown:
-  auto_ids: false
-  enable_coderay: false
-  entity_output: as_char
-  footnote_nr: 1
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: 1..6
-
 exclude: [.idea]
 
 collections:
   pages:
     output: true
     permalink: /:path
+  pedro:
+    output: true
+    permalink: /:collection/:name
+  marcos:
+    output: true
+    permalink: /:collection/:name
+
+toc:
+  min_level: 1
+  max_level: 2
+
+plugins:
+  - jekyll-toc

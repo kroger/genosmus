@@ -1,6 +1,8 @@
 main:
-  - title: "Ensino"
-    url: /ensino/
+  - title: "Pedro"
+    url: /pedro/
+  - title: "Marcos"
+    url: /marcos/
   - title: "Pesquisa"
     url: /pesquisa/
   - title: "Pessoas"

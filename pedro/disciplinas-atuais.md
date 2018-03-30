@@ -1,5 +1,0 @@
-- [MUSA86 - Instrumentação e Orquestração III](/pedro/musa86)
-- [MUSB18 - Composição IX](/pedro/musb18)
-- [MUSB87 - Monografia I](/pedro/musb87)
-- [MUSD76 - Seminários em Música](/pedro/musd76)
-- [MUSD77 - Estágio Supervisionado](/pedro/musd77)

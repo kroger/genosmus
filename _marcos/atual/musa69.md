@@ -1,6 +1,7 @@
 ---
-title: MUSA69 - Literatura e Estruturação Musical I
-layout: page
+title: MUSA69 -- Literatura e Estruturação Musical I
+layout: disciplina
+toc: true
 ---
 
 **Professor**: [Marcos Sampaio](http://genosmus.com/pessoas/marcos-sampaio) (marcos@sampaio.me)

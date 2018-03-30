@@ -1,6 +1,6 @@
 ---
-layout: page
-title: MUSB18 - Composição IX
+layout: disciplina
+title: MUSB18 -- Composição IX
 ---
 
 **Professor:** Pedro Kroger (kroger@pedrokroger.net)

@@ -1,0 +1,28 @@
+---
+layout: page
+title: Disciplinas Pedro Kroger
+---
+
+<h2>Disciplina {{ site.semestre }}</h2>
+
+{% assign pages = site.pedro | sort %}
+
+<ul>
+{% for page in pages %}
+    {% assign semestre = page.relative_path | split: '/' %}
+    {% if semestre[1] == 'atual' %}
+        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Semestres Anteriores</h2>
+
+<ul>
+{% for page in pages %}
+    {% assign semestre = page.relative_path | split: '/' %}
+    {% if semestre[1] == 'anterior' %}
+        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
