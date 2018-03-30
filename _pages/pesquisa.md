@@ -8,7 +8,7 @@ title: Pesquisa
 O grupo de pesquisa Genos tem desenvolvido os seguintes projetos de pesquisa:
 
 - Ferramentas Computacionais para a Análise de Grandes Coleções Musicais
-- Relações de contornos musicais
+- [Relações de contornos musicais](https://marcos.sampaio.me/pt-br/tag/contour/)
 - Composições para flauta solo (1710-1810): levantamento, análise e composição (concluído)
 - Desenvolvimento de ferramentas para visualização em Música (interrompido)
 - Análise automática de harmonia por computador (concluído)
@@ -25,7 +25,7 @@ composição, análise musical e visualização de dados musicais,
 especialmente em Musicologia Computacional e Composição Assistida por
 Computador.
 
-#### Composição e teorias da música
+### Composição e teorias da música
 
 Pesquisas em composição musical tendo como objeto de estudo a criação,
 notadamente os processos composicionais e suas articulações com as
