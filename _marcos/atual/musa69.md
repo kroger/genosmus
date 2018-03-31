@@ -168,7 +168,7 @@ contém o número de alunos com média final dentro das faixas.
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=951878699&amp;format=interactive"
-width="600" height="371" frameborder="0" scrolling="no"
+width="100%" height="371" frameborder="0" scrolling="no"
 seamless=""><span data-mce-type="bookmark" style="display:
 inline-block; width: 0px; overflow: hidden; line-height: 0;"
 class="mce_SELRES_start">?</span></iframe>
