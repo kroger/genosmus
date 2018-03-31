@@ -8,11 +8,13 @@ Os diretórios principais são:
 - **_pages**: As páginas principais do site como *index*, *ensino* e *pesquisa* estão nesse diretório
 
 - **_marcos**: páginas com as disciplinas de Marcos.
-  As disciplinas do semestre atual devem estar no subdiretório **atual**,
-  e as disciplinas de semestres anteriores no diretório **anterior**.
+  As disciplinas do semestre atual devem ser listadas em `_data/docentes.yml`.
   A lista das disciplinas é gerada automaticamente.
 
 - **_pedro**: páginas com as disciplinas de Pedro.
+  As disciplinas do semestre atual devem estar no diretório `_pedro`,
+  e as disciplinas de semestres anteriores no diretório `anterior`.
+  A lista das disciplinas é gerada automaticamente.
 
 - **_data/docentes.yml**: dados dos docentes como email, website, e nome.
 
