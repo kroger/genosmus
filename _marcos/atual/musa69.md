@@ -200,9 +200,7 @@ class="mce_SELRES_start">?</span></iframe>
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;"> Queiroz, Flávio
   José Gomes de. 2005. “Princípios Gerais Para Realização de Baixos
-  Cifrados.”
-  http://www.clem.ufba.br/queiroz/bx_cifr/geraisbaixocifrado.html.
-  </p>
+  Cifrados.” http://bit.ly/2GK93me. </p>
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;"> Randel, Don
   Michael, ed. 1986. <i>The New Harvard Dictionary of Music</i>.
