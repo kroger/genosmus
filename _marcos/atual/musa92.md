@@ -60,7 +60,8 @@ poderão implicar em reprovação.
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzXclx-R5qRpq_u3HwDIP-xRpUs32IeA0hued0P5UcErSJs5L1lzLnXkvVcQieWONEQ392GHbHyM6V/pubhtml?gid=580704256&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe>
 
 ## Trabalhos
 
@@ -71,9 +72,6 @@ Valor: 50%
 Os trabalhos deverão ser entregues por email.
   
 <!-- Trabalho 1: https://form.jotformz.com/80873765884677 -->
-
-
-  
 <!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
 
   * Trabalho 1. Entrega em 17/05/2018
@@ -117,11 +115,14 @@ Temas, integrantes e datas de apresentação
 
 ## Notas e frequência
 
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe>
 
+### Gráficos de desempenho da turma
 
-#### Gráficos de desempenho da turma
-
-
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=1269582914&amp;format=interactive" width="100%" height="400" frameborder="0" scrolling="no" seamless=""><span
+data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
 
 ## Links
 
