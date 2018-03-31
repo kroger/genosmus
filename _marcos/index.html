@@ -9,8 +9,8 @@ title: Disciplinas Marcos Sampaio
 
 <ul>
 {% for page in pages %}
-    {% assign semestre = page.relative_path | split: '/' %}
-    {% if semestre[1] == 'atual' %}
+    {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
+    {% if site.data.docentes.marcos.atual contains disciplina %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
 {% endfor %}
@@ -22,9 +22,9 @@ title: Disciplinas Marcos Sampaio
 
 <ul>
 {% for page in pages %}
-    {% assign semestre = page.relative_path | split: '/' %}
-    {% if semestre[1] == 'anterior' %}
+    {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
+    {% unless site.data.docentes.marcos.atual contains disciplina %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
-    {% endif %}
+    {% endunless %}
 {% endfor %}
 </ul>
