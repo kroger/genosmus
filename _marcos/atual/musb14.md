@@ -95,6 +95,9 @@ As aulas são divididas em exposição de conteúdo, análise interativa de obra
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
 
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1190026815&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
+
 ## Trabalhos
 
 ### Miniaturas
@@ -186,10 +189,14 @@ Talvez:
 
 ## Notas e frequência
 
-
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe>
 
 ### Gráficos de desempenho da turma
 
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=569784072&amp;format=interactive" width="600" height="371" frameborder="0" scrolling="no" seamless=""><span
+data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
 
 ## Bibliografia
 
