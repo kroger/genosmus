@@ -113,7 +113,7 @@ contém o número de alunos com média final dentro das faixas.
  - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
  - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
- - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
+ - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA70%20LEM%20II.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
 ## Bibliografia
