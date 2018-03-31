@@ -296,15 +296,16 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Links
 
-  * <a title="KP"
-    href="http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf">KP</a>
-  * <a title="DG, cap. 1 ao 6"
-    href="http://genosmus.com/aulas/dg16.pdf">DG16</a>
-  * <a title="Favoritos de Teoria Musical"
-    href="https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv">Favoritos
-    de Teoria Musical</a>
-  * <a
-    href="http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf">Conteúdo
-    programático aprovado pelo Departamento de Música</a>
-  * <a href="http://dmusufba.com/" target="_blank"
-    rel="noopener">Departamento de Música da UFBA</a>
+ - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
+ - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
+ - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
+ - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
+ - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
+ - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
+ - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
+ - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
+ - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
+ - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
+ - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
+ - [Departamento de Música da UFBA](http://dmusufba.com)
