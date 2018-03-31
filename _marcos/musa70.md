@@ -103,10 +103,18 @@ contém o número de alunos com média final dentro das faixas.
 
 ## Links
 
-  * <a title="KP" href="http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf" target="_blank" rel="noopener noreferrer">KP</a>
-  * <a title="Favoritos de Teoria Musical" href="https://www.diigo.com/list/msampaio/teoria-musical" target="_blank" rel="noopener noreferrer">Favoritos de Teoria Musical</a>
-  * <a title="Tutorial para contraponto a duas vozes: figuração" href="http://www.youtube.com/watch?v=i1mZ7SibDZ0" target="_blank" rel="noopener noreferrer">Tutorial para contraponto a duas vozes: figuração</a>
-  * <a href="http://sporadic.stanford.edu/Chorales/" target="_blank" rel="noopener noreferrer">Corais de Bach</a>
+ - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
+ - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
+ - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
+ - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
+ - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
+ - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
+ - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
+ - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
+ - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
+ - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
+ - [Departamento de Música da UFBA](http://dmusufba.com)
 
 ## Bibliografia
 
