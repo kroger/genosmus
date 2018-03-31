@@ -102,17 +102,6 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
-##### Cronograma
-
-  * 21/12 -- Jarbas (trilha?)
-  * Núbia, Cleiane e Carol (aplicativos dispositivos móveis. definir)
-  * Ellen e Xavier (ferramentas educação musical)
-  * Wellington (Finale)
-  * Rhinner (Guitar Pro)
-  * Izã (O que o educador musical precisa para sobreviver: colar
-    partitura, sumário, etc)
-  * Alex (Edição de áudio)
-
 ## Notas e frequência
 
 <iframe
