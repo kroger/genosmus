@@ -229,19 +229,13 @@ class="mce_SELRES_start">?</span></iframe>
 
 ## Links
 
-  * <a title="Favoritos de Teoria Musical"
-    href="https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv">Favoritos
-    de Teoria Musical</a>
-  * <a title="KP"
-    href="http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf">KP</a>
-  * <a title="Corais"
-    href="http://genosmus.com/aulas/bach-corais.pdf">Corais</a>
-  * <a title="Áudio dos 371 corais de Bach"
-    href="https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh">371
-    corais no YouTube</a>
-  * <a
-    href="http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf">Conteúdo
-    programático aprovado pelo Departamento de Música</a>
-  * <a href="http://dmusufba.com" target="_blank"
-    rel="noopener">Departamento de Música da UFBA</a>
-  
+ - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
+ - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
+ - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
+ - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
+ - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
+ - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
+ - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
+ - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
+ - [Departamento de Música da UFBA](http://dmusufba.com)
