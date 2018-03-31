@@ -208,6 +208,8 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
   <span class="wpmauthors">Elliott Antokoletz</span> <span class="wpmyear">(1984)</span> <span class="wpmtitle">The music of Béla Bartók : a study of tonality and progression in twentieth-century music</span>, <span class="wpmpublisher">Berkeley: University of California Press</span><br clear='all' />
 </p>
 
+<p class="wpmref"><span class="wpmauthors">Elliott Antokoletz</span> <span class="wpmyear">(2016)</span> <span class="wpmtitle">In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language</span>, <span class="wpmoutlet">Musica Theorica</span> <span class="wpmvolume">1</span>, <span class="wpmpages">p. 1-25</span>, <span class="wpmurl"><a target="_blank" href="http://tema.mus.br/revistas/index.php/musica-theorica/article/view/1/1"><span class="wpmurlurl">url</span></a></span><br clear='all'/></p>
+
 <p class="wpmref">
   <span class="wpmauthors">Roy Howat</span> <span class="wpmyear">(1983)</span> <span class="wpmtitle">Debussy in proportion : a musical analysis</span>, <span class="wpmpublisher">Cambridge; New York: Cambridge University Press</span><br clear='all' />
 </p>
