@@ -142,14 +142,14 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 O material para análise está inteiramente disponível no site do IMSLP.
 Buscar informações a respeito no Google.
 
-  1. [J.S.Bach, Coral #001 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  2. [J.S.Bach, Coral #006 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  3. [J.S.Bach, Coral #007 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  4. [J.S.Bach, Coral #012 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  5. [J.S.Bach, Coral #014 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  6. [J.S.Bach, Coral #026 (Ed. Riemenschneider)](http://genosmus.com/aulas/bach-corais.pdf)
-  7. [Schumann, Álbum para Juventude op. 68, n. 2](http://bit.ly/2DVXbYH)
-  8. [Clementi, op. 36., n. 1, mov. i](http://bit.ly/2geyMUJ)
+  1. J.S.Bach, Coral #001 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  2. J.S.Bach, Coral #006 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  3. J.S.Bach, Coral #007 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  4. J.S.Bach, Coral #012 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  5. J.S.Bach, Coral #014 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  6. J.S.Bach, Coral #026 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  7. Schumann, Álbum para Juventude op. 68, n. 2 [http://bit.ly/2DVXbYH](http://bit.ly/2DVXbYH)
+  8. Clementi, op. 36., n. 1, mov. i [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
 
 ## Notas
 
