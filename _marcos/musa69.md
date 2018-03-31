@@ -234,6 +234,7 @@ class="mce_SELRES_start">?</span></iframe>
  - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
  - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
  - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
+ - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
  - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
  - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
