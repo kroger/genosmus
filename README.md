@@ -58,3 +58,7 @@ estar disponível em http://127.0.0.1:4000.
 
 Certifique-se de que a versão do Ruby esteja atualizada no arquivo
 `.ruby-version`. Essa é a versão usada pelo Netlify
+
+## Email
+
+O email do genos é genos@genosmus.com e pode ser acessado em https://mail.zoho.com/zm/
