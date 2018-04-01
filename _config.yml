@@ -7,7 +7,6 @@ semestre: "2018.1"
 
 markdown: kramdown
 exclude: [.idea, img]
-include: [_redirects]
 
 collections:
   pages:
