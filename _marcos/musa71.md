@@ -216,7 +216,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ### Material a ser usado em cada aula/conteúdo
 
-#### Reviso de frases, períodos, tonicalização e modulaço
+#### Revisão de frases, períodos, tonicalização e modulação
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
