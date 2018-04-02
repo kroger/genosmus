@@ -1,5 +1,5 @@
 ---
-title: 'MUSA86 -- Instrumentação e Orquestração III'
+title: MUSA86 -- Instrumentação e Orquestração III
 layout: disciplina
 ---
 
@@ -9,39 +9,37 @@ Nível 1 do estudo e prática de Orquestração avançada, técnicas de orquestr
 
 ## Materiais
 
-  *  [Partituras (pdf) e gravações (mp3)](http://genosmus.com/aulas/MUSA86%20Audio%20e%20Partituras.zip)
-  * [Principles of Orchestration On-line](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line) (use com cautela 😉
+  - [Principles of Orchestration On-line](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line)
+  - Os materiais de aula serão colocados no site a medida que as aulas forem acontecendo 
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
 
-  * Mar 22 &#8212; Problemas de orquestração e redução: sons sustentados
-  * Mar 29 &#8212;
-  * Abr 05 &#8212; _Semana Santa_
-  * Abr 12 &#8212;  Redução e Redução analítica
-  * Abr 19 &#8212; Tópico: estudo de acordes
-  * Abr 26 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * Mai 03 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * Mai 10 &#8212; **Trabalho**: orquestração de _Une Barque sur l&#8217;Ocean_, Ravel (trecho) **[5 pontos]**
-  * Mai 17 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * Mai 24 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * Mai 31 &#8212; **Trabalho**: orquestração do _Capriccio Espagnol -- I Alborada_, Rimsky-Korsakov (trecho) **[5 pontos]**
-  * <del>Jun 07</del> &#8212; _Corpus Christi_
-  * Jun 14 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * <del>Jun 21</del> &#8212; _São João_
-  * Jun 28 &#8212; Relatório oral do trabalho **[2.5 pontos]**
-  * Jul 05 &#8212; **Trabalho**: orquestração do _Quarteto de Cordas_, Ravel (trecho) compassos 1--8, 24--30, 55--68 **[5 pontos]**
+- Abr 04 -- _Arrumação da sala de aula_ (sem aula)
+- Abr 11 -- Orquestração para Cordas
+- Abr 18 -- **Entrega do trabalho 1 [1.25 pontos]**
+- Abr 25 -- Orquestração para Madeiras e Cordas
+- Mai 02 -- **Entrega do trabalho 2 [1.25 pontos]**
+- Mai 09 -- Orquestração para Metais, Madeiras e Cordas
+- Mai 16 -- **Entrega do trabalho 3 [1.25 pontos]**
+- Mai 23 -- Escrevendo para Orquestra
+- Mai 30 -- **Entrega do trabalho 4 [1.25 pontos]**
+- Jun 06 -- Acompanhamento
+- Jun 13 -- **Entrega do trabalho 5 [1.25 pontos]**
+- Jun 20 -- Transcrição para Orquestra
+- Jun 27 -- **Entrega do trabalho 6 [1.25 pontos]**
+- Jul 04 -- 
+- Jul 11 -- 
+- Jul 18 -- **Entrega do trabalho final [2.5 pontos]**
+
 
 ## Avaliação
 
-A nota final será a média aritmética de 3 trabalhos de orquestração, cada um sub-dividido em 2 relatórios orais e uma apresentação do trabalho. O procedimento para o trabalho será:
+A nota final será a soma de 6 mini-trabalhos com valor 1.25 cada, e um trabalho final
+no valor de 2.5 pontos. O(a) aluno(a) deverá levar um pdf do trabalho com uma gravação midi (Finale) em mp3.
 
-  1. Orquestrar a versão para piano sem ver e ouvir a versão para orquestra
-  2. Escrever um pequeno texto (1 página) comparando sua versão com a do compositor
-
-<div>
-  <strong>Tanto nos relatórios orais quanto na entrega, o aluno deverá levar um pdf da sua orquestração com uma gravação midi (Finale) em mp3.</strong>
-</div>
 
 ## Notas
+
+<iframe width="900" height="177" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=23939E5DC94ED773%21400&authkey=%21AA_J2tMmrvkLKmI&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AK7&wdInConfigurator=True"></iframe>
