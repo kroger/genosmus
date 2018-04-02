@@ -30,6 +30,17 @@ Ao final do curso espera-se que o estudante seja capaz de:
      recursos cromáticos a quatro vozes.
   3. Compor _lieder_ binário e ternário.
 
+## Pré-requisitos
+
+São pré-requisitos para a disciplina:
+
+  1. Reconhecimento e aplicação de modulação
+  2. Reconhecimento e aplicação de acordes de sexta aumentada e sexta
+     napolitana
+  3. Harmonização a quatro vozes de melodias modulatórias, incluindo
+     condução de vozes
+  4. Realização de baixo cifrado a quatro vozes
+
 ## Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
@@ -42,16 +53,6 @@ exercícios a serem realizados em classe e em casa:
      quatro vozes
   3. Composição de pequenas formas musicais
 
-## Pré-requisitos
-
-São pré-requisitos para a disciplina:
-
-  1. Reconhecimento e aplicação de modulação
-  2. Reconhecimento e aplicação de acordes de sexta aumentada e sexta
-     napolitana
-  3. Harmonização a quatro vozes de melodias modulatórias, incluindo
-     condução de vozes
-  4. Realização de baixo cifrado a quatro vozes
 
 ## Avaliação
 
@@ -176,7 +177,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
      Trio) <a href="http://bit.ly/2v9wEEl">http://bit.ly/2v9wEEl</a>
  19. Mendelssohn, op. 72, n. 1 <a
      href="http://bit.ly/2v9dXjX">http://bit.ly/2v9dXjX</a>
- 20. Mozart K 284, mov. iii, tema <a
+ 20. Mozart K284, mov. iii, tema <a
      href="http://bit.ly/2tDP3L8">http://bit.ly/2tDP3L8</a>
  21. Mozart K330, mov. ii <a
      href="http://goo.gl/FzonKS">http://goo.gl/FzonKS</a> (p 111 (7))
@@ -212,6 +213,14 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
      href="http://bit.ly/2siLOoJ">http://bit.ly/2siLOoJ</a>
  36. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. <a
      href="http://bit.ly/2siLOoJ">http://bit.ly/2siLOoJ</a>
+
+### Material a ser usado em cada aula/conteúdo
+
+#### Reviso de frases, períodos, tonicalização e modulaço
+
+- Schumann op. 68, n. 7
+- Mozart K545, mov. 1
+- Clementi, op. 36, n. 1, mov. 1
 
 ## Notas e frequência
 
