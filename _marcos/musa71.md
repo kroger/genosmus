@@ -199,16 +199,17 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
  29. Schubert, op. 99, mov. 3 (apenas primeira página) <a
      href="http://bit.ly/2t9EYFm">http://bit.ly/2t9EYFm</a>
  30. Schumann, Álbum para Juventude op. 68, n. 2, <a
-     href="http://bit.ly/2DVXbYH" target="_blank"
-     rel="noopener">http://bit.ly/2DVXbYH</a>
- 31. Schumann, Álbum para Juventude op. 68, n. 7, <a
-     href="http://bit.ly/2DVXbYH">http://bit.ly/29de7fW</a>
+     href="http://bit.ly/2JdmZDv" target="_blank"
+     rel="noopener">http://bit.ly/2JdmZDv</a>
+ 31. Schumann, Álbum para Juventude op. 
+ , n. 7, <a
+     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
  32. Schumann, Álbum para Juventude op. 68, n. 8, <a
-     href="http://bit.ly/2DVXbYH">http://bit.ly/29de7fW</a>
+     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
  33. Schumann, Álbum para Juventude op. 68, n. 9, <a
-     href="http://bit.ly/2DVXbYH">http://bit.ly/29de7fW</a>
+     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
  34. Schumann, Álbum para Juventude op. 68, n. 17, <a
-     href="http://bit.ly/2DVXbYH">http://bit.ly/29de7fW</a>
+     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
  35. Schumann, Kinderszenen op. 15, no. 6 “Wichtige Begebenheit”. <a
      href="http://bit.ly/2siLOoJ">http://bit.ly/2siLOoJ</a>
  36. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. <a
