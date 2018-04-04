@@ -9,19 +9,9 @@ title: Disciplinas Pedro Kroger
 
 <ul>
 {% for page in pages %}
-    {% assign semestre = page.relative_path | split: '/' %}
-    {% if semestre[1] != 'anterior' and semestre[1] != 'index.html' %}
-        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-
-<h2>Semestres Anteriores</h2>
-
-<ul>
-{% for page in pages %}
-    {% assign semestre = page.relative_path | split: '/' %}
-    {% if semestre[1] == 'anterior' %}
+    {% assign path = page.relative_path | split: '/' %}
+    {% assign folder = path[1] %}
+    {% if folder != 'anterior' and folder != 'index.html' and folder != 'apoio' %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
 {% endfor %}
