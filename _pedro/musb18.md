@@ -9,24 +9,30 @@ Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de hab
 
 ## Materiais
 
-  * [Métrica (poesia)](http://pt.wikipedia.org/wiki/Métrica_(poesia))
-  * [Rima](http://pt.wikipedia.org/wiki/Rima)
-  * [Ritmo (ver poesia)](http://pt.wikipedia.org/wiki/Ritmo)
-  * [Ritmo no poema](http://pt.wikipedia.org/wiki/Ritmo_no_poema)
-  * [Versificação](http://pt.wikipedia.org/wiki/Versificação)
-  * Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/zgolwyg37d2mqgo/bilac-tratado.pdf?dl=0). Localização na Estante 821(469)-1.09 B595 9.ed Biblioteca Universitária Reitor Macedo Costa
-  * [Divisão de sílabas em fonética e em ortografia](http://www.academia.org.br/artigos/divisao-de-silabas-em-fonetica-e-em-ortografia)
+### Texto
+
+  - [Métrica (poesia)](http://pt.wikipedia.org/wiki/Métrica_(poesia))
+  - [Rima](http://pt.wikipedia.org/wiki/Rima)
+  - [Ritmo (ver poesia)](http://pt.wikipedia.org/wiki/Ritmo)
+  - [Ritmo no poema](http://pt.wikipedia.org/wiki/Ritmo_no_poema)
+  - [Versificação](http://pt.wikipedia.org/wiki/Versificação)
+  - Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/zgolwyg37d2mqgo/bilac-tratado.pdf?dl=0). Localização na Estante 821(469)-1.09 B595 9.ed Biblioteca Universitária Reitor Macedo Costa
+  - [Divisão de sílabas em fonética e em ortografia](http://www.academia.org.br/artigos/divisao-de-silabas-em-fonetica-e-em-ortografia)
+
+### Música
+  
+  - [Composições do Século 21](/pedro/composicoes-do-seculo-21/)
 
 ### Lista parcial de obras
 
-  * Villa-Lobos, Choros no. 10
-  * Milton Gomes, Primevos e Postrídios
-  * Mahler, Sinfonia no. 2
-  * Schoenberg, Gurrelieder
-  * Fernando Cerqueira, Heterofonia do Tempo
-  * Bach, Missa em Si menor
-  * Haydn, A criação
-  * Ligeti, Requiem
+  - Villa-Lobos, Choros no. 10
+  - Milton Gomes, Primevos e Postrídios
+  - Mahler, Sinfonia no. 2
+  - Schoenberg, Gurrelieder
+  - Fernando Cerqueira, Heterofonia do Tempo
+  - Bach, Missa em Si menor
+  - Haydn, A criação
+  - Ligeti, Requiem
 
 ## Cronograma
 
