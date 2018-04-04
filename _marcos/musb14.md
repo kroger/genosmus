@@ -266,6 +266,9 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Links
 
-Os links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
+- Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
+- [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
 
-<a href="http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf" target="_blank" rel="noopener noreferrer">Conteúdo programático aprovado pelo Departamento de Música</a>
+
+Os demais links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
+
