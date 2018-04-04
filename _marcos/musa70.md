@@ -8,6 +8,8 @@ level: graduacao
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto estrito, da harmonia, e da construção de frases musicais básicas. Apreciação de obras musicais referentes aos elementos estudados.
 
+<!--FIXME: adicionar objetivos-->
+
 ## Conteúdo programático
 
   1. Forma: 
@@ -45,8 +47,6 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 ## Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
-
-
 
 ## Exercícios de apoio
 

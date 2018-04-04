@@ -9,6 +9,15 @@ level: graduacao
 
 Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
 
+## Objetivos
+
+Ao final do curso espera-se que o estudante seja capaz de:
+
+  * Explorar em suas composições sonoridades próprias do Século XX no campo das alturas
+  * Compor em formato de miniatura
+  * Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
+  * Compor para banda sinfônica
+
 ## Conteúdo programático
 
   1. Politonalidade
@@ -21,14 +30,9 @@ Estudo e prática de Técnicas Composicionais -- manipulação e exploração de
   8. Apresentação e discussão do trabalho criativo
   9. Composição para formações camerísticas até orquestras de pequenas
 
-## Objetivos
+## Metodologia
 
-Ao final do curso espera-se que o estudante seja capaz de:
-
-  * Explorar em suas composições sonoridades próprias do Século XX no campo das alturas
-  * Compor em formato de miniatura
-  * Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
-  * Compor para banda sinfônica
+A metodologia para atingir os objetivos propostos é baseada em aula explsitiva e exercícios de prática composicional e análise a serem realizados em classe e em casa.
 
 ## Avaliação
 

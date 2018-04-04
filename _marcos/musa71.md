@@ -12,14 +12,6 @@ combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
 estudados.
 
-## Conteúdo programático
-
-  1. Mistura de modos
-  2. Acordes alterados, de 9ª, 11ª e 13ª.
-  3. Forma, contorno e gênero, desenvolvimento e combinação de frases
-  4. Pequenas formas: divisão em partes
-  5. Formas binárias, ternárias, únicas
-
 ## Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
@@ -30,6 +22,14 @@ Ao final do curso espera-se que o estudante seja capaz de:
   2. Realizar baixos cifrados e harmonizar melodias modulatórias com
      recursos cromáticos a quatro vozes.
   3. Compor _lieder_ binário e ternário.
+
+## Conteúdo programático
+
+  1. Mistura de modos
+  2. Acordes alterados, de 9ª, 11ª e 13ª.
+  3. Forma, contorno e gênero, desenvolvimento e combinação de frases
+  4. Pequenas formas: divisão em partes
+  5. Formas binárias, ternárias, únicas
 
 ## Pré-requisitos
 

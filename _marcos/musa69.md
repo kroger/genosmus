@@ -11,6 +11,13 @@ Revisão da teoria musical básica; estudo dos princípios do contraponto
 estrito, da harmonia, e da construção de frases musicais básicas.
 Apreciação de obras musicais referentes aos elementos estudados.
 
+## Objetivos
+
+Ao final do curso espera-se que o estudante seja capaz de compreender
+as relações harmônicas de obras diatônicas simples, realizar baixos
+cifrados diatônicos a quatro vozes, bem como harmonizar melodias
+diatônicas simples a quatro vozes, com domínio de condução de vozes.
+
 ## Conteúdo programático
 
 1. Revisão da teoria básica: intervalos musicais, escalas e suas
@@ -25,14 +32,6 @@ Apreciação de obras musicais referentes aos elementos estudados.
 
 1. Princípios da análise musical, com peças curtas e harmonias
    simples.
-
-
-## Objetivos
-
-Ao final do curso espera-se que o estudante seja capaz de compreender
-as relações harmônicas de obras diatônicas simples, realizar baixos
-cifrados diatônicos a quatro vozes, bem como harmonizar melodias
-diatônicas simples a quatro vozes, com domínio de condução de vozes.
 
 ## Metodologia
 

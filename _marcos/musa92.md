@@ -11,6 +11,9 @@ Estudos práticos visando contextualizar as principais ferramentas de
 tecnologia digital aplicadas à música. Desenvolvimento de habilidades
 na utilização dessas ferramentas.
 
+## Objetivos
+Fornecer conhecimento básico de softwares necessários ao estudante de música.
+
 ## Conteúdo programático
 
   1. Software: livre, proprietário, gratuito, pago. Alternativas

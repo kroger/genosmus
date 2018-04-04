@@ -9,6 +9,8 @@ level: graduacao
 
 <span style="font-weight: 400;">Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.</span>
 
+<!--FIXME: adicionar objetivos-->
+
 ## Conteúdo programático
 
   1. Serialismo

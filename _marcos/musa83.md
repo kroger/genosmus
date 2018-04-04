@@ -10,6 +10,13 @@ new: true
 
 Estudo do princípio construtivo dos instrumentos em geral, origem e informações históricas, bem como obtenção do conhecimento básico de naturezas técnica e musical dos instrumentos da Orquestra Sinfônica, de modo individual, e como componentes de uma família.
 
+## Objetivos
+
+Ao final do curso espera-se que o estudante seja capaz de:
+
+  1. Escrever e/ou transcrever música para os principais instrumentos da orquestra sinfônica e coro.
+  2. Aproveitar-se adequadamente das características sonoras dos instrumentos da orquestra sinfônica e coro.
+
 ## Conteúdo programático
 
   1. Histórico, origem e transformação dos instrumentos em geral
@@ -22,13 +29,6 @@ Estudo do princípio construtivo dos instrumentos em geral, origem e informaçõ
   8. Recursos e efeitos dos distintos instrumentos de orquestra
   9. Formações de câmera e sinfônica, de pequenas, médias e grandes dimensões
  10. Novas fontes sonoras no ambiente sinfônico dos séculos XIX e XX
-
-## Objetivos
-
-Ao final do curso espera-se que o estudante seja capaz de:
-
-  1. Escrever e/ou transcrever música para os principais instrumentos da orquestra sinfônica e coro.
-  2. Aproveitar-se adequadamente das características sonoras dos instrumentos da orquestra sinfônica e coro.
 
 ## Metodologia
 

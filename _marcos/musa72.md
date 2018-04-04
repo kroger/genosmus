@@ -6,7 +6,9 @@ level: graduacao
 
 ## Ementa
 
-<span style="font-weight: 400;">Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados. (antiga)</span>
+Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados. (antiga)
+
+<!--FIXME: adicionar objetivos-->
 
 ## Conteúdo programático
 
