@@ -38,10 +38,10 @@ Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de hab
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
 
-- Abr 06 -- O texto: escanção, metrificação, versificação, e prosódia
-- Abr 13 -- **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
-- Abr 20 -- **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular): 2 obras para cada tipo (4 no total) **(2.5 pts)**
-- Abr 27 -- Análise de obras da literatura
+- Abr 06 -- _sem aula_
+- Abr 13 -- O texto: escanção, metrificação, versificação, e prosódia
+- Abr 20 -- **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
+- Abr 27 -- **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular): 2 obras para cada tipo (4 no total) **(2.5 pts)**
 - Mai 04 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 11 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 18 -- Brainstorm e sugestões para obra final e projeto escrito (monografia)
