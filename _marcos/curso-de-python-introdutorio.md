@@ -1,6 +1,7 @@
 ---
 title: 'Curso de Python introdutório -- material de aula'
 layout: disciplina
+level: extensao
 ---
 
 ### Aula 01 -- Funções simples e inteiros

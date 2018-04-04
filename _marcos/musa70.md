@@ -1,6 +1,7 @@
 ---
-title: 'MUSA70 -- Literatura e Estruturação Musical II (T3)'
+title: MUSA70 -- Literatura e Estruturação Musical II
 layout: disciplina
+level: graduacao
 ---
 
 ## Ementa
@@ -59,6 +60,11 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
   2. <a href="https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Encadeamento de tétrades</a>
 
 ## Material para análise
+
+Seleção de obras para análise ao longo do semestre.
+
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
+Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
 
 [Em construção]
 

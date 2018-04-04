@@ -1,6 +1,7 @@
 ---
-title: 'MUSA90 -- Técnicas de Análise I (Marcos)'
+title: MUSA90 -- Técnicas de Análise I
 layout: disciplina
+level: graduacao
 ---
 
 ## Ementa

@@ -1,6 +1,7 @@
 ---
 title: 'MUSA72 -- Literatura e Estruturação Musical IV'
 layout: disciplina
+level: graduacao
 ---
 
 ## Ementa
@@ -52,10 +53,15 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 
-
 ## Obras para análise
 
 Seleção de obras para análise ao longo do semestre.
+
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
+Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+
+[Em construção]
+
 
   1. Beethoven Op. 2, n. 1, mov. 1 <a href="http://bit.ly/2ivopk5" target="_blank" rel="noopener">http://bit.ly/2ivopk5</a>
   2. Beethoven Op. 2, n. 2, mov. 1 <a href="http://bit.ly/2k3NkM6" target="_blank" rel="noopener">http://bit.ly/2k3NkM6</a>

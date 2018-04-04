@@ -2,6 +2,7 @@
 title: MUSA71 -- Literatura e Estruturação Musical III
 layout: disciplina
 toc: true
+level: graduacao
 ---
 
 ## Ementa
@@ -137,6 +138,13 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
      e composição de pequena obra</a>
 
 ## Material para Análise
+
+Seleção de obras para análise ao longo do semestre.
+
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
+Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+
+[Em construção]
 
   1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen
      Müssen Sterben. <a

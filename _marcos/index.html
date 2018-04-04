@@ -3,30 +3,56 @@ layout: page
 title: Disciplinas Marcos Sampaio
 ---
 
-<p>Disciplinas ministradas na <a href="http://www.escolademusica.ufba.br/" target="_blank">Escola de Música</a> da Universidade Federal da Bahia</p>
+<p>Disciplinas ministradas na <a href="http://www.escolademusica.ufba.br/" target="_blank">Escola de Música</a> da
+    Universidade Federal da Bahia</p>
+
 <h2>Semestre {{ site.semestre }}</h2>
 
 {% assign pages = site.marcos | sort %}
 
 <ul>
-{% for page in pages %}
+    {% for page in pages %}
     {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
     {% if site.data.docentes.marcos.atual contains disciplina %}
-        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
-{% endfor %}
+    {% endfor %}
 </ul>
 
-<p>As salas e horários das aulas estão disponíveis no <a href ="http://salas.dmusufba.com/search.php?search_str=marcos+sampaio&datatable=1" target="_blank">sistema de salas</a> do Departamento de Música.</p>
+<p>As salas e horários das aulas estão disponíveis no <a
+        href="http://salas.dmusufba.com/search.php?search_str=marcos+sampaio&datatable=1" target="_blank">sistema de
+    salas</a> do Departamento de Música.</p>
 
 <h2>Semestres Anteriores</h2>
 
+{% assign pages = site.marcos | where:"level","graduacao" %}
+<h3>Graduação</h3>
 <ul>
-{% for page in pages %}
-    {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
-    {% assign atual = site.data.docentes.marcos.atual %}
-    {% unless atual contains disciplina or disciplina == 'index.html' %}
-        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% for page in pages %}
+    {% unless page.new %}
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endunless %}
-{% endfor %}
+    {% endfor %}
+</ul>
+
+{% assign pages = site.marcos | where:"level","pos-graduacao" %}
+<h3>Pós-graduação</h3>
+2013 a 2016
+<ul>
+    {% for page in pages %}
+    {% unless page.new %}
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endunless %}
+    {% endfor %}
+</ul>
+
+{% assign pages = site.marcos | where:"level","extensao" %}
+<h3>Extensão</h3>
+Até 2011
+<ul>
+    {% for page in pages %}
+    {% unless page.new %}
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endunless %}
+    {% endfor %}
 </ul>

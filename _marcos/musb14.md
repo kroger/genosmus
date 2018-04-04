@@ -2,6 +2,7 @@
 title: MUSB14 -- Composição V
 layout: disciplina
 toc: true
+level: graduacao
 ---
 
 ## Ementa

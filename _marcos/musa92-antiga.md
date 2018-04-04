@@ -1,6 +1,7 @@
 ---
-title: 'MUSA92 -- Princípios práticos de informática em Música (Antiga)'
+title: MUSA92 -- Princípios práticos de informática em Música (até 2016)
 layout: disciplina
+level: graduacao
 ---
 
 ## Ementa

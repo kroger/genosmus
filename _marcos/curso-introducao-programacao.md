@@ -1,6 +1,7 @@
 ---
 title: Curso introdutório à programação computacional com Python para compositores
 layout: disciplina
+level: extensao
 ---
 
 ### Resumo

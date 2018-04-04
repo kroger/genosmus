@@ -1,6 +1,7 @@
 ---
 title: 'MUSB16 -- Composição VII'
 layout: disciplina
+level: graduacao
 ---
 
 ## Conteúdo programático

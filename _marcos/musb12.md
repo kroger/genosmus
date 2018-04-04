@@ -1,6 +1,7 @@
 ---
 title: 'MUSB12 -- Composição III'
 layout: disciplina
+level: graduacao
 ---
 
 ## Conteúdo programático

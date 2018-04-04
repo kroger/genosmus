@@ -2,6 +2,7 @@
 title: MUSA69 -- Literatura e Estruturação Musical I
 layout: disciplina
 toc: true
+level: graduacao
 ---
 
 ## Ementa
@@ -139,8 +140,12 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 
 ## Material para análise
 
-O material para análise está inteiramente disponível no site do IMSLP.
-Buscar informações a respeito no Google.
+Seleção de obras para análise ao longo do semestre.
+
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
+Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+
+[Em construção]
 
   1. J.S.Bach, Coral #001 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   2. J.S.Bach, Coral #006 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)

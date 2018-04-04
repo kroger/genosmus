@@ -1,6 +1,7 @@
 ---
-title: 'MUSA72 -- Literatura e Estruturação Musical IV (contraponto)'
+title: 'MUSA72 -- Literatura e Estruturação Musical IV (até 2015)'
 layout: disciplina
+level: graduacao
 ---
 
 ## Ementa

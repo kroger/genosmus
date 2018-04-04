@@ -2,6 +2,8 @@
 title: MUSA83 -- Introdução à Instrumentação
 layout: disciplina
 toc: true
+level: graduacao
+new: true
 ---
 
 ## Ementa
@@ -86,7 +88,12 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Material para Análise
 
-Em construção.
+Seleção de obras para análise ao longo do semestre.
+
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
+Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+
+[Em construção]
 
   1. Béla Bartók, Quarteto de cordas n. 5 (?)
   2. Béla Bartók, Mikrokosmos (?)

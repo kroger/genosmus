@@ -1,6 +1,7 @@
 ---
 title: 'MUSB13 -- Composição IV'
 layout: disciplina
+level: graduacao
 ---
 
 ## Conteúdo programático

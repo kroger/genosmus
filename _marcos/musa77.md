@@ -1,6 +1,7 @@
 ---
 title: 'MUSA77 -- História da Música I'
 layout: disciplina
+level: graduacao
 ---
 
 ## Conteúdo programático

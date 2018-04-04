@@ -1,6 +1,7 @@
 ---
 title: 'MUSB17 -- Composição VIII'
 layout: disciplina
+level: graduacao
 ---
 
 ## Conteúdo programático
