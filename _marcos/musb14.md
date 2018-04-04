@@ -210,59 +210,18 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Bibliografia
 
-<p class="wpmref">
-  <span class="wpmauthors">Samuel Adler</span> <span class="wpmyear">(1989)</span> <span class="wpmtitle">The Study of Orchestration</span> <span class="wpmvolume">8</span><span class="wpmissue">(4)</span>, <span class="wpmpublisher">New York, NY: W.W. Norton and Company</span><br clear='all' />
-</p>
 
-<p class="wpmref">
-  <span class="wpmauthors">Elliott Antokoletz</span> <span class="wpmyear">(1984)</span> <span class="wpmtitle">The music of Béla Bartók : a study of tonality and progression in twentieth-century music</span>, <span class="wpmpublisher">Berkeley: University of California Press</span><br clear='all' />
-</p>
+- Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
+- Antokoletz, Elliott. 2016. “In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language.” Musica Theorica 1: 1–25.
+- Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
+- Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
+- Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
+- Espinheira, Alexandre Mascarenhas. 2011. “A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas.” Universidade Federal da Bahia.
+- Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
+- Sampaio, Marcos da Silva, e Alex Pochat. 2016. “Aplicação de Contornos Na Composição Musical.” In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+- Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
+- Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
 
-<p class="wpmref"><span class="wpmauthors">Elliott Antokoletz</span> <span class="wpmyear">(2016)</span> <span class="wpmtitle">In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language</span>, <span class="wpmoutlet">Musica Theorica</span> <span class="wpmvolume">1</span>, <span class="wpmpages">p. 1-25</span>, <span class="wpmurl"><a target="_blank" href="http://tema.mus.br/revistas/index.php/musica-theorica/article/view/1/1"><span class="wpmurlurl">url</span></a></span><br clear='all'/></p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Roy Howat</span> <span class="wpmyear">(1983)</span> <span class="wpmtitle">Debussy in proportion : a musical analysis</span>, <span class="wpmpublisher">Cambridge; New York: Cambridge University Press</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Kent Wheeler Kennan, Donald Grantham</span> <span class="wpmyear">(1983)</span> <span class="wpmtitle">The technique of orchestration</span>, <span class="wpmpublisher">Englewood Cliffs, N.J: Prentice-Hall</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Jonathan Kramer</span> <span class="wpmyear">(1973)</span> <span class="wpmtitle">The Fibonacci Series in Twentieth-Century Music</span>, <span class="wpmoutlet">Journal of Music Theory</span> <span class="wpmvolume">17</span><span class="wpmissue">(1)</span>, <span class="wpmpages">p. 110-148</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Erno Lendvai</span> <span class="wpmyear">(1971)</span> <span class="wpmtitle">Bela Bartok: An analysis of his music</span>, <span class="wpmpublisher">London: Kahn & Averill</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Antônio Fernando Burgos Lima</span> <span class="wpmyear">(1996)</span> <span class="wpmtitle">Parthenon para orquestra</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Edward A. Lowman</span> <span class="wpmyear">(1971)</span> <span class="wpmtitle">Some Striking Proportions in the Music of Bela Bartók</span>, <span class="wpmoutlet">The Fibonacci Quarterly</span> <span class="wpmvolume">9</span><span class="wpmissue">(5)</span>, <span class="wpmpages">p. 527-537</span>, <span class="wpmurl"><a target="_blank" href="http://www.fq.math.ca/9-5.html"><span class="wpmurlurl">url</span></a></span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Diana Santiago</span> <span class="wpmyear">(2002)</span> <span class="wpmtitle">Proporções nos Ponteios para piano de Camargo Guarnieri: um estudo sobre representações mentais em Performance Musical</span>, <span class="wpmoutlet">Em Pauta</span> <span class="wpmvolume">13</span><span class="wpmissue">(20)</span>, <span class="wpmpages">p. 144-185</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Arnold Schoenberg</span> <span class="wpmyear">(1967)</span> <span class="wpmtitle">Fundamentals of Music composition</span>, <span class="wpmpublisher">Faber and Faber</span>, <span class="wpmurl"><a target="_blank" href="http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:Fundamentals+of+music+composition#0"><span class="wpmurlurl">url</span></a></span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Daniel Moreira de Sousa, Carlos de Lemos Almada</span> <span class="wpmyear">(2012)</span> <span class="wpmtitle">Sistema Gauss : Os números primos e suas aplicações musicais</span>, <span class="wpmoutlet">XXII Congresso da Associação Nacional de Pesquisa e Pós-Graduação em Música</span>, <span class="wpmpages">p. 2083-2088</span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Ernst Toch</span> <span class="wpmyear">(1977)</span> <span class="wpmtitle">The shaping forces in music: an inquiry into the nature of harmony, melody, counterpoint, form</span>, <span class="wpmpublisher">Courier Dover Publications</span>, <span class="wpmurl"><a target="_blank" href="http://books.google.com/books?id=ROqWfo3RK7IC&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false"><span class="wpmurlurl">url</span></a></span><br clear='all' />
-</p>
-
-<p class="wpmref">
-  <span class="wpmauthors">Mary Wennerstrom</span> <span class="wpmyear">(1975)</span> <span class="wpmtitle">Form in Twentieth-Century Music</span>, <span class="wpmoutlet">Aspects of 20th Century Music</span>, <span class="wpmeditors">Gary E. Wittlich (ed.)</span>, <span class="wpmpages">p. 1-65</span>, <span class="wpmpublisher">Englewood Cliffs, NJ: Prentice Hall</span><br clear='all' />
-</p>
 
 ## Links
 
