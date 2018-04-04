@@ -32,7 +32,12 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 ## Metodologia
 
-A metodologia para atingir os objetivos propostos é baseada em aula explsitiva e exercícios de prática composicional e análise a serem realizados em classe e em casa.
+A metodologia para atingir os objetivos propostos é baseada em aula expositiva e exercícios de prática composicional e análise realizados em classe e em casa. 
+
+As aulas são estruturadas em duas partes:
+
+1. Apresentação dos conteúdos e realização de análise interativa de obras
+2. Orientação à realização dos trabalhos do semestre
 
 ## Avaliação
 

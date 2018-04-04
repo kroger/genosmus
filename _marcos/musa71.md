@@ -117,6 +117,8 @@ Seleção de obras para análise ao longo do semestre.
 O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
 Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
 
+### Lista completa
+
 [Em construção]
 
 1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben. [http://bit.ly/2Go5uCV](http://bit.ly/2Go5uCV)
@@ -156,9 +158,13 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Schumann, Kinderszenen op. 15, no. 6 “Wichtige Begebenheit”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
 1. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
 
-### Material a ser usado em cada aula/conteúdo
+### Lista organizada por conteúdo
 
-#### Revisão de frases, períodos, tonicalização e modulação
+Partituras a serem usadas nas aulas.
+
+#### 1. Revisão de frases, períodos, tonicalização e modulação
+
+Aulas 1 e 2, dias 03 e 05/04/2018
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
