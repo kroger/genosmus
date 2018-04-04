@@ -1,4 +1,4 @@
-O site do Genos é desenvolvido usando o [Jekyll](https://jekyllrb.com)
+O site do [Genos](https://genosmus.com/) é desenvolvido usando o [Jekyll](https://jekyllrb.com)
 e hospedado no [Netlify](https://app.netlify.com).
 
 ## Organização
@@ -39,19 +39,20 @@ Para ver o site localmente deve-se instalar o Jekyll. Primeiramente instale
 [RVM](https://rvm.io) seguindo as instruções no site. Em seguida instale
 a versão mais nova do Ruby e bundler:
 
+	rvm install ruby 2.4.2
 	rvm get head
 	rvm list known
-	rvm install ruby 2.4.2
 	gem install bundler
 
 
-Finalmemnte, instale o Jekyll e suas dependências com o comando abaixo:
+Finalmente, instale o Jekyll e suas dependências com o comando abaixo:
 
 	gem install jekyll bundler
+	bundle install
 
 Tendo tudo instalado, rode `make` no diretório `genusmus` clonado
 para inicar o servidor local do Jekyll. O site deve
-estar disponível em http://127.0.0.1:4000.
+estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000).
 
 
 ## Versão do Ruby
