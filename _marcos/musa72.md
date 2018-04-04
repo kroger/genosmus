@@ -63,26 +63,26 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 [Em construção]
 
 
-  1. Beethoven Op. 2, n. 1, mov. 1 <a href="http://bit.ly/2ivopk5" target="_blank" rel="noopener">http://bit.ly/2ivopk5</a>
-  2. Beethoven Op. 2, n. 2, mov. 1 <a href="http://bit.ly/2k3NkM6" target="_blank" rel="noopener">http://bit.ly/2k3NkM6</a>
-  3. Beethoven Op. 2, n. 3, mov. 1 <a href="http://bit.ly/2k1wPQJ" target="_blank" rel="noopener">http://bit.ly/2k1wPQJ</a>
-  4. Beethoven Op. 14, n. 1, mov. 1 <a href="http://bit.ly/2iu8FxK" target="_blank" rel="noopener">http://bit.ly/2iu8FxK</a>
-  5. Beethoven Op. 14, n. 2, mov. 1 <a href="http://bit.ly/2k3O9EG" target="_blank" rel="noopener">http://bit.ly/2k3O9EG</a>
-  6. Beethoven Quarteto Op. 18, n. 1, mov. 1 <a href="http://bit.ly/2gW4mea" target="_blank" rel="noopener">http://bit.ly/2gW4mea</a>
-  7. Beethoven Op. 27, n. 2, mov. 3 <a href="http://bit.ly/2uQiDh5" target="_blank" rel="noopener">http://bit.ly/2uQiDh5</a>
-  8. Beethoven Op. 28, n. 15, mov. 1 <a href="http://bit.ly/2k4fAOU" target="_blank" rel="noopener">http://bit.ly/2k4fAOU</a>
-  9. Beethoven Sonata Violino Op. 96, n. 10, mov. 1 <a href="http://bit.ly/2k4B9if" target="_blank" rel="noopener">http://bit.ly/2k4B9if</a>
- 10. Beethoven Op. 111, n. 32, mov. 1 <a href="http://bit.ly/2k3boiu" target="_blank" rel="noopener">http://bit.ly/2k3boiu</a>
- 11. Brahms Op. 68 (versão reduzida), mov. 1 <a href="http://bit.ly/2jShA9W" target="_blank" rel="noopener">http://bit.ly/2jShA9W</a>
- 12. Clementi Op. 1 N. 5, mov. 1 <a href="http://bit.ly/2yWl8AD" target="_blank" rel="noopener">http://bit.ly/2yWl8AD</a>
- 13. Haydn XVI/32 N. 47 Si menor, mov. 1 <a href="http://bit.ly/2itA6Ys" target="_blank" rel="noopener">http://bit.ly/2itA6Ys</a>
- 14. Hindemith, Piano Sonata n. 2, mov. 1 <a href="http://bit.ly/2DKqajR" target="_blank" rel="noopener">http://bit.ly/2DKqajR</a>
- 15. Kuhlau Op. 59 N. 1, mov. 1 <a href="http://bit.ly/2it8Yc8" target="_blank" rel="noopener">http://bit.ly/2it8Yc8</a>
- 16. Mozart K 280, mov. 1 <a href="http://bit.ly/2yWqufe" target="_blank" rel="noopener">http://bit.ly/2yWqufe</a>
- 17. Mozart K 310, mov. 1 <a href="http://bit.ly/2k4BDoz" target="_blank" rel="noopener">http://bit.ly/2k4BDoz</a>
- 18. Mozart K 333, mov. 1 <a href="http://bit.ly/2yYLLFk" target="_blank" rel="noopener">http://bit.ly/2yYLLFk</a>
- 19. Mozart K 465, mov. 1 <a href="http://bit.ly/2yVciTX" target="_blank" rel="noopener">http://bit.ly/2yVciTX</a>
- 20. Mozart K 545, mov. 1 <a href="http://bit.ly/2itGEpW" target="_blank" rel="noopener">http://bit.ly/2itGEpW</a>
+  1. Beethoven Op. 2, n. 1, mov. 1 [http://bit.ly/2ivopk5](http://bit.ly/2ivopk5)
+  2. Beethoven Op. 2, n. 2, mov. 1 [http://bit.ly/2k3NkM6](http://bit.ly/2k3NkM6)
+  3. Beethoven Op. 2, n. 3, mov. 1 [http://bit.ly/2k1wPQJ](http://bit.ly/2k1wPQJ)
+  4. Beethoven Op. 14, n. 1, mov. 1 [http://bit.ly/2iu8FxK](http://bit.ly/2iu8FxK)
+  5. Beethoven Op. 14, n. 2, mov. 1 [http://bit.ly/2k3O9EG](http://bit.ly/2k3O9EG)
+  6. Beethoven Quarteto Op. 18, n. 1, mov. 1 [http://bit.ly/2gW4mea](http://bit.ly/2gW4mea)
+  7. Beethoven Op. 27, n. 2, mov. 3 [http://bit.ly/2uQiDh5](http://bit.ly/2uQiDh5)
+  8. Beethoven Op. 28, n. 15, mov. 1 [http://bit.ly/2k4fAOU](http://bit.ly/2k4fAOU)
+  9. Beethoven Sonata Violino Op. 96, n. 10, mov. 1 [http://bit.ly/2k4B9if](http://bit.ly/2k4B9if)
+ 10. Beethoven Op. 111, n. 32, mov. 1 [http://bit.ly/2k3boiu](http://bit.ly/2k3boiu)
+ 11. Brahms Op. 68 (versão reduzida), mov. 1 [http://bit.ly/2jShA9W](http://bit.ly/2jShA9W)
+ 12. Clementi Op. 1 N. 5, mov. 1 [http://bit.ly/2yWl8AD](http://bit.ly/2yWl8AD)
+ 13. Haydn XVI/32 N. 47 Si menor, mov. 1 [http://bit.ly/2itA6Ys](http://bit.ly/2itA6Ys)
+ 14. Hindemith, Piano Sonata n. 2, mov. 1 [http://bit.ly/2DKqajR](http://bit.ly/2DKqajR)
+ 15. Kuhlau Op. 59 N. 1, mov. 1 [http://bit.ly/2it8Yc8](http://bit.ly/2it8Yc8)
+ 16. Mozart K 280, mov. 1 [http://bit.ly/2yWqufe](http://bit.ly/2yWqufe)
+ 17. Mozart K 310, mov. 1 [http://bit.ly/2k4BDoz](http://bit.ly/2k4BDoz)
+ 18. Mozart K 333, mov. 1 [http://bit.ly/2yYLLFk](http://bit.ly/2yYLLFk)
+ 19. Mozart K 465, mov. 1 [http://bit.ly/2yVciTX](http://bit.ly/2yVciTX)
+ 20. Mozart K 545, mov. 1 [http://bit.ly/2itGEpW](http://bit.ly/2itGEpW)
 
 ## Notas e frequência
 

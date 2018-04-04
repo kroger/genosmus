@@ -175,18 +175,18 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 
 Talvez:
 
-  1. [http://imslp.org/wiki/String_Quartet_No.14,_D.810_(Schubert,_Franz)](http://imslp.org/wiki/String_Quartet_No.14,_D.810_(Schubert,_Franz))
-  2. [http://imslp.org/wiki/L&#8217;histoire_du_soldat_(Stravinsky,_Igor)](http://imslp.org/wiki/L'histoire_du_soldat_(Stravinsky,_Igor))
-  3. [http://imslp.org/wiki/String_Quartet_No.5,_Sz.102_(Bartók,_Béla)](http://imslp.org/wiki/String_Quartet_No.5,_Sz.102_(Bart%C3%B3k,_B%C3%A9la))
-  4. [http://imslp.org/wiki/Passacaglia,_Op.1_(Webern,_Anton)](http://imslp.org/wiki/Passacaglia,_Op.1_(Webern,_Anton))
+  1. [Schubert, String_Quartet_No.14,_D.810](http://imslp.org/wiki/String_Quartet_No.14,_D.810_(Schubert,_Franz))
+  2. [Stravinsky, Histoire_du_soldat](http://imslp.org/wiki/L'histoire_du_soldat_(Stravinsky,_Igor))
+  3. [Bartók, String_Quartet_No.5](http://imslp.org/wiki/String_Quartet_No.5,_Sz.102_(Bart%C3%B3k,_B%C3%A9la))
+  4. [Webern, Passacaglia,_Op.1](http://imslp.org/wiki/Passacaglia,_Op.1_(Webern,_Anton))
   5. Threnody, Penderecki
-  6. [http://imslp.org/wiki/String%20Quartet%20in%20G%20minor,%20Op.10%20(Debussy, Claude)](http://imslp.org/wiki/String%20Quartet%20in%20G%20minor,%20Op.10%20(Debussy,%20Claude))
-  7. [http://imslp.org/wiki/String_Quartet_in_F_major_(Ravel,_Maurice)](http://imslp.org/wiki/String_Quartet_in_F_major_(Ravel,_Maurice))
-  8. [http://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes)](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes))
-  9. [http://imslp.org/wiki/Verkl%C3%A4rte_Nacht,_Op.4_(Schoenberg,_Arnold)](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
- 10. [http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles)](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
- 11. <http://imslp.org/wiki/5%20Movements,%20Op.5%20(Webern,%20Anton)>
- 12. String Quartet n. 1, Ligeti
+  6. [Debussy, String Quartet, Op.10](http://imslp.org/wiki/String%20Quartet%20in%20G%20minor,%20Op.10%20(Debussy,%20Claude))
+  7. [Ravel, String_Quartet_in_F_major](http://imslp.org/wiki/String_Quartet_in_F_major_(Ravel,_Maurice))
+  8. [Brahms, String_Quartet_No.1,_Op.51_No.1](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes))
+  9. [Schoenberg, Verklärte_Nacht,_Op.4](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
+ 10. [Koechlin, String_Quartet_No.1,_Op.51](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
+ 11. Webern, Op. 5
+ 12. Ligeti, String Quartet n. 1
 
 ## Notas e frequência
 

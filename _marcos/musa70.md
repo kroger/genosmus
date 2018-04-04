@@ -56,8 +56,8 @@ realização em casa. Esses exercícios serão parcialmente corrigidos em
   
 aula. A sua realização é desejada, mas opcional. Não valem nota.
 
-  1. <a href="https://goo.gl/Rv69f1" target="_blank" rel="noopener noreferrer">Notas melódicas, cadências e frases</a>
-  2. <a href="https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Encadeamento de tétrades</a>
+  1. [Notas melódicas, cadências e frases](https://goo.gl/Rv69f1)
+  2. [Encadeamento de tétrades](https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing)
 
 ## Material para análise
 
@@ -68,28 +68,28 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 [Em construção]
 
-  1. Clementi Op. 1 N. 5, mov. 1 <a href="http://bit.ly/2yWl8AD" target="_blank" rel="noopener">http://bit.ly/2yWl8AD</a> (duas primeiras páginas)
-  2. Clementi, op. 36., n. 1, mov. 1. <http://bit.ly/2geyMUJ>
-  3. Clementi, op. 36., n. 1, mov. 2. <http://bit.ly/2geyMUJ>
-  4. Clementi, op. 36., n. 4, mov. 2. <http://bit.ly/2geyMUJ>
-  5. J.S. Bach, O Cravo Bem Temperado, vol. 1, n. 1 -- Prelúdio. <a href="http://bit.ly/2znjjwK" target="_blank" rel="noopener">http://bit.ly/2znjjwK</a>
-  6. Beethoven Op. 10, n. 1, mov. 1 <a href="http://bit.ly/2kl1hFG" target="_blank" rel="noopener">http://bit.ly/2kl1hFG</a> (apenas primeira página)
-  7. Beethoven Op. 10, n. 1, mov. 3 <a href="http://bit.ly/2kl1hFG" target="_blank" rel="noopener">http://bit.ly/2kl1hFG</a> (apenas primeira página do movimento)
-  8. Beethoven Op. 18, n. 2, mov. 3, Trio <a href="http://bit.ly/2Dbwwf8" target="_blank" rel="noopener">http://bit.ly/2Dbwwf8</a> (apenas página 35/11)
-  9. Beethoven Op. 28, mov. 1 <a href="http://bit.ly/2k4fAOU" target="_blank" rel="noopener">http://bit.ly/2k4fAOU</a> (duas primeiras páginas)
- 10. Beethoven, Op. 119, Bagatelle n. 9. <a href="http://bit.ly/2x54iuF" target="_blank" rel="noopener">http://bit.ly/2x54iuF</a>
+  1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas) [http://bit.ly/2yWl8AD](http://bit.ly/2yWl8AD)
+  2. Clementi, op. 36., n. 1, mov. 1. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
+  3. Clementi, op. 36., n. 1, mov. 1. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
+  4. Clementi, op. 36., n. 1, mov. 1. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
+  5. J.S. Bach, O Cravo Bem Temperado, vol. 1, n. 1 - Prelúdio. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
+  6. Beethoven Op. 10, n. 1, mov. 1 (apenas primeira página) [http://bit.ly/2kl1hFG](http://bit.ly/2kl1hFG)
+  7. Beethoven Op. 10, n. 1, mov. 3 (apenas primeira página do movimento) [http://bit.ly/2kl1hFG](http://bit.ly/2kl1hFG)
+  8. Beethoven Op. 18, n. 2, mov. 3, Trio  (apenas página 35/11) [http://bit.ly/2Dbwwf8](http://bit.ly/2Dbwwf8)
+  9. Beethoven Op. 28, mov. 1  (duas primeiras páginas) [http://bit.ly/2k4fAOU](http://bit.ly/2k4fAOU)
+ 10. Beethoven, Op. 119, Bagatelle n. 9. [http://bit.ly/2x54iuF](http://bit.ly/2x54iuF)
  11. Haydn, Piano Sonata 37, mov. 3 Trio.
- 12. Haydn XVI/32 N. 47 Si menor, mov. 1 <a href="http://bit.ly/2itA6Ys" target="_blank" rel="noopener">http://bit.ly/2itA6Ys</a> (apenas primeira página)
- 13. Kuhlau, Op. 59 N. 1, mov. 1 <a href="http://bit.ly/2it8Yc8" target="_blank" rel="noopener">http://bit.ly/2it8Yc8</a> (apenas primeira página)
- 14. Mozart K173, mov. 1 <a href="http://bit.ly/2DkN84b" target="_blank" rel="noopener">http://bit.ly/2DkN84b</a> (p 99 (5). Final do movimento)
- 15. Mozart K280, mov. 1 <a href="http://bit.ly/2yWqufe" target="_blank" rel="noopener">http://bit.ly/2yWqufe</a> (apenas primeira página)
- 16. Mozart K284, mov. 3, tema <a href="http://bit.ly/2tDP3L8" target="_blank" rel="noopener noreferrer">http://bit.ly/2tDP3L8</a>
- 17. Mozart K310, mov. 1 <a href="http://bit.ly/2k4BDoz" target="_blank" rel="noopener">http://bit.ly/2k4BDoz</a> (apenas primeira pagina)
- 18. Mozart K330, mov. 2 <a href="http://goo.gl/FzonKS" target="_blank" rel="noopener noreferrer">http://goo.gl/FzonKS</a> (p 111 (7))
- 19. Mozart K545, mov. 1 <a href="http://bit.ly/2itGEpW" target="_blank" rel="noopener">http://bit.ly/2itGEpW</a> (apenas a primeira página)
- 20. Mozart K570, mov. 2 <a href="http://bit.ly/2uC2Xug" target="_blank" rel="noopener noreferrer">http://bit.ly/2uC2Xug</a> (p 6 do pdf, Adagio)
- 21. Paganini Capriccios Op 1, n. 4. <a href="http://bit.ly/2DgGr2S" target="_blank" rel="noopener">http://bit.ly/2DgGr2S</a> (p. 7)
- 22. Schubert D574, mov. 3 <a href="http://bit.ly/2Dl0ihC" target="_blank" rel="noopener">http://bit.ly/2Dl0ihC</a> (pp. 13 (111) e 14 (112))
+ 12. Haydn XVI/32 N. 47 Si menor, mov. 1 (apenas primeira página) [http://bit.ly/2itA6Ys](http://bit.ly/2itA6Ys)
+ 13. Kuhlau, Op. 59 N. 1, mov. 1 (apenas primeira página) [http://bit.ly/2it8Yc8](http://bit.ly/2it8Yc8)
+ 14. Mozart K173, mov. 1 (p 99 (5). Final do movimento) [http://bit.ly/2DkN84b](http://bit.ly/2DkN84b)
+ 15. Mozart K280, mov. 1 (apenas primeira página) [http://bit.ly/2yWqufe](http://bit.ly/2yWqufe)
+ 16. Mozart K284, mov. 3, tema [http://bit.ly/2tDP3L8](http://bit.ly/2tDP3L8)
+ 17. Mozart K310, mov. 1 (apenas primeira pagina) [http://bit.ly/2k4BDoz](http://bit.ly/2k4BDoz)
+ 18. Mozart K330, mov. 2 (p 111 (7)) [http://goo.gl/FzonKS](http://goo.gl/FzonKS)
+ 19. Mozart K545, mov. 1 (apenas a primeira página) [http://bit.ly/2itGEpW](http://bit.ly/2itGEpW)
+ 20. Mozart K570, mov. 2 (p 6 do pdf, Adagio) [http://bit.ly/2uC2Xug](http://bit.ly/2uC2Xug)
+ 21. Paganini Capriccios Op 1, n. 4. (p. 7) [http://bit.ly/2DgGr2S](http://bit.ly/2DgGr2S)
+ 22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112)) [http://bit.ly/2Dl0ihC](http://bit.ly/2Dl0ihC)
 
 ## Notas e frequência
 

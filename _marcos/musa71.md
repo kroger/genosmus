@@ -96,46 +96,19 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Exercícios de apoio
 
-  1. <a
-     href="https://docs.google.com/document/d/16wQi3VdMPik19cjD8o7I1kbGVuaBLbJKLXEtd9L5LFE/edit?usp=sharing">Revisão
-     de modulação e harmonia: análise e baixo cifrado</a>
-  2. <a
-     href="https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing">Acordes
-     de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo
-     cifrado</a>
-  3. <a
-     href="https://docs.google.com/document/d/1Q8k8cZNq1p3Rw7KLTlHyTnxa-JqTtAdoC4iLn4WJEAI/edit?usp=sharing">Harmonia
-     cromática: análise e baixo cifrado</a>
-  4. <a
-     href="https://docs.google.com/document/d/1-qZ5mTsZFjE3kuDpbPz8uOWmJY-BwyWF-paf4PgaMhQ/edit?usp=sharing">Conceitos,
-     análise e composição</a>
-  5. <a
-     href="https://docs.google.com/document/d/1zfaPrFk0wCPUR8DxRZDs_4ckS2_Qon9j8FNiw4RKkUo/edit?usp=sharing">Cadência,
-     análise e composição</a>
-  6. <a
-     href="https://docs.google.com/document/d/1q2eSv8uZJraSAZjYP9kpiRiPW9qcIofgw9hg62x8yV4/edit?usp=sharing">Agrupamento
-     de frases, análise e composição</a>
-  7. <a
-     href="https://docs.google.com/document/d/1AVi1EXCgaeH1xJLmkj1tW4tLtWxWkeE9FUcFNSem6I0/edit?usp=sharing">Combinação
-     de frases, análise e composição</a>
-  8. <a
-     href="https://docs.google.com/document/d/1TQf4BJ1Sr7lwqyRD3mbLDvTnMK_-onB9JdrljLAX6ws/edit?usp=sharing">Combinação
-     e desenvolvimento de frases, análise e composição</a>
-  9. <a
-     href="https://docs.google.com/document/d/1yiPWGOkqqae30gBDgVma729B9j-P3IuUi0dd2ZO-Vrw/edit?usp=sharing">Pequenas
-     formas, análise e composição</a>
- 10. <a
-     href="https://docs.google.com/document/d/1OZuF-dwjky0iKFLqNXPIhZzHoGSdO0tXCkUGqXbMQnE/edit?usp=sharing">Formas
-     binárias, análise e composição</a>
- 11. <a
-     href="https://docs.google.com/document/d/1i0jJNV7gvDj3RwT7OeOsv69QUcxs0CQE_ySMCKK_eZk/edit?usp=sharing">Análise
-     de forma de pequena obra 1</a>
- 12. <a
-     href="https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing">Análise
-     de forma de pequena obra 2</a>
- 13. <a
-     href="https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing">Análise
-     e composição de pequena obra</a>
+1. [Revisão de modulação e harmonia: análise e baixo cifrado ](https://docs.google.com/document/d/16wQi3VdMPik19cjD8o7I1kbGVuaBLbJKLXEtd9L5LFE/edit?usp=sharing)
+1. [Acordes de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo cifrado](https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing)
+1. [Harmonia cromática: análise e baixo cifrado](https://docs.google.com/document/d/1Q8k8cZNq1p3Rw7KLTlHyTnxa-JqTtAdoC4iLn4WJEAI/edit?usp=sharing)
+1. [Conceitos, análise e composição](https://docs.google.com/document/d/1-qZ5mTsZFjE3kuDpbPz8uOWmJY-BwyWF-paf4PgaMhQ/edit?usp=sharing)
+1. [Cadência, análise e composição](https://docs.google.com/document/d/1zfaPrFk0wCPUR8DxRZDs_4ckS2_Qon9j8FNiw4RKkUo/edit?usp=sharing)
+1. [Agrupamento de frases, análise e composição](https://docs.google.com/document/d/1q2eSv8uZJraSAZjYP9kpiRiPW9qcIofgw9hg62x8yV4/edit?usp=sharing)
+1. [Combinação de frases, análise e composição](https://docs.google.com/document/d/1AVi1EXCgaeH1xJLmkj1tW4tLtWxWkeE9FUcFNSem6I0/edit?usp=sharing)
+1. [Combinação e desenvolvimento de frases, análise e composição](https://docs.google.com/document/d/1TQf4BJ1Sr7lwqyRD3mbLDvTnMK_-onB9JdrljLAX6ws/edit?usp=sharing)
+1. [Pequenas formas, análise e composição](https://docs.google.com/document/d/1yiPWGOkqqae30gBDgVma729B9j-P3IuUi0dd2ZO-Vrw/edit?usp=sharing)
+1. [Formas binárias, análise e composição](https://docs.google.com/document/d/1OZuF-dwjky0iKFLqNXPIhZzHoGSdO0tXCkUGqXbMQnE/edit?usp=sharing)
+1. [Análise de forma de pequena obra 1](https://docs.google.com/document/d/1i0jJNV7gvDj3RwT7OeOsv69QUcxs0CQE_ySMCKK_eZk/edit?usp=sharing)
+1. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
+1. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing)
 
 ## Material para Análise
 
@@ -146,82 +119,42 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 [Em construção]
 
-  1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen
-     Müssen Sterben. <a
-     href="https://goo.gl/QiTfcm">https://goo.gl/QiTfcm</a> (ed.
-     Kirnberger)
-  2. Beethoven, op. 7, mov. 2 (Largo, con gran espessione) <a
-     href="http://bit.ly/2tDYMks">http://bit.ly/2tDYMks</a>
-  3. Beethoven, op. 13, mov. 2 (apenas primeira página) <a
-     href="http://bit.ly/2tCiBct">http://bit.ly/2tCiBct</a>
-  4. Beethoven, op. 27 n. 2, mov. 2 (Allegretto) <a
-     href="http://bit.ly/2uQiDh5">http://bit.ly/2uQiDh5</a>
-  5. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
-  6. Beethoven op. 26, mov. ii Trio <a
-     href="http://goo.gl/gzDdYQ">http://goo.gl/gzDdYQ</a> (p. 197 (9))
-  7. Beethoven op. 26, mov. iii <a
-     href="http://goo.gl/gzDdYQ">http://goo.gl/gzDdYQ</a> (p 10 (198))
-  8. Beethoven op. 57, mov. i (apenas primeira página) <a
-     href="http://bit.ly/2t9ZVjF">http://bit.ly/2t9ZVjF</a>
-  9. Beethoven op. 67, mov. 3 (apenas primeira página) <a
-     href="http://bit.ly/2t9IrE7">http://bit.ly/2t9IrE7</a>
- 10. Brahms, op. 49, n. 4 (Wiegenlied) <a href="http://bit.ly/2uigV97"
-     target="_blank" rel="noopener">http://bit.ly/2uigV97</a>
- 11. Clementi, op. 36., n. 1, mov. i. <a href="http://bit.ly/2geyMUJ"
-     target="_blank" rel="noopener">http://bit.ly/2geyMUJ</a>
- 12. Clementi, op. 36., n. 1, mov. ii. <a href="http://bit.ly/2geyMUJ"
-     target="_blank" rel="noopener">http://bit.ly/2geyMUJ</a>
- 13. Diabelli, Le bouquetier op. 151, n. 1, mov. 1 <a
-     href="https://goo.gl/LQJL49">https://goo.gl/LQJL49</a>
- 14. Diabelli, Le bouquetier op. 151, n. 4, mov. 1 <a
-     href="https://goo.gl/LQJL49">https://goo.gl/LQJL49</a>
- 15. Diabelli, op. 168, n. 1, mov. 2. <a href="http://bit.ly/2xRBtp9"
-     target="_blank" rel="noopener">http://bit.ly/2xRBtp9</a>
- 16. Franck, Sonata para violino e piano, mov. 1 (apenas primeira
-     página) <a href="http://bit.ly/2t9E5wo">http://bit.ly/2t9E5wo</a>
- 17. Haydn, Divertimento in C major, Hob. XVI_7 <a
-     href="http://bit.ly/2v9XBb0">http://bit.ly/2v9XBb0</a>
- 18. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e
-     Trio) <a href="http://bit.ly/2v9wEEl">http://bit.ly/2v9wEEl</a>
- 19. Mendelssohn, op. 72, n. 1 <a
-     href="http://bit.ly/2v9dXjX">http://bit.ly/2v9dXjX</a>
- 20. Mozart K284, mov. iii, tema <a
-     href="http://bit.ly/2tDP3L8">http://bit.ly/2tDP3L8</a>
- 21. Mozart K330, mov. ii <a
-     href="http://goo.gl/FzonKS">http://goo.gl/FzonKS</a> (p 111 (7))
- 22. Mozart K545, mov. i <a href="http://bit.ly/2itGEpW"
-     target="_blank" rel="noopener">http://bit.ly/2itGEpW</a>
- 23. Mozart K570, mov. ii <a
-     href="http://bit.ly/2uC2Xug">http://bit.ly/2uC2Xug</a> (p 6 do
-     pdf)
- 24. Mozart K576, mov. ii <a
-     href="http://bit.ly/2uQadpW">http://bit.ly/2uQadpW</a>
- 25. Mozart K597 <a
-     href="http://bit.ly/2uQbbm6">http://bit.ly/2uQbbm6</a>
- 26. Schubert, An den Mond. D 468. <a
-     href="https://goo.gl/NKQ3Kr">https://goo.gl/NKQ3Kr</a>
- 27. Schubert, Sehnsucht D310B <a
-     href="http://bit.ly/2tDxvyz">http://bit.ly/2tDxvyz</a>
- 28. Schubert, op. 29, mov. 1 (apenas primeira página) <a
-     href="http://bit.ly/2t9HrzO">http://bit.ly/2t9HrzO</a>
- 29. Schubert, op. 99, mov. 3 (apenas primeira página) <a
-     href="http://bit.ly/2t9EYFm">http://bit.ly/2t9EYFm</a>
- 30. Schumann, Álbum para Juventude op. 68, n. 2, <a
-     href="http://bit.ly/2JdmZDv" target="_blank"
-     rel="noopener">http://bit.ly/2JdmZDv</a>
- 31. Schumann, Álbum para Juventude op. 
- , n. 7, <a
-     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
- 32. Schumann, Álbum para Juventude op. 68, n. 8, <a
-     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
- 33. Schumann, Álbum para Juventude op. 68, n. 9, <a
-     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
- 34. Schumann, Álbum para Juventude op. 68, n. 17, <a
-     href="http://bit.ly/2JdmZDv">http://bit.ly/2JdmZDv</a>
- 35. Schumann, Kinderszenen op. 15, no. 6 “Wichtige Begebenheit”. <a
-     href="http://bit.ly/2siLOoJ">http://bit.ly/2siLOoJ</a>
- 36. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. <a
-     href="http://bit.ly/2siLOoJ">http://bit.ly/2siLOoJ</a>
+1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben. [http://bit.ly/2Go5uCV](http://bit.ly/2Go5uCV)
+1. Beethoven, op. 7, mov. 2 (Largo, con gran espessione) [http://bit.ly/2tDYMks](http://bit.ly/2tDYMks)
+1. Beethoven, op. 13, mov. 2 (apenas primeira página) [http://bit.ly/2tCiBct](http://bit.ly/2tCiBct)
+1. Beethoven, op. 27 n. 2, mov. 2 (Allegretto) [http://bit.ly/2uQiDh5](http://bit.ly/2uQiDh5)
+1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas) [http://bit.ly/2gW4mea](http://bit.ly/2gW4mea)
+1. Beethoven op. 26, mov. ii Trio  (p. 197 (9)) [http://goo.gl/gzDdYQ](http://goo.gl/gzDdYQ)
+1. Beethoven op. 26, mov. iii (p 10 (198)) [http://goo.gl/gzDdYQ ](http://goo.gl/gzDdYQ )
+1. Beethoven op. 57, mov. i (apenas primeira página) [http://bit.ly/2t9ZVjF](http://bit.ly/2t9ZVjF)
+1. Beethoven op. 67, mov. 3 (apenas primeira página) [http://bit.ly/2t9IrE7](http://bit.ly/2t9IrE7)
+1. Brahms, op. 49, n. 4 (Wiegenlied) [http://bit.ly/2uigV97](http://bit.ly/2uigV97)
+1. Clementi, op. 36., n. 1, mov. i. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
+1. Clementi, op. 36., n. 1, mov. ii. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
+1. Diabelli, Le bouquetier op. 151, n. 1, mov. 1 [https://goo.gl/LQJL49](https://goo.gl/LQJL49)
+1. Diabelli, Le bouquetier op. 151, n. 4, mov. 1 [https://goo.gl/LQJL49](https://goo.gl/LQJL49)
+1. Diabelli, op. 168, n. 1, mov. 2. [http://bit.ly/2xRBtp9](http://bit.ly/2xRBtp9)
+1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página) [http://bit.ly/2t9E5wo](http://bit.ly/2t9E5wo)
+1. Haydn, Divertimento in C major, Hob. XVI_7 [http://bit.ly/2v9XBb0](http://bit.ly/2v9XBb0)
+1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio) [http://bit.ly/2v9wEEl](http://bit.ly/2v9wEEl)
+1. Mendelssohn, op. 72, n. 1 [http://bit.ly/2v9dXjX](http://bit.ly/2v9dXjX)
+1. Mozart K284, mov. iii, tema [http://bit.ly/2tDP3L8](http://bit.ly/2tDP3L8)
+1. Mozart K330, mov. ii (p 111 (7)) [http://goo.gl/FzonKS](http://goo.gl/FzonKS)
+1. Mozart K545, mov. i [http://bit.ly/2itGEpW](http://bit.ly/2itGEpW)
+1. Mozart K570, mov. ii (p 6 do pdf) [http://bit.ly/2uC2Xug](http://bit.ly/2uC2Xug)
+1. Mozart K576, mov. ii [http://bit.ly/2uQadpW](http://bit.ly/2uQadpW)
+1. Mozart K597 [http://bit.ly/2uQbbm6](http://bit.ly/2uQbbm6)
+1. Schubert, An den Mond. D 468. [https://goo.gl/NKQ3Kr](https://goo.gl/NKQ3Kr)
+1. Schubert, Sehnsucht D310B [http://bit.ly/2tDxvyz](http://bit.ly/2tDxvyz)
+1. Schubert, op. 29, mov. 1 (apenas primeira página) [http://bit.ly/2t9HrzO](http://bit.ly/2t9HrzO)
+1. Schubert, op. 99, mov. 3 (apenas primeira página) [http://bit.ly/2t9EYFm](http://bit.ly/2t9EYFm)
+1. Schumann, Álbum para Juventude op. 68, n. 2, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Álbum para Juventude op. , n. 7, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Álbum para Juventude op. 68, n. 8, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Álbum para Juventude op. 68, n. 9, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Álbum para Juventude op. 68, n. 17, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Kinderszenen op. 15, no. 6 “Wichtige Begebenheit”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
+1. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
 
 ### Material a ser usado em cada aula/conteúdo
 
