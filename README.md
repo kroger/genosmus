@@ -45,12 +45,6 @@ Para modificar e visualizar o site localmente deve-se clonar o repositório com 
 
 4. Rode `make` para inicar o servidor local do Jekyll. O site deve estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000). Esse comando vai executar `bundle exec jekyll serve`. Outros comando do Jekyll podem ser executados dessa maneira, como `bundle exec jekyll clean`, etc.
 
-
-## Versão do Ruby
-
-Certifique-se de que a versão do Ruby esteja atualizada no arquivo
-`.ruby-version`. Essa é a versão usada pelo Netlify.
-
 ## Email
 
 O email do genos é genos@genosmus.com e pode ser acessado em https://mail.zoho.com/zm/
