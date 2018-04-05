@@ -1,5 +1,4 @@
-O site do [Genos](https://genosmus.com/) é desenvolvido usando o [Jekyll](https://jekyllrb.com)
-e hospedado no [Netlify](https://app.netlify.com).
+O site do [Genos](https://genosmus.com/) é desenvolvido usando o [Jekyll](https://jekyllrb.com) e hospedado no [Netlify](https://app.netlify.com).
 
 ## Organização
 
@@ -28,37 +27,29 @@ pela interface web do Github:
 
 ## Alterações Locais
 
-Para modificar o site localmente, deve-se clonar o repositório, fazer as alterações
-e fazer um `git push` com as alterações:
+Para modificar e visualizar o site localmente deve-se clonar o repositório com o site e instalar o Jekyll.
 
-	git clone git@github.com:kroger/genosmus.git
-   
-## Visualizando Localmente
+1. Clone o repositório:
 
-Para ver o site localmente deve-se instalar o Jekyll. Primeiramente instale 
-[RVM](https://rvm.io) seguindo as instruções no site. Em seguida instale
-a versão mais nova do Ruby e bundler:
+		git clone git@github.com:kroger/genosmus.git
 
-	rvm install ruby 2.4.2
-	rvm get head
-	rvm list known
-	gem install bundler
+2. Instale a versão mais nova do Ruby (2.5.1):
 
+		brew update
+		brew install ruby
 
-Finalmente, instale o Jekyll e suas dependências com o comando abaixo:
+3. Instale o Jekyll e suas dependências com o comando abaixo (no diretório com o código do site):
 
-	gem install jekyll bundler
-	bundle install
+		cd genosmus
+		bundle install
 
-Tendo tudo instalado, rode `make` no diretório `genusmus` clonado
-para inicar o servidor local do Jekyll. O site deve
-estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000).
+4. Rode `make` para inicar o servidor local do Jekyll. O site deve estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000). Esse comando vai executar `bundle exec jekyll serve`. Outros comando do Jekyll podem ser executados dessa maneira, como `bundle exec jekyll clean`, etc.
 
 
 ## Versão do Ruby
 
 Certifique-se de que a versão do Ruby esteja atualizada no arquivo
-`.ruby-version`. Essa é a versão usada pelo Netlify
+`.ruby-version`. Essa é a versão usada pelo Netlify.
 
 ## Email
 
