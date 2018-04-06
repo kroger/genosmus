@@ -7,7 +7,7 @@ level: graduacao
 
 ## Ementa
 
-Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
+Estudo e prática de Técnicas Composicionais: manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
 
 ## Objetivos
 
@@ -24,11 +24,12 @@ Ao final do curso espera-se que o estudante seja capaz de:
   2. Serialismo
   3. Conjunto de classes de notas
   4. Procedimentos imitativos
-  5. Organização total Indeterminância: improvisação, aleatoridade, indeterminância, música formalizada
-  6. Música experimental
-  7. Efeitos especiais
-  8. Apresentação e discussão do trabalho criativo
-  9. Composição para formações camerísticas até orquestras de pequenas
+  5. Organização total 
+  6. Indeterminância: improvisação, aleatoridade, indeterminância, música formalizada
+  7. Música experimental
+  8. Efeitos especiais
+  9. Apresentação e discussão do trabalho criativo
+  10. Composição para formações camerísticas até orquestras de pequenas
 
 ## Metodologia
 
@@ -44,7 +45,7 @@ As aulas são estruturadas em duas partes:
 A avaliação será feita mediante 4 trabalhos:
 
   1. Composição de 3 miniaturas para formações diversas, cada uma relacionada com o princípio de organização da dimensão vertical visto nas aulas.
-  2. Composição de uma obra de duração de 3 a 4 minutos para quarteto de cordas com uso de algum dos princípios de organização da dimensão vertical previsto nas aulas.
+  2. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica com uso de algum dos princípios de organização da dimensão vertical previsto nas aulas.
 
 ### Nota
 
@@ -61,7 +62,7 @@ Dessa forma, a média final será calculada pela equação 1, onde M representa 
 
 Os trabalhos serão aceitos apenas se:
 
-  1. forem entregues em versão elaborada em software apropriado, via Dropbox ou email.
+  1. forem entregues em versão elaborada em software apropriado, via Google Drive.
   2. forem entregues impreterivelmente no prazo, no início da aula marcada para a entrega.
 
 A composição final deverá ser entregue por meio digital, via email.
@@ -114,42 +115,46 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzd
 
 Duração de 30 segundos a 1 minuto
 
+
 #### Miniatura 1
 
-  * Conteúdo principal: Definir
-  * Formação: Definir
-  * Entrega da partitura (online): ver data de entrega no cronograma
-  * Entrega das partes (impressas): semana seguinte
+ - Conteúdo principal: Pré-serial - tonalidade expandida, harmonias quartais, quintais, politonalidade, policordes
+ - Formação: Definir
+ - Entrega da partitura (online): ver data de entrega no cronograma
+ - Entrega das partes (impressas): semana seguinte
 
 #### Miniatura 2
 
-  * Conteúdo principal: Definir
-  * Formação: Definir
-  * Entregada partitura (online): ver data de entrega no cronograma
-  * Entrega das partes (impressas): semana seguinte
+ - Conteúdo principal: Serialismo
+ - Formação: Duo de clarinetes
+ - Entregada partitura (online): ver data de entrega no cronograma
+ - Entrega das partes (impressas): semana seguinte
 
 #### Miniatura 3
 
-  * Conteúdo principal: Indeterminação
-  * Formação: Definir
-  * Entrega da partitura (online): ver data de entrega no cronograma
+ - Conteúdo principal: Indeterminação
+ - Formação: Definir
+ - Entrega da partitura (online): ver data de entrega no cronograma
 
-Possíveis formações instrumentais para as miniaturas:
+#### Possíveis formações instrumentais para as miniaturas
 
-  * Quarteto de trombones
-  * Quinteto de trompetes (2 flugelhorn)
-  * Quarteto de cordas
-  * Orquestra de violões
-  * Piano solo
+ - Quarteto de trombones
+ - Quinteto de trompetes (2 flugelhorn)
+ - Quarteto de cordas
+ - Orquestra de violões
+ - Piano solo
+ - Duo de clarinetes
 
 ### Composição final
 
-Instruções
+#### Instruções
 
-  * Primeira metade -- ver data de entrega no cronograma
-  * Composição final -- ver data de entrega no cronograma
+ - Formação: Banda sinfônica
+ - Duração: 3 a 4 minutos
+ - Primeira metade - ver data de entrega no cronograma
+ - Composição final - ver data de entrega no cronograma
 
-Instrumentação
+#### Instrumentação
 
   * 4 flautas (1 flautim)
   * 2 oboés
@@ -170,33 +175,33 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 
 [Em construção]
 
-  1. Prelude n. 2 (Chopin, Friedrich)
-  2. Le banquet celeste (Messiaen, Olivier)
-  3. Saudades do Brazil, Sorocaba (Milhaud, Darius)
-  4. A Sagração da Primavera (Stravinsky, Igor)
-  5. Petrushka (Stravinsky, Igor)
-  6. Mikrokosmos, 59 (Bartók, Béla)
-  7. Mikrokosmos, 101 (Bartók, Béla)
-  8. Mikrokosmos, 125 (Bartók, Béla)
-  9. Concerto para Orquestra (Bartók, Béla)
- 10. Sequenza I (Berio, Luciano)
- 11. Concerto para Violino, Op. 35 (Tchaikovsky, Pietr)
-
-Talvez:
-
-  1. [Schubert, String_Quartet_No.14,_D.810](http://imslp.org/wiki/String_Quartet_No.14,_D.810_(Schubert,_Franz))
-  2. [Stravinsky, Histoire_du_soldat](http://imslp.org/wiki/L'histoire_du_soldat_(Stravinsky,_Igor))
-  3. [Bartók, String_Quartet_No.5](http://imslp.org/wiki/String_Quartet_No.5,_Sz.102_(Bart%C3%B3k,_B%C3%A9la))
-  4. [Webern, Passacaglia,_Op.1](http://imslp.org/wiki/Passacaglia,_Op.1_(Webern,_Anton))
-  5. Threnody, Penderecki
-  6. [Debussy, String Quartet, Op.10](http://imslp.org/wiki/String%20Quartet%20in%20G%20minor,%20Op.10%20(Debussy,%20Claude))
-  7. [Ravel, String_Quartet_in_F_major](http://imslp.org/wiki/String_Quartet_in_F_major_(Ravel,_Maurice))
-  8. [Brahms, String_Quartet_No.1,_Op.51_No.1](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes))
-  9. [Schoenberg, Verklärte_Nacht,_Op.4](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
- 10. [Koechlin, String_Quartet_No.1,_Op.51](http://imslp.org/wiki/String_Quartet_No.1,_Op.51_(Koechlin,_Charles))
- 11. Webern, Op. 5
- 12. Ligeti, String Quartet n. 1
-
+  1. Bartók, Mikrokosmos, 59
+  1. Bartók, Mikrokosmos, 101
+  1. Bartók, Mikrokosmos, 125
+  1. Bartók, Concerto para Orquestra
+  1. Berio, Sequenza I
+  1. Chopin, Prelude n. 2
+  1. Daugherty, Raise the Roof
+  1. Espirito Santo, Dobrado n. 182
+  1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and Piano
+  1. Ginastera, Sonata for guitar, Op. 47
+  1. Hydas, Suite for wind band
+  1. Koechlin, Trio for Flute, Clarinet and Bassoon
+  1. Ligeti: 6 Bagatelles for Wind Quintet
+  1. Messiaen, Le banquet celeste
+  1. Milhaud, Saudades do Brazil, Sorocaba
+  1. Penderecki, Threnody
+  1. Pitombeira, Ajubete Jepê Amô Mbaê
+  1. Poulenc, Sonata for Two Clarinets
+  1. Schoenberg, Op. 25 
+  1. Stravinsky, A Sagração da Primavera
+  1. Stravinsky, Petrushka
+  1. Tchaikovsky, Concerto para Violino, Op. 35
+  1. Webern, Op. 5
+  1. Webern, Op. 21
+  1. Webern, Op. 27
+  1. ?, Dobrado Bombardeio na Bahia
+  
 ## Notas e frequência
 
 <iframe
@@ -210,24 +215,26 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Bibliografia
 
-
-- Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
-- Antokoletz, Elliott. 2016. “In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language.” Musica Theorica 1: 1–25.
+- Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
+- Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
 - Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
 - Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
 - Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
-- Espinheira, Alexandre Mascarenhas. 2011. “A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas.” Universidade Federal da Bahia.
+- Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
 - Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
-- Sampaio, Marcos da Silva, e Alex Pochat. 2016. “Aplicação de Contornos Na Composição Musical.” In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+- Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real Musical.
+- Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+- Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 - Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
+- Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 - Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
-
 
 ## Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
 - [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
-
+- [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) - Calculadora de classes de notas
+- [Contour Metrics](https://contour.sampaio.me) - Calculadora de contornos
 
 Os demais links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
 
