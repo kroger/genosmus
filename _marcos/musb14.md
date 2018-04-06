@@ -218,6 +218,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 - Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
 - Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
 - Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
+- Cook, Nicholas. 1987. “A Guide to Musical Analysis.” New York and London: W. W. Norton & Company.
 - Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
 - Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
 - Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
