@@ -3,14 +3,9 @@ id: 641
 title: Sinfonia 1 Brahms
 date: 2011-08-25T17:14:24+00:00
 author: kroger
-layout:
-  - ""
-guid: http://genosmus.com/?page_id=641
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
+layout: page
 ---
+
 Fazer uma análise harmônica (apenas o nome dos acordes) dos compassos ao lado do seu nome. Usar uma folha de ofício simples (sem pautas). Separar por compassos usando barras verticais. Um exemplo de trabalho:
 
 **c. 37:**

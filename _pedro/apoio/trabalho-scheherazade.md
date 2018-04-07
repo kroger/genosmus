@@ -3,14 +3,9 @@ id: 735
 title: 'Trabalho 2: Scheherazade'
 date: 2011-09-10T19:37:05+00:00
 author: kroger
-layout:
-  - ""
-guid: http://genosmus.com/?page_id=735
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
+layout: page
 ---
+
 Fazer uma análise harmônica (apenas o nome dos acordes) dos compassos ao lado do seu nome. Usar uma folha de ofício simples (sem pautas). Separar por compassos usando barras verticais. Um exemplo de trabalho:
 
 **c. 37:**
