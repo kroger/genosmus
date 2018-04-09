@@ -151,16 +151,16 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Schubert, op. 29, mov. 1 (apenas primeira página) [http://bit.ly/2t9HrzO](http://bit.ly/2t9HrzO)
 1. Schubert, op. 99, mov. 3 (apenas primeira página) [http://bit.ly/2t9EYFm](http://bit.ly/2t9EYFm)
 1. Schumann, Álbum para Juventude op. 68, n. 2, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
-1. Schumann, Álbum para Juventude op. , n. 7, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
+1. Schumann, Álbum para Juventude op. 68, n. 7, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
 1. Schumann, Álbum para Juventude op. 68, n. 8, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
 1. Schumann, Álbum para Juventude op. 68, n. 9, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
 1. Schumann, Álbum para Juventude op. 68, n. 17, [http://bit.ly/2JdmZDv](http://bit.ly/2JdmZDv)
-1. Schumann, Kinderszenen op. 15, no. 6 “Wichtige Begebenheit”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
-1. Schumann, Kinderszenen op. 15, no. 7 “Träumerei”. [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
+1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit". [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
+1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei". [http://bit.ly/2siLOoJ](http://bit.ly/2siLOoJ)
 
 ### Lista organizada por conteúdo
 
-Partituras a serem usadas nas aulas.
+Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
 
 #### 1. Revisão de frases, períodos, tonicalização e modulação
 
@@ -169,6 +169,21 @@ Aulas 1 e 2, dias 03 e 05/04/2018
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
 - Clementi, op. 36, n. 1, mov. 1
+
+#### 2. Empréstimo modal
+
+Aulas 3 e 4, dias 10 e 12/04/2018
+
+- Clementi, op. 36, n. 1, mov. 1 (finalização modulação)
+- Schubert, Sehnsucht D310B
+- Exemplos do capítulo de empréstimo modal de RG (ver links). Esses exemplos poderão ser vistos no celular.
+
+<!--
+#### 3. Acordes de nona, alterados, etc.
+
+- Franck, Sonata para violino e piano, mov. 1
+- ?
+-->
 
 ## Notas e frequência
 
@@ -246,10 +261,10 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
   </p>
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;">
-  “Musictheory.net.” 2000. http://musictheory.net. </p>
+  "Musictheory.net." 2000. http://musictheory.net. </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> “Resposta
-  Tonal.” 2015. https://respostatonal.com. </p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> "Resposta
+  Tonal." 2015. https://respostatonal.com. </p>
 
 ## Links
 
@@ -261,6 +276,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
  - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf) (126MB)
  - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf) (28MB)
  - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf) (67MB)
+ - [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD)
  - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
  - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
