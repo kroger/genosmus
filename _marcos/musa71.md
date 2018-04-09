@@ -276,7 +276,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
  - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf) (126MB)
  - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf) (28MB)
  - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf) (67MB)
- - [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD)
+ - [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD!N8kH_bu7MuoLFw2JuRuhqS7BoDSXwjFBqd416LrD4PI)
  - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
  - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
