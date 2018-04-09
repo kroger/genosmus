@@ -5,16 +5,24 @@ layout: disciplina
 
 ## Ementa
 
-Nível 1 do estudo e prática de Orquestração avançada, técnicas de orquestração de música original de teclado e técnicas de redução para piano -- de música originalmente escrita para orquestra, solista e orquestra e coro e orquestra -- bem como o estudo analítico das texturas orquestrais, com audição de obras representativas de médias e grandes dimensões desde o Barroco até o século XX.
+Nível 1 do estudo e prática de Orquestração avançada, técnicas de
+orquestração de música original de teclado e técnicas de redução para
+piano -- de música originalmente escrita para orquestra, solista e
+orquestra e coro e orquestra -- bem como o estudo analítico das texturas
+orquestrais, com audição de obras representativas de médias e grandes
+dimensões desde o Barroco até o século XX.
 
 ## Materiais
 
   - [Principles of Orchestration On-line](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line)
-  - Os materiais de aula serão colocados no site a medida que as aulas forem acontecendo 
+
+  - Os materiais de aula serão colocados no site a medida que as aulas
+    forem acontecendo
 
 ## Cronograma
 
-Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
+Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
+poderá ser modificado de acordo com a necessidade e eventualidade.
 
 - Abr 04 -- _Arrumação da sala de aula_ (sem aula)
 - Abr 11 -- Orquestração para Cordas
@@ -36,8 +44,9 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 
 ## Avaliação
 
-A nota final será a soma de 6 mini-trabalhos com valor 1.25 cada, e um trabalho final
-no valor de 2.5 pontos. O(a) aluno(a) deverá levar um pdf do trabalho com uma gravação midi (Finale) em mp3.
+A nota final será a soma de 6 mini-trabalhos com valor 1.25 cada, e um
+trabalho final no valor de 2.5 pontos. O(a) aluno(a) deverá levar um pdf
+do trabalho com uma gravação midi (Finale) em mp3.
 
 
 ## Notas

@@ -5,7 +5,11 @@ title: MUSB18 -- Composição IX
 
 ## Ementa
 
-Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de habilidades na manipulação e exploração de fenômenos musicais e textuais relacionados às estruturas de grandes dimensões, bem como fenômenos extra-musicais ligados a estas, com audição comentada de obras representativas do século XX, de grandes dimensões.
+Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento
+de habilidades na manipulação e exploração de fenômenos musicais e
+textuais relacionados às estruturas de grandes dimensões, bem como
+fenômenos extra-musicais ligados a estas, com audição comentada de obras
+representativas do século XX, de grandes dimensões.
 
 ## Materiais
 
@@ -36,12 +40,15 @@ Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de hab
 
 ## Cronograma
 
-Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
+Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
+poderá ser modificado de acordo com a necessidade e eventualidade.
 
 - Abr 06 -- _sem aula_
 - Abr 13 -- O texto: escanção, metrificação, versificação, e prosódia
 - Abr 20 -- **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
-- Abr 27 -- **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular): 2 obras para cada tipo (4 no total) **(2.5 pts)**
+- Abr 27 -- **Trabalho**: análise do uso do texto em obras vocais em
+  português (erudita e popular): 2 obras para cada tipo (4 no total)
+  **(2.5 pts)**
 - Mai 04 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 11 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 18 -- Brainstorm e sugestões para obra final e projeto escrito (monografia)
@@ -60,18 +67,33 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 
 A nota final será composta pela média ponderada de duas notas:
 
-- A soma de 2 trabalhos de texto (2.5 pontos cada) e 2 trabalhos de análise (2.5 pontos cada) com peso 4
-- A soma de 7 relatórios orais e a apresentação de um trecho da obra final (total de 10 pontos) com peso 6.
+- A soma de 2 trabalhos de texto (2.5 pontos cada) e 2 trabalhos de
+  análise (2.5 pontos cada) com peso 4
+
+- A soma de 7 relatórios orais e a apresentação de um trecho da obra
+  final (total de 10 pontos) com peso 6.
   
-Para os relatórios e a apresentação você deve entregar um pdf da partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc)
+Para os relatórios e a apresentação você deve entregar um pdf da
+partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc)
 
-O trecho da obra final deverá ter no mínimo 10 minutos de duração e usar ao menos a seguinte formação: 1 solista vocal, coro, madeiras completos a 2, metais completos a 2, 2 percussionistas, e cordas. Contudo, eu recomendo usar madeiras a 3, 4 trompas e 3 trompetes. (A composição final deverá ter no mínimo 20 minutos e será concluída em Composição X)
+O trecho da obra final deverá ter no mínimo 10 minutos de duração e usar
+ao menos a seguinte formação: 1 solista vocal, coro, madeiras completos
+a 2, metais completos a 2, 2 percussionistas, e cordas. Contudo, eu
+recomendo usar madeiras a 3, 4 trompas e 3 trompetes. (A composição
+final deverá ter no mínimo 20 minutos e será concluída em Composição X)
 
-Os trabalhos só serão aceitos entregues rigorosamente no prazo, no início de aula do dia marcado para entrega. Eu não aceito trabalhos por e-mail. O aluno que faltar no dia da entrega de um trabalho poderá entregá-lo na aula seguinte se justificar a falta com atestado médico assinado e com número do Conselho Regional de Medicina.
+Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
+início de aula do dia marcado para entrega. Eu não aceito trabalhos por
+e-mail. O aluno que faltar no dia da entrega de um trabalho poderá
+entregá-lo na aula seguinte se justificar a falta com atestado médico
+assinado e com número do Conselho Regional de Medicina.
 
-Crie o hábito de fazer backup dos seus trabalhos e projetos. Não será aceita a perda de dados como desculpa para dilatar o prazo de entrega.
+Crie o hábito de fazer backup dos seus trabalhos e projetos. Não será
+aceita a perda de dados como desculpa para dilatar o prazo de entrega.
 
-Se você acha que eu cometi algum erro na pontuação de algum trabalho, você tem uma semana contando a partir da data de entrega do trabalho para me procurar; depois disso a nota não será modificada
+Se você acha que eu cometi algum erro na pontuação de algum trabalho,
+você tem uma semana contando a partir da data de entrega do trabalho
+para me procurar; depois disso a nota não será modificada
 
 ## Notas
 
