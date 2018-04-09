@@ -5,6 +5,8 @@ google_analytics: "UA-25220567-1"
 
 semestre: "2018.1"
 
+timezone: "America/Bahia"
+
 markdown: kramdown
 exclude: [.idea, img, vendor, .bundle]
 
