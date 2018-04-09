@@ -1,24 +1,26 @@
 ---
-title: 'MUSB87 -- Monografia I'
+title: MUSB87 -- Monografia I
 layout: disciplina
 ---
 
 ## Ementa
 
-Trabalho escrito sobre a obra composta como Trabalho Final, no caso de Composição. Trabalho escrito sobre tema de relevância para a área baseado no repertório ou obra específica do Trabalho Final
+Trabalho escrito sobre a obra composta como Trabalho Final, no caso de Composição. Trabalho escrito sobre tema de relevância para a área baseado no repertório ou obra específica do Trabalho Final.
 
 ## Materiais
 
-&nbsp;
-
-## Cronograma
-
-Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
-
-  * 22/03 &#8212; introdução ao curso
+- [Exemplo de Monografia de Composição](https://www.dropbox.com/s/leah34golzgqc78/composicao-8-relatorio.pdf?dl=0)
 
 ## Avaliação
 
-&nbsp;
+A avaliação consistirá da entrega de 4 relatórios da monografia referentes aos 10 primeiros minutos da composição final.
+
+- Jun 08 -- Relatório monografia 2.5 pontos
+- Jun 22 -- Relatório monografia 2.5 pontos
+- Jul 06 -- Relatório monografia 2.5 pontos
+- Jul 20 -- Relatório monografia 2.5 pontos
+
 
 ## Notas
+
+<iframe width="606" height="156" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=23939E5DC94ED773%21404&authkey=%21ANCTvffxxCC1Gmo&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AH6&wdDownloadButton=True&wdInConfigurator=True"></iframe>

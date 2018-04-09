@@ -4,12 +4,8 @@ title: Análise do Cravo bem Temperado
 date: 2011-10-06T01:27:21+00:00
 author: kroger
 layout: page
-guid: http://genosmus.com/?page_id=923
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 ---
+
 <div>
   Fazer uma análise de uma fuga do Cravo bem Temperado seguindo os seguintes parâmetros:
 </div>

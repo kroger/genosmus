@@ -3,10 +3,9 @@ id: 3691
 title: Lista Prova Audição LEM 7
 date: 2015-03-05T12:43:51+00:00
 author: kroger
-layout:
-  - ""
-guid: http://genosmus.com/?page_id=3691
+layout: page
 ---
+
 1 &#8211; Monteverdi Lamento d&#8217;Arianna &#8211; Lasciatemi morire (1614)
   
 2 &#8211; Bach, A Arte da Fuga, Contrapunctus 9 (~1740)

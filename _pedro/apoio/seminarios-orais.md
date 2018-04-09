@@ -4,12 +4,8 @@ title: Seminários Orais
 date: 2011-10-25T22:26:42+00:00
 author: kroger
 layout: page
-guid: http://genosmus.com/?page_id=983
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 ---
+
   * Mar 07: A Sinfonia no século XIX ()
   * Mar 12: O Concerto no século XIX ()
   * Mar 14: A Missa ()
