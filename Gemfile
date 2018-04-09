@@ -8,4 +8,5 @@ gem "jekyll", "~> 3.7.3"
 
 group :jekyll_plugins do
   gem 'jekyll-toc'
+  gem 'jekyll-last-modified-at'
 end

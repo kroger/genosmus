@@ -25,3 +25,4 @@ toc:
 
 plugins:
   - jekyll-toc
+  - jekyll-last-modified-at
