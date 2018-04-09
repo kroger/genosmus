@@ -131,3 +131,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 ## Links
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

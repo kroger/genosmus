@@ -239,3 +239,6 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 Os demais links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
 
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

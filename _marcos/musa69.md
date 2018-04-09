@@ -244,3 +244,7 @@ class="mce_SELRES_start">?</span></iframe>
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

@@ -282,3 +282,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
  - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.
