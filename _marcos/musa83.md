@@ -35,7 +35,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 A metodologia para atingir os objetivos propostos é baseada em
 
   1. aulas expositivas
-  2. eventual participação de instrumentistas convidados para demonstração prática dos instrumentos musicais
+  2. participação de instrumentistas convidados para demonstração prática dos instrumentos musicais
   3. pesquisa e exercícios práticos a serem realizados em casa
 
 ## Pré-requisitos
@@ -123,13 +123,22 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ### Semanais
 
-Cada trabalho semanal consiste em realizar as tarefas seguintes 
-para cada um dos instrumentos.
+Os trabalhos semanais servem para estimular o estudante a se 
+familiarize com diversos instrumentos musicais antes das aulas.
+O objetivo é incentivar o estudante a ter questões a respeito
+desses instrumentos.
+
+A cada aula serão abordados dois ou três instrumentos. 
+Assim, para cada instrumento listado, realizar as seguintes 
+tarefas:
 
  1. Identificar múltiplos registros do instrumento
  1. Identificar particularidades quanto à emissão e articulação
  1. Identificar recursos sonoros idiomáticos
  1. Compor 4 a 8 compassos explorando particularidades do instrumento
+ 1. Escrever texto conciso, de até 3 linhas, informando as 
+ particularidades do instrumento. Esse texto poderá ter 
+ pentagramas para informações musicais como extensão.
  
 Lista de trabalhos. Ver data de entrega no cronograma.
 
@@ -143,6 +152,9 @@ Lista de trabalhos. Ver data de entrega no cronograma.
  1. Coral
  1. Outras fontes sonoras
 
+Os trabalhos deverão ser entregues por email com o assunto 
+`[MUSA83] Trabalho x`.
+
 ### Final
 
 O trabalho final será definido ao longo do semestre.
@@ -154,7 +166,8 @@ O trabalho final será definido ao longo do semestre.
   - Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
   - Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
   - Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
-
+  - Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+  
 ## Links
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
