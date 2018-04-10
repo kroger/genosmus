@@ -25,19 +25,19 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
 - Abr 04 -- _Arrumação da sala de aula_ (sem aula)
-- Abr 11 -- Orquestração para Cordas
-- Abr 18 -- **Entrega do trabalho 1 [1.25 pontos]**
-- Abr 25 -- Orquestração para Madeiras e Cordas
-- Mai 02 -- **Entrega do trabalho 2 [1.25 pontos]**
-- Mai 09 -- Orquestração para Metais, Madeiras e Cordas
-- Mai 16 -- **Entrega do trabalho 3 [1.25 pontos]**
-- Mai 23 -- Escrevendo para Orquestra
-- Mai 30 -- **Entrega do trabalho 4 [1.25 pontos]**
-- Jun 06 -- Acompanhamento
-- Jun 13 -- **Entrega do trabalho 5 [1.25 pontos]**
-- Jun 20 -- Transcrição para Orquestra
-- Jun 27 -- **Entrega do trabalho 6 [1.25 pontos]**
-- Jul 04 -- 
+- Abr 11 -- Revisão de Cordas
+- Abr 18 -- Orquestração para Cordas
+- Abr 25 -- **Entrega do trabalho 1 [1.25 pontos]**
+- Mai 02 -- Orquestração para Madeiras e Cordas
+- Mai 09 -- **Entrega do trabalho 2 [1.25 pontos]**
+- Mai 16 -- Orquestração para Metais, Madeiras e Cordas
+- Mai 23 -- **Entrega do trabalho 3 [1.25 pontos]**
+- Mai 30 -- Escrevendo para Orquestra
+- Jun 06 -- **Entrega do trabalho 4 [1.25 pontos]**
+- Jun 13 -- Acompanhamento
+- Jun 20 -- **Entrega do trabalho 5 [1.25 pontos]**
+- Jun 27 -- Transcrição para Orquestra
+- Jul 04 -- **Entrega do trabalho 6 [1.25 pontos]**
 - Jul 11 -- 
 - Jul 18 -- **Entrega do trabalho final [2.5 pontos]**
 
