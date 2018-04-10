@@ -152,8 +152,8 @@ Lista de trabalhos. Ver data de entrega no cronograma.
  1. Coral
  1. Outras fontes sonoras
 
-Os trabalhos deverão ser entregues por email com o assunto 
-`[MUSA83] Trabalho x`.
+Os trabalhos deverão ser entregues por email para o professor 
+com o assunto `[MUSA83] Trabalho x`.
 
 ### Final
 
