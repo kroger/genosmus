@@ -36,7 +36,7 @@ A metodologia para atingir os objetivos propostos é baseada em
 
   1. aulas expositivas
   2. eventual participação de instrumentistas convidados para demonstração prática dos instrumentos musicais
-  3. exercícios práticos a serem realizados em casa
+  3. pesquisa e exercícios práticos a serem realizados em casa
 
 ## Pré-requisitos
 
@@ -48,7 +48,11 @@ São pré-requisitos dessa disciplina o entendimento da estrutura e a percepçã
 
 ## Avaliação
 
-A avaliação nesta disciplina é realizada mediante 3 trabalhos práticos de transcrição de trechos musicais específicos para formações instrumentais definidas. Os trabalhos serão publicados nessa página ao longo do semestre letivo.
+A avaliação nesta disciplina é realizada mediante:
+
+ - Prova escrita e de audição de obras (Peso 3)
+ - Trabalhos semanais (Peso 3)
+ - Trabalho final de transcrição (Peso 4)
 
 Os critérios gerais de avaliação são:
 
@@ -63,7 +67,7 @@ Os trabalhos serão aceitos <span style="text-decoration: underline;">apenas se 
 
 ### Nota
 
-A nota do semestre será a média aritmética das notas das provas.
+A nota do semestre será a média ponderada das notas da prova e trabalhos.
 
 ### Segunda chamada
 
@@ -117,20 +121,44 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Trabalhos
 
-  1. Trabalho 01 (ver data de entrega no cronograma)
-  2. Trabalho 02 (ver data de entrega no cronograma)
-  3. Trabalho 03 (ver data de entrega no cronograma)
+### Semanais
+
+Cada trabalho semanal consiste em realizar as tarefas seguintes 
+para cada um dos instrumentos.
+
+ 1. Identificar múltiplos registros do instrumento
+ 1. Identificar particularidades quanto à emissão e articulação
+ 1. Identificar recursos sonoros idiomáticos
+ 1. Compor 4 a 8 compassos explorando particularidades do instrumento
+ 
+Lista de trabalhos. Ver data de entrega no cronograma.
+
+ 1. Flauta e oboé 
+ 1. Clarinete e fagote
+ 1. Trompa e trompete
+ 1. Trombone e tuba
+ 1. Violino e viola
+ 1. Violoncelo e contrabaixo
+ 1. Percussão
+ 1. Coral
+ 1. Outras fontes sonoras
+
+### Final
+
+O trabalho final será definido ao longo do semestre.
 
 ## Bibliografia
 
-  * Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
-  * Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
-  * Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
-  * Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
+  - Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
+  - Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
+  - Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
+  - Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
+  - Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
 
 ## Links
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
+- [Playlist com vídeos no YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29ACkzLsDWNSPpgiqRZ6pTTfq-)
 
 <hr>
 
