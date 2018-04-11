@@ -16,8 +16,8 @@ dimensões desde o Barroco até o século XX.
 
   - [Principles of Orchestration On-line](http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line)
 
-  - Os materiais de aula serão colocados no site a medida que as aulas
-    forem acontecendo
+  - Revisão de Cordas [Livro](https://www.dropbox.com/s/ks113157m7jamev/Cordas%20-%20Geral.pdf?dl=1) | 
+   [Audio](https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=1)
 
 ## Cronograma
 
