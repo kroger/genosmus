@@ -156,18 +156,18 @@ Duração de 30 segundos a 1 minuto
 
 #### Instrumentação
 
-  * 4 flautas (1 flautim)
-  * 2 oboés
-  * 4 clarinetes
-  * Sax alto
-  * 2 Sax tenor
-  * 1 Sax barítono
-  * 4 Trompas
-  * 3 Trompetes
-  * 3 Trombones (1 baixo)
-  * 2 Tubas
-  * 1 Bombardino?
-  * 3 Percussionistas
+ - 4 flautas (1 flautim)
+ - 2 oboés
+ - 4 clarinetes
+ - Sax alto
+ - 2 Sax tenor
+ - 1 Sax barítono
+ - 4 Trompas
+ - 3 Trompetes
+ - 3 Trombones (1 baixo)
+ - 2 Tubas
+ - 1 Bombardino?
+ - 3 Percussionistas
 
 ## Análise
 
@@ -178,14 +178,18 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
   1. Bartók, Mikrokosmos, 59
   1. Bartók, Mikrokosmos, 101
   1. Bartók, Mikrokosmos, 125
+  1. Bartók, Mikrokosmos, 131
   1. Bartók, Concerto para Orquestra
+  1. Bartók, Bagatelles Op. 6
   1. Berio, Sequenza I
+  1. Bloch, Sonata for Piano
   1. Chopin, Prelude n. 2
   1. Daugherty, Raise the Roof
   1. Espirito Santo, Dobrado n. 182
   1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and Piano
   1. Ginastera, Sonata for guitar, Op. 47
   1. Hydas, Suite for wind band
+  1. Ives, The Cage
   1. Koechlin, Trio for Flute, Clarinet and Bassoon
   1. Ligeti: 6 Bagatelles for Wind Quintet
   1. Messiaen, Le banquet celeste
