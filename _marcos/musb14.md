@@ -133,7 +133,7 @@ Duração de 30 segundos a 1 minuto
 #### Miniatura 3
 
  - Conteúdo principal: Indeterminação
- - Formação: Definir
+ - Formação: Percussão solo (definir instrumental)
  - Entrega da partitura (online): ver data de entrega no cronograma
 
 #### Possíveis formações instrumentais para as miniaturas
