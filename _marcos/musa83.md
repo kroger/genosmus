@@ -128,8 +128,8 @@ familiarizar com diversos instrumentos musicais e ter uma base
 mínima para participar das aulas.
 
 A cada aula serão abordados dois ou três instrumentos, conforme 
-lista. Assim, o trabalho semanal consiste em, para cada 
-instrumento apresentar:
+lista. Assim, o trabalho semanal consiste em apresentar, para cada 
+instrumento:
 
  1. Um texto conciso de até 3 linhas informando:
     1. as características sonoras do instrumento em múltiplos registros
@@ -142,7 +142,7 @@ instrumento apresentar:
 
 Ver data de entrega de cada trabalho no cronograma.
 
- 1. Flauta e clarinete
+ 1. Flauta e clarinete (entrega em 17/04/2018)
  1. Oboé e fagote
  1. Trompa e trompete
  1. Trombone e tuba
