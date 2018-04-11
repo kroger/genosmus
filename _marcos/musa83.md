@@ -123,37 +123,38 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ### Semanais
 
-Os trabalhos semanais servem para estimular o estudante a se 
-familiarize com diversos instrumentos musicais antes das aulas.
-O objetivo é incentivar o estudante a ter questões a respeito
-desses instrumentos.
+O objetivo dos trabalhos semanais é estimular o estudante a se 
+familiarizar com diversos instrumentos musicais e ter uma base
+mínima para participar das aulas.
 
-A cada aula serão abordados dois ou três instrumentos. 
-Assim, para cada instrumento listado, realizar as seguintes 
-tarefas:
+A cada aula serão abordados dois ou três instrumentos, conforme 
+lista. Assim, o trabalho semanal consiste em, para cada 
+instrumento apresentar:
 
- 1. Identificar múltiplos registros do instrumento
- 1. Identificar particularidades quanto à emissão e articulação
- 1. Identificar recursos sonoros idiomáticos
- 1. Compor 4 a 8 compassos explorando particularidades do instrumento
- 1. Escrever texto conciso, de até 3 linhas, informando as 
- particularidades do instrumento. Esse texto poderá ter 
- pentagramas para informações musicais como extensão.
+ 1. Um texto conciso de até 3 linhas informando:
+    1. as características sonoras do instrumento em múltiplos registros
+    1. as particularidades quanto à emissão do som e articulação
+    1. os recursos sonoros idiomáticos.
+ 1. Uma pequena composição autoral de 4 a 8 compassos explorando
+ particularidades do instrumento.
  
-Lista de trabalhos. Ver data de entrega no cronograma.
+#### Lista de trabalhos
+
+Ver data de entrega de cada trabalho no cronograma.
 
  1. Flauta e oboé 
  1. Clarinete e fagote
  1. Trompa e trompete
  1. Trombone e tuba
- 1. Violino e viola
- 1. Violoncelo e contrabaixo
+ 1. Violino, viola e violoncelo
+ 1. Contrabaixo
  1. Percussão
  1. Coral
  1. Outras fontes sonoras
 
-Os trabalhos deverão ser entregues por email para o professor 
-com o assunto `[MUSA83] Trabalho x`.
+Os trabalhos deverão ser entregues ao professor por email
+como anexos em formato PDF e com o assunto 
+`[MUSA83] Trabalho x`. __Não entregar em formato DOC__.
 
 ### Final
 
