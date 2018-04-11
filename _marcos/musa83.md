@@ -142,8 +142,8 @@ instrumento apresentar:
 
 Ver data de entrega de cada trabalho no cronograma.
 
- 1. Flauta e oboé 
- 1. Clarinete e fagote
+ 1. Flauta e clarinete
+ 1. Oboé e fagote
  1. Trompa e trompete
  1. Trombone e tuba
  1. Violino, viola e violoncelo
