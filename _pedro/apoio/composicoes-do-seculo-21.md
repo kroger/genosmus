@@ -9,13 +9,21 @@ layout: page
 
 - Krzysztof Penderecki- Credo In Unum Deum. 1998, Grammy em 2001
 
-- Tektosyne: Three Architectures for Orchestra no. 3 Entasis. Tektosyne is the winner score of The American Prize 2013 in Composition.
+- Alessandra Salvati. Tektosyne: Three Architectures for Orchestra no. 3
+  Entasis. Tektosyne is the winner score of The American Prize 2013 in
+  Composition.
 
-- Microscope Romp. Elaine Funaro plays Microscope Romp, the fifth (last) movement from the harpsichord suite Microgrooves by Ivan Boži?evi?. The suite was awarded at the 2012 Alienor Composition Competition.
+- Ivan Božičević. Microgrooves, Microscope Romp. Elaine Funaro,
+  cravista. 2012 Alienor Composition Competition.
 
-- Mark Janello: Six Harpsichord Miniatures (performed by Rebecca Pechefsky). Winner of the 2012 Aliénor Competition for new music for harpsichord. It was premiered in Cincinnati, Ohio,by Rebecca Pechefsky on March 23, 2012.
+- Mark Janello: Six Harpsichord Miniatures (performed by Rebecca
+  Pechefsky). Winner of the 2012 Aliénor Competition for new music for
+  harpsichord. It was premiered in Cincinnati, Ohio,by Rebecca Pechefsky
+  on March 23, 2012.
 
-- Hee Yun Kim, Memoir of Dong-Hak. Won the Festival Pablo Casals International Composition Competition. 2008. [Listen](http://heeyunkim.net/listen/)
+- Hee Yun Kim, Memoir of Dong-Hak. Won the Festival Pablo Casals
+  International Composition Competition. 2008.
+  [Listen](http://heeyunkim.net/listen/)
 
 - [Thorsten Encke](http://www.thorsten-encke.de/en/werke/kammermusik/). Streichquartett (2005). Festival Pablo Casals.
 

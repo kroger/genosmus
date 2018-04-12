@@ -20,7 +20,7 @@ representativas do século XX, de grandes dimensões.
   - [Ritmo (ver poesia)](http://pt.wikipedia.org/wiki/Ritmo)
   - [Ritmo no poema](http://pt.wikipedia.org/wiki/Ritmo_no_poema)
   - [Versificação](http://pt.wikipedia.org/wiki/Versificação)
-  - Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/zgolwyg37d2mqgo/bilac-tratado.pdf?dl=0). Localização na Estante 821(469)-1.09 B595 9.ed Biblioteca Universitária Reitor Macedo Costa
+  - Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/zgolwyg37d2mqgo/bilac-tratado.pdf?dl=0).
   - [Divisão de sílabas em fonética e em ortografia](http://www.academia.org.br/artigos/divisao-de-silabas-em-fonetica-e-em-ortografia)
 
 ### Música
