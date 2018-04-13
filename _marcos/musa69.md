@@ -180,56 +180,39 @@ class="mce_SELRES_start">?</span></iframe>
 
 ## Bibliografia
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Aldwell, Edward,
-  and Carl Schachter. 2002. <i>Harmony and Voice Leading</i>. 3rded.
-  Thomson Schirmer. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Gauldin,
-  Robert. 1997. <i>Harmonic Practice in Tonal Music</i>. New York, NY:
-  W.W. Norton and Company. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Grove, George,
-  and Stanley Sadie. 1980. <i>The New Grove Dictionary of Music and
-  Musicians</i>. Edited by Stanley Sadie. 2nded. London, Washington:
-  Macmillan Publishers. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kostka, Stefan
-  M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction
-  to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
-  </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Palisca, Claude
-  V. 2001. <i>Norton Anthology of Western Music</i>. 4thed. New York
-  and London: W. W. Norton & Company. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Queiroz, Flávio
-  José Gomes de. 2005. “Princípios Gerais Para Realização de Baixos
-  Cifrados.” http://bit.ly/2GK93me. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Randel, Don
-  Michael, ed. 1986. <i>The New Harvard Dictionary of Music</i>.
-  Cambridge, MA: Belknap Press of Harvard University Press. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Riemenschneider,
-  Albert, ed. 1941. <i>371 Harmonized Chorales and 69 Chorale Melodies
-  with Figured Bass</i>. New York: Schirmer. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Stone,
-  Kurt. 1980. <i>Music Notation in the Twentieth Century: A Practical
-  Guidebook</i>. New York, NY: W.W. Norton and Company. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Ulrich
-  Michels. 1982. <i>Atlas de Música</i>. Madrid: Alianza. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Wedge, George
-  A. 1930. <i>Applied Harmony, a Text-Book</i>. New York: Schirmer.
-  </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> “Resposta
-  Tonal.” 2015. https://respostatonal.com. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  “Musictheory.net.” 2000. http://musictheory.net. </p>
+1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
+Voice Leading_. 3rded. Thomson Schirmer.
+1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
+ New York, NY: W.W. Norton and Company.
+Introduction to Analysis. Holt Rinehart and Winston.
+1. Grove, George, and Stanley Sadie. 1980. _The New Grove 
+Dictionary of Music and Musicians_. Edited by Stanley Sadie.
+ 2nded. London, Washington: Macmillan Publishers.
+1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in 
+Analysis and Synthesis. Boston: Houghton Mifflin.
+1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal 
+Harmony, with an Introduction to Twentieth-Century Music_. 
+3rd ed. New York, NY: McGraw-Hill.
+1. Palisca, Claude V. 2001. _Norton Anthology of Western 
+Music_. 4thed. New York and London: W. W. Norton & Company.
+1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
+1. Queiroz, Flávio José Gomes de. 2005. "Princípios Gerais para 
+Realização de Baixos Cifrados." Disponível em
+ [http://bit.ly/2GK93me](http://bit.ly/2GK93me).
+1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary
+ of Music_. Cambridge, MA: Belknap Press of Harvard University 
+ Press.
+1. Riemenschneider, Albert, ed. 1941. _371 Harmonized Chorales
+ and 69 Chorale Melodies with Figured Bass_. New York:
+  Schirmer.
+1. Stone, Kurt. 1980. _Music Notation in the Twentieth 
+Century_: A Practical Guidebook. New York, NY: W.W. Norton
+ and Company.
+1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
+1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. 
+New York: Schirmer.
+1. "Musictheory.net." 2000. http://musictheory.net.
+1. "Resposta Tonal." 2015. https://respostatonal.com.
 
 ## Links
 

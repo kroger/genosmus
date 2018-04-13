@@ -200,71 +200,39 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Bibliografia
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Aldwell, Edward,
-  and Carl Schachter. 2002. <i>Harmony and Voice Leading</i>. 3rded.
-  Thomson Schirmer. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> D’Indy,
-  Vincent. 1912. <i>Cours de Composition Musicale</i>. Paris: Durand.
-  </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Gauldin,
-  Robert. 1997. <i>Harmonic Practice in Tonal Music</i>. New York, NY:
-  W.W. Norton and Company. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Green, Douglass
-  M. 1979. <i>Form in Tonal Music: An Introduction to Analysis</i>.
-  Holt Rinehart and Winston. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Grove, George,
-  and Stanley Sadie. 1980. <i>The New Grove Dictionary of Music and
-  Musicians</i>. Edited by Stanley Sadie. 2nded. London, Washington:
-  Macmillan Publishers. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kohs, Ellis
-  Bonoff. 1976. <i>Musical Form: Studies in Analysis and
-  Synthesis</i>. Boston: Houghton Mifflin. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kostka, Stefan
-  M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction
-  to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
-  </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Palisca, Claude
-  V. 2001. <i>Norton Anthology of Western Music</i>. 4thed. New York
-  and London: W. W. Norton & Company. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Piston,
-  Walter. 1959. <i>Harmony</i>. London: Victor Gollancz Ltd. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Randel, Don
-  Michael, ed. 1986. <i>The New Harvard Dictionary of Music</i>.
-  Cambridge, MA: Belknap Press of Harvard University Press. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Schoenberg,
-  Arnold. 1967. <i>Fundamentals of Music Composition</i>. Faber and
-  Faber. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Schoenberg,
-  Arnold. 1954. <i>Structural Functions of Harmony</i>. Edited by
-  Leonard Stein. London: Faber and Faber. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Schoenberg,
-  Arnold. 1983. <i>Theory of Harmony</i>. Berkeley, CA: University of
-  California Press. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Ulrich
-  Michels. 1982. <i>Atlas de Música</i>. Madrid: Alianza. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> Wedge, George
-  A. 1930. <i>Applied Harmony, a Text-Book</i>. New York: Schirmer.
-  </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  "Musictheory.net." 2000. http://musictheory.net. </p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;"> "Resposta
-  Tonal." 2015. https://respostatonal.com. </p>
+1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
+Voice Leading_. 3rded. Thomson Schirmer.
+1. D’Indy, Vincent. 1912. _Cours de Composition Musicale_. 
+Paris: Durand.
+1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
+ New York, NY: W.W. Norton and Company.
+1. Green, Douglass M. 1979. _Form in Tonal Music_: an 
+Introduction to Analysis. Holt Rinehart and Winston.
+1. Grove, George, and Stanley Sadie. 1980. _The New Grove 
+Dictionary of Music and Musicians_. Edited by Stanley Sadie.
+ 2nded. London, Washington: Macmillan Publishers.
+1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in 
+Analysis and Synthesis. Boston: Houghton Mifflin.
+1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal 
+Harmony, with an Introduction to Twentieth-Century Music_. 
+3rd ed. New York, NY: McGraw-Hill.
+1. Palisca, Claude V. 2001. _Norton Anthology of Western 
+Music_. 4thed. New York and London: W. W. Norton & Company.
+1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
+1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary
+ of Music_. Cambridge, MA: Belknap Press of Harvard University 
+ Press.
+1. Schoenberg, Arnold. 1967. _Fundamentals of Music
+ Composition_. Faber and Faber.
+1. Schoenberg, Arnold. 1954. _Structural Functions of Harmony_. 
+Edited by Leonard Stein. London: Faber and Faber.
+1. Schoenberg, Arnold. 1983. _Theory of Harmony_. Berkeley, 
+CA: University of California Press.
+1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
+1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. 
+New York: Schirmer.
+1. "Musictheory.net." 2000. http://musictheory.net.
+1. "Resposta Tonal." 2015. https://respostatonal.com.
 
 ## Links
 
