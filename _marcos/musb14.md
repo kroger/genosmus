@@ -111,15 +111,19 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzd
 
 ## Trabalhos
 
+Todos os trabalhos deverão ser entregues via sistema de
+ armazenamento em nuvem (Mega). Para cada trabalho, subir para
+ o repositório os devidos arquivos PDF, MP3 e original do 
+ software  usado (.sib, .mus, .ly, etc). Evitar arquivos .wav.
+
 ### Miniaturas
 
-Duração de 30 segundos a 1 minuto
-
+Duração de 30 segundos a 1 minuto.
 
 #### Miniatura 1
 
  - Conteúdo principal: Pré-serial - tonalidade expandida, harmonias quartais, quintais, politonalidade, policordes
- - Formação: Definir
+ - Formação: Quarteto de trombones
  - Entrega da partitura (online): ver data de entrega no cronograma
  - Entrega das partes (impressas): semana seguinte
 
@@ -168,6 +172,19 @@ Duração de 30 segundos a 1 minuto
  - 2 Tubas
  - 1 Bombardino?
  - 3 Percussionistas
+ 
+### Trabalhos adicionais
+
+[Em construção]
+
+Os trabalhos adicionais não valem nota, mas ajudam o estudante
+a compreender mais profundamente os conteúdos abordados.
+
+ - Listar os pontos abordados pelos autores dos livros da 
+ bibliografia a respeito de cada um dos tópicos do conteúdo
+ programático. Identificar pontos de interesse particular para
+ comentário em aula.
+ 
 
 ## Análise
 
