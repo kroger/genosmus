@@ -236,20 +236,20 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Bibliografia
 
-- Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
-- Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
-- Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
-- Cook, Nicholas. 1987. “A Guide to Musical Analysis.” New York and London: W. W. Norton & Company.
-- Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
-- Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
-- Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
-- Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
-- Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real Musical.
-- Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
-- Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
-- Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
-- Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
-- Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
+1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
+1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
+1. Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
+1. Cook, Nicholas. 1987. “A Guide to Musical Analysis.” New York and London: W. W. Norton & Company.
+1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
+1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
+1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
+1. Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
+1. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real Musical.
+1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
+1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
+1. Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
 
 ## Links
 

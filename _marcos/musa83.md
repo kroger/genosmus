@@ -162,12 +162,12 @@ O trabalho final será definido ao longo do semestre.
 
 ## Bibliografia
 
-  - Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
-  - Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
-  - Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
-  - Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
-  - Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
-  - Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+1. Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
+1. Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
+1. Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
+1. Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
+1. Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
+1. Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A Practical Guidebook. New York, NY: W.W. Norton and Company.
   
 ## Links
 
