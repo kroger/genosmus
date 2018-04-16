@@ -218,6 +218,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
   1. Stravinsky, A Sagração da Primavera
   1. Stravinsky, Petrushka
   1. Tchaikovsky, Concerto para Violino, Op. 35
+  1. Villa-Lobos, Choros n. 2
   1. Webern, Op. 5
   1. Webern, Op. 21
   1. Webern, Op. 27
