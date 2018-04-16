@@ -178,12 +178,10 @@ Aulas 3 e 4, dias 10 e 12/04/2018
 - Schubert, Sehnsucht D310B
 - Exemplos do capítulo de empréstimo modal de RG (ver links). Esses exemplos poderão ser vistos no celular.
 
-<!--
 #### 3. Acordes de nona, alterados, etc.
 
-- Franck, Sonata para violino e piano, mov. 1
-- ?
--->
+- Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
+- Schubert, Sehnsucht D310B (correção)
 
 ## Notas e frequência
 
