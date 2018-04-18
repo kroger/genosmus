@@ -193,6 +193,8 @@ Analysis and Synthesis. Boston: Houghton Mifflin.
 1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal 
 Harmony, with an Introduction to Twentieth-Century Music_. 
 3rd ed. New York, NY: McGraw-Hill.
+1. Motte, Dieter de La. 1991. _The Study of Harmony_: 
+An Historical Perspective. Dubuque, Iowa: WM. C. Brown Company.
 1. Palisca, Claude V. 2001. _Norton Anthology of Western 
 Music_. 4thed. New York and London: W. W. Norton & Company.
 1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
@@ -211,8 +213,10 @@ Century_: A Practical Guidebook. New York, NY: W.W. Norton
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
 1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. 
 New York: Schirmer.
-1. "Musictheory.net." 2000. http://musictheory.net.
-1. "Resposta Tonal." 2015. https://respostatonal.com.
+1. "Musictheory.net." 2000.
+ [http://musictheory.net](http://musictheory.net).
+1. "Resposta Tonal." 2015. 
+[https://respostatonal.com](https://respostatonal.com).
 
 ## Links
 
