@@ -153,9 +153,10 @@ Ver data de entrega de cada trabalho no cronograma.
  1. Coral
  1. Outras fontes sonoras
 
-Os trabalhos deverão ser entregues ao professor por email
-como anexos em formato PDF e com o assunto 
-`[MUSA83] Trabalho x`. __Não entregar em formato DOC__.
+*Importante*: Os trabalhos deverão ser entregues ao professor por email
+como anexos em formato PDF com o assunto 
+`[MUSA83] Trabalho x`. __Não entregar em formato DOC__ 
+nem anexar arquivo de áudio.
 
 ### Final
 
