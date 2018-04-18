@@ -180,8 +180,16 @@ Aulas 3 e 4, dias 10 e 12/04/2018
 
 #### 3. Acordes de nona, alterados, etc.
 
+Aulas 5 e 6, dias 17 e 19/04/2018
+
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
+
+#### 4. Conceitos de forma e características gerais das frases
+
+Aula 9, dia 03/05/2018
+
+- Clementi, op. 36, n. 1, mov. 1 
 
 ## Notas e frequência
 
