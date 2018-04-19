@@ -180,12 +180,20 @@ Duração de 30 segundos a 1 minuto.
 Os trabalhos adicionais não valem nota, mas ajudam o estudante
 a compreender mais profundamente os conteúdos abordados.
 
- - Listar os pontos abordados pelos autores dos livros da 
+ 1. Listar os pontos abordados pelos autores dos livros da 
  bibliografia a respeito de cada um dos tópicos do conteúdo
  programático. Identificar pontos de interesse particular para
  comentário em aula.
  
+ 1. Compor um motivo de 4 ou 6 alturas diferentes, sem repetição
+ de notas; compor outros motivos com as notas restantes; 
+ criar fragmento/melodia instrumental; escrever acompanhamento
 
+ 1. Definir uma série e harmonizar com tetracordes da própria 
+ série. evitar pares de 2as e 3as consecutivas. Apresentar
+ 3 a 5 ocorrências. Variar a maneira de acompanhar. Informar 
+ o que foi feito. Para piano.
+ 
 ## Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será analisada em conjunto durante as aulas:
