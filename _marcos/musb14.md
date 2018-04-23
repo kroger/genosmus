@@ -260,6 +260,10 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 1. Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
 
+### Complementar
+
+1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite for Piano, Op. 25: From Composition with Twelve-Tones to the Twelve-Tone Method." University of Southern California.
+
 ## Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
