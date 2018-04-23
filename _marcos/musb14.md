@@ -126,6 +126,7 @@ Duração de 30 segundos a 1 minuto.
  - Formação: Quarteto de trombones
  - Entrega da partitura (online): ver data de entrega no cronograma
  - Entrega das partes (impressas): semana seguinte
+ - Leitura: 22/05/2018, 18:30
 
 #### Miniatura 2
 
