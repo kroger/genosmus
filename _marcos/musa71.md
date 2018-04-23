@@ -185,7 +185,16 @@ Aulas 5 e 6, dias 17 e 19/04/2018
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
-#### 4. Conceitos de forma e características gerais das frases
+#### 4. Prática - harmonia cromática
+
+Aulas 7 e 8, dias 24 e 26/04/2018
+
+Obras não finalizadas em aulas anteriores:
+
+- Schubert, Sehnsucht D310B
+- Clementi, op. 36, n. 1, mov. 1
+
+#### 5. Conceitos de forma e características gerais das frases
 
 Aula 9, dia 03/05/2018
 
