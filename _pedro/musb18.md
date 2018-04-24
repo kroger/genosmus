@@ -34,12 +34,12 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 
 - Abr 13 -- O texto: escanção, metrificação, versificação, e prosódia
 - Abr 20 -- **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
-- Abr 27 -- **Trabalho**: análise do uso do texto em obras vocais em
+- <del>Abr 27 -- Desratização da EMUS</del> (sem aula)
+- Mai 04 -- **Trabalho**: análise do uso do texto em obras vocais em
   português (erudita e popular): 2 obras para cada tipo (4 no total)
   **(2.5 pts)**
-- Mai 04 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 11 -- **Trabalho**: análise de orquestração **(2.5 pts)**
-- Mai 18 -- Brainstorm e sugestões para obra final e projeto escrito (monografia)
+- Mai 18 -- **Trabalho**: análise de orquestração **(2.5 pts)**
 - Mai 25 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
 - Jun 01 -- Corpus Cristi
 - Jun 08 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
