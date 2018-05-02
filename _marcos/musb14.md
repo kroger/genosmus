@@ -223,6 +223,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
   1. Penderecki, Threnody
   1. Pitombeira, Ajubete Jepê Amô Mbaê
   1. Poulenc, Sonata for Two Clarinets
+  1. Rebelo, Disparate Bodies v2.0
   1. Schoenberg, Op. 25 
   1. Stravinsky, A Sagração da Primavera
   1. Stravinsky, Petrushka
