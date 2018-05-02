@@ -19,6 +19,8 @@ dimensões desde o Barroco até o século XX.
 
 ## Trabalhos
 
+- Entrega **9 de Maio**: Fazer redução do [Octeto para Sopros][5] de Beethoven (página completa).
+
 - Entrega **25 de Abril**: Fazer redução da [Serenata para Cordas][1]
   de Tchaikovsky, até a letra A.
 
@@ -60,3 +62,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [2]: https://www.dropbox.com/s/ks113157m7jamev/Cordas%20-%20Geral.pdf?dl=1
 [3]: https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=1
 [4]: http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line
+[5]: https://www.dropbox.com/s/mhkw51aklruets7/Beethoven%20Octet%20Op%20103.pdf?dl=1
+
