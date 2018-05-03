@@ -27,6 +27,10 @@ representativas do século XX, de grandes dimensões.
   
   - [Composições do Século 21](/pedro/composicoes-do-seculo-21/)
 
+### Trabalhos
+
+  - Entrega 11 de Maio: Redução da [Rapsódia Espanhola de Ravel][1], _Prelude a la Nuit_, compassos 18 a 34.
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
@@ -86,3 +90,5 @@ para me procurar; depois disso a nota não será modificada
 ## Notas
 
 {% include_relative geradas/musb18.md %}
+
+[1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=1
