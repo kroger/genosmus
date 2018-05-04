@@ -6,3 +6,4 @@
 | Filipe Palma Abreu        |    |    |    |    | 0     |          |
 | Jordan Santos Hohenfeld   |    |    |    |    | 0     |          |
 | Lucas Borges Jagersbacher |    |    |    |    | 0     |          |
+{: .table .table-sm }

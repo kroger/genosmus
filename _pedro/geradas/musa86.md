@@ -6,3 +6,4 @@
 | Guilherme Dourado Gentil          | 0    |    |    |    |    |    |    | 0    |          |
 | Jonatas Leal Gonçalves Dos Santos | 0    |    |    |    |    |    |    | 0    |          |
 | Sidnei Marques De Oliveira        | 1.25 |    |    |    |    |    |    | 1.25 |          |
+{: .table .table-sm }

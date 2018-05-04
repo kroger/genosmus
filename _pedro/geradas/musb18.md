@@ -6,3 +6,4 @@
 | Filipe Palma Abreu        | 0   | 1.25 |    |    |    |    |    |    |    |    |    |    | 0.5   |          |
 | Jordan Santos Hohenfeld   | 2.5 | 1.25 |    |    |    |    |    |    |    |    |    |    | 1.5   |          |
 | Lucas Borges Jagersbacher | 2.5 | 2.5  |    |    |    |    |    |    |    |    |    |    | 2.0   |          |
+{: .table .table-sm }
