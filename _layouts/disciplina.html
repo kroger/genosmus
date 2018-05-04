@@ -1,16 +1,11 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | replace: '--', '&ndash;' }}</h1>
+    <h2 class="blog-post-title">{{ page.title | replace: '--', '&ndash;' }}</h2>
     {% assign docente = site.data.docentes[page.collection] %}
     <p><b>Professor:</b> <a href="{{ docente.website }}">{{ docente.nome }}</a> ({{ docente.email }})
 </p>
-  </header>
 
-  <div class="post-content">
     {{ content | toc }}
-  </div>
-</article>
+

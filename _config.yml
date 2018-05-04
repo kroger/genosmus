@@ -8,7 +8,7 @@ semestre: "2018.1"
 timezone: "America/Bahia"
 
 markdown: kramdown
-exclude: [.idea, img, vendor, .bundle]
+exclude: [.idea, img, vendor, .bundle, bower_components]
 
 collections:
   pages:
