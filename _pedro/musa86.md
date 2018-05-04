@@ -29,21 +29,24 @@ dimensões desde o Barroco até o século XX.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
-- Abr 11 -- Revisão de Cordas
-- Abr 18 -- Orquestração para Cordas
-- Abr 25 -- **Entrega do trabalho 1 [1.25 pontos]**
-- Mai 02 -- Orquestração para Madeiras e Cordas
-- Mai 09 -- **Entrega do trabalho 2 [1.25 pontos]**
-- Mai 16 -- Orquestração para Metais, Madeiras e Cordas
-- Mai 23 -- **Entrega do trabalho 3 [1.25 pontos]**
-- Mai 30 -- Escrevendo para Orquestra
-- Jun 06 -- **Entrega do trabalho 4 [1.25 pontos]**
-- Jun 13 -- Acompanhamento
-- Jun 20 -- **Entrega do trabalho 5 [1.25 pontos]**
-- Jun 27 -- Transcrição para Orquestra
-- Jul 04 -- **Entrega do trabalho 6 [1.25 pontos]**
-- Jul 11 -- 
-- Jul 18 -- **Entrega do trabalho final [2.5 pontos]**
+
+| --- | --- |
+Abr 11 | Revisão de Cordas
+Abr 18 | Orquestração para Cordas
+Abr 25 | **Entrega do trabalho 1** (1.25 pontos)
+Mai 02 | Orquestração para Madeiras e Cordas
+Mai 09 | **Entrega do trabalho 2** (1.25 pontos)
+Mai 16 | Orquestração para Metais, Madeiras e Cordas
+Mai 23 | **Entrega do trabalho 3** (1.25 pontos)
+Mai 30 | Escrevendo para Orquestra
+Jun 06 | **Entrega do trabalho 4** (1.25 pontos)
+Jun 13 | Acompanhamento
+Jun 20 | **Entrega do trabalho 5** (1.25 pontos)
+Jun 27 | Transcrição para Orquestra
+Jul 04 | **Entrega do trabalho 6** (1.25 pontos)
+Jul 11 | 
+Jul 18 | **Entrega do trabalho final** (2.5 pontos)
+{: .table .table-sm}
 
 
 ## Avaliação
@@ -63,4 +66,3 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [3]: https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=1
 [4]: http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line
 [5]: https://www.dropbox.com/s/mhkw51aklruets7/Beethoven%20Octet%20Op%20103.pdf?dl=1
-

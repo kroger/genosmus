@@ -36,23 +36,23 @@ representativas do século XX, de grandes dimensões.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
-- Abr 13 -- O texto: escanção, metrificação, versificação, e prosódia
-- Abr 20 -- **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
-- <del>Abr 27 -- Desratização da EMUS</del> (sem aula)
-- Mai 04 -- **Trabalho**: análise do uso do texto em obras vocais em
-  português (erudita e popular): 2 obras para cada tipo (4 no total)
-  **(2.5 pts)**
-- Mai 11 -- **Trabalho**: análise de orquestração **(2.5 pts)**
-- Mai 18 -- **Trabalho**: análise de orquestração **(2.5 pts)**
-- Mai 25 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
-- Jun 01 -- Corpus Cristi
-- Jun 08 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
-- Jun 15 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
-- Jun 22 -- **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 4m**
-- Jun 29 -- **Relatório oral****:** Trecho da obra final e projeto escrito **(1 pt) 5m**
-- Jul 06 -- **Relatório oral****:** Trecho da obra final e projeto escrito **(1 pt) 6.5m**
-- Jul 13 -- **Relatório oral****:** Trecho da obra final e projeto escrito **(2 pt) 8m**
-- Jul 20 -- **Apresentação****:** Trecho da obra final e projeto escrito **(2 pt) 10m**
+| -- | -- |
+Abr 13 | O texto: escanção, metrificação, versificação, e prosódia
+Abr 20 | **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
+Abr 27 | <del>Desratização da EMUS</del> (sem aula)
+Mai 04 | **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular) **(2.5 pts)**
+Mai 11 | **Trabalho**: análise de orquestração **(2.5 pts)**
+Mai 18 | **Trabalho**: análise de orquestração **(2.5 pts)**
+Mai 25 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
+Jun 01 | <del>Corpus Cristi</del>
+Jun 08 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
+Jun 15 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
+Jun 22 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 4m**
+Jun 29 | **Relatório oral****:** Trecho da obra final e projeto escrito **(1 pt) 5m**
+Jul 06 | **Relatório oral****:** Trecho da obra final e projeto escrito **(1 pt) 6.5m**
+Jul 13 | **Relatório oral****:** Trecho da obra final e projeto escrito **(2 pt) 8m**
+Jul 20 | **Apresentação****:** Trecho da obra final e projeto escrito **(2 pt) 10m**
+{: .table .table-sm }
 
 
 ## Avaliação
@@ -77,15 +77,16 @@ final deverá ter no mínimo 20 minutos e será concluída em Composição X)
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
 início de aula do dia marcado para entrega. Eu não aceito trabalhos por
 e-mail. O aluno que faltar no dia da entrega de um trabalho poderá
-entregá-lo na aula seguinte se justificar a falta com atestado médico
-assinado e com número do Conselho Regional de Medicina.
+entregá-lo até 5 dias após a data de entrega original se justificar a falta com
+atestado médico assinado e com número do Conselho Regional de Medicina
+(Artigo 115 do Regulamento de Ensino de Graduação da UFBA).
 
 Crie o hábito de fazer backup dos seus trabalhos e projetos. Não será
 aceita a perda de dados como desculpa para dilatar o prazo de entrega.
 
 Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
-para me procurar; depois disso a nota não será modificada
+para me procurar; depois disso a nota não será modificada.
 
 ## Notas
 

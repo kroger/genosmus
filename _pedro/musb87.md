@@ -19,10 +19,12 @@ baseado no repertório ou obra específica do Trabalho Final.
 A avaliação consistirá da entrega de 4 relatórios da monografia
 referentes aos 10 primeiros minutos da composição final.
 
-- Jun 08 -- Relatório monografia 2.5 pontos
-- Jun 22 -- Relatório monografia 2.5 pontos
-- Jul 06 -- Relatório monografia 2.5 pontos
-- Jul 20 -- Relatório monografia 2.5 pontos
+---| ---
+Jun 08 | Relatório monografia 2.5 pontos
+Jun 22 | Relatório monografia 2.5 pontos
+Jul 06 | Relatório monografia 2.5 pontos
+Jul 20 | Relatório monografia 2.5 pontos
+{: .table .table-sm }
 
 
 ## Notas
