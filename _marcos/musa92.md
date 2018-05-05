@@ -117,6 +117,23 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUi
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=1269582914&amp;format=interactive" width="100%" height="400" frameborder="0" scrolling="no" seamless=""><span
 data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
 
+
+## Bibliografia
+
+
+### básica
+
+- Wikipedia. Music Software. Disponível em [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso em 02/05/2018.
+- Wikipedia. Web Search Engine. Disponível em [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso em 02/05/2018.
+- Wikipedia. Backup. Disponível em [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso em 02/05/2018.
+
+### Complementar
+
+- Wikipedia. Academic Search. Disponível em [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso em 02/05/2018.
+- Wikipedia. Cloud computing. Disponível em [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso em 02/05/2018.
+- Wikipedia. Mobile app. Disponível em [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso em 02/05/2018.
+
+
 ## Links
 
 Os links da disciplina estão disponíveis no <a title="Links da
