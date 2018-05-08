@@ -78,7 +78,7 @@ Os trabalhos deverão ser entregues por email.
 <!-- Trabalho 1: https://form.jotformz.com/80873765884677 -->
 <!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
 
-  * Trabalho 1. Entrega em 17/05/2018
+  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 17/05/2018
   * Trabalho 2. Entrega em 07/06/2018
 
 ### Seminários
@@ -117,11 +117,9 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUi
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=1269582914&amp;format=interactive" width="100%" height="400" frameborder="0" scrolling="no" seamless=""><span
 data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
 
-
 ## Bibliografia
 
-
-### básica
+### Básica
 
 - Wikipedia. Music Software. Disponível em [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso em 02/05/2018.
 - Wikipedia. Web Search Engine. Disponível em [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso em 02/05/2018.
@@ -140,3 +138,7 @@ Os links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
 href="http://www.diigo.com/list/msampaio/ferramentas-computacionais"
 target="_blank" rel="noopener noreferrer">Diigo</a>.
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.
