@@ -209,6 +209,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
   1. Bartók, Bagatelles Op. 6
   1. Berio, Sequenza I
   1. Bloch, Sonata for Piano
+  1. Cardoso, O Vôo do Colibri
   1. Chopin, Prelude n. 2
   1. Daugherty, Raise the Roof
   1. Espirito Santo, Dobrado n. 182
