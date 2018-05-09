@@ -198,7 +198,15 @@ Obras não finalizadas em aulas anteriores:
 
 Aula 9, dia 03/05/2018
 
-- Clementi, op. 36, n. 1, mov. 1 
+- Clementi, op. 36, n. 1, mov. 1
+
+#### 6. Estrutura harmônica da frase
+
+Aula 11, dia 10/05/2018
+
+- Clementi, op. 36, n. 1, mov. 1
+- Clementi, op. 36, n. 1, mov. 2
+- Schumann op. 68, n. 9
 
 ## Notas e frequência
 
