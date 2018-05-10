@@ -30,6 +30,7 @@ representativas do século XX, de grandes dimensões.
 ### Trabalhos
 
   - Entrega 11 de Maio: Redução da [Rapsódia Espanhola de Ravel][1], _Prelude a la Nuit_, compassos 18 a 34.
+  - Entrega 18 de maio: Análise da orquestração na _Alborada del Gracioso_ de Ravel. Até o número 8 de ensaio. [PDF][2] e [MP3][3]
 
 ## Cronograma
 
@@ -93,3 +94,5 @@ para me procurar; depois disso a nota não será modificada.
 {% include_relative geradas/musb18.md %}
 
 [1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=1
+[2]: https://www.dropbox.com/s/o604gwvyfw6rlx2/Ravel%20-%20Alborada%20del%20Gracioso.pdf?dl=1
+[3]: https://www.dropbox.com/s/bnkcy1yzctisgin/Ravel%20-%20Alborada%20del%20gracioso.mp3?dl=1
