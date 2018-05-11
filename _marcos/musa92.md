@@ -134,7 +134,13 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 
 ## Links
 
-Os links da disciplina estão disponíveis no <a title="Links da
+- [IMSLP](http://imslp.org/) - Repositório de partituras musicais
+- [CLDP](http://cpdl.org/) - Repositório de partituras musicais vocais
+- [Google Acadêmico](https://scholar.google.com.br/)
+- [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
+- [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
+
+Os demais links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
 href="http://www.diigo.com/list/msampaio/ferramentas-computacionais"
 target="_blank" rel="noopener noreferrer">Diigo</a>.
