@@ -126,9 +126,9 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Beethoven, op. 13, mov. 2 (apenas primeira página) [http://bit.ly/2tCiBct](http://bit.ly/2tCiBct)
 1. Beethoven, op. 27 n. 2, mov. 2 (Allegretto) [http://bit.ly/2uQiDh5](http://bit.ly/2uQiDh5)
 1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas) [http://bit.ly/2gW4mea](http://bit.ly/2gW4mea)
-1. Beethoven op. 26, mov. ii Trio  (p. 197 (9)) [http://goo.gl/gzDdYQ](http://goo.gl/gzDdYQ)
-1. Beethoven op. 26, mov. iii (p 10 (198)) [http://goo.gl/gzDdYQ ](http://goo.gl/gzDdYQ )
-1. Beethoven op. 57, mov. i (apenas primeira página) [http://bit.ly/2t9ZVjF](http://bit.ly/2t9ZVjF)
+1. Beethoven op. 26, mov. 2 Trio  (p. 197 (9)) [http://goo.gl/gzDdYQ](http://goo.gl/gzDdYQ)
+1. Beethoven op. 26, mov. 3 (p 10 (198)) [http://goo.gl/gzDdYQ ](http://goo.gl/gzDdYQ )
+1. Beethoven op. 57, mov. 1 (apenas primeira página) [http://bit.ly/2t9ZVjF](http://bit.ly/2t9ZVjF)
 1. Beethoven op. 67, mov. 3 (apenas primeira página) [http://bit.ly/2t9IrE7](http://bit.ly/2t9IrE7)
 1. Brahms, op. 49, n. 4 (Wiegenlied) [http://bit.ly/2uigV97](http://bit.ly/2uigV97)
 1. Clementi, op. 36., n. 1, mov. i. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
@@ -207,6 +207,26 @@ Aula 11, dia 10/05/2018
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
 - Schumann op. 68, n. 9
+
+#### 7. Estrutura melódica da frase
+
+Aula 12, dia 15/05/2018
+
+- Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
+- Clementi, op. 36, n. 1, mov. 1
+- Clementi, op. 36, n. 1, mov. 2
+- Schumann op. 68, n. 7
+- Schumann op. 68, n. 9
+
+#### 8. Desenvolvimento de frase
+
+Aula 13, dia 17/05/2018
+
+- Beethoven op. 57, mov. 1 (apenas primeira página)
+- Beethoven op. 67, mov. 3 (apenas primeira página)
+- Clementi, op. 36, n. 1, mov. 2
+- Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
+- Schubert, op. 99, mov. 3 (apenas primeira página)
 
 ## Notas e frequência
 
