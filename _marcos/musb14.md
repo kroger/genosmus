@@ -134,6 +134,7 @@ Duração de 30 segundos a 1 minuto.
  - Formação: Duo de clarinetes
  - Entregada partitura (online): ver data de entrega no cronograma
  - Entrega das partes (impressas): semana seguinte
+ - Leitura: 23/05/2018, 15:30 (sala 102)
 
 #### Miniatura 3
 
