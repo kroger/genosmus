@@ -140,7 +140,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Haydn, Divertimento in C major, Hob. XVI_7 [http://bit.ly/2v9XBb0](http://bit.ly/2v9XBb0)
 1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio) [http://bit.ly/2v9wEEl](http://bit.ly/2v9wEEl)
 1. Mendelssohn, op. 72, n. 1 [http://bit.ly/2v9dXjX](http://bit.ly/2v9dXjX)
-1. Mozart K284, mov. iii, tema [http://bit.ly/2tDP3L8](http://bit.ly/2tDP3L8)
+1. Mozart K284, mov. iii, Tema [http://bit.ly/2tDP3L8](http://bit.ly/2tDP3L8)
 1. Mozart K330, mov. ii (p 111 (7)) [http://goo.gl/FzonKS](http://goo.gl/FzonKS)
 1. Mozart K545, mov. i [http://bit.ly/2itGEpW](http://bit.ly/2itGEpW)
 1. Mozart K570, mov. ii (p 6 do pdf) [http://bit.ly/2uC2Xug](http://bit.ly/2uC2Xug)
@@ -227,6 +227,15 @@ Aula 13, dia 17/05/2018
 - Clementi, op. 36, n. 1, mov. 2
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, op. 99, mov. 3 (apenas primeira página)
+
+#### 9. Combinação de frases e prática composição e análise
+
+Aulas 14 e 15, dias 22 e 24/05/2018
+
+- Clementi, op. 36, n. 1, mov. 1
+- Clementi, op. 36, n. 1, mov. 2
+- Mozart K284, mov. iii, tema (p. 10(54))
+- Mozart K570, mov. ii (p 6 do pdf)
 
 ## Notas e frequência
 
