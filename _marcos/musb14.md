@@ -141,6 +141,7 @@ Duração de 30 segundos a 1 minuto.
  - Conteúdo principal: Indeterminação
  - Formação: Percussão solo (definir instrumental)
  - Entrega da partitura (online): ver data de entrega no cronograma
+ - Leitura: 21/06/2018, 15:00 (sala de percussão)
 
 #### Possíveis formações instrumentais para as miniaturas
 
