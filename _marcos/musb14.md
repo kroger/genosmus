@@ -162,18 +162,17 @@ Duração de 30 segundos a 1 minuto.
 
 #### Instrumentação
 
- - 4 flautas (1 flautim)
- - 2 oboés
- - 4 clarinetes
- - Sax alto
- - 2 Sax tenor
- - 1 Sax barítono
- - 4 Trompas
+ - Flautim
+ - 2 flautas
+ - 3 clarinetes (1 requinta)
+ - 2 Sax alto
+ - Sax tenor
+ - 2 Trompas
  - 3 Trompetes
- - 3 Trombones (1 baixo)
- - 2 Tubas
- - 1 Bombardino?
- - 3 Percussionistas
+ - 3 Trombones
+ - Tuba
+ - Bombardino
+ - 3 Percussionistas (bombo, caixa e prato)
  
 ### Trabalhos adicionais
 
