@@ -139,6 +139,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 - [Google Acadêmico](https://scholar.google.com.br/)
 - [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
 - [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
+- [Note Flight](https://www.noteflight.com/home) - Editor de partituras online
 
 Os demais links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
