@@ -79,7 +79,7 @@ Os trabalhos deverão ser entregues por email.
 <!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
 
   * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 17/05/2018
-  * Trabalho 2. Entrega em 07/06/2018
+  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 07/06/2018
 
 ### Seminários
 
