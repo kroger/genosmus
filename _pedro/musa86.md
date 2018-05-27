@@ -22,7 +22,7 @@ dimensões desde o Barroco até o século XX.
 - Entrega **25 de Abril**: Fazer redução da [Serenata para Cordas][1]
   de Tchaikovsky, até a letra A.
 - Entrega **9 de Maio**: Fazer redução do [Octeto para Sopros][5] de Beethoven (página completa).
-- Entrega **30 de Maio**: Orquestrar para sopros (sem cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
+- Entrega **6 de Junho**: Orquestrar para sopros (sem cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
 
 ## Cronograma
 
@@ -37,14 +37,14 @@ Abr 25 | **Entrega do trabalho 1** (1.25 pontos)
 Mai 02 | Orquestração para Madeiras e Cordas
 Mai 09 | **Entrega do trabalho 2** (1.25 pontos)
 Mai 16 | Orquestração para Metais, Madeiras e Cordas
-Mai 23 | Greve de onibus (sem aula)
-Mai 30 | **Entrega do trabalho 6** (1.25 pontos)
-Jun 06 | Transcrição para Orquestra
-Jun 13 | **Entrega do trabalho 5** (1.25 pontos)
-Jun 20 | Acompanhamento
-Jun 27 | **Entrega do trabalho 4** (1.25 pontos)
-Jul 04 | Escrevendo para Orquestra
-Jul 11 | **Entrega do trabalho 3** (1.25 pontos)
+Mai 23 | <del>Greve de onibus (sem aula)</del>
+Mai 30 | <del>Suspensão das aulas pela Reitoria</del>
+Jun 06 | **Entrega do trabalho 3** (1.25 pontos)
+Jun 13 | **Entrega do trabalho 4** (1.25 pontos)
+Jun 20 | Transcrição para Orquestra
+Jun 27 | **Entrega do trabalho 5** (1.25 pontos)
+Jul 04 | Acompanhamento
+Jul 11 | **Entrega do trabalho 6** (1.25 pontos)
 Jul 18 | **Entrega do trabalho final** (2.5 pontos)
 {: .table .table-sm}
 
