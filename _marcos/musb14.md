@@ -172,7 +172,7 @@ Duração de 30 segundos a 1 minuto.
  - 3 Trompetes
  - 3 Trombones
  - Tuba
- - Bombardino
+ - Bombardino (em Dó)
  - 3 Percussionistas (bombo, caixa e prato)
  
 ### Trabalhos adicionais
