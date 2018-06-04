@@ -133,6 +133,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Brahms, op. 49, n. 4 (Wiegenlied) [http://bit.ly/2uigV97](http://bit.ly/2uigV97)
 1. Clementi, op. 36., n. 1, mov. i. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
 1. Clementi, op. 36., n. 1, mov. ii. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
+1. Clementi, op. 36., n. 4, mov. ii. [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
 1. Diabelli, Le bouquetier op. 151, n. 1, mov. 1 [https://goo.gl/LQJL49](https://goo.gl/LQJL49)
 1. Diabelli, Le bouquetier op. 151, n. 4, mov. 1 [https://goo.gl/LQJL49](https://goo.gl/LQJL49)
 1. Diabelli, op. 168, n. 1, mov. 2. [http://bit.ly/2xRBtp9](http://bit.ly/2xRBtp9)
