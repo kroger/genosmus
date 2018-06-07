@@ -106,13 +106,11 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
-1. Misael Camila e Joana - ? 21/06
-2. Filipe e Yuri - ? 21/06
+1. Filipe, Yuri e Pedro -  21/06
+2. Misael Camila e Joana - Edição de partitura intermediária -> avançada 28/06
 3. Cecília, Josias e Rebecca? - Criação de página na internet 28/06
 
-* Claudio e Eliel - Ferramentas computacionais para educação musical
-
-
+* Cláudio, Eliel e Anderson - Ferramentas computacionais para educação musical
 
 ## Notas e frequência
 
