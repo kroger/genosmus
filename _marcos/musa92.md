@@ -106,6 +106,14 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
+1. Misael Camila e Joana - ? 21/06
+2. Filipe e Yuri - ? 21/06
+3. Cecília, Josias e Rebecca? - Criação de página na internet 28/06
+
+* Claudio e Eliel - Ferramentas computacionais para educação musical
+
+
+
 ## Notas e frequência
 
 <iframe
