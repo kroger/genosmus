@@ -43,8 +43,8 @@ Mai 30 | <del>Suspensão das aulas pela Reitoria</del>
 Jun 06 | **Entrega do trabalho 3** (1.25 pontos)
 Jun 13 | **Entrega do trabalho 4** (1.25 pontos)
 Jun 20 | Transcrição para Orquestra
-Jun 27 | **Entrega do trabalho 5** (1.25 pontos)
-Jul 04 | Acompanhamento
+Jun 27 | <del>Jogo do Brasil na Copa</del> (Determinação do Ministério do Planejamento)
+Jul 04 | **Entrega do trabalho 5** (1.25 pontos)
 Jul 11 | **Entrega do trabalho 6** (1.25 pontos)
 Jul 18 | **Entrega do trabalho final** (2.5 pontos)
 {: .table .table-sm}
