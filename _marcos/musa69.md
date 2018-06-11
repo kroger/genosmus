@@ -152,7 +152,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
   4. J.S.Bach, Coral #012 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   5. J.S.Bach, Coral #014 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   6. J.S.Bach, Coral #026 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
-  7. Schumann, Álbum para Juventude op. 68, n. 2 [http://bit.ly/2DVXbYH](http://bit.ly/2DVXbYH)
+  7. Schumann, Álbum para Juventude op. 68, n. 2 [http://bit.ly/2l0KFAc](http://bit.ly/2l0KFAc)
   8. Clementi, op. 36., n. 1, mov. i [http://bit.ly/2geyMUJ](http://bit.ly/2geyMUJ)
 
 ## Notas
