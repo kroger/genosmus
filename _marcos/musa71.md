@@ -261,6 +261,18 @@ Aula 17, dia 12/06/2018
 
 (composições já usadas no semestre)
 
+#### 12. Formas binárias: contínuas e secionais
+
+Aulas 18 e 19, dias 19 e 21/06/2018
+
+- J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben.
+- Clementi, op. 36, n. 1, mov. 1
+- Haydn, Divertimento in C major, Hob. XVI 7
+- Mozart K284, mov. iii, tema (p. 10 (54))
+- Mozart K330, mov. 2 (p 111 (7))
+- Mozart K570, mov. ii (p 6 do pdf)
+- Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
+
 ## Notas e frequência
 
 Em construção
