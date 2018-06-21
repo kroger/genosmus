@@ -24,6 +24,7 @@ dimensões desde o Barroco até o século XX.
 - Entrega **9 de Maio**: Fazer redução do [Octeto para Sopros][5] de Beethoven (página completa).
 - Entrega **6 de Junho**: Orquestrar para sopros (sem cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
 - Entrega **13 de Junho**: Fazer redução analítica do início do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
+- Entrega **4 de Julho**: Fazer redução analítica do trecho da _Sinfonia no. 4_ de Tchaikovsky. [Partitura][10]. [Áudio][11]
 
 ## Cronograma
 
@@ -71,3 +72,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [7]: https://www.dropbox.com/s/sxwiumot6osmmz3/Mussorgsky%20-%20Quadros%20Exposicao%20-%20Kiev.mp3?dl=1
 [8]: https://www.dropbox.com/s/rl2esll6p0cp1om/Wagner%20-%20Siegfried.pdf?dl=1
 [9]: https://www.dropbox.com/s/l88h4szhb4o2ouw/Wagner%20Siegfried.mp3?dl=1
+[10]: https://www.dropbox.com/s/snvkf6gcsvbme7w/Tchaikovsky%20Sinfonia%204.pdf?dl=1
+[11]: https://www.dropbox.com/s/x116y1mm4gya7au/Tchaikovsky%20Sinfonia%204.mp3?dl=1
