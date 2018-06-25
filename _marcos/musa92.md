@@ -108,8 +108,14 @@ Temas, integrantes e datas de apresentação
 
 1. Filipe, Yuri e Pedro -  21/06
 2. Misael Camila e Joana - Edição de partitura intermediária -> avançada 28/06
-3. Cecília, Josias e Rebecca? - Criação de página na internet 28/06
-
+3. ? 05/07 
+4. ? 05/07 
+5. ? 12/07 
+6. ? 12/07 
+7. ? 19/07 
+8. ? 19/07 
+ 
+* Cecília, Josias e Rebecca? - Criação de página na internet 28/06
 * Cláudio, Eliel e Anderson - Ferramentas computacionais para educação musical
 
 ## Notas e frequência
