@@ -273,6 +273,14 @@ Aulas 18 e 19, dias 19 e 21/06/2018
 - Mozart K570, mov. ii (p 6 do pdf)
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
+### 13. Análise e composição de pequenas formas
+
+Aula 20, dia 28/06/2018
+
+- Brahms, op. 49, n. 4 (Wiegenlied)
+- Diabelli, op. 168, n. 1, mov. 2
+- Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
+
 ## Notas e frequência
 
 Em construção
