@@ -149,6 +149,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
   1. J.S.Bach, Coral #001 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   2. J.S.Bach, Coral #006 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   3. J.S.Bach, Coral #007 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
+  3. J.S.Bach, Coral #009 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   4. J.S.Bach, Coral #012 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   5. J.S.Bach, Coral #014 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
   6. J.S.Bach, Coral #026 (Ed. Riemenschneider) [http://bit.ly/29deoiU](http://bit.ly/29deoiU)
