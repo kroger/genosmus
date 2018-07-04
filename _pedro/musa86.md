@@ -26,6 +26,10 @@ dimensões desde o Barroco até o século XX.
 - Entrega **13 de Junho**: Fazer redução analítica do início do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
 - Entrega **4 de Julho**: Fazer redução analítica do trecho da _Sinfonia no. 4_ de Tchaikovsky. **Colocar o nome dos instrumentos na redução**. [Partitura][10]. [Áudio][11]
 
+- Entrega **11 de Julho**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução**. [Partitura][12]. [Áudio][13]
+
+- Entrega **18 de Julho**: Valor 2.5 pontos. Fazer redução analítica do trecho do _Tombeau de Couperin_ de Ravel (até o número 4 de ensaio, página 5) e comparar com versão de piano em pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**. [Partitura Orquestra][14]. [Áudio][15]. [Partitura Piano][16]. [Áudio Piano][17]
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
@@ -74,3 +78,9 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [9]: https://www.dropbox.com/s/l88h4szhb4o2ouw/Wagner%20Siegfried.mp3?dl=1
 [10]: https://www.dropbox.com/s/snvkf6gcsvbme7w/Tchaikovsky%20Sinfonia%204.pdf?dl=1
 [11]: https://www.dropbox.com/s/x116y1mm4gya7au/Tchaikovsky%20Sinfonia%204.mp3?dl=1
+[12]: https://www.dropbox.com/s/tc4qjyq3v3klyl1/Brahms%20sinf%201.pdf?dl=1
+[13]: https://www.dropbox.com/s/4o3t3j4c0yt7jry/Brahms%20sinf%201.m4a?dl=1
+[14]: https://www.dropbox.com/s/plce7yxymooki8z/Ravel%20-%20Tombeau%20-%20Orq.pdf?dl=1
+[15]: https://www.dropbox.com/s/z4iqaiywqsbyswg/Ravel%20-%20Tombeau%20-%20Orq.m4a?dl=1
+[16]: https://www.dropbox.com/s/6d86z7erowabowq/Ravel%20-%20Tombeau%20-%20Piano.pdf?dl=1
+[17]: https://www.dropbox.com/s/qlv9b37km1l5ujd/Ravel%20-%20Tombeau%20-%20Piano.m4a?dl=1
