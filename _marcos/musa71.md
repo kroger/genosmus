@@ -281,6 +281,16 @@ Aula 20, dia 28/06/2018
 - Diabelli, op. 168, n. 1, mov. 2
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
+### 14. Análise de pequenas formas
+
+Aulas 21 e 22, dias 10 e 12/07/2018
+
+- Brahms, op. 49, n. 4 (Wiegenlied)
+- Mozart K330, mov. 2 (p 111 (7))
+- Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
+- Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
+- Schumann op. 68, n. 9
+
 ## Notas e frequência
 
 Em construção
