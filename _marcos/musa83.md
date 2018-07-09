@@ -160,7 +160,8 @@ nem anexar arquivo de áudio.
 
 ### Final
 
-O trabalho final será definido ao longo do semestre.
+O trabalho final está disponível [neste link](https://docs.google.com/document/d/1vqWkS8AYwGg7JrTg5vvXta4KkdPgAdqR34vYB3fZJC8/edit?usp=sharing).
+Deverá ser entregue até 17/07/2018, em formato pdf via email. Utilizar `[MUSA83] Trabalho final` como assunto da mensagem.
 
 ## Bibliografia
 
