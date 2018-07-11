@@ -151,7 +151,6 @@ Ver data de entrega de cada trabalho no cronograma.
  1. Contrabaixo
  1. Sax
  1. Percussão: tímpanos, marimba e vibrafone
- 1. Outras fontes sonoras (confirmar quais)
 
 *Importante*: Os trabalhos deverão ser entregues ao professor por email
 como anexos em formato PDF com o assunto 
