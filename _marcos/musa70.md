@@ -67,11 +67,11 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
-Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google).
 
 [Em construção]
 
+<!--
   1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas) [http://bit.ly/2yWl8AD](http://bit.ly/2yWl8AD)
   2. Clementi, op. 36., n. 1, mov. 1. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
   3. Clementi, op. 36., n. 1, mov. 1. [http://bit.ly/2znjjwK](http://bit.ly/2znjjwK)
@@ -94,6 +94,32 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
  20. Mozart K570, mov. 2 (p 6 do pdf, Adagio) [http://bit.ly/2uC2Xug](http://bit.ly/2uC2Xug)
  21. Paganini Capriccios Op 1, n. 4. (p. 7) [http://bit.ly/2DgGr2S](http://bit.ly/2DgGr2S)
  22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112)) [http://bit.ly/2Dl0ihC](http://bit.ly/2Dl0ihC)
+-->
+
+  1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas)
+  2. Clementi, op. 36., n. 1, mov. 1.
+  3. Clementi, op. 36., n. 1, mov. 1.
+  4. Clementi, op. 36., n. 1, mov. 1.
+  5. J.S. Bach, O Cravo Bem Temperado, vol. 1, n. 1 - Prelúdio.
+  6. Beethoven Op. 10, n. 1, mov. 1 (apenas primeira página)
+  7. Beethoven Op. 10, n. 1, mov. 3 (apenas primeira página do movimento)
+  8. Beethoven Op. 18, n. 2, mov. 3, Trio  (apenas página 35/11)
+  9. Beethoven Op. 28, mov. 1  (duas primeiras páginas)
+ 10. Beethoven, Op. 119, Bagatelle n. 9.
+ 11. Haydn, Piano Sonata 37, mov. 3 Trio.
+ 12. Haydn XVI/32 N. 47 Si menor, mov. 1 (apenas primeira página)
+ 13. Kuhlau, Op. 59 N. 1, mov. 1 (apenas primeira página)
+ 14. Mozart K173, mov. 1 (p 99 (5). Final do movimento)
+ 15. Mozart K280, mov. 1 (apenas primeira página)
+ 16. Mozart K284, mov. 3, tema
+ 17. Mozart K310, mov. 1 (apenas primeira pagina)
+ 18. Mozart K330, mov. 2 (p 111 (7))
+ 19. Mozart K545, mov. 1 (apenas a primeira página)
+ 20. Mozart K570, mov. 2 (p 6 do pdf, Adagio)
+ 21. Paganini Capriccios Op 1, n. 4. (p. 7)
+ 22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
+
+
 
 ## Notas e frequência
 
