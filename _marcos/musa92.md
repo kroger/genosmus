@@ -78,9 +78,13 @@ Os trabalhos deverão ser entregues por email.
   
 <!-- Trabalho 1: https://form.jotformz.com/80873765884677 -->
 <!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
+<!--
+  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 25/09/2018
+  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 23/10/2018
+-->
 
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 17/05/2018
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 07/06/2018
+* Trabalho 1. Entrega em 25/09/2018
+* Trabalho 2. Entrega em 23/10/2018
 
 ### Seminários
 
@@ -107,17 +111,6 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
-1. Filipe, Yuri e Pedro -  21/06
-2. Misael Camila e Joana - Edição de partitura intermediária -> avançada 28/06
-3. Cecília, Josias e Rebecca - Criação de página na internet 05/07 
-4. ? 05/07 
-5. ? 12/07 
-6. ? 12/07 
-7. Cláudio, Eliel e Anderson - Ferramentas computacionais para educação musical 19/07 
-8. ? 19/07 
- 
-* 28/06
-* 
 
 ## Notas e frequência
 
