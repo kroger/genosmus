@@ -63,12 +63,11 @@ width="100%" height="300"></iframe>
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
-Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google).
 
 [Em construção]
 
-
+<!-- Com links quebrados imslp
   1. Beethoven Op. 2, n. 1, mov. 1 [http://bit.ly/2ivopk5](http://bit.ly/2ivopk5)
   2. Beethoven Op. 2, n. 2, mov. 1 [http://bit.ly/2k3NkM6](http://bit.ly/2k3NkM6)
   3. Beethoven Op. 2, n. 3, mov. 1 [http://bit.ly/2k1wPQJ](http://bit.ly/2k1wPQJ)
@@ -89,6 +88,29 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
  18. Mozart K 333, mov. 1 [http://bit.ly/2yYLLFk](http://bit.ly/2yYLLFk)
  19. Mozart K 465, mov. 1 [http://bit.ly/2yVciTX](http://bit.ly/2yVciTX)
  20. Mozart K 545, mov. 1 [http://bit.ly/2itGEpW](http://bit.ly/2itGEpW)
+-->
+
+  1. Beethoven Op. 2, n. 1, mov. 1
+  2. Beethoven Op. 2, n. 2, mov. 1
+  3. Beethoven Op. 2, n. 3, mov. 1
+  4. Beethoven Op. 13, n. 1, mov. 1
+  4. Beethoven Op. 14, n. 1, mov. 1
+  5. Beethoven Op. 14, n. 2, mov. 1
+  6. Beethoven Quarteto Op. 18, n. 1, mov. 1
+  7. Beethoven Op. 27, n. 2, mov. 3
+  8. Beethoven Op. 28, n. 15, mov. 1
+  9. Beethoven Sonata Violino Op. 96, n. 10, mov. 1
+ 10. Beethoven Op. 111, n. 32, mov. 1
+ 11. Brahms Op. 68 (versão reduzida), mov. 1
+ 12. Clementi Op. 1 N. 5, mov. 1
+ 13. Haydn XVI/32 N. 47 Si menor, mov. 1
+ 14. Hindemith, Piano Sonata n. 2, mov. 1
+ 15. Kuhlau Op. 59 N. 1, mov. 1
+ 16. Mozart K 280, mov. 1
+ 17. Mozart K 310, mov. 1
+ 18. Mozart K 333, mov. 1
+ 19. Mozart K 465, mov. 1
+ 20. Mozart K 545, mov. 1
 
 ## Notas e frequência
 
