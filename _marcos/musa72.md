@@ -142,3 +142,7 @@ contém o número de alunos com média final dentro das faixas.
 <p style="margin-left: 24pt; text-indent: -24.0pt;">
   Zamacois, Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos Musicales</i>. Barcelona: Editorial Labor.
 </p>
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

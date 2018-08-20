@@ -188,3 +188,7 @@ contém o número de alunos com média final dentro das faixas.
 <p style="margin-left: 24pt; text-indent: -24.0pt;">
   Straus, Joseph Nathan. 1990. <i>Introduction to Post-Tonal Theory</i>. Englewood Cliffs, NJ: Prentice-Hall.
 </p>
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

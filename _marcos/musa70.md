@@ -165,3 +165,7 @@ contém o número de alunos com média final dentro das faixas.
 </p>
 
 <!-- mendeley type="folders" id="d4453a45-45fc-4da1-819e-4fae34da1a24" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.
