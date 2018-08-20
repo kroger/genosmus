@@ -48,6 +48,10 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuycKabRlsgj1buqsh89Yq7-IP2ZCBdWThS48TCWpOzJEAH9HNy6t9U2gPCmC1Ps_sM3-QFL-VuZ8d/pubhtml?gid=954751890&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="300"></iframe>
+
 ## Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a

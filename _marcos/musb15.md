@@ -13,15 +13,16 @@ level: graduacao
 
 ## Conteúdo programático
 
-  1. Serialismo
-  2. Teoria Pós-Tonal
-  3. Teoria de Relações de Contornos Musicais
-<li class="li1">
-  Apresentação e discussão do trabalho criativo
-</li>
-<li class="li1">
-  Composição para formações camerísticas até orquestras de pequenas dimensões
-</li>
+1. Teoria de Relações de Contornos musicais
+    1. Base teórica e cognitiva
+    1. Conceitos gerais
+    1. Propriedades
+    1. Reflexão
+    1. Direção
+    1. Similaridade
+    1. Múltiplas dimensões
+1. Apresentação e discussão do trabalho criativo
+1. Composição para formações camerísticas até orquestras de pequenas dimensões
 
 ## Avaliação
 
@@ -29,6 +30,9 @@ A avaliação nesta disciplina é realizada mediante trabalho de composição e 
 
 ### Nota
 
+O cálculo da nota está em construção, dependendo das formações disponíveis para leituras.
+
+<!--
 A média final é equivalente à média ponderada das notas dos trabalhos, com os seguintes pesos:
 
   1. Trabalhos semanais (peso 3)
@@ -46,6 +50,7 @@ Os trabalhos serão aceitos apenas se:
   2. forem entregues impreterivelmente no prazo, no início da aula marcada para a entrega.
 
 A composição final deverá ser entregue por meio digital, via email.
+-->
 
 ### Critérios de avaliação
 
@@ -76,11 +81,17 @@ As aulas são divididas em exposição de conteúdo, análise interativa de obra
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
-
-
-Leituras da banda: 05 e 07/12, 15:45, com Joel Barbosa
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIWOA8wNakz3wyUhvwl-xgMIAzqR9xr2sow2dLjwT2kgUkCXEMWSp_ZtMttTOkn63Ljnm5-79ul-le/pubhtml?gid=2125874849&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="300"></iframe>
 
 ## Trabalhos
+
+Os trabalhos estão sendo definidos, dependendo das formações disponíveis para leituras.
+O trabalho principal será para a formação da OSUFBA.
+
+
+<!--
 
 ### Exercícios semanais
 
@@ -100,6 +111,7 @@ Os exercícios semanais são pequenos fragmentos com aplicação dos conteúdos 
 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
 
+-->
 ## Análise
 
 Ao longo do semestre as obras listadas serão analisadas em conjunto durante as aulas:
@@ -140,7 +152,6 @@ O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
   
 contém o número de alunos com média final dentro das faixas.
-
 
 
 ## Links
