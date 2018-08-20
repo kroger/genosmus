@@ -1,6 +1,7 @@
 ---
 title: 'MUSA72 -- Literatura e Estruturação Musical IV'
 layout: disciplina
+toc: true
 level: graduacao
 ---
 

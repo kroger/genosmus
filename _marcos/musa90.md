@@ -1,6 +1,7 @@
 ---
 title: MUSA90 -- Técnicas de Análise I
 layout: disciplina
+toc: true
 level: graduacao
 ---
 

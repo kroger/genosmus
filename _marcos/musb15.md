@@ -1,6 +1,7 @@
 ---
 title: 'MUSB15 -- Composição VI'
 layout: disciplina
+toc: true
 level: graduacao
 ---
 

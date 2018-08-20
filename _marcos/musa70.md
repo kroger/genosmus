@@ -1,6 +1,7 @@
 ---
 title: MUSA70 -- Literatura e Estruturação Musical II
 layout: disciplina
+toc: true
 level: graduacao
 ---
 
