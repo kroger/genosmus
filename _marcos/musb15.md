@@ -142,18 +142,14 @@ Ao longo do semestre as obras listadas serão analisadas em conjunto durante as 
 
 ## Notas e frequência
 
+Em Construção
+
+<!--
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
-
-
-
-### Distribuição de notas
-
-O gráfico abaixo apresenta a distribuição da média final da turma. O
-  
-eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-  
-contém o número de alunos com média final dentro das faixas.
-
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="300"></iframe>
+-->
 
 ## Links
 
