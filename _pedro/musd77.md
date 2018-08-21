@@ -10,7 +10,7 @@ alguma atividade fora das disciplinas da Escola de Música da UFBA.
 
 ## Avaliação
 
-Entrega de um resumo até **20 de Julho** descrevendo a atividade
+Entrega de um resumo até **14 de Dezembro** descrevendo a atividade
 efetuada. Pode-se discutir e consultar o orientador sobre a natureza da
 atividade no decorrer do semestre, e orientações presenciais ou por
 email podem ser marcadas a partir da necessidade indivudual do aluno.
