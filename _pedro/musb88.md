@@ -16,29 +16,30 @@ baseado no repertório ou obra específica do Trabalho Final.
 
 ## Avaliação
 
-A avaliação consistirá da entrega de 4 relatórios da monografia
-referentes aos 10 primeiros minutos da composição final.
+A avaliação consistirá da entrega de 5 relatórios da monografia
+referentes a composição final.
 
-| -- | -- |
-Ago 31 | 
+| Data | Atividade | Valor
+| -- | -- | -- |
+Ago 31 | Acompanhamento da monografia
 Set 07 | <del>Feriado: Independência do Brasil</del>
-Set 14 | 
-Set 21 | 
-Set 28 | 
-Out 05 | 
+Set 14 | **Relatório oral e monografia** | 2pts
+Set 21 | Acompanhamento da monografia
+Set 28 | Acompanhamento da monografia
+Out 05 | **Relatório oral e monografia** | 2pts
 Out 12 | <del>Feriado</del>
-Out 19 | 
-Out 26 | 
+Out 19 | Acompanhamento da monografia
+Out 26 | **Relatório oral e monografia** | 2pts
 Nov 02 | <del>Feriado: Finados</del>
-Nov 09 | 
+Nov 09 | Acompanhamento da monografia
 Nov 16 | <del>Proclamação da República</del> (sem aula: trabalho em casa)
-Nov 23 | 
-Nov 30 | 
-Dez 07 | 
-Dez 14 | **Entrega trabalho final**
+Nov 23 | **Relatório oral e monografia** | 2pts
+Nov 30 | Acompanhamento da monografia
+Dez 07 | Acompanhamento da monografia
+Dez 14 | **Entrega trabalho final** | 2pts
 {: .table .table-sm }
 
 
 ## Notas
 
-{% include_relative geradas/musb87.md %}
+{% include_relative geradas/musb88.md %}
