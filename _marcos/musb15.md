@@ -8,9 +8,17 @@ level: graduacao
 
 ## Ementa
 
-<span style="font-weight: 400;">Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.</span>
 
-<!--FIXME: adicionar objetivos-->
+Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
+
+## Objetivos
+
+Ao final do curso espera-se que o estudante seja capaz de:
+
+  * Explorar sonoridades estruturadas a partir de contornos em suas composições
+  * Compor em formato de miniatura
+  * Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
+  * Compor para orquestra sinfônica pequena
 
 ## Conteúdo programático
 
@@ -113,6 +121,7 @@ Os exercícios semanais são pequenos fragmentos com aplicação dos conteúdos 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
 
 -->
+
 ## Análise
 
 Ao longo do semestre as obras listadas serão analisadas em conjunto durante as aulas:
@@ -153,38 +162,20 @@ width="100%" height="300"></iframe>
 
 ## Links
 
-  * <a title="Favoritos de Teoria Musical" href="https://www.diigo.com/list/msampaio/teoria-musical" target="_blank" rel="noopener">Favoritos de Teoria Musical</a>
-  * <a href="http://www.musictheory.net/calculators/matrix" target="_blank" rel="noopener">Calculadora de matriz dodecafônica</a>
-  * <a href="http://www.angelfire.com/music2/bahia/pcn/pcn2001ptb.htm" target="_blank" rel="noopener">PCN Jamary</a>
-  * <a href="http://contour.genosmus.com" target="_blank" rel="noopener">Contour Metrics -- Calculadora de contornos</a>
+* [Favoritos de Teoria Musical](https://www.diigo.com/list/msampaio/teoria-musical)
+* [Calculadora de contornos](https://contour.sampaio.me)
+* [Calculadora de matriz dodecafônica](http://www.musictheory.net/calculators/matrix)
+* [PCN Jamary](http://www.angelfire.com/music2/bahia/pcn/pcn2001ptb.htm)
 
 ## Bibliografia
 
-<!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" -->
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Adler, Samuel. 1989. <i>The Study of Orchestration</i>. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
-</p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Rahn, John. 1987. <i>Basic Atonal Theory</i>. MacMillan Publishing Company.
-</p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Sampaio, Marcos da Silva. 2012. “A Teoria de Relações de Contornos Musicais: Inconsistências, Soluções E Ferramentas.” Tese de Doutorado. Universidade Federal da Bahia.
-</p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Sampaio, Marcos da Silva, and Alex Pochat. 2016. “Aplicação de Contornos Na Composição Musical.” In <i>Perspectivas de Interpretação, Teoria E Composição Musical</i>, edited by Heinz Karl Novaes Schwebel and José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
-</p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Schoenberg, Arnold. 1967. <i>Fundamentals of Music Composition</i>. Faber and Faber.
-</p>
-
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Straus, Joseph Nathan. 1990. <i>Introduction to Post-Tonal Theory</i>. Englewood Cliffs, NJ: Prentice-Hall.
-</p>
+1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
+1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
+1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
+1. Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
+1. Sampaio, Marcos da Silva. 2012. A teoria de relações de contornos musicais: inconsistências, soluções e ferramentas. Tese de Doutorado. Universidade Federal da Bahia.
+1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 
 <hr>
 
