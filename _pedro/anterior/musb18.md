@@ -49,10 +49,10 @@ Jun 01 | <del>Corpus Cristi</del>
 Jun 08 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
 Jun 15 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
 Jun 22 | <del>Jogo do Brasil na Copa</del> (Determinação do Ministério do Planejamento)
-Jun 29 | **Relatório oral****:** Trecho da obra final e projeto escrito **(2 pt) 5m**
-Jul 06 | **Relatório oral****:** Trecho da obra final e projeto escrito **(1 pt) 6m**
-Jul 13 | **Relatório oral****:** Trecho da obra final e projeto escrito **(2 pt) 8m**
-Jul 20 | **Apresentação****:** Trecho da obra final e projeto escrito **(2 pt) 10m**
+Jun 29 | **Relatório oral:** Trecho da obra final e projeto escrito **(2 pt) 5m**
+Jul 06 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 6m**
+Jul 13 | **Relatório oral:** Trecho da obra final e projeto escrito **(2 pt) 8m**
+Jul 20 | **Apresentação:** Trecho da obra final e projeto escrito **(2 pt) 10m**
 {: .table .table-sm }
 
 

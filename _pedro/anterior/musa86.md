@@ -66,7 +66,6 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 {% include_relative geradas/musa86.md %}
 
-
 [1]: https://www.dropbox.com/s/yzsqtzqcsj33i75/Tchaikovsky%20Serenata%20Cordas.pdf?dl=1
 [2]: https://www.dropbox.com/s/ks113157m7jamev/Cordas%20-%20Geral.pdf?dl=1
 [3]: https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=1
