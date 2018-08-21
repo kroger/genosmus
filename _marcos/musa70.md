@@ -120,6 +120,16 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
  21. Paganini Capriccios Op 1, n. 4. (p. 7)
  22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
 
+### Lista organizada por conteúdo
+
+Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
+
+#### 1. Análise harmônica e formal (frases)
+
+Aula dia 21/08/2018
+
+- Mozart K284, mov. 3, tema
+
 ## Notas e frequência
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
