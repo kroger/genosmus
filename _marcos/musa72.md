@@ -105,6 +105,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
  11. Brahms Op. 68 (versão reduzida), mov. 1
  12. Clementi Op. 1 N. 5, mov. 1
  13. Haydn XVI/32 N. 47 Si menor, mov. 1
+ 13. Haydn XVI/34 N. 47 Mi menor, mov. 1
  14. Hindemith, Piano Sonata n. 2, mov. 1
  15. Kuhlau Op. 59 N. 1, mov. 1
  16. Mozart K 280, mov. 1

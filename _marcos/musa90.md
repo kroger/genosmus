@@ -45,11 +45,7 @@ Os estudantes deverão formar duplas e escolher, com orientação do professor, 
 
 #### Duplas
 
-  * Rosa -- Serialismo 09/01 **[adiado para 23/01]**
-  * Jonatas -- Análise motívica Brahms 30/01
-  * André e Rafael -- Análise Schenkeriana 06/02 **[remarcado para 30/01]**
-  * Guilherme e Ednaldo -- Serialismo em Schoenberg 23/01
-  * Laís e Diogo -- Textura 16/01
+A definir
 
 ## Notas e frequência
 
