@@ -99,7 +99,40 @@ width="100%" height="300"></iframe>
 Os trabalhos estão sendo definidos, dependendo das formações disponíveis para leituras.
 O trabalho principal será para a formação da OSUFBA.
 
+### Miniaturas
 
+Duração de 30 segundos a 1 minuto.
+
+Formações disponíveis:
+
+1. Quarteto vocal
+1. Quarteto de cordas
+1. Oboés (confirmar)
+
+#### Miniatura 1
+
+ - Conteúdo principal: a definir
+ - Formação: a definir
+ - Entrega da partitura (online): 06/09/2018
+ - Entrega das partes (impressas): semana seguinte
+ - Leitura: a definir
+ 
+#### Miniatura 2
+
+ - Conteúdo principal: a definir
+ - Formação: a definir
+ - Entrega da partitura (online): 20/09/2018
+ - Entrega das partes (impressas): semana seguinte
+ - Leitura: a definir
+ 
+#### Miniatura 3
+
+ - Conteúdo principal: a definir
+ - Formação: a definir
+ - Entrega da partitura (online): 04/10/2018
+ - Entrega das partes (impressas): semana seguinte
+ - Leitura: a definir
+ 
 <!--
 
 ### Exercícios semanais
