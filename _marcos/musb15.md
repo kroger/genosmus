@@ -41,10 +41,11 @@ A avaliação nesta disciplina é realizada mediante trabalho de composição e 
 
 O cálculo da nota está em construção, dependendo das formações disponíveis para leituras.
 
-<!--
 A média final é equivalente à média ponderada das notas dos trabalhos, com os seguintes pesos:
 
   1. Trabalhos semanais (peso 3)
+      1. Miniaturas 1 e 2, peso 0.75 
+      1. Miniaturas 3, peso 1.5 
   2. Composição final (peso 7): 
       1. avaliação da primeira metade da composição (peso 2)
       2. avaliação da segunda metade da composição e conjunto final (peso 5)
@@ -59,7 +60,6 @@ Os trabalhos serão aceitos apenas se:
   2. forem entregues impreterivelmente no prazo, no início da aula marcada para a entrega.
 
 A composição final deverá ser entregue por meio digital, via email.
--->
 
 ### Critérios de avaliação
 
@@ -129,10 +129,9 @@ Formações disponíveis:
 
  - Conteúdo principal: a definir
  - Formação: quarteto vocal
- - Entrega da partitura (online): 04/10/2018
+ - Entrega da partitura (online): 11/10/2018
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
- 
 
 ### Exercícios semanais
 
