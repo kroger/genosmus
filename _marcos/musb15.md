@@ -52,7 +52,7 @@ A média final é equivalente à média ponderada das notas dos trabalhos, com o
 
 Dessa forma, a média final será calculada pela equação 1, onde M representa a média, a, a soma das notas das miniaturas, b, a nota da primeira metade da composição final e c, da segunda metade e conjunto da composição.
 
-<img id="preview_img" src="http://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B3a%2B2b%2B5c%7D%7B10%7D&chs=&chf=&chco=" /> (eq.1)
+<img id="preview_img" src="https://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B3a%2B2b%2B5c%7D%7B10%7D&chs=&chf=&chco=" /> (eq.1)
 
 Os trabalhos serão aceitos apenas se:
 
