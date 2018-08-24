@@ -112,7 +112,7 @@ Formações disponíveis:
 #### Miniatura 1
 
  - Conteúdo principal: a definir
- - Formação: a definir
+ - Formação: duo do oboés
  - Entrega da partitura (online): 06/09/2018
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
@@ -120,7 +120,7 @@ Formações disponíveis:
 #### Miniatura 2
 
  - Conteúdo principal: a definir
- - Formação: a definir
+ - Formação: quarteto de cordas
  - Entrega da partitura (online): 20/09/2018
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
@@ -128,12 +128,11 @@ Formações disponíveis:
 #### Miniatura 3
 
  - Conteúdo principal: a definir
- - Formação: a definir
+ - Formação: quarteto vocal
  - Entrega da partitura (online): 04/10/2018
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
  
-<!--
 
 ### Exercícios semanais
 
@@ -141,19 +140,12 @@ Os exercícios semanais são pequenos fragmentos com aplicação dos conteúdos 
 
 [Tópicos em construção]
 
-  1. Entrega em <span style="text-decoration: underline;">26/10</span>. Definir uma série e harmonizar com tetracordes da própria série. evitar pares de 2as e 3as consecutivas. Apresentar 3 a 5 ocorrências. Variar a maneira de acompanhar. Indicar o que ocorre. Para piano.
-  2. Entrega em <span style="text-decoration: underline;">09/11</span>. Definir uma série e harmonizar com tetracordes da própria série. Evitar construir série com pares de 2as e/ou 3as consecutivas. Compor miniatura com três seções, a primeira de textura homofônica, a segunda, contrastante com a primeira, contrapontística, e a terceira de retorno à primeira (ABA&#8217;). Para orquestra de câmara (OSUFBA)
-  3. Entrega em <span style="text-decoration: underline;">16/11</span>. [Straus, cap. 1 -- contraponto].  Escrever pelo menos dois breves duetos entre instrumentos de orquestra de voz de contralto e soprano que tenham as características: a) começar com Dó central no contralto e Si sétima acima no soprano, b) usar semibreves como no contraponto de primeira espécie, c) o intervalo entre as partes deve ser um membro de ic1, ic2 ou ic6, d) cada parte pode mover-se para cima ou para baixo por in1, in2, in3 ou in4 [opcional]. e) terminar na nota que começou, f) dar um contorno atrativo, significativo para ambas as melodias.
-  4. Entrega em <span style="text-decoration: underline;">23/11</span>. [Straus, cap. 2]. Escreva uma pec?a curta para o seu instrumento na qual o principal senso de direc?a?o e? provido pela transposic?a?o sucessiva direcionada e propositada de um conjunto de classes de notas de sua escolha.
-  5. Entrega em <span style="text-decoration: underline;">30/11</span>. Compor uma miniatura para orquestra de cordas (1 minuto) com base em 2 classes de conjuntos diferentes. Esses conjuntos devem ocorrer superpostos em algum momento da peça. Utilizar operações diversas (transposição, inversão). Utilizar uma forma ABA.
-  6. <del>Entrega em 07/12</del> Eliminado em função da leitura
-  7. Entrega em <span style="text-decoration: underline;">14/12</span>.
+1. Compor pequeno fragmento musical, abstrair o contorno melódico e gerar outros materiais de forma que todos os 
+elementos tenham um único contorno. Formação: duo de oboés.
 
 ### Composição final
 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
-
--->
 
 ## Análise
 
