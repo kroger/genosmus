@@ -33,9 +33,9 @@ Out 03 | Transcrição para orquestra
 Out 10 | **Entrega do trabalho 3** (1.25 pontos)
 Out 17 | Transcrição para orquestra
 Out 24 | **Entrega do trabalho 4** (1.25 pontos)
-Out 31 | 
+Out 31 | *Música vocal (com Nathália Martins)*
 Nov 07 | **Entrega do trabalho 5** (1.25 pontos)
-Nov 14 | 
+Nov 14 | *Música vocal (com Nathália Martins)*
 Nov 21 | **Entrega do trabalho 6** (1.25 pontos)
 Nov 28 | Preparação de partitura e partes
 Dez 05 | Escrita para banda

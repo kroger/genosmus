@@ -21,8 +21,8 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 Ago 31 | Acompanhamento da composição
 Set 07 | <del>Feriado: Independência do Brasil</del> | |
 Set 14 | **Relatório oral e monografia** | 2pts | 12m
-Set 21 | Acompanhamento da composição
-Set 28 | Acompanhamento da composição
+Set 21 | *Música vocal (com Nathália Martins)*
+Set 28 | *Música vocal (com Nathália Martins)*
 Out 05 | **Relatório oral e monografia** | 2pts | 14m
 Out 12 | <del>Feriado</del> | |
 Out 19 | Acompanhamento da composição
