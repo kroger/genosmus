@@ -197,8 +197,10 @@ width="100%" height="300"></iframe>
 1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
 1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
 1. Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
-1. Sampaio, Marcos da Silva. 2012. A teoria de relações de contornos musicais: inconsistências, soluções e ferramentas. Tese de Doutorado. Universidade Federal da Bahia.
-1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+1. Moraes, Tharcisio, e Marcos Sampaio. 2015. "[Relações de contornos entre elementos sonoros e visuais do jogo Super Mario Bros](https://marcos.sampaio.me/pt-br/publicacoes/moraes-ea2015-relacoes/)". In Proceedings of SBGame 2015, 714–17. Teresina, PI.
+1. Sampaio, Marcos da Silva. 2012. [A Teoria de Relações de Contornos Musicais: inconsistências, soluções e ferramentas](https://marcos.sampaio.me/pt-br/publicacoes/sampaio2012b-teoria/). Tese de Doutorado. Universidade Federal da Bahia.
+1. Sampaio, Marcos da Silva. 2017. "[A Teoria de Relações de Contornos no Brasil" In Teoria e Análise Musical em perspectiva didática](https://marcos.sampaio.me/pt-br/publicacoes/sampaio2017-teoria/), editado por Ilza Nogueira. 123-138. Salvador: EDUFBA.
+1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "[Aplicação de Contornos Na Composição Musical](https://marcos.sampaio.me/pt-br/publicacoes/sampaio-ea2016-aplicacao/)." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador: EDUFBA.
 1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 
 <hr>
