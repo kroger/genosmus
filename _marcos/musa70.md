@@ -115,7 +115,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
  16. Mozart K284, mov. 3, tema
  17. Mozart K310, mov. 1 (apenas primeira pagina)
  18. Mozart K330, mov. 2 (p 111 (7))
- 19. Mozart K545, mov. 1 (apenas a primeira página)
+ 19. Mozart K545, mov. 1 (apenas a primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
  20. Mozart K570, mov. 2 (p 6 do pdf, Adagio)
  21. Paganini Capriccios Op 1, n. 4. (p. 7)
  22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
@@ -126,9 +126,16 @@ Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impress
 
 #### 1. Análise harmônica e formal (frases)
 
-Aula dia 21/08/2018
+Aula 1, dia 21/08/2018
 
 - Mozart K284, mov. 3, tema
+
+#### 2. Tonicização e modulação
+
+Aula 6, dia 05/09/2018
+
+- Clementi Op. 36, n. 3, mov. 1
+- Mozart K545, mov. 1 (apenas primeira página)
 
 ## Notas e frequência
 
