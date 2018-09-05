@@ -17,6 +17,9 @@ Continuação de Instrumentação e Orquestração III.
 
 ## Trabalhos
 
+- Trabalho 1: Redução analitica de trecho da Sinfonia 6 de Tchaikovsky.
+  [Partitura][1] e [Áudio][2]. A parte das cordas deverá estar em pentagramas
+  separados dos sopros.
 
 ## Cronograma
 
@@ -54,3 +57,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 {% include_relative geradas/musa87.md %}
 
+[1]: https://www.dropbox.com/s/bw5ilcba4xlm103/Tchaikovsky%20Sinfonia%206%20-%20Trecho.pdf?dl=1
+[2]: https://www.dropbox.com/s/zy9981088balrte/Tchaikovsky%20Symphony%206%20-%20Movement%204.mkv?dl=1
