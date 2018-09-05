@@ -98,9 +98,9 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
 -->
 
   1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas)
-  2. Clementi, op. 36., n. 1, mov. 1.
-  3. Clementi, op. 36., n. 1, mov. 1.
-  4. Clementi, op. 36., n. 1, mov. 1.
+  2. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
+  3. Clementi, op. 36, n. 2, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
+  4. Clementi, op. 36, n. 3, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
   5. J.S. Bach, O Cravo Bem Temperado, vol. 1, n. 1 - Prelúdio.
   6. Beethoven Op. 10, n. 1, mov. 1 (apenas primeira página)
   7. Beethoven Op. 10, n. 1, mov. 3 (apenas primeira página do movimento)
