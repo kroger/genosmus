@@ -30,7 +30,7 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 Ago 29 | Escrita para cordas
 Set 05 | Escrita para cordas
 Set 12 | **Entrega do trabalho 1** (1.25 pontos)
-Set 19 | Escrita para cordas
+Set 19 | Orquestração de acordes
 Set 26 | **Entrega do trabalho 2** (1.25 pontos)
 Out 03 | Transcrição para orquestra
 Out 10 | **Entrega do trabalho 3** (1.25 pontos)
