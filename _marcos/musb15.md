@@ -147,6 +147,8 @@ e, a partir de operações básicas de contorno, como retrógrado,
 inversão, compor outros materiais de forma que todos os elementos
 tenham um contorno pai. Formação: duo, preferencialmente de oboés.
 
+1. Compor pequeno fragmento musical a partir do contorno < 0 2 3 0 4 7 > para a formação piano e flauta. Buscar usar operacoes de contornos disponiveis na calculadora.
+
 ### Composição final
 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
