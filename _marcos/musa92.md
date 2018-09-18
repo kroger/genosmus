@@ -154,6 +154,12 @@ disciplina MUSA92"
 href="http://www.diigo.com/list/msampaio/ferramentas-computacionais"
 target="_blank" rel="noopener noreferrer">Diigo</a>.
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

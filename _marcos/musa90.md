@@ -92,6 +92,12 @@ width="100%" height="300"></iframe>
   Straus, Joseph Nathan. 1990. <i>Introduction to Post-Tonal Theory</i>. Englewood Cliffs, NJ: Prentice-Hall.
 </p>
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

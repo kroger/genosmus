@@ -176,6 +176,12 @@ Deverá ser entregue até 17/07/2018, em formato pdf via email. Utilizar `[MUSA8
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Playlist com vídeos no YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29ACkzLsDWNSPpgiqRZ6pTTfq-)
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

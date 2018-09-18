@@ -357,6 +357,12 @@ New York: Schirmer.
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

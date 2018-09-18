@@ -167,6 +167,12 @@ width="100%" height="300"></iframe>
   Zamacois, Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos Musicales</i>. Barcelona: Editorial Labor.
 </p>
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

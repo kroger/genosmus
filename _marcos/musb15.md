@@ -210,6 +210,12 @@ width="100%" height="300"></iframe>
 1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "[Aplicação de Contornos Na Composição Musical](https://marcos.sampaio.me/pt-br/publicacoes/sampaio-ea2016-aplicacao/)." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador: EDUFBA.
 1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 
+## Comunicação com o professor
+
+O único meio de comunicação autorizado pelo professor é o email.
+Em nenhuma circunstância um outro meio como telefone ou mensagens 
+poderá ser utilizado.
+
 <hr>
 
 Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.
