@@ -137,7 +137,15 @@ Aula 6, dia 05/09/2018
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
 
-## Notas e frequência
+#### 3. Análise harmônica e formal (combinação de frases)
+
+Aula 10, dia 20/09/2018
+
+- Clementi Op. 36, n. 3, mov. 1
+- Mozart K284, mov. 3, tema
+- Mozart K545, mov. 1 (apenas primeira página)
+
+## Notas
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
   
