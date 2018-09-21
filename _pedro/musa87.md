@@ -21,6 +21,11 @@ Continuação de Instrumentação e Orquestração III.
   [Partitura][1] e [Áudio][2]. A parte das cordas deverá estar em pentagramas
   separados dos sopros.
 
+- Trabalho 2: Orquestrar os acordes abaixo para orquestra completa levando em conta
+  a dinâmica indicada. Fazer **duas versões** de cada acorde.
+
+  ![](/trabalho-acordes.png)
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
