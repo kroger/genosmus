@@ -149,6 +149,34 @@ tenham um contorno pai. Formação: duo, preferencialmente de oboés.
 
 1. Compor pequeno fragmento musical a partir do contorno < 0 2 3 0 4 7 > para a formação piano e flauta. Buscar usar operacoes de contornos disponiveis na calculadora.
 
+1. Compor fragmento musical de até 40 segundos utilizando uma instrumentação 
+de livre escolha utilizando uma ou mais técnicas de composição entre as
+listadas abaixo. Para este trabalho será necessário criar um esquema analítico 
+mostrando como cada ferramentatécnica foi utilizada no trabalho.
+
+    1. Alturas
+        1. Escalas em geral(de 5 a 12 notas)
+        1. Escalas microtonais
+        1. Serialismo Clássico 
+        1. Serialismo Integral
+        1. Pos-Tonalidade
+        1. Música Eletroacústica
+        1. Música Aleatória
+        1. Música espectral
+        1. Minimalismo
+        1. Pontilismo
+        1. Micropolifonia
+        1. Sonorismo
+        1. Contornos
+        1. Tonalismo
+        1. Modalismo
+       
+    1. Durações
+        1. Modulação Métrica
+        1. Escala cromática de durações
+        1. Regressão ou progressão métrica
+        1. Serialismo Rítmico
+
 ### Composição final
 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
