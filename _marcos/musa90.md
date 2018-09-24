@@ -47,6 +47,12 @@ Os estudantes deverão formar duplas e escolher, com orientação do professor, 
 
 A definir
 
+### Extra
+
+Trabalho solicitado por Menahem:
+
+Escrever o ritmo determinado pela série 1 B 8 A 5 9 6 4 2 3 7 C, na qual 1 representa uma semicolcheia, 2 uma colcheia e assim por diante. Ver a sessão de 'serialismo rítmico' da [dissertação de Vinicius Amaro](https://mega.nz/#!fWgjVL6a!7Wv5g10SGI7pwngMvTTuYfNN3VdYwUbkVJDR_CmW6xo) em caso de dúvida.  
+
 ## Notas e frequência
 
 <iframe
