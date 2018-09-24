@@ -63,6 +63,7 @@ width="100%" height="300"></iframe>
 
   * <a href="http://www.musictheory.net/calculators/matrix" target="_blank" rel="noopener">Calculadora de matriz dodecafônica</a>
   * <a href="https://www.youtube.com/playlist?list=PLTuRmdq29ACnq7A1vXIomKMCYBxggI5QW" target="_blank" rel="noopener">Canal Youtube</a>
+  * [Milhaud, Six sonnets (audio)](https://archive.org/details/C_1962_06_05_c2)
 
 ## Bibliografia
 
