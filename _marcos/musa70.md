@@ -97,7 +97,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
  22. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112)) [http://bit.ly/2Dl0ihC](http://bit.ly/2Dl0ihC)
 -->
 
-  1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas)
+  1. Clementi Op. 1 N. 5, mov. 1 (duas primeiras páginas) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/3/3b/IMSLP02848-Clementi_1_5.pdf)
   2. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
   3. Clementi, op. 36, n. 2, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
   4. Clementi, op. 36, n. 3, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
@@ -108,13 +108,14 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   9. Beethoven Op. 28, mov. 1  (duas primeiras páginas)
  10. Beethoven, Op. 119, Bagatelle n. 9.
  11. Haydn, Piano Sonata 37, mov. 3 Trio.
- 12. Haydn XVI/32 N. 47 Si menor, mov. 1 (apenas primeira página)
- 13. Kuhlau, Op. 59 N. 1, mov. 1 (apenas primeira página)
+ 12. Haydn XVI/32 N. 47 Si menor, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/12/IMSLP00148-Haydn_-_Piano_Sonata_No_32_in_b.pdf)
+ 13. Kuhlau, Op. 59 N. 1, mov. 1 (apenas primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/9/97/IMSLP481807-PMLP780856-kuhlausonatinasforthepianovol.IOp.59No.1.pdf)
  14. Mozart K173, mov. 1 (p 99 (5). Final do movimento)
- 15. Mozart K280, mov. 1 (apenas primeira página)
+ 15. Mozart K280, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
  16. Mozart K284, mov. 3, tema
  17. Mozart K310, mov. 1 (apenas primeira pagina)
  18. Mozart K330, mov. 2 (p 111 (7))
+ 18. Mozart K333, mov. 1 (apenas primeira página)  [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP56440-PMLP01849-Mozart_Werke_Breitkopf_Serie_20_KV333.pdf)
  19. Mozart K545, mov. 1 (apenas a primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
  20. Mozart K570, mov. 2 (p 6 do pdf, Adagio)
  21. Paganini Capriccios Op 1, n. 4. (p. 7)
@@ -144,6 +145,21 @@ Aula 10, dia 20/09/2018
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K284, mov. 3, tema
 - Mozart K545, mov. 1 (apenas primeira página)
+
+###@ 4. Modulação
+
+Aulas 11, 12 e 13, dias 25 e 27/09 e 02/10/2018
+
+Apenas a primeira página em todas as peças, exceto a de Clementi
+
+- Kuhlau, Op. 59, n. 1
+- Clementi, Op. 1, n. 5 (duas primeiras páginas)
+- Haydn Sonata em Si menor
+- Mozart K545, mov. 1
+- Mozart K333
+- Mozart K280
+
+Obs: prioridade aula 11: Kuhlau, Clementi e K545
 
 ## Notas
 
