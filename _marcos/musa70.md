@@ -156,8 +156,8 @@ Apenas a primeira página em todas as peças, exceto a de Clementi
 - Clementi, Op. 1, n. 5 (duas primeiras páginas)
 - Haydn Sonata em Si menor
 - Mozart K545, mov. 1
-- Mozart K333
-- Mozart K280
+- Mozart K333, mov. 1
+- Mozart K280, mov. 1
 
 Obs: prioridade aula 11: Kuhlau, Clementi e K545
 
