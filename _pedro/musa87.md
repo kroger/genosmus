@@ -26,6 +26,9 @@ Continuação de Instrumentação e Orquestração III.
 
   ![](/trabalho-acordes.png)
 
+- Trabalho 3: Orquestrar dois trechos da Sonata 26 de Beethoven: do *início até a letra A* e do *Allegro até a letra B*. [Partitura][3] e [Áudio][4].
+
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
@@ -64,3 +67,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 [1]: https://www.dropbox.com/s/bw5ilcba4xlm103/Tchaikovsky%20Sinfonia%206%20-%20Trecho.pdf?dl=1
 [2]: https://www.dropbox.com/s/zy9981088balrte/Tchaikovsky%20Symphony%206%20-%20Movement%204.mkv?dl=1
+[3]: https://www.dropbox.com/s/behf8dl9mgo3hqo/Beethoven%20-%20Sonata%2026.pdf?dl=1
+[4]: https://www.dropbox.com/s/wk74bgxze21jtl2/Beethoven%20-%20Sonata%2026.mp3?dl=1
