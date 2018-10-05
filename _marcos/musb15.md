@@ -94,6 +94,10 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIWOA8wNakz3wyUhvwl-xgMIAzqR9xr2sow2dLjwT2kgUkCXEMWSp_ZtMttTOkn63Ljnm5-79ul-le/pubhtml?gid=2125874849&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
+### Itens extras
+
+1. Leitura de Banda sinfônica: 30/10/2018, 18 horas, Auditório
+
 ## Trabalhos
 
 Os trabalhos estão sendo definidos, dependendo das formações disponíveis para leituras.
@@ -115,7 +119,7 @@ Formações disponíveis:
  - Formação: duo do oboés
  - Entrega da partitura (online): 06/09/2018
  - Entrega das partes (impressas): semana seguinte
- - Leitura: a definir
+ - Leitura: 11/10/2018, 11hs, EMUS, sala a definir
  
 #### Miniatura 2
 
