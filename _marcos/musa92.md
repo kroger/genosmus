@@ -74,7 +74,7 @@ width="100%" height="300"></iframe>
 
 Valor: 50%
 
-Os trabalhos deverão ser entregues por email.
+Os trabalhos deverão ser entregues via formulário.
   
 <!-- Trabalho 1: https://form.jotformz.com/80873765884677 -->
 <!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
@@ -139,7 +139,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 ## Links
 
 - [IMSLP](http://imslp.org/) - Repositório de partituras musicais
-- [CLDP](http://cpdl.org/) - Repositório de partituras musicais vocais
+- [CPDL](http://cpdl.org/) - Repositório de partituras musicais vocais
 - [Google Acadêmico](https://scholar.google.com.br/)
 - [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
 - [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
