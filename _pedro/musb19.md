@@ -23,17 +23,17 @@ Set 07 | <del>Feriado: Independência do Brasil</del> | |
 Set 14 | **Relatório oral e monografia** | 2pts | 12m
 Set 21 | *Música vocal (com Nathália Martins)*
 Set 28 | *Música vocal (com Nathália Martins)*
-Out 05 | **Relatório oral e monografia** | 2pts | 14m
-Out 12 | <del>Feriado</del> | |
-Out 19 | Acompanhamento da composição
-Out 26 | **Relatório oral e monografia** | 2pts | 16m
-Nov 02 | <del>Feriado: Finados</del> | |
-Nov 09 | Acompanhamento da composição
-Nov 16 | <del>Proclamação da República</del> (sem aula: trabalho em casa) | |
-Nov 23 | **Relatório oral e monografia** | 2pts | 18m
-Nov 30 | Acompanhamento da composição
-Dez 07 | Acompanhamento da composição
-Dez 14 | **Entrega trabalho final** | 2pts | 20m
+Out 04 | **Relatório oral e monografia** | 2pts | 14m
+Out 11 | Acompanhamento da composição
+Out 18 | Acompanhamento da composição
+Out 25 | **Relatório oral e monografia** | 2pts | 16m
+Nov 01 | <del>Feriado: Finados</del> | |
+Nov 08 | Acompanhamento da composição
+Nov 15 | <del>Proclamação da República</del> (sem aula: trabalho em casa) | |
+Nov 22 | **Relatório oral e monografia** | 2pts | 18m
+Nov 29 | Acompanhamento da composição
+Dez 06 | Acompanhamento da composição
+Dez 13 | **Entrega trabalho final** | 2pts | 20m
 {: .table .table-sm }
 
 ## Avaliação
