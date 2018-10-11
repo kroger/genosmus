@@ -42,7 +42,7 @@ Set 19 | Orquestração de acordes
 Set 26 | **Entrega do trabalho 2** (1.25 pontos)
 Out 03 | Transcrição para orquestra
 Out 10 | **Entrega do trabalho 3** (1.25 pontos)
-Out 17 | Transcrição para orquestra
+Out 17 | <del>Congresso da UFBA</del> (Não haverá aula)
 Out 24 | **Entrega do trabalho 4** (1.25 pontos)
 Out 31 | *Música vocal (com Nathália Martins)*
 Nov 07 | **Entrega do trabalho 5** (1.25 pontos)

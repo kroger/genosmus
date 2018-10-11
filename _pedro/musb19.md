@@ -25,7 +25,7 @@ Set 21 | *Música vocal (com Nathália Martins)*
 Set 28 | *Música vocal (com Nathália Martins)*
 Out 04 | **Relatório oral e monografia** | 2pts | 14m
 Out 11 | Acompanhamento da composição
-Out 18 | Acompanhamento da composição
+Out 18 | <del>Congresso da UFBA</del> (Não haverá aula)
 Out 25 | **Relatório oral e monografia** | 2pts | 16m
 Nov 01 | <del>Feriado: Finados</del> | |
 Nov 08 | Acompanhamento da composição
