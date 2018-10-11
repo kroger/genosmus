@@ -92,27 +92,28 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
 -->
 
   1. Beethoven Op. 2, n. 1, mov. 1
-  2. Beethoven Op. 2, n. 2, mov. 1
-  3. Beethoven Op. 2, n. 3, mov. 1
-  4. Beethoven Op. 13, n. 1, mov. 1
-  4. Beethoven Op. 14, n. 1, mov. 1
-  5. Beethoven Op. 14, n. 2, mov. 1
-  6. Beethoven Quarteto Op. 18, n. 1, mov. 1
-  7. Beethoven Op. 27, n. 2, mov. 3
-  8. Beethoven Op. 28, n. 15, mov. 1
-  9. Beethoven Sonata Violino Op. 96, n. 10, mov. 1
- 10. Beethoven Op. 111, n. 32, mov. 1
- 11. Brahms Op. 68 (versão reduzida), mov. 1
- 12. Clementi Op. 1 N. 5, mov. 1
- 13. Haydn XVI/32 N. 47 Si menor, mov. 1
- 13. Haydn XVI/34 N. 47 Mi menor, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ef/IMSLP00150-Haydn_-_Piano_Sonata_No_34_in_e.pdf)
- 14. Hindemith, Piano Sonata n. 2, mov. 1
- 15. Kuhlau Op. 59 N. 1, mov. 1
- 16. Mozart K 280, mov. 1
- 17. Mozart K 310, mov. 1
- 18. Mozart K 333, mov. 1
- 19. Mozart K 465, mov. 1
- 20. Mozart K 545, mov. 1
+  1. Beethoven Op. 2, n. 2, mov. 1
+  1. Beethoven Op. 2, n. 3, mov. 1
+  1. Beethoven Op. 10, n. 1, mov. 1
+  1. Beethoven Op. 13, n. 1, mov. 1
+  1. Beethoven Op. 14, n. 1, mov. 1
+  1. Beethoven Op. 14, n. 2, mov. 1
+  1. Beethoven Quarteto Op. 18, n. 1, mov. 1
+  1. Beethoven Op. 27, n. 2, mov. 3
+  1. Beethoven Op. 28, n. 15, mov. 1
+  1. Beethoven Sonata Violino Op. 96, n. 10, mov. 1
+  1. Beethoven Op. 111, n. 32, mov. 1
+  1. Brahms Op. 68 (versão reduzida), mov. 1
+  1. Clementi Op. 1 N. 5, mov. 1
+  1. Haydn XVI/32 N. 47 Si menor, mov. 1
+  1. Haydn XVI/34 N. 47 Mi menor, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ef/IMSLP00150-Haydn_-_Piano_Sonata_No_34_in_e.pdf)
+  1. Hindemith, Piano Sonata n. 2, mov. 1
+  1. Kuhlau Op. 59 N. 1, mov. 1
+  1. Mozart K 280, mov. 1
+  1. Mozart K 310, mov. 1
+  1. Mozart K 333, mov. 1
+  1. Mozart K 465, mov. 1
+  2. Mozart K 545, mov. 1
 
 ## Notas e frequência
 
