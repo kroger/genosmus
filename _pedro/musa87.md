@@ -28,6 +28,8 @@ Continuação de Instrumentação e Orquestração III.
 
 - Trabalho 3: Orquestrar dois trechos da Sonata 26 de Beethoven: do *início até a letra A* e do *Allegro até a letra B*. [Partitura][3] e [Áudio][4].
 
+- Trabalho 4: Orquestrar dois trechos do Noturno op. 48 no. 1 de Chopin: os primeiros 8 compassos e da indicação em vermelho *2a parte* (na última página) até o final. [Partitura][5] e [Áudio][6].
+
 
 ## Cronograma
 
@@ -69,3 +71,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [2]: https://www.dropbox.com/s/zy9981088balrte/Tchaikovsky%20Symphony%206%20-%20Movement%204.mkv?dl=1
 [3]: https://www.dropbox.com/s/behf8dl9mgo3hqo/Beethoven%20-%20Sonata%2026.pdf?dl=1
 [4]: https://www.dropbox.com/s/wk74bgxze21jtl2/Beethoven%20-%20Sonata%2026.mp3?dl=1
+[5]: https://www.dropbox.com/s/86i4pbibxpszcef/Chopin%20Noturno.pdf?dl=1
+[6]: https://www.dropbox.com/s/lyfxdmyaz525ert/Chopin%20Noturno.mp3?dl=1
