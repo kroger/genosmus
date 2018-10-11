@@ -151,11 +151,11 @@ Aula 10, dia 20/09/2018
 
 #### 4. Modulação
 
-Aulas 11, 12 e 13, dias 25 e 27/09, 02, 09 e 11/10/2018
+Aulas 11 a 16, dias 25 e 27/09, 02, 09, 11 e 23/10/2018
 
-Apenas a primeira página em todas as peças, exceto a de Clementi
+*Apenas a primeira página em todas as peças*, exceto na de Clementi
 
-- Kuhlau, Op. 59, n. 1
+- Kuhlau, Op. 59, n. 1, mov. 1
 - Clementi, Op. 1, n. 5 (duas primeiras páginas)
 - Haydn Sonata em Si menor
 - Mozart K545, mov. 1
@@ -167,9 +167,10 @@ Obs: prioridade aula 11: Kuhlau, Clementi e K545
 Peças adicionais
 
 - Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
-- Mozart K310
-- Mozart K570
-- Haydn XVI/34 N. 47 Mi menor
+- Beethoven Op. 10, n. 1, mov. 1
+- Haydn XVI/34 N. 47 Mi menor, mov. 1
+- Mozart K310, mov. 1
+- Mozart K570, mov. 1
 
 ## Notas
 
