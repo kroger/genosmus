@@ -107,6 +107,13 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
+| Data | Equipe | Tema  |
+|---|---|---|
+| 30/10/18 | Marcos W. e Danielle | A definir |
+| 06/11/18 | - | - |
+| 20/11/18 | Liana e Marcos F. | A definir |
+| 27/11/18 | - | - |
+| 04/12/18 | - | - |
 
 ## Notas e frequência
 
