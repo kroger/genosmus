@@ -27,9 +27,9 @@ Out 04 | **Relatório oral e monografia** | 2pts | 14m
 Out 11 | Acompanhamento da composição
 Out 18 | <del>Congresso da UFBA</del> (Não haverá aula)
 Out 25 | **Relatório oral e monografia** | 2pts | 16m
-Nov 01 | <del>Feriado: Finados</del> | |
+Nov 01 | <del>Feriado: Finados</del> (sem aula: trabalho em casa) | |
 Nov 08 | Acompanhamento da composição
-Nov 15 | <del>Proclamação da República</del> (sem aula: trabalho em casa) | |
+Nov 15 | <del>Proclamação da República</del> | |
 Nov 22 | **Relatório oral e monografia** | 2pts | 18m
 Nov 29 | Acompanhamento da composição
 Dez 06 | Acompanhamento da composição
