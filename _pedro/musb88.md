@@ -26,17 +26,17 @@ Set 07 | <del>Feriado: Independência do Brasil</del>
 Set 14 | **Relatório oral e monografia** | 2pts
 Set 21 | Acompanhamento da monografia
 Set 28 | Acompanhamento da monografia
-Out 05 | **Relatório oral e monografia** | 2pts
-Out 12 | <del>Feriado</del>
-Out 19 | Acompanhamento da monografia
-Out 26 | **Relatório oral e monografia** | 2pts
-Nov 02 | <del>Feriado: Finados</del>
-Nov 09 | Acompanhamento da monografia
-Nov 16 | <del>Proclamação da República</del> (sem aula: trabalho em casa)
-Nov 23 | **Relatório oral e monografia** | 2pts
-Nov 30 | Acompanhamento da monografia
-Dez 07 | Acompanhamento da monografia
-Dez 14 | **Entrega trabalho final** | 2pts
+Out 04 | **Relatório oral e monografia** | 2pts
+Out 11 | <del>Feriado</del>
+Out 18 | <del>Congresso da UFBA</del> (Não haverá aula)
+Out 25 | **Relatório oral e monografia** | 2pts
+Nov 01 | <del>Feriado: Finados</del> (sem aula: trabalho em casa) | |
+Nov 08 | Acompanhamento da monografia
+Nov 15 | <del>Proclamação da República</del>
+Nov 22 | **Relatório oral e monografia** | 2pts
+Nov 29 | Acompanhamento da monografia
+Dez 06 | Acompanhamento da monografia
+Dez 13 | **Entrega trabalho final** | 2pts
 {: .table .table-sm }
 
 
