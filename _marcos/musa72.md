@@ -103,7 +103,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Beethoven Op. 28, n. 15, mov. 1
   1. Beethoven Sonata Violino Op. 96, n. 10, mov. 1
   1. Beethoven Op. 111, n. 32, mov. 1
-  1. Brahms Op. 68 (versão reduzida), mov. 1
+  1. Brahms Op. 68 (versão reduzida), mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/72/IMSLP12057-Brahms-Singer_-_Symphony_No.1.pdf)
   1. Clementi Op. 1 N. 5, mov. 1
   1. Haydn XVI/32 N. 47 Si menor, mov. 1
   1. Haydn XVI/34 N. 47 Mi menor, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ef/IMSLP00150-Haydn_-_Piano_Sonata_No_34_in_e.pdf)

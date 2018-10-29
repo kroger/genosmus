@@ -172,6 +172,12 @@ Peças adicionais
 - Mozart K310, mov. 1
 - Mozart K570, mov. 1
 
+#### 5. Análise harmônica e formal (formas compostas)
+
+Aula 17, dia 30/10/2018
+
+- Mozart K330, mov. 2 (todo o movimento)
+
 ## Notas
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
