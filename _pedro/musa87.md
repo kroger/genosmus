@@ -30,6 +30,8 @@ Continuação de Instrumentação e Orquestração III.
 
 - Trabalho 4: Orquestrar dois trechos do Noturno op. 48 no. 1 de Chopin: os primeiros 8 compassos e da indicação em vermelho *2a parte* (na última página) até o final. [Partitura][5] e [Áudio][6].
 
+- Trabalho 5: 
+
 
 ## Cronograma
 
