@@ -110,7 +110,7 @@ Temas, integrantes e datas de apresentação
 | Data | Equipe | Tema  |
 |---|---|---|
 | 30/10/18 | Marcos W. e Danielle | A definir |
-| 06/11/18 | - | - |
+| 06/11/18 | Aline e Wesley | Ntrack 9 e AmpMe |
 | 20/11/18 | Liana e Marcos F. | A definir |
 | 27/11/18 | - | - |
 | 04/12/18 | - | - |
