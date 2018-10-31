@@ -30,7 +30,7 @@ Continuação de Instrumentação e Orquestração III.
 
 - Trabalho 4: Orquestrar dois trechos do Noturno op. 48 no. 1 de Chopin: os primeiros 8 compassos e da indicação em vermelho *2a parte* (na última página) até o final. [Partitura][5] e [Áudio][6].
 
-- Trabalho 5: 
+- Trabalho 5: Orquestrar os primeiros 8 compassos do _Menuet Antique_ de Ravel (até a barra dupla, 1a casa) usando a seguinte formação orquestral: 2 flautas, 1 piccolo, 2 oboés, 1 corne inglês, 2 clarinetes, 1 clarinete baixo, 2 fagotes, 1 contra-fagote, 4 trompas, 3 trompetes, timpanos, harpa, e cordas. [Partitura][7] e [Áudio][8].
 
 
 ## Cronograma
@@ -75,3 +75,5 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [4]: https://www.dropbox.com/s/wk74bgxze21jtl2/Beethoven%20-%20Sonata%2026.mp3?dl=1
 [5]: https://www.dropbox.com/s/86i4pbibxpszcef/Chopin%20Noturno.pdf?dl=1
 [6]: https://www.dropbox.com/s/lyfxdmyaz525ert/Chopin%20Noturno.mp3?dl=1
+[7]: https://www.dropbox.com/s/z1tel6ep7108l39/Ravel%20Menuet%20Antique.pdf?dl=1
+[8]: https://www.dropbox.com/s/335ycroed5lr8yq/Menuet%20Antique.m4a?dl=1
