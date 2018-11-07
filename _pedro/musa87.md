@@ -52,8 +52,8 @@ Out 31 | *Música vocal (com Nathália Martins)*
 Nov 07 | **Entrega do trabalho 5** (1.25 pontos)
 Nov 14 | *Música vocal (com Nathália Martins)*
 Nov 21 | **Entrega do trabalho 6** (1.25 pontos)
-Nov 28 | Preparação de partitura e partes
-Dez 05 | Escrita para banda
+Nov 28 | Análise de exemplos
+Dez 05 | Análise de exemplos
 Dez 12 | **Entrega do trabalho final** (2.5 pontos)
 {: .table .table-sm}
 
