@@ -50,12 +50,10 @@ Os estudantes deverão formar duplas e escolher, com orientação do professor, 
 | Data | Equipe | Tema  |
 |---|---|---|
 | 30/10/18 | Victor | Algo com conjuntos ou serialismo |
-| 06/11/18 | - | - |
-| 06/11/18 | - | - |
 | 20/11/18 | Sidnei | Análise gestual |
 | 20/11/18 | Jordan | Serialismo |
-| 27/11/18 | - | - |
-| 27/11/18 | - | - |
+| 27/11/18 | Roberto | A definir |
+| 27/11/18 | George | A definir |
 | 04/12/18 | - | - |
 | 04/12/18 | Peter | MIR |
 

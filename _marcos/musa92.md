@@ -111,9 +111,10 @@ Temas, integrantes e datas de apresentação
 |---|---|---|
 | 30/10/18 | Marcos W. e Danielle | A definir |
 | 06/11/18 | Aline e Wesley | Ntrack 9 e AmpMe |
+| 13/11/18 | Gilson | Transcribe |
 | 20/11/18 | Liana e Marcos F. | A definir |
-| 27/11/18 | - | - |
-| 04/12/18 | - | - |
+| 27/11/18 | Ednaldo e Victor | A definir |
+| 04/12/18 | Elienai | A definir |
 
 ## Notas e frequência
 
