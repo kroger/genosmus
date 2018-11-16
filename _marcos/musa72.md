@@ -101,6 +101,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Beethoven Quarteto Op. 18, n. 1, mov. 1
   1. Beethoven Op. 27, n. 2, mov. 3
   1. Beethoven Op. 28, n. 15, mov. 1
+  1. Beethoven Op. 31, n. 3, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP51740-PMLP01469-Beethoven_Werke_Breitkopf_Serie_16_No_141_Op_31_No_3.pdf)
   1. Beethoven Sonata Violino Op. 96, n. 10, mov. 1
   1. Beethoven Op. 81a, n. 26, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b9/IMSLP51798-PMLP01483-Beethoven_Werke_Breitkopf_Serie_16_No_149_Op_81a.pdf)
   1. Beethoven Op. 111, n. 32, mov. 1
