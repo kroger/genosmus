@@ -32,9 +32,9 @@ Continuação de Instrumentação e Orquestração III.
 
 - Trabalho 5: Orquestrar os primeiros 8 compassos do _Menuet Antique_ de Ravel (até a barra dupla, 1a casa) usando a seguinte formação orquestral: 2 flautas, 1 piccolo, 2 oboés, 1 corne inglês, 2 clarinetes, 1 clarinete baixo, 2 fagotes, 1 contra-fagote, 4 trompas, 3 trompetes, timpanos, harpa, e cordas. [Partitura][7] e [Áudio][8].
 
-- Trabalho 6:
+- Trabalho 6: Orquestrar o seguinte trecho para piano. Levar em conta a textura original. [Partitura][9]. (não temos gravação)
 
-- Trabalho Final: Orquestrar o início do Prelúdio no. 1 para violão de Villa-Lobos (até a palavra "FIM" em vermelho na terceira página). Lembre-se que o violão **soa uma oitava abaixo** do escrito. Assim como uma orquestração de música para piano, é importante adaptar o original para a sonoridade da orquestra fazendo o uso de dobramentos e mudanças de oitavas quando necessário, porém sem alterar a característica original da composição. A sua orquestração deverá complementar a forma e o gesto musical da composição original. [Partitura][11] e [Áudio][12].
+- Trabalho Final: Orquestrar o início do Prelúdio no. 1 para violão de Villa-Lobos (até a palavra "FIM" em vermelho na terceira página). Lembre-se que o violão **soa uma oitava abaixo** do escrito. Assim como uma orquestração de música para piano, é importante adaptar o original para a sonoridade da orquestra fazendo o uso de dobramentos e mudanças de oitavas quando necessário, porém sem alterar a característica original da composição. A sua orquestração deverá complementar a forma e o gesto musical da composição original. [Partitura][10] e [Áudio][11].
 
 
 ## Cronograma
@@ -81,7 +81,6 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [6]: https://www.dropbox.com/s/lyfxdmyaz525ert/Chopin%20Noturno.mp3?dl=1
 [7]: https://www.dropbox.com/s/z1tel6ep7108l39/Ravel%20Menuet%20Antique.pdf?dl=1
 [8]: https://www.dropbox.com/s/335ycroed5lr8yq/Menuet%20Antique.m4a?dl=1
-[9]:
-[10]:
-[11]: https://www.dropbox.com/s/phrzbwkrwn00ptd/Villa-Lobos%20Preludio%201.pdf?dl=1
-[12]: https://www.dropbox.com/s/ef57g844lh2wlkg/Villa-Lobos%20Preludio%201.mp3?dl=1
+[9]: https://www.dropbox.com/s/zrrqe7kbrw33yx2/Trabalho%205.pdf?dl=1
+[10]: https://www.dropbox.com/s/phrzbwkrwn00ptd/Villa-Lobos%20Preludio%201.pdf?dl=1
+[11]: https://www.dropbox.com/s/ef57g844lh2wlkg/Villa-Lobos%20Preludio%201.mp3?dl=1
