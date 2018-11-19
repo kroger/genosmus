@@ -114,7 +114,7 @@ Temas, integrantes e datas de apresentação
 | 13/11/18 | Gilson | Transcribe |
 | 20/11/18 | Liana e Marcos F. | A definir |
 | 27/11/18 | Ednaldo e Victor | A definir |
-| 04/12/18 | Elienai | A definir |
+| 04/12/18 | Elienai / Heliane | A definir |
 
 ## Notas e frequência
 
