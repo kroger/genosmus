@@ -44,7 +44,7 @@ repositório com o site e instalar o Jekyll.
 
 ou com o macports:
 
-  sudo ports install ruby25 rb25-bundler libffi
+  sudo ports install ruby25 rb25-bundler libffi py-xlsx2csv
 
 Com o macports talvez seja necessário:
 
