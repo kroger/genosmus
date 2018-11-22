@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.0"
+gem "jekyll", "~> 3.8.5"
 gem "csv2md"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

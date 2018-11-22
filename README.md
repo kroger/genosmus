@@ -37,10 +37,20 @@ repositório com o site e instalar o Jekyll.
 
 	git clone git@github.com:kroger/genosmus.git
 
-2. Instale a versão mais nova do Ruby (2.5.1):
+2. Instale a versão mais nova do Ruby (2.5.x), com o homebrew:
 
 	brew update
 	brew install ruby
+
+ou com o macports:
+
+  sudo ports install ruby25 rb25-bundler libffi
+
+Com o macports talvez seja necessário:
+
+  cd /usr/local/lib
+  sudo ln -s ../../lib/libSystem.B.dylib libgcc_s.10.4.dylib
+
 
 3. Instale o Jekyll e suas dependências com o comando abaixo (no
    diretório com o código do site):
