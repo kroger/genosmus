@@ -98,25 +98,27 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Beethoven Op. 13, n. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ee/IMSLP243128-PMLP01410-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B131_Op_13_scan.pdf)
   1. Beethoven Op. 14, n. 1, mov. 1
   1. Beethoven Op. 14, n. 2, mov. 1
-  1. Beethoven Quarteto Op. 18, n. 1, mov. 1
+  1. Beethoven Quarteto Op. 18, n. 1, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP04755-Beethoven_-_String_Quartet_No.1_Dover.pdf)
   1. Beethoven Op. 27, n. 2, mov. 3
   1. Beethoven Op. 28, n. 15, mov. 1
   1. Beethoven Op. 31, n. 3, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP51740-PMLP01469-Beethoven_Werke_Breitkopf_Serie_16_No_141_Op_31_No_3.pdf)
-  1. Beethoven Op. 57, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/01/IMSLP51795-PMLP01480-Beethoven_Werke_Breitkopf_Serie_16_No_146_Op_57.pdf) até p. 13.
+  1. Beethoven Op. 57, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/01/IMSLP51795-PMLP01480-Beethoven_Werke_Breitkopf_Serie_16_No_146_Op_57.pdf) (até p. 13).
   1. Beethoven Op. 81a, n. 26, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b9/IMSLP51798-PMLP01483-Beethoven_Werke_Breitkopf_Serie_16_No_149_Op_81a.pdf)
   1. Beethoven Sonata Violino Op. 96, n. 10, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a8/IMSLP52024-PMLP10444-Beethoven_Werke_Breitkopf_Serie_12_No_101_Op_96.pdf)
   1. Beethoven Op. 111, n. 32, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7e/IMSLP51811-PMLP01489-Beethoven_Werke_Breitkopf_Serie_16_No_155_Op_111.pdf)
   1. Brahms Op. 68 (versão reduzida), mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/72/IMSLP12057-Brahms-Singer_-_Symphony_No.1.pdf)
   1. Clementi Op. 1 N. 5, mov. 1
-  1. Haydn XVI/32 N. 47 Si menor, mov. 1
+  1. Haydn XVI/32 N. 47 Si menor, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/12/IMSLP00148-Haydn_-_Piano_Sonata_No_32_in_b.pdf)
   1. Haydn XVI/34 N. 47 Mi menor, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ef/IMSLP00150-Haydn_-_Piano_Sonata_No_34_in_e.pdf)
   1. Hindemith, Piano Sonata n. 2, mov. 1 [IMSLP](http://petruccilibrary.ca/files/imglnks/caimg/2/28/IMSLP422919-PMLP501630-hindemithpianosonatano.2score(FE).pdf)
-  1. Kuhlau Op. 59 N. 1, mov. 1
-  1. Mozart K 280, mov. 1
-  1. Mozart K 310, mov. 1
-  1. Mozart K 333, mov. 1
+  1. Kuhlau Op. 59 N. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/9/97/IMSLP481807-PMLP780856-kuhlausonatinasforthepianovol.IOp.59No.1.pdf)
+  1. Mozart K 280, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
+  1. Mozart K 310, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/be/IMSLP56317-PMLP01843-Mozart_Werke_Breitkopf_Serie_20_KV310.pdf)
+  1. Mozart K 333, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP56440-PMLP01849-Mozart_Werke_Breitkopf_Serie_20_KV333.pdf)
   1. Mozart K 465, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/8/82/IMSLP01799-Mozart_-_String_Quartet_No.19_Score.pdf)
-  2. Mozart K 545, mov. 1
+  1. Mozart K 545, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
+  1. Mozart K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
+  
 
 ## Notas e frequência
 
