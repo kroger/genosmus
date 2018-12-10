@@ -114,8 +114,11 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Kuhlau Op. 59 N. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/9/97/IMSLP481807-PMLP780856-kuhlausonatinasforthepianovol.IOp.59No.1.pdf)
   1. Mozart K 280, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
   1. Mozart K 310, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/be/IMSLP56317-PMLP01843-Mozart_Werke_Breitkopf_Serie_20_KV310.pdf)
+  1. Mozart K 311, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/f9/IMSLP56318-PMLP01842-Mozart_Werke_Breitkopf_Serie_20_KV311.pdf)
   1. Mozart K 333, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP56440-PMLP01849-Mozart_Werke_Breitkopf_Serie_20_KV333.pdf)
+  1. Mozart K 457, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/06/IMSLP56441-PMLP01852-Mozart_Werke_Breitkopf_Serie_20_KV457.pdf)
   1. Mozart K 465, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/8/82/IMSLP01799-Mozart_-_String_Quartet_No.19_Score.pdf)
+  1. Mozart K 533, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b9/IMSLP56707-PMLP01854-Mozart_Werke_Breitkopf_Serie_22_KV533.pdf)
   1. Mozart K 545, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
   1. Mozart K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
   
