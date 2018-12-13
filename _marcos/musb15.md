@@ -216,12 +216,11 @@ Ao longo do semestre as obras listadas serão analisadas em conjunto durante as 
 
 Em Construção
 
-<!--
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
+
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=6205951&single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
--->
 
 ## Links
 
