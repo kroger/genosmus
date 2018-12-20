@@ -31,7 +31,6 @@ para me procurar; depois disso a nota não será modificada
 ## Materiais
 
   * [Kostka Harmonia](http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf)
-  * [Músicas para a prova de audição](http://genosmus.com/aulas/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip) [[lista](http://genosmus.com/ensino/musa75-literatura-e-estruturacao-musical-7/lista-prova-audicao-lem-7/ "Lista Prova Audição LEM 7")]
   * [Grove, _Mode_](http://genosmus.com/aulas/Mode.pdf)
   * Modos Zarlino
   * [Apostila Contraponto 1](http://genosmus.com/aulas/Contraponto%201.pdf)
@@ -43,6 +42,7 @@ para me procurar; depois disso a nota não será modificada
 ## Trabalho de Análise
 
   * [Trabalho de Análise](http://genosmus.com/ensino/musa75-literatura-e-estruturacao-musical-7/trabalho-analise/)
+
 
 ## Cronograma
 
