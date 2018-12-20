@@ -11,7 +11,7 @@ title: Disciplinas Pedro Kroger
 {% for page in pages %}
     {% assign path = page.relative_path | split: '/' %}
     {% assign folder = path[1] %}
-    {% if folder != 'anterior' and folder != 'index.html' and folder != 'apoio' %}
+    {% if path[1] contains '.md' %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
 {% endfor %}
