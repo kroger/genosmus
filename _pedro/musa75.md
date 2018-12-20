@@ -86,3 +86,13 @@ Out 27 | **Seminários**: Outros Compositores Renascentistas (Luã)
 
 ## Notas
 
+
+| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
+|------|----|----|----|----|----|----|----|------|
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+{: .table .table-sm }
+

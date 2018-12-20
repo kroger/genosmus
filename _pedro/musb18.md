@@ -91,7 +91,15 @@ para me procurar; depois disso a nota não será modificada.
 
 ## Notas
 
-{% include_relative geradas/musb18.md %}
+| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
+|------|----|----|----|----|----|----|----|------|
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+{: .table .table-sm }
+
 
 [1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=1
 [2]: https://www.dropbox.com/s/o604gwvyfw6rlx2/Ravel%20-%20Alborada%20del%20Gracioso.pdf?dl=1

@@ -29,4 +29,11 @@ Jul 20 | Relatório monografia 2.5 pontos
 
 ## Notas
 
-{% include_relative geradas/musb87.md %}
+| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
+|------|----|----|----|----|----|----|----|------|
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+|      |    |    |    |    |    |    |    | =sum |
+{: .table .table-sm }
