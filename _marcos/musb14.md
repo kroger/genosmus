@@ -58,7 +58,7 @@ A nota do semestre será equivalente a uma média ponderada do resultado obtido 
 
 Dessa forma, a média final será calculada pela equação 1, onde M representa a média, _a_, a soma das notas das miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segunda metade e conjunto da composição.
 
-<img id="preview_img" style="line-height: 1.5;" src="http://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B4a%2B2b%2B4c%7D%7B10%7D&chs=&chf=&chco=" /><span style="line-height: 1.5;">(eq.1)</span>
+<img id="preview_img" style="line-height: 1.5;" src="https://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B4a%2B2b%2B4c%7D%7B10%7D&chs=&chf=&chco=" /><span style="line-height: 1.5;">(eq.1)</span>
 
 Os trabalhos serão aceitos apenas se:
 
