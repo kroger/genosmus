@@ -12,7 +12,7 @@ baseado no repertório ou obra específica do Trabalho Final.
 ## Materiais
 
 - [Exemplo de Monografia de Composição](https://www.dropbox.com/s/leah34
-  golzgqc78/composicao-8-relatorio.pdf?dl=0)
+  golzgqc78/composicao-8-relatorio.pdf?dl=1)
 
 ## Avaliação
 
@@ -20,12 +20,11 @@ A avaliação consistirá da entrega de 4 relatórios da monografia
 referentes aos 10 primeiros minutos da composição final.
 
 ---| ---
-Jun 08 | Relatório monografia 2.5 pontos
-Jun 06 | Relatório monografia 2.5 pontos
-Jul 13 | Relatório monografia 2.5 pontos
-Jul 20 | Relatório monografia 2.5 pontos
+Mai 27 | Relatório monografia 2.5 pontos
+Jun 10 | Relatório monografia 2.5 pontos
+Jun 17 | Relatório monografia 2.5 pontos
+Jun 24 | Relatório monografia 2.5 pontos
 {: .table .table-sm }
-
 
 ## Notas
 

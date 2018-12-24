@@ -50,11 +50,11 @@ Abr 29 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m
 Mai 06 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
 Mai 13 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
 Mai 20 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 4m**
-Mai 27 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 5m**
+Mai 27 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
 Jun 03 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 6m**
-Jun 10 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 7m**
-Jun 17 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 8m**
-Jun 24 | **Apresentação:** Trecho da obra final e projeto escrito **(1 pt) 10m**
+Jun 10 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
+Jun 17 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
+Jun 24 | **Apresentação:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 10m**
 {: .table .table-sm }
 
 
