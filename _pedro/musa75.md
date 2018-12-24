@@ -11,10 +11,10 @@ Estudo do contraponto modal e estrito. A missa polifônica na Renascença e Ba
 
 A avaliação final será a média aritmética simples de 4 notas:
 
-  * 1 prova de audição e análise (10 pontos): Kostka cap 11–12, 16—19, 21—24
-  * 1 prova de contraponto estrito (10 pontos)
-  * 1 análise de obra, dividida em 5 etapas (10 pontos)
-  * 1 seminário oral com a apresentação de um tópico (10 pontos)
+  * 1 prova de audição e análise (2 pontos): Kostka cap 11–12, 16—19, 21—24
+  * 1 prova de contraponto estrito (2 pontos)
+  * 1 análise de obra, dividida em 5 etapas (3 pontos)
+  * 1 seminário oral com a apresentação de um tópico (3 pontos)
 
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
 início de aula do dia marcado para entrega. Eu não aceito trabalhos por
@@ -30,58 +30,52 @@ para me procurar; depois disso a nota não será modificada
 
 ## Materiais
 
-  * [Kostka Harmonia](http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf)
-  * [Grove, _Mode_](http://genosmus.com/aulas/Mode.pdf)
-  * Modos Zarlino
-  * [Apostila Contraponto 1](http://genosmus.com/aulas/Contraponto%201.pdf)
-  * [Apostila Contraponto 2](http://genosmus.com/aulas/Contraponto%202.pdf)
-  * [Apostila Contraponto 3](http://genosmus.com/aulas/Contraponto%203.pdf)
-  * [Apostila Contraponto 4](http://genosmus.com/aulas/Contraponto%204.pdf)
-  * [Apostila Contraponto 5](http://genosmus.com/aulas/Contraponto%205.pdf)
-
-## Trabalho de Análise
-
-  * [Trabalho de Análise](http://genosmus.com/ensino/musa75-literatura-e-estruturacao-musical-7/trabalho-analise/)
-
+  * [Kostka Harmonia][1]
+  * [Grove, _Mode_][2]
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
 
 | --- | --- |
-Jul 07 | Introdução ao curso. Revisão de harmonia e análise
-Jul 12 | Revisão
-Jul 14 | Congresso da UFBA
-Jul 19 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras
-Jul 21 | **Prova de Revisão (análise e harmonia) e Audição (10 pontos)**
-Jul 26 | Contraponto estrito: 1a espécie (visão geral)
-Jul 28 | Contraponto estrito: 2a espécie (visão geral)
-Ago 02 | Contraponto estrito: 3a espécie (visão geral)
-Ago 04 | Treinamento contraponto
-Ago 09 | Treinamento contraponto
-Ago 11 | Contraponto estrito: 4a espécie (visão geral)
-<del>Ago 16</del> | Paralização nacional
-Ago 18 | Contraponto estrito: 5a espécie (visão geral)
-<del>Ago 23</del> | Não haverá aula (atividades Departamento)
-Ago 25 | Revisão Contraponto
-Ago 30 | **Prova**: Contraponto estrito (10 pontos)
-Set 01 | Análise de obras
-Set 06 | Análise de obras
-Set 08 |
-Set 13 | **Trabalho**: análise de obra (2.5 pts)
-Set 15 |  **Trabalho**: análise de obra (2.5 pts)
-Set 20 | **Apresentação** dos trabalhos 1a parte (2.5 pts)
-Set 22 | **Apresentação** dos trabalhos 2a parte (2.5 pts)
-Set 27 | **Seminários**: Moteto (Ludwig)
-<del>Set 29</del> | Paralização
-<del>Out 04</del> | Não haverá aula: concurso para Docente
-<del>Out 06</del> | Não haverá aula: concurso para Docente
-Out 11 | **Seminários**: Madrigal (Daiana, Andre), Palestrina (Jonatas)
-Out 13 | **Seminários**: Missa (Jack)
-Out 18 | **Seminários**: Musica reservata (Habacuque)
-Out 20 | **Seminários**: Renascimento vs Barroco (Erinaldo, Jonas)
-Out 25 | **Seminários**: Época medieval vs Renascimento (Merjory e Viviane)
-Out 27 | **Seminários**: Outros Compositores Renascentistas (Luã)
+Fev 19 | Não haverá aula: preparação da sala para o semestre
+Fev 21 | Não haverá aula: preparação da sala para o semestre
+Fev 26 | <del>Carnaval</del>
+Fev 28 | <del>Carnaval</del>
+Mar 05 | <del>Carnaval</del>
+Mar 07 | <del>Carnaval</del>
+Mar 12 | Introdução ao curso. Revisão de harmonia e análise
+Mar 14 | Revisão
+Mar 19 | **Prova de Revisão (análise e harmonia) e Audição**
+Mar 21 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras
+Mar 26 | Contraponto estrito: 1a espécie (visão geral)
+Mar 28 | Treinamento contraponto
+Abr 02 | Contraponto estrito: 2a espécie (visão geral)
+Abr 04 | Treinamento contraponto
+Abr 09 | Contraponto estrito: 3a espécie (visão geral)
+Abr 11 | Treinamento contraponto
+Abr 16 | Contraponto estrito: 4a espécie (visão geral)
+Abr 18 | Treinamento contraponto
+Abr 23 | Contraponto estrito: 5a espécie (visão geral)
+Abr 25 | Treinamento contraponto
+Abr 30 | **Prova**: Contraponto estrito
+Mai 02 | 
+Mai 07 | Análise de obras
+Mai 09 | Análise de obras
+Mai 14 | 
+Mai 16 | **Trabalho**: análise de obra
+Mai 21 | **Trabalho**: análise de obra
+Mai 23 | **Apresentação** dos trabalhos 1a parte
+Mai 28 | **Apresentação** dos trabalhos 2a parte
+Mai 30 | 
+Jun 04 | **Seminários**: Moteto
+Jun 06 | **Seminários**: Madrigal
+Jun 11 | **Seminários**: Palestrina
+Jun 13 | **Seminários**: Missa
+Jun 18 | **Seminários**: Musica reservata
+Jun 20 | **Seminários**: Renascimento vs Barroco
+Jun 25 | **Seminários**: Época medieval vs Renascimento
+Jun 27 | **Seminários**: Outros Compositores Renascentistas
 {: .table .table-sm}
 
 ## Notas
@@ -96,3 +90,5 @@ Out 27 | **Seminários**: Outros Compositores Renascentistas (Luã)
 |      |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
+[1]: https://www.dropbox.com/s/bb23zsxbr3099ex/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=1
+[2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=1

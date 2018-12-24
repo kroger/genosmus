@@ -18,5 +18,5 @@ Palestras e defesas de tese serão listadas nessa sessão.
 
 Entrega de resumos de 3 palestras assistidas durante o semestre. Cada
 resumo deve conter o nome do palestrante, o título da palestra e um
-breve resumo do conteúdo. Os resumos devem ser entregues até **14 de
-Dezembro**.
+breve resumo do conteúdo. Os resumos devem ser entregues até **17 de
+Junho**.
