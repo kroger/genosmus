@@ -29,8 +29,6 @@ representativas do século XX, de grandes dimensões.
 
 ### Trabalhos
 
-  - Entrega 11 de Maio: Redução da [Rapsódia Espanhola de Ravel][1], _Prelude a la Nuit_, compassos 18 a 34.
-  - Entrega 18 de maio: Análise da orquestração na _Alborada del Gracioso_ de Ravel. Até o número 8 de ensaio. [PDF][2] e [MP3][3]
 
 ## Cronograma
 
@@ -38,33 +36,31 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
 | -- | -- |
-Abr 13 | O texto: escanção, metrificação, versificação, e prosódia
-Abr 20 | **Trabalho**: análise de versificação de texto literário em português **(2.5 pts)**
-Abr 27 | <del>Desratização da EMUS</del> (sem aula)
-Mai 04 | **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular) **(2.5 pts)**
-Mai 11 | **Trabalho**: análise de orquestração **(2.5 pts)**
-Mai 18 | **Trabalho**: análise de orquestração **(2.5 pts)**
-Mai 25 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
-Jun 01 | <del>Corpus Cristi</del>
-Jun 08 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
-Jun 15 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
-Jun 22 | <del>Jogo do Brasil na Copa</del> (Determinação do Ministério do Planejamento)
-Jun 29 | **Relatório oral:** Trecho da obra final e projeto escrito **(2 pt) 5m**
-Jul 06 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 6m**
-Jul 13 | **Relatório oral:** Trecho da obra final e projeto escrito **(2 pt) 8m**
-Jul 20 | **Apresentação:** Trecho da obra final e projeto escrito **(2 pt) 10m**
+Fev 18 | Não haverá aula: preparação da sala para o semestre
+Fev 25 | <del>Carnaval</del>
+Mar 04 | <del>Carnaval</del>
+Mar 11 | O texto: escanção, metrificação, versificação, e prosódia
+Mar 18 | **Trabalho**: análise de versificação de texto literário em português **(0.5 pt)**
+Mar 25 | **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)**
+Abr 01 | Tipos de vozes
+Abr 08 | Análise de orquestração
+Abr 15 | Análise de orquestração
+Abr 22 | 
+Abr 29 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
+Mai 06 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
+Mai 13 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
+Mai 20 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 4m**
+Mai 27 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 5m**
+Jun 03 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 6m**
+Jun 10 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 7m**
+Jun 17 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 8m**
+Jun 24 | **Apresentação:** Trecho da obra final e projeto escrito **(1 pt) 10m**
 {: .table .table-sm }
 
 
 ## Avaliação
 
-A nota final será composta pela média ponderada de duas notas:
-
-- A soma de 2 trabalhos de texto (2.5 pontos cada) e 2 trabalhos de
-  análise (2.5 pontos cada) com peso 4
-
-- A soma de 7 relatórios orais e a apresentação de um trecho da obra
-  final (total de 10 pontos) com peso 6.
+A nota final será composta pela soma dos trabalhos de texto e os relatórios orais com trechos da obra, em um total de 10 pontos.
   
 Para os relatórios e a apresentação você deve entregar um pdf da
 partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc)
