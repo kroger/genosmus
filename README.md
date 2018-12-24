@@ -42,15 +42,10 @@ repositório com o site e instalar o Jekyll.
 	brew update
 	brew install ruby
 
-ou com o macports:
+ou com o rbenv:
 
-  sudo ports install ruby25 rb25-bundler libffi py-xlsx2csv
-
-Com o macports talvez seja necessário:
-
-  cd /usr/local/lib
-  sudo ln -s ../../lib/libSystem.B.dylib libgcc_s.10.4.dylib
-
+  rbenv install 2.5.3
+  gem install bundle
 
 3. Instale o Jekyll e suas dependências com o comando abaixo (no
    diretório com o código do site):

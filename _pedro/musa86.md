@@ -19,16 +19,8 @@ dimensões desde o Barroco até o século XX.
 
 ## Trabalhos
 
-- Entrega **25 de Abril**: Fazer redução da [Serenata para Cordas][1]
-  de Tchaikovsky, até a letra A.
-- Entrega **9 de Maio**: Fazer redução do [Octeto para Sopros][5] de Beethoven (página completa).
-- Entrega **6 de Junho**: Orquestrar para sopros (sem cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
-- Entrega **13 de Junho**: Fazer redução analítica do início do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
-- Entrega **4 de Julho**: Fazer redução analítica do trecho da _Sinfonia no. 4_ de Tchaikovsky. **Colocar o nome dos instrumentos na redução**. [Partitura][10]. [Áudio][11]
+- **Trabalho 1 (27 de Março)**: Redução da [Serenata para Cordas][1] de Tchaikovsky, até a letra A.
 
-- Entrega **11 de Julho**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução**. [Partitura][12]. [Áudio][13]
-
-- Entrega **18 de Julho**: Valor 2.5 pontos. Fazer redução analítica do trecho do _Tombeau de Couperin_ de Ravel (até o número 4 de ensaio, página 5) e comparar com versão de piano em pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**. [Partitura Orquestra][14]. [Áudio][15]. [Partitura Piano][16]. [Áudio Piano][17]
 
 ## Cronograma
 
@@ -37,21 +29,25 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 
 
 | --- | --- |
-Abr 11 | Revisão de Cordas
-Abr 18 | Orquestração para Cordas
-Abr 25 | **Entrega do trabalho 1** (1.25 pontos)
-Mai 02 | Orquestração para Madeiras e Cordas
-Mai 09 | **Entrega do trabalho 2** (1.25 pontos)
-Mai 16 | Orquestração para Metais, Madeiras e Cordas
-Mai 23 | <del>Greve de onibus (sem aula)</del>
-Mai 30 | <del>Suspensão das aulas pela Reitoria</del>
-Jun 06 | **Entrega do trabalho 3** (1.25 pontos)
-Jun 13 | **Entrega do trabalho 4** (1.25 pontos)
-Jun 20 | Transcrição para Orquestra
-Jun 27 | <del>Jogo do Brasil na Copa</del> (Determinação do Ministério do Planejamento)
-Jul 04 | **Entrega do trabalho 5** (1.25 pontos)
-Jul 11 | **Entrega do trabalho 6** (1.25 pontos)
-Jul 18 | **Entrega do trabalho final** (2.5 pontos)
+Fev 20 | Não haverá aula: preparação da sala para o semestre
+Fev 27 | <del>Carnaval</del>
+Mar 06 | <del>Carnaval</del>
+Mar 13 | Revisão de Cordas
+Mar 20 | Orquestração para Cordas e **Entrega do trabalho 1** (1.25 pontos)
+Mar 27 | **Entrega do trabalho 1** (1.25 pontos)
+Abr 03 | Orquestração para Madeiras e Cordas
+Abr 10 | **Entrega do trabalho 2** (1.25 pontos)
+Abr 17 | Revisão de metais
+Abr 24 | **Entrega do trabalho 3** (1.25 pontos)
+Mai 01 | <del>Dia to trabalho</del>
+Mai 08 | Orquestração para Metais, Madeiras e Cordas
+Mai 15 | **Entrega do trabalho 4** (1.25 pontos)
+Mai 22 | Transcrição para Orquestra
+Mai 29 | **Entrega do trabalho 5** (1.25 pontos)
+Jun 05 | Análise de obras
+Jun 12 | **Entrega do trabalho 6** (1.25 pontos)
+Jun 19 | Análise de obras
+Jun 26 | **Entrega do trabalho final** (2.5 pontos)
 {: .table .table-sm}
 
 
