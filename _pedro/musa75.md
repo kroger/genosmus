@@ -90,5 +90,6 @@ Jun 27 | **Seminários**: Outros Compositores Renascentistas
 |      |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
+
 [1]: https://www.dropbox.com/s/bb23zsxbr3099ex/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=1
 [2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=1
