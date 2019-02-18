@@ -49,10 +49,9 @@ São pré-requisitos dessa disciplina o entendimento da estrutura e a percepçã
 
 A avaliação nesta disciplina é realizada mediante:
 
- - Prova escrita e de audição de obras (Peso 3)
- - Trabalhos semanais (Peso 3)
- - Trabalho final de transcrição (Peso 4)
-
+ - 3 Provas escritas e de reconhecimento auditivo de instrumentos (Peso 6)
+ - Trabalhos semanais (Peso 4)
+ 
 Os critérios gerais de avaliação são:
 
   * Cumprimento do objetivo da tarefa
@@ -136,7 +135,9 @@ instrumento:
     1. as particularidades quanto à emissão do som e articulação
     1. os recursos sonoros idiomáticos.
  1. Uma pequena composição autoral de 4 a 8 compassos explorando
- particularidades do instrumento.
+ particularidades do instrumento ou transcrição de uma melodia 
+ previamente definida.
+ 
  
 #### Lista de trabalhos
 
@@ -156,10 +157,14 @@ como anexos em formato PDF com o assunto
 `[MUSA83] Trabalho x`. __Não entregar em formato DOC__ 
 nem anexar arquivo de áudio.
 
-### Final
+### Provas
 
+[Em construção]
+
+<!--
 O trabalho final está disponível [neste link](https://docs.google.com/document/d/1vqWkS8AYwGg7JrTg5vvXta4KkdPgAdqR34vYB3fZJC8/edit?usp=sharing).
 Deverá ser entregue até 17/07/2018, em formato pdf via email. Utilizar `[MUSA83] Trabalho final` como assunto da mensagem.
+-->
 
 ## Bibliografia
 
