@@ -3,7 +3,6 @@ title: MUSA83 -- Introdução à Instrumentação
 layout: disciplina
 toc: true
 level: graduacao
-new: true
 ---
 
 ## Ementa
@@ -143,7 +142,7 @@ instrumento:
 
 Ver data de entrega de cada trabalho no cronograma.
 
- 1. Flauta e clarinete (entrega em 17/04/2018)
+ 1. Flauta e clarinete
  1. Oboé e fagote
  1. Trompa e trompete
  1. Trombone e tuba
