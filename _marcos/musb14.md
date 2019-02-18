@@ -219,18 +219,24 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 
 ### Música de câmara
 
+#### Piano
+1. Bartók, Bagatelles Op. 6
 1. Bartók, Mikrokosmos, 59
 1. Bartók, Mikrokosmos, 101
 1. Bartók, Mikrokosmos, 125
 1. Bartók, Mikrokosmos, 131
-1. Bartók, Bagatelles Op. 6
-1. Bartók, Quarteto n. 1
 1. Brahms, Intermezzo. Op. 118, n. 2
 1. Beethoven, Piano Sonata n. 8 Op. 13  
-1. Berio, Sequenza I
 1. Bloch, Sonata for Piano
 1. Chopin, Prelude n. 2
 1. Debussy, Claire de Lune
+1. Milhaud, Saudades do Brazil, Sorocaba
+1. Schoenberg, Op. 25 (Suíte para Piano)
+1. Webern, Op. 27
+
+#### Outros
+1. Bartók, Quarteto n. 1
+1. Berio, Sequenza I
 1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and Piano
 1. Franck, Sonata violino
 1. Ginastera, Sonata for guitar, Op. 47
@@ -238,19 +244,15 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Ligeti: 6 Bagatelles for Wind Quintet
 1. Mendelssohn, Quarteto de cordas Op. 80
 1. Messiaen, Le banquet celeste
-1. Milhaud, Saudades do Brazil, Sorocaba
 1. Pitombeira, Ajubete Jepê Amô Mbaê
 1. Poulenc, Sonata for Two Clarinets
 1. Ravel, Quarteto em Fá maior
 1. Rebelo, Disparate Bodies v2.0
-1. Schoenberg, Op. 25 (Suíte para Piano)
 1. Schoenberg, Op. 4 (Noite Transfigurada)
 1. Schubert, Quarteto n. 14
 1. Villa-Lobos, Choros n. 2
 1. Webern, Op. 5
 1. Webern, Op. 21
-1. Webern, Op. 27
-
 
 ### Música sinfônica
 
