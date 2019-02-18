@@ -28,11 +28,13 @@ Jun 24 | Relatório monografia 2.5 pontos
 
 ## Notas
 
-| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|------|----|----|----|----|----|----|----|------|
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
+| Nome              | R1 | R2 | R3 | R4 | Nota |
+|:------------------|:---|:---|:---|:---|:-----|
+| Diego Neves       |    |    |    |    | =sum |
+| Edinaldo De Paiva |    |    |    |    | =sum |
+| George Cristian   |    |    |    |    | =sum |
+| Jordan Hohenfeld  |    |    |    |    | =sum |
+| Peter Marques     |    |    |    |    | =sum |
+| Sidnei Marques    |    |    |    |    | =sum |
 {: .table .table-sm }
+

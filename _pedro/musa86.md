@@ -60,13 +60,17 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 ## Notas
 
-| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|------|----|----|----|----|----|----|----|------|
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
+| Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
+|:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
+| Cristiano Wilson   |    |    |    |    |    |    |    | =sum |
+| Edinaldo De Paiva  |    |    |    |    |    |    |    | =sum |
+| Izabella Baldoíno  |    |    |    |    |    |    |    | =sum |
+| Laís Cavalcanti    |    |    |    |    |    |    |    | =sum |
+| Leandro Sukevicius |    |    |    |    |    |    |    | =sum |
+| Peter Marques      |    |    |    |    |    |    |    | =sum |
+| Roberto Intelisano |    |    |    |    |    |    |    | =sum |
+| Victor De Oliveira |    |    |    |    |    |    |    | =sum |
+| Zizimo Fonseca     |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
