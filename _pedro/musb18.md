@@ -87,13 +87,14 @@ para me procurar; depois disso a nota não será modificada.
 
 ## Notas
 
-| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|------|----|----|----|----|----|----|----|------|
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
+| Nome              | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
+|:------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
+| Diego Neves       |    |    |    |    |    |    |    | =sum |
+| Edinaldo De Paiva |    |    |    |    |    |    |    | =sum |
+| George Cristian   |    |    |    |    |    |    |    | =sum |
+| Jordan Hohenfeld  |    |    |    |    |    |    |    | =sum |
+| Peter Marques     |    |    |    |    |    |    |    | =sum |
+| Sidnei Marques    |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
