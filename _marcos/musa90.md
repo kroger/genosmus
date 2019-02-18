@@ -71,43 +71,29 @@ width="100%" height="300"></iframe>
 
 ## Links
 
-  * <a href="http://www.musictheory.net/calculators/matrix" target="_blank" rel="noopener">Calculadora de matriz dodecafônica</a>
-  * <a href="https://www.youtube.com/playlist?list=PLTuRmdq29ACnq7A1vXIomKMCYBxggI5QW" target="_blank" rel="noopener">Canal Youtube</a>
-  * [Milhaud, Six sonnets (audio)](https://archive.org/details/C_1962_06_05_c2)
+- [Calculadora de matriz dodecafônica](http://www.musictheory.net/calculators/matrix)
+- [Canal Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACnq7A1vXIomKMCYBxggI5QW)
+- [Milhaud, Six sonnets (audio)](https://archive.org/details/C_1962_06_05_c2)
 
 ## Bibliografia
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Bent, Ian, and Anthony Pople. 2011. “Analysis.” In <i>Grove Music Online</i>.
-</p>
+1. Bent, Ian, and Anthony Pople. 2011. “Analysis.” In *Grove Music Online*.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Berry, Wallace. 1987. <i>Structural Functions in Music</i>. New York: Dover Publications, Inc.
-</p>
+1. Berry, Wallace. 1987. *Structural Functions in Music*. New York: Dover Publications, Inc.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Cook, Nicholas. 1987. <i>A Guide to Musical Analysis</i>. Vol. s4–XII. New York and London: W. W. Norton & Company.
-</p>
+1. Cook, Nicholas. 1987. *A Guide to Musical Analysis*. Vol. s4–XII. New York and London: W. W. Norton & Company.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Gentil-Nunes, Pauxy. 2009. “Análise Particional: Uma Mediação Entre Composição Musical E a Teoria Das Partições.” Universidade Federal do Rio de Janeiro.
-</p>
+1. Fineberg, Joshua. 2000. “Guide to the Basic Concepts and Techniques of Spectral Music.” *Contemporary Music Review* 19 (2): 81–113.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Gerling, Cristina Capparelli. 1989. “A Teoria de Heinrich Schenker: uma Breve Introdução.” <i>Em Pauta</i> 1 (1): 22–34.
-</p>
+1. Gentil-Nunes, Pauxy. 2009. “Análise Particional: uma mediação entre Composição Musical e a Teoria das Partições.” Tese de Doutorado. Universidade Federal do Rio de Janeiro.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Schmalfeldt, Janet. 1985. “On the Relation of Analysis to Performance: Beethoven’s ‘Bagatelles’ Op. 126, Nos. 2 and 5.” <i>Journal of Music Theory</i> 29 (1): 1–31.
-</p>
+1. Gerling, Cristina Capparelli. 1989. “A Teoria de Heinrich Schenker: uma Breve Introdução.” *Em Pauta* 1 (1): 22–34.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Schoenberg, Arnold. 1967. <i>Fundamentals of Music Composition</i>. Faber and Faber.
-</p>
+1. Schmalfeldt, Janet. 1985. “On the Relation of Analysis to Performance: Beethoven’s ‘Bagatelles’ Op. 126, Nos. 2 and 5.” *Journal of Music Theory* 29 (1): 1–31.
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Straus, Joseph Nathan. 1990. <i>Introduction to Post-Tonal Theory</i>. Englewood Cliffs, NJ: Prentice-Hall.
-</p>
+1. Schoenberg, Arnold. 1967. *Fundamentals of Music Composition*. Faber and Faber.
+
+1. Straus, Joseph Nathan. 1990. *Introduction to Post-Tonal Theory*. Englewood Cliffs, NJ: Prentice-Hall.
 
 ## Comunicação com o professor
 
