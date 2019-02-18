@@ -7,7 +7,9 @@ level: graduacao
 
 ## Ementa
 
-Estudo e prática de Técnicas Composicionais: manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
+Estudo e prática de Técnicas Composicionais: manipulação e exploração de elementos musicais do século XX, politonalismo, 
+pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase
+ em obras de pequenas dimensões.
 
 ## Objetivos
 
@@ -33,7 +35,8 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 ## Metodologia
 
-A metodologia para atingir os objetivos propostos é baseada em aula expositiva e exercícios de prática composicional e análise realizados em classe e em casa. 
+A metodologia para atingir os objetivos propostos é baseada em aula expositiva e exercícios de prática composicional e
+ análise realizados em classe e em casa. 
 
 As aulas são estruturadas em duas partes:
 
@@ -44,19 +47,23 @@ As aulas são estruturadas em duas partes:
 
 A avaliação será feita mediante 4 trabalhos:
 
-  1. Composição de 3 miniaturas para formações diversas, cada uma relacionada com o princípio de organização da dimensão vertical visto nas aulas.
-  2. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica com uso de algum dos princípios de organização da dimensão vertical previsto nas aulas.
+  1. Composição de 3 miniaturas para formações diversas, cada uma relacionada com o princípio de organização da 
+  dimensão vertical visto nas aulas.
+  2. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica com uso de algum dos princípios de
+   organização da dimensão vertical previsto nas aulas.
 
 ### Nota
 
-A nota do semestre será equivalente a uma média ponderada do resultado obtido nos trabalhos, de acordo com os seguintes pesos:
+A nota do semestre será equivalente a uma média ponderada do resultado obtido nos trabalhos, de acordo com os seguintes
+ pesos:
 
   1. Miniaturas 1 a 3 (peso 4)
   2. Composição final (peso 6) 
       1. avaliação da primeira metade da composição (peso 2)
       2. avaliação da segunda metade da composição e conjunto final (peso 4)
 
-Dessa forma, a média final será calculada pela equação 1, onde M representa a média, _a_, a soma das notas das miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segunda metade e conjunto da composição.
+Dessa forma, a média final será calculada pela equação 1, onde M representa a média, _a_, a soma das notas das 
+miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segunda metade e conjunto da composição.
 
 <img id="preview_img" style="line-height: 1.5;" src="https://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B4a%2B2b%2B4c%7D%7B10%7D&chs=&chf=&chco=" /><span style="line-height: 1.5;">(eq.1)</span>
 
@@ -80,15 +87,19 @@ Os critérios gerais de avaliação são:
 
 ### Segunda chamada
 
-O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se a requerer até
+ dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
   1. direito assegurado por legislação específica
   2. motivo de saúde comprovado por atestado médico
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção
+ automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de 
+ Graduação.
 
-Crie o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
+Crie o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para
+ dilatar o prazo de entrega.
 
 ## Assiduidade e pontualidade
 
@@ -96,7 +107,8 @@ Assiduidade e pontualidade são de fundamental importância neste curso e serão
 
 A carga horária da disciplina é de 51 horas semestrais. De acordo com o [Regulamento de Ensino de Graduação](https://www.ufba.br/sites/devportal.ufba.br/files/REGPG%20Completo%20%2817-12-2014%29.pdf), o aluno que não cumprir frequência mínima de 75% nas aulas será considerado reprovado (artigo 112). Dessa forma o número máximo de faltas nesta disciplina é de 12 horas-aula (ou 4 dias de aula).
 
-Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso de mais de 15 minutos será considerado como falta para a primeira aula. Uma saída com mais de 15 minutos antes do final da aula será considerada como falta na última aula. Dessa forma atrasos poderão implicar em reprovação.
+Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso de mais de 15 minutos será considerado como falta
+ para a primeira aula. Uma saída com mais de 15 minutos antes do final da aula será considerada como falta na última aula. Dessa forma atrasos poderão implicar em reprovação.
 
 ## Estrutura das aulas
 
@@ -278,23 +290,32 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 ## Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
-1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
+1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its 
+Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
 1. Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
 1. Cook, Nicholas. 1987. “A Guide to Musical Analysis.” New York and London: W. W. Norton & Company.
 1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
-1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
-1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
+1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. 
+Dubuque, Iowa: WM. C. Brown Company.
+1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões 
+compositivas." Universidade Federal da Bahia.
 1. Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
 1. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real Musical.
-1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
-1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de
+ Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 
+ 13–28. Salvador, BA: EDUFBA.
+1. ﻿Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd ed. São Paulo: EDUSP. 
+1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and 
+Company.
 1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
-1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
+1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, 
+edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 1. Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
 
 ### Complementar
 
-1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite for Piano, Op. 25: From Composition with Twelve-Tones to the Twelve-Tone Method." University of Southern California.
+1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite for Piano, Op. 25: From Composition with
+ Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 
 ## Links
 
