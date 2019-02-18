@@ -40,20 +40,20 @@ Fev 18 | Não haverá aula: preparação da sala para o semestre
 Fev 25 | <del>Carnaval</del>
 Mar 04 | <del>Carnaval</del>
 Mar 11 | O texto: escanção, metrificação, versificação, e prosódia
-Mar 18 | **Trabalho**: análise de versificação de texto literário em português **(0.5 pt)**
-Mar 25 | **Trabalho**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)**
+Mar 18 | **Trabalho 1**: análise de versificação de texto literário em português **(0.5 pt)**
+Mar 25 | **Trabalho 2**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)**
 Abr 01 | Tipos de vozes
 Abr 08 | Análise de orquestração
 Abr 15 | Análise de orquestração
 Abr 22 | 
-Abr 29 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 1m**
-Mai 06 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 2m**
-Mai 13 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 3m**
-Mai 20 | **Relatório oral:** trecho da obra final e projeto escrito **(1 pt) 4m**
-Mai 27 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
-Jun 03 | **Relatório oral:** Trecho da obra final e projeto escrito **(1 pt) 6m**
-Jun 10 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
-Jun 17 | **Relatório oral:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
+Abr 29 | **Relatório oral 1:** trecho da obra final e projeto escrito **(1 pt) 1m**
+Mai 06 | **Relatório oral 2:** trecho da obra final e projeto escrito **(1 pt) 2m**
+Mai 13 | **Relatório oral 3:** trecho da obra final e projeto escrito **(1 pt) 3m**
+Mai 20 | **Relatório oral 4:** trecho da obra final e projeto escrito **(1 pt) 4m**
+Mai 27 | **Relatório oral 5:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
+Jun 03 | **Relatório oral 6:** Trecho da obra final e projeto escrito **(1 pt) 6m**
+Jun 10 | **Relatório oral 7:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
+Jun 17 | **Relatório oral 8:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
 Jun 24 | **Apresentação:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 10m**
 {: .table .table-sm }
 
@@ -87,14 +87,14 @@ para me procurar; depois disso a nota não será modificada.
 
 ## Notas
 
-| Nome              | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|:------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Diego Neves       |    |    |    |    |    |    |    | =sum |
-| Edinaldo De Paiva |    |    |    |    |    |    |    | =sum |
-| George Cristian   |    |    |    |    |    |    |    | =sum |
-| Jordan Hohenfeld  |    |    |    |    |    |    |    | =sum |
-| Peter Marques     |    |    |    |    |    |    |    | =sum |
-| Sidnei Marques    |    |    |    |    |    |    |    | =sum |
+| Nome              | T1 | T2 | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | AF | Nota |
+|:------------------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:-----|
+| Diego Neves       |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Edinaldo De Paiva |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| George Cristian   |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Jordan Hohenfeld  |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Peter Marques     |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Sidnei Marques    |    |    |    |    |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 

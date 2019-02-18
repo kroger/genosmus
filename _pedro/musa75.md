@@ -81,26 +81,26 @@ Jun 27 | **Seminários**: Outros Compositores Renascentistas
 ## Notas
 
 
-| Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Abraão Miranda     |    |    |    |    |    |    |    | =sum |
-| Adilson Figueiredo |    |    |    |    |    |    |    | =sum |
-| Cleiane Nunes      |    |    |    |    |    |    |    | =sum |
-| Cristiano Wilson   |    |    |    |    |    |    |    | =sum |
-| Eduardo Pinto      |    |    |    |    |    |    |    | =sum |
-| Gleidiane Macedo   |    |    |    |    |    |    |    | =sum |
-| Hercules De Amorim |    |    |    |    |    |    |    | =sum |
-| Juan Quezada       |    |    |    |    |    |    |    | =sum |
-| Leandro Sukevicius |    |    |    |    |    |    |    | =sum |
-| Luciano Chaves     |    |    |    |    |    |    |    | =sum |
-| Milena Ramos       |    |    |    |    |    |    |    | =sum |
-| Núbia Modolon      |    |    |    |    |    |    |    | =sum |
-| Paola Dalva        |    |    |    |    |    |    |    | =sum |
-| Raíssa Pessoa      |    |    |    |    |    |    |    | =sum |
-| Renato Santana     |    |    |    |    |    |    |    | =sum |
-| Roberto Intelisano |    |    |    |    |    |    |    | =sum |
-| Rosane Barbosa     |    |    |    |    |    |    |    | =sum |
-| Victor De Oliveira |    |    |    |    |    |    |    | =sum |
+| Nome               | PR | PC | AO | SE | Nota |
+|:-------------------|:---|:---|:---|:---|:-----|
+| Abraão Miranda     |    |    |    |    | =sum |
+| Adilson Figueiredo |    |    |    |    | =sum |
+| Cleiane Nunes      |    |    |    |    | =sum |
+| Cristiano Wilson   |    |    |    |    | =sum |
+| Eduardo Pinto      |    |    |    |    | =sum |
+| Gleidiane Macedo   |    |    |    |    | =sum |
+| Hercules De Amorim |    |    |    |    | =sum |
+| Juan Quezada       |    |    |    |    | =sum |
+| Leandro Sukevicius |    |    |    |    | =sum |
+| Luciano Chaves     |    |    |    |    | =sum |
+| Milena Ramos       |    |    |    |    | =sum |
+| Núbia Modolon      |    |    |    |    | =sum |
+| Paola Dalva        |    |    |    |    | =sum |
+| Raíssa Pessoa      |    |    |    |    | =sum |
+| Renato Santana     |    |    |    |    | =sum |
+| Roberto Intelisano |    |    |    |    | =sum |
+| Rosane Barbosa     |    |    |    |    | =sum |
+| Victor De Oliveira |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
