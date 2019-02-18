@@ -204,40 +204,66 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 
 [Em construção]
 
+  
+  ### Música de câmara
+  
   1. Bartók, Mikrokosmos, 59
   1. Bartók, Mikrokosmos, 101
   1. Bartók, Mikrokosmos, 125
   1. Bartók, Mikrokosmos, 131
-  1. Bartók, Concerto para Orquestra
   1. Bartók, Bagatelles Op. 6
+  1. Bartók, Quarteto n. 1
+  1. Brahms, Intermezzo. Op. 118, n. 2
+  1. Beethoven, Piano Sonata n. 8 Op. 13  
   1. Berio, Sequenza I
   1. Bloch, Sonata for Piano
-  1. Cardoso, O Vôo do Colibri
   1. Chopin, Prelude n. 2
-  1. Daugherty, Raise the Roof
-  1. Espirito Santo, Dobrado n. 182
+  1. Debussy, Claire de Lune
   1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and Piano
+  1. Franck, Sonata violino
   1. Ginastera, Sonata for guitar, Op. 47
-  1. Hydas, Suite for wind band
-  1. Ives, The Cage
   1. Koechlin, Trio for Flute, Clarinet and Bassoon
   1. Ligeti: 6 Bagatelles for Wind Quintet
+  1. Mendelssohn, Quarteto de cordas Op. 80
   1. Messiaen, Le banquet celeste
   1. Milhaud, Saudades do Brazil, Sorocaba
-  1. Penderecki, Threnody
   1. Pitombeira, Ajubete Jepê Amô Mbaê
   1. Poulenc, Sonata for Two Clarinets
+  1. Ravel, Quarteto em Fá maior
   1. Rebelo, Disparate Bodies v2.0
-  1. Schoenberg, Op. 25 
-  1. Stravinsky, A Sagração da Primavera
-  1. Stravinsky, Petrushka
-  1. Tchaikovsky, Concerto para Violino, Op. 35
+  1. Schoenberg, Op. 25 (Suíte para Piano)
+  1. Schoenberg, Op. 4 (Noite Transfigurada)
+  1. Schubert, Quarteto n. 14
   1. Villa-Lobos, Choros n. 2
   1. Webern, Op. 5
   1. Webern, Op. 21
   1. Webern, Op. 27
-  1. ?, Dobrado Bombardeio na Bahia
+
+
+  ### Música sinfônica
   
+  1. Cardoso, O Vôo do Colibri
+  1. Bartók, Concerto para Orquestra
+  1. Mozart, Sinfonia n. 25 Sol menor
+  1. Penderecki, Threnody
+  1. Stravinsky, A Sagração da Primavera
+  1. Stravinsky, Petrushka
+  1. Tchaikovsky, Concerto para Violino, Op. 35
+  1. Tchaikovsky, Sinfonia n. 5, Op. 64
+
+  ### Banda
+  
+  1. Daugherty, Raise the Roof
+  1. Espirito Santo, Dobrado n. 182
+  1. Hydas, Suite for wind band
+  1. ?, Dobrado Bombardeio na Bahia
+
+  ### Música vocal
+  
+  1. Ives, The Cage
+  1. Palestrina, Missa Papae Marcelli
+  1. R. Strauss, Morgen
+
 ## Notas e frequência
 
 <iframe
