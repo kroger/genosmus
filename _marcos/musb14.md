@@ -371,9 +371,9 @@ Os demais links da disciplina estão disponíveis no <a title="Links da discipli
 
 ## Comunicação com o professor
 
-O único meio de comunicação autorizado pelo professor é o email.
-Em nenhuma circunstância um outro meio como telefone ou mensagens 
-poderá ser utilizado.
+O único meio adicional de comunicação autorizado pelo professor é o email, 
+em horário comercial. Assuntos acadêmicos não são tratados por telefone
+ou mensagens em nenhuma hipótese.
 
 <hr>
 
