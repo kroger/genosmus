@@ -26,5 +26,3 @@ toc:
 plugins:
   - jekyll-toc
   - jekyll-last-modified-at
-
-number_sections: true
