@@ -94,7 +94,7 @@ Os critérios gerais de avaliação são:
 As notas serão definidas de acordo com o seguinte critério:
 
 |Nota|Entregue|Solicitações cumpridas|Aspecto de interesse especial|Aspecto de algum interesse|
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 |100%|**X**|**X**|**X**|-|
 |90%|**X**|**X**|-|**X**|
 |80%|**X**|**X**|-|-|
@@ -102,6 +102,7 @@ As notas serão definidas de acordo com o seguinte critério:
 |40%|**X**|-|-|**X**|
 |10%|**X**|-|-|-|
 |0%|-|-|-|-|
+{: .table .table-sm}
 
 
 ### Segunda chamada
