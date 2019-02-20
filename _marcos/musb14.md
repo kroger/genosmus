@@ -36,21 +36,26 @@ Ao final do curso espera-se que o estudante seja capaz de:
 ## Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em aula expositiva e exercícios de prática composicional e
-análise realizados em classe e em casa. 
+análise realizados em classe e em casa.
+
+O curso está baseado no estudo de um repertório pré-definido e na 
+identificação dos conteúdos da ementa e demais
 
 As aulas são estruturadas em duas partes:
 
-1. Apresentação dos conteúdos e realização de análise interativa de obras
+1. Análise interativa de obras musicais e apresentação dos conteúdos
 2. Orientação à realização dos trabalhos do semestre
 
 ## Avaliação
 
-A avaliação será feita mediante 4 trabalhos:
+A avaliação será feita mediante os seguintes trabalhos:
 
-1. Composição de 3 miniaturas para formações diversas, cada uma relacionada com o princípio de organização da 
-dimensão vertical visto nas aulas.
-2. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica com uso de algum dos princípios de
-organização da dimensão vertical previsto nas aulas.
+1. Composição de 3 miniaturas para formações diversas, cada uma relacionada 
+com um princípio composicional previamente definido.
+1. Análise de uma das peças do Mikrokosmos de Bartók.
+1. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica 
+com uso sistemático de pelo menos um dos conteúdos abordados no curso. Este
+uso deverá ser demonstrado em relatório entregue junto à composição. 
 
 ### Nota
 
@@ -58,9 +63,10 @@ A nota do semestre será equivalente a uma média ponderada do resultado obtido 
 pesos:
 
 1. Miniaturas 1 a 3 (peso 4)
-2. Composição final (peso 6) 
-1. avaliação da primeira metade da composição (peso 2)
-2. avaliação da segunda metade da composição e conjunto final (peso 4)
+1. Análise de peça do Mikrokosmos de Bartók (peso 1)
+1. Composição final (peso 5)
+    1. música (peso 4)
+    1. relatório (peso 1)
 
 Dessa forma, a média final será calculada pela equação 1, onde M representa a média, _a_, a soma das notas das 
 miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segunda metade e conjunto da composição.
@@ -69,8 +75,8 @@ miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segu
 
 Os trabalhos serão aceitos apenas se:
 
-1. forem entregues em versão elaborada em software apropriado, via Google Drive.
-2. forem entregues impreterivelmente no prazo, no início da aula marcada para a entrega.
+1. forem entregues em versão elaborada em software apropriado, via sistema de documentos da disciplina.
+1. forem entregues impreterivelmente no prazo, no início da aula marcada para a entrega.
 
 A composição final deverá ser entregue por meio digital, via email.
 
@@ -78,12 +84,25 @@ A composição final deverá ser entregue por meio digital, via email.
 
 Os critérios gerais de avaliação são:
 
-* Cumprimento do objetivo da tarefa
-* Equilíbrio
-* Capacidade de explorar recursos de composição
-* Capacidade de explorar os domínios da música (timbre, altura, duração, textura, etc.)
-* Cuidados com a apresentação da partitura (composições)
-* Criatividade
+- Cumprimento do objetivo da tarefa
+- Equilíbrio
+- Capacidade de explorar recursos de composição
+- Capacidade de explorar os domínios da música (timbre, altura, duração, textura, etc.)
+- Cuidados com a apresentação da partitura (composições)
+- Criatividade
+
+As notas serão definidas de acordo com o seguinte critério:
+
+|Nota|Entregue|Solicitações cumpridas|Aspecto de interesse especial|Aspecto de algum interesse|
+|---|---|---|---|---|
+|100%|**X**|**X**|**X**|-|
+|90%|**X**|**X**|-|**X**|
+|80%|**X**|**X**|-|-|
+|50%|**X**|-|**X**|-|
+|40%|**X**|-|-|**X**|
+|10%|**X**|-|-|-|
+|0%|-|-|-|-|
+
 
 ### Segunda chamada
 
@@ -91,8 +110,8 @@ O aluno que não entregar um dos trabalhos no dia marcado terá direito a entreg
 dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
 1. direito assegurado por legislação específica
-2. motivo de saúde comprovado por atestado médico
-3. razão de força maior, a critério do professor.
+1. motivo de saúde comprovado por atestado médico
+1. razão de força maior, a critério do professor.
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção
 automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de 
@@ -133,38 +152,43 @@ software  usado (.sib, .mus, .ly, etc). Evitar arquivos .wav.
 
 Duração de 30 segundos a 1 minuto.
 
+Todas as miniaturas deverão ser entregues em formato digital na data definida n
+o cronograma. As partituras e partes deverão ser entregues impressas na aula da semana 
+posterior.
+
 #### Miniatura 1
 
 - Conteúdo principal: Pré-serial - tonalidade expandida, harmonias quartais, quintais, politonalidade, policordes
 - Formação: Quarteto de trombones
-- Entrega da partitura (online): ver data de entrega no cronograma
-- Entrega das partes (impressas): semana seguinte
-- Leitura: 22/05/2018, 18:30
+- Leitura: A definir
 
 #### Miniatura 2
 
 - Conteúdo principal: Serialismo
 - Formação: Duo de clarinetes
-- Entregada partitura (online): ver data de entrega no cronograma
-- Entrega das partes (impressas): semana seguinte
-- Leitura: 23/05/2018, 15:30 (sala 102)
+- Leitura: A definir
 
 #### Miniatura 3
 
-- Conteúdo principal: Indeterminação
-- Formação: Percussão solo (definir instrumental)
+- Conteúdo principal: Alturas (escolher entre os princípios definidos na ementa)
+- Formação: Piano solo
 - Entrega da partitura (online): ver data de entrega no cronograma
-- Leitura: 05/07/2018, 8:30 (sala de percussão)
-- Recital: 31/07/2018, 17:00 (confirmar)
+- Leitura: A definir
+
 
 #### Possíveis formações instrumentais para as miniaturas
 
-- Quarteto de trombones
-- Quinteto de trompetes (2 flugelhorn)
-- Quarteto de cordas
-- Orquestra de violões
 - Piano solo
+- Quarteto de trombones
+- Quarteto de trompetes
 - Duo de clarinetes
+- Duo de oboés (confirmar)
+
+### Análise
+
+O estudante deverá analisar um dos números do Mikrokosmos de Bartók seguindo
+a mesma metodologia de análise realizada durante as aulas ao longo do
+semestre e apresentar à turma em data marcada no calendário.
 
 ### Composição final
 
@@ -230,12 +254,16 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Bloch, Sonata for Piano
 1. Chopin, Prelude n. 2
 1. Debussy, Claire de Lune
+1. Lizst, La campanella
 1. Milhaud, Saudades do Brazil, Sorocaba
+1. Mozart, Piano Sonata N. 11, K331
+1. Reger, Variations and Fugue on theme by Mozart
 1. Schoenberg, Op. 25 (Suíte para Piano)
 1. Webern, Op. 27
 
 #### Outros
 1. Bartók, Quarteto n. 1
+1. Berg, Lyrische Suite
 1. Berio, Sequenza I
 1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and Piano
 1. Franck, Sonata violino
@@ -258,12 +286,23 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 
 1. Cardoso, O Vôo do Colibri
 1. Bartók, Concerto para Orquestra
+1. Berg, Violin Concerto
+1. Britten, War Requiem
+1. Debussy, La Mer
+1. Gorecki, Sinfonia n. 3
+1. Holst, Os planetas
+1. Lutolawski, Livre pour Orchestre
+1. Mahler, Sinfonia n. 2
 1. Mozart, Sinfonia n. 25 Sol menor
 1. Penderecki, Threnody
+1. Ravel, Daphnes et Chloe
+1. Schostakovich, Sinfonia n. 10
 1. Stravinsky, A Sagração da Primavera
 1. Stravinsky, Petrushka
+1. Stravinsky, Psalm Symphony
 1. Tchaikovsky, Concerto para Violino, Op. 35
 1. Tchaikovsky, Sinfonia n. 5, Op. 64
+1. Williams, A Sea Symphony
 
 ### Banda
 
@@ -295,7 +334,7 @@ data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hid
 1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its 
 Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
 1. Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
-1. Cook, Nicholas. 1987. “A Guide to Musical Analysis.” New York and London: W. W. Norton & Company.
+1. Cook, Nicholas. 1987. "A Guide to Musical Analysis." New York and London: W. W. Norton & Company.
 1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
 1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. 
 Dubuque, Iowa: WM. C. Brown Company.
@@ -306,7 +345,7 @@ compositivas." Universidade Federal da Bahia.
 1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de
 Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 
 13–28. Salvador, BA: EDUFBA.
-1. ﻿Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd ed. São Paulo: EDUSP. 
+1. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd ed. São Paulo: EDUSP. 
 1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and 
 Company.
 1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal Theory. Englewood Cliffs, NJ: Prentice-Hall.
