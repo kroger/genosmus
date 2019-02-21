@@ -295,7 +295,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Mozart, Sinfonia n. 25 Sol menor
 1. Penderecki, Threnody
 1. Ravel, Daphnes et Chloe
-1. Schostakovich, Sinfonia n. 10
+1. Shostakovich, Sinfonia n. 10
 1. Stravinsky, A Sagração da Primavera
 1. Stravinsky, Petrushka
 1. Stravinsky, Psalm Symphony
