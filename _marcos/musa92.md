@@ -119,15 +119,15 @@ Temas, integrantes e datas de apresentação
 ## Notas e frequência
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="400"></iframe>
 
 
 ### Gráficos de desempenho da turma
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubchart?oid=1269582914&amp;format=interactive" width="100%" height="400" frameborder="0" scrolling="no" seamless=""><span
-data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive""
+ width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ## Bibliografia
 

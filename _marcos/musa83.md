@@ -109,14 +109,14 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 Em construção
   
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubhtml?gid=1060287158&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400"></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1060287158&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="400"></iframe>
 
 ### Gráficos de desempenho da turma
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=581051090&amp;format=interactive" width="600" height="371" frameborder="0" scrolling="no" seamless=""><span
-data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span><span
-data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=581051090&amp;format=interactive"
+width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ## Trabalhos
 

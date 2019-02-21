@@ -159,10 +159,8 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 ## Notas
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubhtml?gid=939789204&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="400"><span data-mce-type="bookmark"
-style="display: inline-block; width: 0px; overflow: hidden;
-line-height: 0;" class="mce_SELRES_start">?</span></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=939789204&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="400"></iframe>
 
 
 ### Distribuição das notas
@@ -172,11 +170,9 @@ eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
 contém o número de alunos com média final dentro das faixas.
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nefc-ZbRi_kj6PNcRz1XlQUikduL_4BqBZUlIq8tHAOWms24AOaa68KBYRN1zNRi_tHvQUYeO-7L/pubchart?oid=951878699&amp;format=interactive"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=951878699&amp;format=interactive"
 width="100%" height="371" frameborder="0" scrolling="no"
-seamless=""><span data-mce-type="bookmark" style="display:
-inline-block; width: 0px; overflow: hidden; line-height: 0;"
-class="mce_SELRES_start">?</span></iframe>
+seamless=""></iframe>
 
 
 ## Bibliografia
