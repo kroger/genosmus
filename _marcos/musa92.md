@@ -126,7 +126,7 @@ width="100%" height="400"></iframe>
 ### Gráficos de desempenho da turma
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive""
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive"
  width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ## Bibliografia
