@@ -73,7 +73,7 @@ Dessa forma, a média final será calculada pela equação 1, onde M representa 
 miniaturas, _b,_ a nota da análise, _c_ a nota da composição final e _d_, do relatório a respeito da composição
 final.
 
-![\Large x=M=\frac{4a+b+4c+d}{10}](https://latex.codecogs.com/svg.latex?M%3D%5Cfrac%7B4a+b+4c+d%7D%7B10%7D)
+![\Large x=M=\frac{4a+b+4c+d}{10}](https://latex.codecogs.com/svg.latex?M%3D%5Cfrac%7B4a+b+4c+d%7D%7B10%7D) (eq.1)
 
 Os trabalhos serão aceitos apenas se:
 
@@ -132,10 +132,6 @@ A carga horária da disciplina é de 51 horas semestrais. De acordo com o [Regul
 Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso de mais de 15 minutos será considerado como falta
 para a primeira aula. Uma saída com mais de 15 minutos antes do final da aula será considerada como falta na última aula. Dessa forma atrasos poderão implicar em reprovação.
 
-## Estrutura das aulas
-
-As aulas são divididas em exposição de conteúdo, análise interativa de obras e orientação dos trabalhos dos alunos.
-
 ## Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
@@ -161,14 +157,14 @@ posterior.
 
 #### Miniatura 1
 
-- Conteúdo principal: Pré-serial - tonalidade expandida, harmonias quartais, quintais, politonalidade, policordes
-- Formação: Quarteto de trombones
+- Conteúdo principal: A definir
+- Formação: Duo de clarinetes
 - Leitura: A definir
 
 #### Miniatura 2
 
-- Conteúdo principal: Serialismo
-- Formação: Duo de clarinetes
+- Conteúdo principal: A definir
+- Formação: Quarteto de trombones
 - Leitura: A definir
 
 #### Miniatura 3
