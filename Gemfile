@@ -9,4 +9,5 @@ gem "jekyll", "~> 3.8.5"
 group :jekyll_plugins do
   gem 'jekyll-toc'
   gem 'jekyll-last-modified-at'
+  gem 'jekyll-numbered-headings'
 end
