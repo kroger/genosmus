@@ -36,16 +36,16 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 ## Metodologia
 
-A metodologia para atingir os objetivos propostos é baseada em aula expositiva e exercícios de prática composicional e
-análise realizados em classe e em casa.
-
-O curso está baseado no estudo de um repertório pré-definido e na 
-identificação dos conteúdos da ementa e demais
+O curso está baseado no estudo interativo de um repertório pré-definido. Os 
+conteúdos previstos na ementa e demais tópicos pertinentes à Composição
+Musical serão identificados no repertório durante o seu estudo, serão 
+detalhados e explorados como trabalhos práticos de Composição realizados
+em classe e/ou em casa.
 
 As aulas são estruturadas em duas partes:
 
 1. Análise interativa de obras musicais e apresentação dos conteúdos
-2. Orientação à realização dos trabalhos do semestre
+1. Orientação à realização dos trabalhos do semestre
 
 ## Avaliação
 
@@ -70,9 +70,10 @@ pesos:
     1. relatório (peso 1)
 
 Dessa forma, a média final será calculada pela equação 1, onde M representa a média, _a_, a soma das notas das 
-miniaturas, _b,_ a nota da primeira metade da composição final e _c_, da segunda metade e conjunto da composição.
+miniaturas, _b,_ a nota da análise, _c_ a nota da composição final e _d_, do relatório a respeito da composição
+final.
 
-<img id="preview_img" style="line-height: 1.5;" src="https://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B4a%2B2b%2B4c%7D%7B10%7D&chs=&chf=&chco=" /><span style="line-height: 1.5;">(eq.1)</span>
+![\Large x=M=\frac{4a+b+4c+d}{10}](https://latex.codecogs.com/svg.latex?M%3D%5Cfrac%7B4a+b+4c+d%7D%7B10%7D)
 
 Os trabalhos serão aceitos apenas se:
 
