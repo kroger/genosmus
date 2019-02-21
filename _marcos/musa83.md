@@ -34,8 +34,14 @@ Ao final do curso espera-se que o estudante seja capaz de:
 A metodologia para atingir os objetivos propostos é baseada em
 
   1. aulas expositivas
-  2. participação de instrumentistas convidados para demonstração prática dos instrumentos musicais
+  2. participação de instrumentistas convidados para demonstração 
+  prática dos instrumentos musicais
   3. pesquisa e exercícios práticos a serem realizados em casa
+
+O curso está organizado de forma a estimular o estudante a realizar
+pesquisa sobre os instrumentos de modo a formar uma base mínima para 
+participar das aulas com a presença dos instrumentistas e poder tirar
+dúvidas sobre questões específicas. 
 
 ## Pré-requisitos
 
@@ -61,7 +67,7 @@ Os critérios gerais de avaliação são:
   * Domínio da escrita
   * Cuidados com a apresentação da partitura
 
-Os trabalhos serão aceitos <span style="text-decoration: underline;">apenas se forem entregues impreterivelmente no prazo</span>, no início da aula marcada para a entrega.
+Os trabalhos serão aceitos **apenas se forem entregues impreterivelmente no prazo**, no início da aula marcada para a entrega.
 
 ### Nota
 
@@ -97,12 +103,35 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 [Em construção]
 
-  1. Béla Bartók, Quarteto de cordas n. 5 (?)
-  1. Béla Bartók, Mikrokosmos (?)
-  1. Maurice Ravel, Quarteto de Cordas
-  1. Claude Debussy, Quarteto de Cordas
-  1. Arnold Schoenberg, Noite Transfigurada
-  1. Villa-Lobos, Choros n. 2
+1. Bartók, Divertimento para orquestra de cordas
+1. Bartók, Quarteto de cordas n. 5 (?)
+1. Bartók, Mikrokosmos (?)
+1. Beethoven, Duo para duas flautas (WoO 26)
+1. Beethoven, Sinfonia n. 9, Mov. 4
+1. Berio, Sequenza IXa (clarinete)
+1. Debussy, Quarteto de Cordas
+1. Debussy, Syrinx
+1. Gershwin, Rapsody in Blues
+1. Gillespie, A Night in Tunisia (por Arturo Sandoval)
+1. Haydn, Trumpet Concerto in Eb
+1. Hindemith, Sonata para fagote  
+1. Mahler, Sinfonia n. 3
+1. Mahler, Sinfonia n. 5
+1. Mozart, Requiem
+1. Penderecki, Capriccio para tuba solo
+1. Pierné, Solo de concert for bassoon and piano Op. 35
+1. Poulenc, Sonata para dois clarinetes
+1. Ravel, Quarteto de Cordas
+1. Rossini, Largo al factorum
+1. Schoenberg, Noite Transfigurada
+1. Shostakovich, Concerto para Violoncelo n. 1
+1. Shostakovich, Sinfonia n. 9, Op. 70
+1. Stravinsky, Sagração da Primavera
+1. F. Strauss, Nocturno Op. 7
+1. R. Strauss, Concerto para oboé
+1. Tchaikovsky, Sinfonia n. 5, mov. 2
+1. Villa-Lobos, Choros n. 2
+1. Vivaldi, Concerto n. 2, Verão (Presto)
 
 ## Notas e frequência
 
@@ -122,35 +151,45 @@ width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ### Semanais
 
-O objetivo dos trabalhos semanais é estimular o estudante a se 
-familiarizar com diversos instrumentos musicais e ter uma base
-mínima para participar das aulas.
+O objetivo dos trabalhos semanais é estimular o estudante à atividade
+de pesquisa, de leitura da bibliografia e a se familiarizar com os
+diversos instrumentos musicais antes da presença do instrumentista
+na sala.
 
-A cada aula serão abordados dois ou três instrumentos, conforme 
-lista. Assim, o trabalho semanal consiste em apresentar, para cada 
-instrumento:
+Para cada um dos instrumentos listados na seção seguinte, o estudante
+deverá escrever um texto curto (menos de 5 linhas) apresentando as
+características fundamentais do instrumento. O ponto de partida da
+pesquisa é entender, para cada um dos seus registros como o 
+instrumento se comporta quanto a:
 
- 1. Um texto conciso de até 3 linhas informando:
-    1. as características sonoras do instrumento em múltiplos registros
-    1. as particularidades quanto à emissão do som e articulação
-    1. os recursos sonoros idiomáticos.
- 1. Uma pequena composição autoral de 4 a 8 compassos explorando
- particularidades do instrumento ou transcrição de uma melodia 
- previamente definida.
- 
+1. Emissão sonora
+1. Timbre
+1. Intensidade
+1. Articulação
+1. Recursos idiomáticos
+1. Extensão
+1. Transposição
+
+O estudante poderá incluir exemplos de partitura no documento para
+ajudar na apresentação.
+
+Dica: o livro do Samuel Adler é um bom ponto de partida para a 
+pesquisa.
  
 #### Lista de trabalhos
 
 Ver data de entrega de cada trabalho no cronograma.
 
- 1. Flauta e clarinete
- 1. Oboé e fagote
- 1. Trompa e trompete
- 1. Trombone e tuba
- 1. Violino, viola e violoncelo
- 1. Contrabaixo
- 1. Sax
- 1. Percussão: tímpanos, marimba e vibrafone
+1. Flauta e clarinete
+1. Oboé e fagote
+1. Trompa e trompete
+1. Trombone e tuba
+1. Violino, viola e violoncelo
+1. Contrabaixo
+1. Sax
+1. Percussão: tímpanos, marimba e vibrafone
+1. Outras fontes sonoras (a definir) 
+1. Outras fontes sonoras (a definir) 
 
 *Importante*: Os trabalhos deverão ser entregues ao professor por email
 como anexos em formato PDF com o assunto 
@@ -159,12 +198,12 @@ nem anexar arquivo de áudio.
 
 ### Provas
 
-[Em construção]
+As provas terão questões de identificação do instrumento a partir do
+reconhecimento auditivo em trechos da literatura musical, questões
+técnicas a respeito dos instrumentos e questões para transcrição de
+trechos de um instrumento a outro. 
 
-<!--
-O trabalho final está disponível [neste link](https://docs.google.com/document/d/1vqWkS8AYwGg7JrTg5vvXta4KkdPgAdqR34vYB3fZJC8/edit?usp=sharing).
-Deverá ser entregue até 17/07/2018, em formato pdf via email. Utilizar `[MUSA83] Trabalho final` como assunto da mensagem.
--->
+As datas das provas estão indicadas no cronograma.
 
 ## Bibliografia
 
