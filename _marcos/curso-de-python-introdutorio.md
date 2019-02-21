@@ -4,13 +4,13 @@ layout: disciplina
 level: extensao
 ---
 
-### Aula 01 -- Funções simples e inteiros
+###1. Aula 01 -- Funções simples e inteiros
 
 Função limitada que retorna a transposição de uma nota segunda maior acima. Aceita nota como parâmetro.
 
 <pre class="brush: python">def transpor_segunda(nota):
     return nota + 2
-# uso:
+#1. uso:
 &gt;&gt;&gt; transpor_segunda(3)
 5</pre>
 
@@ -18,11 +18,11 @@ Função que retorna a transposição de uma nota a um intervalo dado. Aceita no
 
 <pre class="brush: python">def transpor(nota, intervalo):
     return nota + intervalo
-# uso:
+#1. uso:
 &gt;&gt;&gt; transpor(4, 3)
 7</pre>
 
-### Aula 02 -- Lista e loop
+###1. Aula 02 -- Lista e loop
 
 <pre class="brush: python">def mod_12(nota):
     return nota % 12
@@ -47,10 +47,10 @@ def retrogradar(lista_notas):
     l.reverse()
     return l</pre>
 
-### Aula 03 -- Listas e compreensão de lista
+###1. Aula 03 -- Listas e compreensão de lista
 
 <pre class="brush: python"># -*- coding: utf-8 -*-
-## funções auxiliares
+##1. funções auxiliares
 
 def flatten(seq):
     """Flatten Sequences.
@@ -61,7 +61,7 @@ def flatten(seq):
 
     return [item for sublist in seq for item in sublist]
 
-## funções musicais
+##1. funções musicais
 
 alturas = ['c', 'c#', 'd', 'd#', 'e', 'f', 'f#', 'g', 'g#', 'a', 'a#', 'b']
 
@@ -90,7 +90,7 @@ def rotacionar(notas, n):
     sufixo = notas[n:]
     return flatten([sufixo, prefixo])
 
-## funções de composição
+##1. funções de composição
 
 def compor(notas):
     resultado = []
@@ -99,7 +99,7 @@ def compor(notas):
         resultado.append(flatten([inversao, retrogradar(inversao)]))
     return flatten(resultado)</pre>
 
-### Aula 04 -- Métodos de lista
+###1. Aula 04 -- Métodos de lista
 
 <pre class="brush: python">def expandir_musica(notas):
     tmp = notas[:]
@@ -107,7 +107,7 @@ def compor(notas):
     tmp.pop(posicao)
     return flatten([transpor(notas, 3), tmp[2:-1], inverter(notas, 3)])</pre>
 
-### Aula 06 -- Formatação de string
+###1. Aula 06 -- Formatação de string
 
 <pre class="brush: python">def genero(sexo):
     if sexo == 'f':
@@ -127,10 +127,10 @@ convidados = [['Francis', 'f'], ['Alisson', 'm'], ['Sama', 'm']]
  'Alisson! Voce esta convidado pra minha festa de aniversario.',
  'Sama! Voce esta convidado pra minha festa de aniversario.']</pre>
 
-### Aula 07 -- Dicionários
+###1. Aula 07 -- Dicionários
 
 <pre class="brush: python"># coding=utf-8
-## tarefa anterior
+##1. tarefa anterior
 
 pessoas = [['Marcos', 'M', 'Professor'],
            ['Kroger', 'M', 'Professor'],
@@ -159,7 +159,7 @@ def mensagem(nome, sexo, cargo):
         msg_funcionario = "Car{0} {1}, vamos la?".format(genero(sexo), nome)
         return msg_funcionario
 
-## assunto da aula
+##1. assunto da aula
 
 marcos = {'nome': 'Marcos da Silva Sampaio',
           'nascimento': '15/06/1977',
@@ -173,13 +173,13 @@ mds = ['Marcos da Silva Sampaio',
           'Av. Araújo Pinho, 58',
           'Natação']
 
-## trabalho para proxima aula: usar dicionários para criar função que
-## retorna frase personalizada por gênero e cargo:
+##1. trabalho para proxima aula: usar dicionários para criar função que
+##1. retorna frase personalizada por gênero e cargo:
 
-## &gt;&gt;&gt; cria_frase(people['kroger'])
-## 'Caro Pedro Kroger, convido vossa senhoria.'
+##1. &gt;&gt;&gt; cria_frase(people['kroger'])
+##1. 'Caro Pedro Kroger, convido vossa senhoria.'
 
-# exemplo de função que usa dicionários
+#1. exemplo de função que usa dicionários
 def mostrar(dic):
 
     m_1 = "Oi, meu nome é {0},".format(dic['nome'])
@@ -189,15 +189,15 @@ def mostrar(dic):
 
     return m_1 + m_2 + m_3 + m_4
 
-# exemplo de dados de entrada
+#1. exemplo de dados de entrada
 people = {'marcos': {'nome': 'Marcos', 'sexo': 'M', 'cargo': 'Professor'},
           'kroger': {'nome': 'Pedro Kroger', 'sexo': 'M', 'cargo': 'Professor'}}</pre>
 
-### Aula 08 -- Usando módulos
+###1. Aula 08 -- Usando módulos
 
 <pre class="brush: python"># -*- coding: utf-8 -*-
 
-## arquivo biblioteca.ly:
+##1. arquivo biblioteca.ly:
 
 def mod_12(nota):
     return nota % 12
@@ -208,30 +208,30 @@ def transpor_nota(nota, fator):
 def transpor(notas, fator):
     return [transpor_nota(nota, fator) for nota in notas]
 
-## arquivo compor.ly:
+##1. arquivo compor.ly:
 
-## opção de importação 1:
+##1. opção de importação 1:
 
 import biblioteca
 
 def compor(notas):
     return [biblioteca.transpor(notas, 10), biblioteca.transpor(notas, 10)]
 
-## opção de importação 2:
+##1. opção de importação 2:
 
 import biblioteca as bib
 
 def compor(notas):
     return [bib.transpor(notas, 10), bib.transpor(notas, 10)]
 
-## opção de importação 3:
+##1. opção de importação 3:
 
 from biblioteca import transpor
 
 def compor(notas):
     return [transpor(notas, 10), transpor(notas, 10)]</pre>
 
-### Aula 09 -- Para onde ir agora?
+###1. Aula 09 -- Para onde ir agora?
 
 Links diversos sobre Python:
 

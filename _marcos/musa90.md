@@ -5,11 +5,11 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudos panorâmicos e gerais sobre técnicas de análise, abordando aspectos históricos e metodológicos. Exercícios abordando análises com utilização de diferentes técnicas analíticas.
 
-## Conteúdo Programático
+##1. Conteúdo Programático
 
   1. Princípios de análise
   2. Análise motívica
@@ -17,15 +17,15 @@ Estudos panorâmicos e gerais sobre técnicas de análise, abordando aspectos hi
   4. Análise Schenckeriana
   5. Análise de textura
 
-## Avaliação
+##1. Avaliação
 
 A avaliação na disciplina ocorrerá mediante quatro trabalhos quinzenais de análise e a apresentação de um seminário.
 
-## Estrutura das aulas
+##1. Estrutura das aulas
 
 As aulas são divididas em exposição de conteúdo e análise interativa de obras.
 
-## Cronograma
+##1. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
@@ -33,17 +33,17 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQV0uH71J-M3aO66921IaZimEpkuOjeixazKwqR2Q8H5phEIeY48x-lqwLF0TxCfbLCKBTNZpNIZubL/pubhtml?gid=23243211&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Trabalhos
+##1. Trabalhos
 
-### Análise
+###1. Análise
 
 A cada duas semanas o estudante deverá realizar análise de uma obra definida pelo professor com base no conteúdo apresentado na aula anterior. A análise deverá ser entregue <span style="text-decoration: underline;">no início</span> da aula definida como prazo (ver cronograma).
 
-### Seminário
+###1. Seminário
 
 Os estudantes deverão formar duplas e escolher, com orientação do professor, uma técnica analítica não abordada em aula ou aprofundar uma técnica abordada, apresentando princípios e aplicação. A apresentação é conjunta, mas a nota, individual.
 
-#### Duplas
+####1. Duplas
 
 [Em construção]
 
@@ -57,25 +57,25 @@ Os estudantes deverão formar duplas e escolher, com orientação do professor, 
 | 04/12/18 | Diego | A definir |
 | 04/12/18 | Peter | MIR |
 
-### Extra
+###1. Extra
 
 Trabalho solicitado por Menahem:
 
 Escrever o ritmo determinado pela série 1 B 8 A 5 9 6 4 2 3 7 C, na qual 1 representa uma semicolcheia, 2 uma colcheia e assim por diante. Ver a sessão de 'serialismo rítmico' da [dissertação de Vinicius Amaro](https://mega.nz/#!fWgjVL6a!7Wv5g10SGI7pwngMvTTuYfNN3VdYwUbkVJDR_CmW6xo) em caso de dúvida.  
 
-## Notas e frequência
+##1. Notas e frequência
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=1060287158&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Links
+##1. Links
 
 - [Calculadora de matriz dodecafônica](http://www.musictheory.net/calculators/matrix)
 - [Canal Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACnq7A1vXIomKMCYBxggI5QW)
 - [Milhaud, Six sonnets (audio)](https://archive.org/details/C_1962_06_05_c2)
 
-## Bibliografia
+##1. Bibliografia
 
 1. Bent, Ian, and Anthony Pople. 2011. “Analysis.” In *Grove Music Online*.
 
@@ -95,7 +95,7 @@ width="100%" height="300"></iframe>
 
 1. Straus, Joseph Nathan. 1990. *Introduction to Post-Tonal Theory*. Englewood Cliffs, NJ: Prentice-Hall.
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

@@ -5,18 +5,18 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudo do princípio construtivo dos instrumentos em geral, origem e informações históricas, bem como obtenção do conhecimento básico de naturezas técnica e musical dos instrumentos da Orquestra Sinfônica, de modo individual, e como componentes de uma família.
 
-## Objetivos
+##1. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
   1. Escrever e/ou transcrever música para os principais instrumentos da orquestra sinfônica e coro.
   2. Aproveitar-se adequadamente das características sonoras dos instrumentos da orquestra sinfônica e coro.
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Histórico, origem e transformação dos instrumentos em geral
   2. Organologia e classificação geral dos instrumentos
@@ -29,7 +29,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
   9. Formações de câmera e sinfônica, de pequenas, médias e grandes dimensões
  10. Novas fontes sonoras no ambiente sinfônico dos séculos XIX e XX
 
-## Metodologia
+##1. Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
 
@@ -43,7 +43,7 @@ pesquisa sobre os instrumentos de modo a formar uma base mínima para
 participar das aulas com a presença dos instrumentistas e poder tirar
 dúvidas sobre questões específicas. 
 
-## Pré-requisitos
+##1. Pré-requisitos
 
 São pré-requisitos dessa disciplina o entendimento da estrutura e a percepção de:
 
@@ -51,7 +51,7 @@ São pré-requisitos dessa disciplina o entendimento da estrutura e a percepçã
   2. Tríades
   3. Escalas maiores e menores
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante:
 
@@ -69,11 +69,11 @@ Os critérios gerais de avaliação são:
 
 Os trabalhos serão aceitos **apenas se forem entregues impreterivelmente no prazo**, no início da aula marcada para a entrega.
 
-### Nota
+###1. Nota
 
 A nota do semestre será a média ponderada das notas da prova e trabalhos.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -85,7 +85,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A data de realização de segunda chamada está prevista no cronograma da disciplina.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
 
@@ -94,7 +94,7 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTT9yyX1MbASBbhllP9AW_bK20C
 width="100%" height="300">
 </iframe>
 
-## Material para Análise
+##1. Material para Análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -133,7 +133,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Villa-Lobos, Choros n. 2
 1. Vivaldi, Concerto n. 2, Verão (Presto)
 
-## Notas e frequência
+##1. Notas e frequência
 
 Em construção
   
@@ -141,15 +141,15 @@ Em construção
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1060287158&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-### Gráficos de desempenho da turma
+###1. Gráficos de desempenho da turma
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=581051090&amp;format=interactive"
 width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
-## Trabalhos
+##1. Trabalhos
 
-### Semanais
+###1. Semanais
 
 O objetivo dos trabalhos semanais é estimular o estudante à atividade
 de pesquisa, de leitura da bibliografia e a se familiarizar com os
@@ -176,7 +176,7 @@ ajudar na apresentação.
 Dica: o livro do Samuel Adler é um bom ponto de partida para a 
 pesquisa.
  
-#### Lista de trabalhos
+####1. Lista de trabalhos
 
 Ver data de entrega de cada trabalho no cronograma.
 
@@ -196,7 +196,7 @@ como anexos em formato PDF com o assunto
 `[MUSA83] Trabalho x`. __Não entregar em formato DOC__ 
 nem anexar arquivo de áudio.
 
-### Provas
+###1. Provas
 
 As provas terão questões de identificação do instrumento a partir do
 reconhecimento auditivo em trechos da literatura musical, questões
@@ -205,7 +205,7 @@ trechos de um instrumento a outro.
 
 As datas das provas estão indicadas no cronograma.
 
-## Bibliografia
+##1. Bibliografia
 
 1. Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
 1. Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
@@ -214,12 +214,12 @@ As datas das provas estão indicadas no cronograma.
 1. Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
 1. Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A Practical Guidebook. New York, NY: W.W. Norton and Company.
   
-## Links
+##1. Links
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Playlist com vídeos no YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29ACkzLsDWNSPpgiqRZ6pTTfq-)
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

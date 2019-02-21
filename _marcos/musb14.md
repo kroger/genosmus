@@ -6,13 +6,13 @@ number_sections: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração de elementos musicais do século XX, politonalismo, 
 pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase
 em obras de pequenas dimensões.
 
-## Objetivos
+##1. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
@@ -21,7 +21,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 * Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
 * Compor para banda sinfônica
 
-## Conteúdo programático
+##1. Conteúdo programático
 
 1. Politonalidade
 2. Serialismo
@@ -34,7 +34,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 9. Apresentação e discussão do trabalho criativo
 10. Composição para formações camerísticas até orquestras de pequenas
 
-## Metodologia
+##1. Metodologia
 
 O curso está baseado no estudo interativo de um repertório pré-definido. Os 
 conteúdos previstos na ementa e demais tópicos pertinentes à Composição
@@ -47,7 +47,7 @@ As aulas são estruturadas em duas partes:
 1. Análise interativa de obras musicais e apresentação dos conteúdos
 1. Orientação à realização dos trabalhos do semestre
 
-## Avaliação
+##1. Avaliação
 
 A avaliação será feita mediante os seguintes trabalhos:
 
@@ -58,7 +58,7 @@ com um princípio composicional previamente definido.
 com uso sistemático de pelo menos um dos conteúdos abordados no curso. Este
 uso deverá ser demonstrado em relatório entregue junto à composição. 
 
-### Nota
+###1. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado obtido nos trabalhos, de acordo com os seguintes
 pesos:
@@ -82,7 +82,7 @@ Os trabalhos serão aceitos apenas se:
 
 A composição final deverá ser entregue por meio digital, via email.
 
-### Critérios de avaliação
+###1. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -107,7 +107,7 @@ As notas serão definidas de acordo com o seguinte critério:
 {: .table .table-sm}
 
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se a requerer até
 dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
@@ -123,7 +123,7 @@ Graduação.
 Crie o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para
 dilatar o prazo de entrega.
 
-## Assiduidade e pontualidade
+##1. Assiduidade e pontualidade
 
 Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas.
 
@@ -132,7 +132,7 @@ A carga horária da disciplina é de 51 horas semestrais. De acordo com o [Regul
 Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso de mais de 15 minutos será considerado como falta
 para a primeira aula. Uma saída com mais de 15 minutos antes do final da aula será considerada como falta na última aula. Dessa forma atrasos poderão implicar em reprovação.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
 
@@ -140,14 +140,14 @@ O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de ac
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1546056053&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Trabalhos
+##1. Trabalhos
 
 Todos os trabalhos deverão ser entregues via sistema de
 armazenamento em nuvem (Mega). Para cada trabalho, subir para
 o repositório os devidos arquivos PDF, MP3 e original do 
 software  usado (.sib, .mus, .ly, etc). Evitar arquivos .wav.
 
-### Miniaturas
+###1. Miniaturas
 
 Duração de 30 segundos a 1 minuto.
 
@@ -155,19 +155,19 @@ Todas as miniaturas deverão ser entregues em formato digital na data definida n
 o cronograma. As partituras e partes deverão ser entregues impressas na aula da semana 
 posterior.
 
-#### Miniatura 1
+####1. Miniatura 1
 
 - Conteúdo principal: A definir
 - Formação: Duo de clarinetes
 - Leitura: A definir
 
-#### Miniatura 2
+####1. Miniatura 2
 
 - Conteúdo principal: A definir
 - Formação: Quarteto de trombones
 - Leitura: A definir
 
-#### Miniatura 3
+####1. Miniatura 3
 
 - Conteúdo principal: Alturas (escolher entre os princípios definidos na ementa)
 - Formação: Piano solo
@@ -175,7 +175,7 @@ posterior.
 - Leitura: A definir
 
 
-#### Possíveis formações instrumentais para as miniaturas
+####1. Possíveis formações instrumentais para as miniaturas
 
 - Piano solo
 - Quarteto de trombones
@@ -183,22 +183,22 @@ posterior.
 - Duo de clarinetes
 - Duo de oboés (confirmar)
 
-### Análise
+###1. Análise
 
 O estudante deverá analisar um dos números do Mikrokosmos de Bartók seguindo
 a mesma metodologia de análise realizada durante as aulas ao longo do
 semestre e apresentar à turma em data marcada no calendário.
 
-### Composição final
+###1. Composição final
 
-#### Instruções
+####1. Instruções
 
 - Formação: Banda sinfônica
 - Duração: 3 a 4 minutos
 - Primeira metade - ver data de entrega no cronograma
 - Composição final - ver data de entrega no cronograma
 
-#### Instrumentação
+####1. Instrumentação
 
 - Flautim
 - 2 flautas
@@ -212,7 +212,7 @@ semestre e apresentar à turma em data marcada no calendário.
 - Bombardino (em Dó)
 - 3 Percussionistas (bombo, caixa e prato)
 
-### Trabalhos adicionais
+###1. Trabalhos adicionais
 
 [Em construção]
 
@@ -233,16 +233,16 @@ série. evitar pares de 2as e 3as consecutivas. Apresentar
 3 a 5 ocorrências. Variar a maneira de acompanhar. Informar 
 o que foi feito. Para piano.
 
-## Análise
+##1. Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será analisada em conjunto durante as aulas:
 
 [Em construção]
 
 
-### Música de câmara
+###1. Música de câmara
 
-#### Piano
+####1. Piano
 1. Bartók, Bagatelles Op. 6
 1. Bartók, Mikrokosmos, 59
 1. Bartók, Mikrokosmos, 101
@@ -260,7 +260,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Schoenberg, Op. 25 (Suíte para Piano)
 1. Webern, Op. 27
 
-#### Outros
+####1. Outros
 1. Bartók, Quarteto n. 1
 1. Berg, Lyrische Suite
 1. Berio, Sequenza I
@@ -281,7 +281,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Webern, Op. 5
 1. Webern, Op. 21
 
-### Música sinfônica
+###1. Música sinfônica
 
 1. Cardoso, O Vôo do Colibri
 1. Bartók, Concerto para Orquestra
@@ -303,32 +303,32 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Tchaikovsky, Sinfonia n. 5, Op. 64
 1. Williams, A Sea Symphony
 
-### Banda
+###1. Banda
 
 1. Daugherty, Raise the Roof
 1. Espirito Santo, Dobrado n. 182
 1. Hydas, Suite for wind band
 1. ?, Dobrado Bombardeio na Bahia
 
-### Música vocal
+###1. Música vocal
 
 1. Ives, The Cage
 1. Palestrina, Missa Papae Marcelli
 1. R. Strauss, Morgen
 
-## Notas e frequência
+##1. Notas e frequência
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-### Gráficos de desempenho da turma
+###1. Gráficos de desempenho da turma
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=569784072&amp;format=interactive"
  width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
-## Bibliografia
+##1. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
 1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: A Critical Evaluation of the Discipline and Its 
@@ -353,12 +353,12 @@ Company.
 edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 1. Wuorinen, Charles. 1979. Simple Composition. New York and London: Longman.
 
-### Complementar
+###1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite for Piano, Op. 25: From Composition with
 Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 
-## Links
+##1. Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
 - [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
@@ -367,7 +367,7 @@ Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 
 Os demais links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

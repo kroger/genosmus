@@ -5,16 +5,16 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudos práticos visando contextualizar as principais ferramentas de
 tecnologia digital aplicadas à música. Desenvolvimento de habilidades
 na utilização dessas ferramentas.
 
-## Objetivos
+##1. Objetivos
 Fornecer conhecimento básico de softwares necessários ao estudante de música.
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Software: livre, proprietário, gratuito, pago. Alternativas
   2. Organização de arquivos no computador: documentos, música,
@@ -28,7 +28,7 @@ Fornecer conhecimento básico de softwares necessários ao estudante de música.
   8. Edição de partitura
   9. Áudio: formatos e conversão, edição
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é feita mediante trabalhos escritos e
 seminários. Os trabalhos só serão aceitos entregues rigorosamente no
@@ -44,7 +44,7 @@ Em caso de dúvidas sobre a nota de algum trabalho, o prazo para
 reclamar será de uma semana. Após esse prazo a nota não será
 modificada.
 
-## Assiduidade e pontualidade
+##1. Assiduidade e pontualidade
 
 Assiduidade e pontualidade são de fundamental importância neste curso
 e serão rigorosamente observadas.
@@ -59,7 +59,7 @@ Um atraso de mais de 15 minutos ou saída com mais de 15 minutos antes
 do final da aula será considerado como falta. Dessa forma atrasos
 poderão implicar em reprovação.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
@@ -68,9 +68,9 @@ modificados de acordo com a necessidade e eventualidade.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzXclx-R5qRpq_u3HwDIP-xRpUs32IeA0hued0P5UcErSJs5L1lzLnXkvVcQieWONEQ392GHbHyM6V/pubhtml?gid=591909002&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Trabalhos
+##1. Trabalhos
 
-### Trabalhos escritos
+###1. Trabalhos escritos
 
 Valor: 50%
 
@@ -82,7 +82,7 @@ Os trabalhos deverão ser entregues via formulário.
   * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 25/09/2018
   * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 23/10/2018
 
-### Seminários
+###1. Seminários
 
 Valor: 50%
 
@@ -90,7 +90,7 @@ Os seminários serão apresentados por trios de estudantes sobre tema
 previamente definido. A apresentação é conjunta, mas a nota
 individual.
 
-#### Temas
+####1. Temas
 
   1. Edição de áudio avançada
   2. Edição de partitura avançada
@@ -101,7 +101,7 @@ individual.
   6. Ferramentas de pesquisa acadêmica (bibliografia, texto, etc.)
   7. Criação de página na internet (WordPress, etc.)
 
-#### Trios e duos
+####1. Trios e duos
 
 Temas, integrantes e datas de apresentação
 
@@ -116,35 +116,35 @@ Temas, integrantes e datas de apresentação
 | 27/11/18 | Ednaldo e Victor | A definir |
 | 04/12/18 | Elienai / Heliane | A definir |
 
-## Notas e frequência
+##1. Notas e frequência
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
 
-### Gráficos de desempenho da turma
+###1. Gráficos de desempenho da turma
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive"
  width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
 
-## Bibliografia
+##1. Bibliografia
 
-### Básica
+###1. Básica
 
 - Wikipedia. Music Software. Disponível em [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso em 02/05/2018.
 - Wikipedia. Web Search Engine. Disponível em [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso em 02/05/2018.
 - Wikipedia. Backup. Disponível em [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso em 02/05/2018.
 
-### Complementar
+###1. Complementar
 
 - Wikipedia. Academic Search. Disponível em [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso em 02/05/2018.
 - Wikipedia. Cloud computing. Disponível em [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso em 02/05/2018.
 - Wikipedia. Mobile app. Disponível em [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso em 02/05/2018.
 
 
-## Links
+##1. Links
 
 - [IMSLP](http://imslp.org/) - Repositório de partituras musicais
 - [CPDL](http://cpdl.org/) - Repositório de partituras musicais vocais
@@ -158,7 +158,7 @@ disciplina MUSA92"
 href="http://www.diigo.com/list/msampaio/ferramentas-computacionais"
 target="_blank" rel="noopener noreferrer">Diigo</a>.
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

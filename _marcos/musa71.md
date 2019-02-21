@@ -5,14 +5,14 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
 combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
 estudados.
 
-## Objetivos
+##1. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
@@ -23,7 +23,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
      recursos cromáticos a quatro vozes.
   3. Compor _lieder_ binário e ternário.
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Mistura de modos
   2. Acordes alterados, de 9ª, 11ª e 13ª.
@@ -31,7 +31,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
   4. Pequenas formas: divisão em partes
   5. Formas binárias, ternárias, únicas
 
-## Pré-requisitos
+##1. Pré-requisitos
 
 São pré-requisitos para a disciplina:
 
@@ -42,7 +42,7 @@ São pré-requisitos para a disciplina:
      condução de vozes
   4. Realização de baixo cifrado a quatro vozes
 
-## Metodologia
+##1. Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
 exercícios a serem realizados em classe e em casa:
@@ -55,7 +55,7 @@ exercícios a serem realizados em classe e em casa:
   3. Composição de pequenas formas musicais
 
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas
 são compostas por questões de composição e/ou análise e têm como
@@ -63,11 +63,11 @@ objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
 de correção é subjetivo, como o próprio conteúdo da disciplina. O
 conteúdo das provas é acumulativo.
 
-### Nota
+###1. Nota
 
 A nota do semestre será a média aritmética das notas das provas.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -85,7 +85,7 @@ de Ensino de Graduação.
 A data de realização de segunda chamada está prevista no cronograma da
 disciplina.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
@@ -95,7 +95,7 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af
  width="100%" height="300">
 </iframe>
 
-## Exercícios de apoio
+##1. Exercícios de apoio
 
 1. [Revisão de modulação e harmonia: análise e baixo cifrado ](https://docs.google.com/document/d/16wQi3VdMPik19cjD8o7I1kbGVuaBLbJKLXEtd9L5LFE/edit?usp=sharing)
 1. [Acordes de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo cifrado](https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing)
@@ -111,14 +111,14 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af
 1. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
 1. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing)
 
-## Material para Análise
+##1. Material para Análise
 
 Seleção de obras para análise ao longo do semestre.
 
 O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
 Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
 
-### Lista completa
+###1. Lista completa
 
 [Em construção]
 
@@ -160,11 +160,11 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit". [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/06/IMSLP51539-PMLP02799-RS53.pdf)
 1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei". [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/06/IMSLP51539-PMLP02799-RS53.pdf)
 
-### Lista organizada por conteúdo
+###1. Lista organizada por conteúdo
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
 
-#### 1. Revisão de frases, períodos, tonicalização e modulação
+####1. 1. Revisão de frases, períodos, tonicalização e modulação
 
 Aulas 1 e 2, dias 03 e 05/04/2018
 
@@ -172,7 +172,7 @@ Aulas 1 e 2, dias 03 e 05/04/2018
 - Mozart K545, mov. 1
 - Clementi, op. 36, n. 1, mov. 1
 
-#### 2. Empréstimo modal
+####1. 2. Empréstimo modal
 
 Aulas 3 e 4, dias 10 e 12/04/2018
 
@@ -180,14 +180,14 @@ Aulas 3 e 4, dias 10 e 12/04/2018
 - Schubert, Sehnsucht D310B
 - Exemplos do capítulo de empréstimo modal de RG (ver links). Esses exemplos poderão ser vistos no celular.
 
-#### 3. Acordes de nona, alterados, etc.
+####1. 3. Acordes de nona, alterados, etc.
 
 Aulas 5 e 6, dias 17 e 19/04/2018
 
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
-#### 4. Prática - harmonia cromática
+####1. 4. Prática - harmonia cromática
 
 Aulas 7 e 8, dias 24 e 26/04/2018
 
@@ -196,13 +196,13 @@ Obras não finalizadas em aulas anteriores:
 - Schubert, Sehnsucht D310B
 - Clementi, op. 36, n. 1, mov. 1
 
-#### 5. Conceitos de forma e características gerais das frases
+####1. 5. Conceitos de forma e características gerais das frases
 
 Aula 9, dia 03/05/2018
 
 - Clementi, op. 36, n. 1, mov. 1
 
-#### 6. Estrutura harmônica da frase
+####1. 6. Estrutura harmônica da frase
 
 Aula 11, dia 10/05/2018
 
@@ -210,7 +210,7 @@ Aula 11, dia 10/05/2018
 - Clementi, op. 36, n. 1, mov. 2
 - Schumann op. 68, n. 9
 
-#### 7. Estrutura melódica da frase
+####1. 7. Estrutura melódica da frase
 
 Aula 12, dia 15/05/2018
 
@@ -220,7 +220,7 @@ Aula 12, dia 15/05/2018
 - Schumann op. 68, n. 7
 - Schumann op. 68, n. 9
 
-#### 8. Desenvolvimento de frase
+####1. 8. Desenvolvimento de frase
 
 Aula 13, dia 17/05/2018
 
@@ -230,7 +230,7 @@ Aula 13, dia 17/05/2018
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, op. 99, mov. 3 (apenas primeira página)
 
-#### 9. Combinação de frases e prática composição e análise
+####1. 9. Combinação de frases e prática composição e análise
 
 Aulas 14 e 15, dias 22 e 24/05/2018
 
@@ -239,7 +239,7 @@ Aulas 14 e 15, dias 22 e 24/05/2018
 - Mozart K284, mov. iii, tema (p. 10 (54))
 - Mozart K570, mov. ii (p 6 do pdf)
 
-#### 10. Combinação de frases: detalhamento de períodos
+####1. 10. Combinação de frases: detalhamento de períodos
 
 Aula 16, dia 05/06/2018
 
@@ -250,7 +250,7 @@ Aula 16, dia 05/06/2018
 - Mozart K570, mov. ii (p 6 do pdf)
 
 
-#### 11. Pequenas formas: partes, desenho e movimento harmônico
+####1. 11. Pequenas formas: partes, desenho e movimento harmônico
 
 Aula 17, dia 12/06/2018
 
@@ -262,7 +262,7 @@ Aula 17, dia 12/06/2018
 
 (composições já usadas no semestre)
 
-#### 12. Formas binárias: contínuas e secionais
+####1. 12. Formas binárias: contínuas e secionais
 
 Aulas 18 e 19, dias 19 e 21/06/2018
 
@@ -274,7 +274,7 @@ Aulas 18 e 19, dias 19 e 21/06/2018
 - Mozart K570, mov. ii (p 6 do pdf)
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-### 13. Análise e composição de pequenas formas
+###1. 13. Análise e composição de pequenas formas
 
 Aula 20, dia 28/06/2018
 
@@ -282,7 +282,7 @@ Aula 20, dia 28/06/2018
 - Diabelli, op. 168, n. 1, mov. 2
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-### 14. Análise de pequenas formas
+###1. 14. Análise de pequenas formas
 
 Aulas 21 e 22, dias 10 e 12/07/2018
 
@@ -292,7 +292,7 @@ Aulas 21 e 22, dias 10 e 12/07/2018
 - Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
 - Schumann op. 68, n. 9
 
-## Notas e frequência
+##1. Notas e frequência
 
 Em construção
   
@@ -300,13 +300,13 @@ Em construção
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-### Gráficos de desempenho da turma
+###1. Gráficos de desempenho da turma
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=641992382&amp;format=interactive"
 width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
-## Bibliografia
+##1. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
 Voice Leading_. 3rded. Thomson Schirmer.
@@ -342,7 +342,7 @@ New York: Schirmer.
 1. "Musictheory.net." 2000. http://musictheory.net.
 1. "Resposta Tonal." 2015. https://respostatonal.com.
 
-## Links
+##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
@@ -359,7 +359,7 @@ New York: Schirmer.
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

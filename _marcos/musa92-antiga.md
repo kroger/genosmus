@@ -4,11 +4,11 @@ layout: disciplina
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudos práticos visando contextualizar as principais ferramentas de tecnologia digital aplicadas à música. Desenvolvimento de habilidades na utilização dessas ferramentas.
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Software: livre, proprietário, gratuito, pago. Alternativas
   2. Organização de arquivos no computador: documentos, música, imagens, ebooks, etc.
@@ -20,7 +20,7 @@ Estudos práticos visando contextualizar as principais ferramentas de tecnologia
   8. Edição de partitura
   9. Áudio: formatos e conversão, edição
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é feita mediante trabalhos semanais. Estes trabalhos poderão ser relatos orais sobre ferramentas testadas ou documentos entregues por email. Os trabalhos só serão aceitos entregues rigorosamente no prazo — até o início da aula do dia marcado para entrega. A data e horário do envio do email servirão como registro.
 
@@ -35,7 +35,7 @@ A nota de cada trabalho será:
   * 5,0 -- se o aluno fizer algo que não foi pedido, mas for considerado pelo professor de forte relação com o assunto trabalhado.
   * 10,0 -- se o aluno fizer o que foi pedido
 
-## Assiduidade e pontualidade
+##1. Assiduidade e pontualidade
 
 Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas.
 
@@ -43,7 +43,7 @@ A carga horária da disciplina é de 17 horas semestrais. De acordo com o Regula
 
 Um atraso de mais de 15 minutos ou saída com mais de 15 minutos antes do final da aula será considerado como falta. Dessa forma atrasos poderão implicar em reprovação.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de acordo com a necessidade e eventualidade.
 
@@ -51,11 +51,11 @@ O conteúdo e dias das aulas do cronograma abaixo poderão ser modificados de ac
 
 
 
-## Trabalho Especial
+##1. Trabalho Especial
 
 O <a href="https://docs.google.com/document/d/18qz5wLFKohZP6reviQepg6Mh2BQHaJ5RELqfrSuzVr4/edit?usp=sharing" target="_blank">trabalho especial</a> irá substituir os trabalhos semanais 6, 7, 8 e 9. Deverá ser entregue em 22/09.
 
-## Trabalhos Semanais
+##1. Trabalhos Semanais
 
 &nbsp;
 
@@ -193,14 +193,14 @@ Entrega nas datas definidas abaixo até as 17 horas.
   </tr>
 </table>
 
-## Notas e frequência
+##1. Notas e frequência
 
 
 
-#### Gráficos de desempenho da turma
+####1. Gráficos de desempenho da turma
 
 
 
-## Links
+##1. Links
 
 Os links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank">Diigo</a>.

@@ -4,13 +4,13 @@ layout: disciplina
 level: graduacao
 ---
 
-## Resumo
+##1. Resumo
 
 O objetivo deste curso é fornecer conhecimento introdutório e prático sobre análise musical assistida por computador. Ao final do curso, o estudante estará apto a montar estudos com suporte estatístico para ajudar a responder questões como “Que contextos musicais justificam saltos melódicos não compensados nos corais de J.S.Bach?”. O conteúdo abrange codificação musical e frameworks de análise, repositórios de partituras para análise, aplicações de análises assistidas, estatística básica, uso de computador para análise musical e formulação de questões de pesquisa. Formalmente não há pré-requisito, mas é necessário conhecimento sobre harmonia tonal, forma e algum conhecimento de software de planilha de cálculos. Não é necessário ter experiência de programação de computadores.
   
 A disciplina tem carga horária de uma hora semanal e a avaliação ocorrerá mediante pequenos trabalhos semanais/quinzenais e um trabalho final.
 
-## Conteúdo
+##1. Conteúdo
 
   1. Musicologia Computacional: conceitos, potencial, ferramentas.
   2. Codificação: áudio, midi, kern, xml.
@@ -20,7 +20,7 @@ A disciplina tem carga horária de uma hora semanal e a avaliação ocorrerá me
   6. Análise melódica.
   7. Algoritmos simples: contagem, distribuição.
 
-## Material para análise
+##1. Material para análise
 
   * <a href="https://docs.google.com/spreadsheets/d/1K3ReKQVV56aCuKtJkzBAGWJMWxf_xyEtTW9QnjLKdaI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Dados coral 001 -- soprano</a>
   * <a href="https://docs.google.com/spreadsheets/d/1hXFgSevnol5RKTRKRmTujNHvCxpL-Pegs_usEEIRxRo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Dados coral secreto -- notas</a>
@@ -35,7 +35,7 @@ A disciplina tem carga horária de uma hora semanal e a avaliação ocorrerá me
   * <a href="http://imslp.org/wiki/Special:ImagefromIndex/03823" target="_blank" rel="noopener noreferrer">Corais Harmonizados por J.S. Bach 4/4</a>
   * <a href="http://www.musiccog.ohio-state.edu/Humdrum/problems.html" target="_blank" rel="noopener noreferrer">Perguntas Humdrum</a>
 
-## Trabalhos
+##1. Trabalhos
 
   1. Analisar aspectos melódicos e harmônicos de um coral de Bach
   2. Ver possíveis estudos com dados do soprano do coral 001
@@ -48,7 +48,7 @@ A disciplina tem carga horária de uma hora semanal e a avaliação ocorrerá me
   9. Identificar relação entre acordes em posição fechada e posição aberta nos corais de Bach em Dó maior
  10. Analisar âmbito e frequência de ocorrência de ritmos das obras de Pixinguinha
 
-## Bibliografia
+##1. Bibliografia
 
 <p class="wpmref">
   <span class="wpmauthors">Christina Anagnostopoulou, Chantal Buteau</span> <span class="wpmyear">(2010)</span> <span class="wpmtitle">Can computational music analysis be both musical and computational?</span>, <span class="wpmoutlet">Journal of Mathematics and Music</span> <span class="wpmvolume">4</span><span class="wpmissue">(2)</span>, <span class="wpmpages">p. 75-83</span>, <span class="wpmurl"><a target="_blank" href="http://www.informaworld.com/openurl?genre=article&doi=10.1080/17459737.2010.520455&magic=crossref%7C%7CD404A21C5BB053405B1A640AFFD44AE3"><span class="wpmurlurl">url</span></a></span>, <span class="wpmurl"><a target="_blank" href="http://dx.doi.org/10.1080/17459737.2010.520455"><span class="wpmurldoi:10.1080/17459737.2010.520455">doi:10.1080/17459737.2010.520455</span></a></span><br clear='all' />

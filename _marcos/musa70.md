@@ -5,13 +5,13 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto estrito, da harmonia, e da construção de frases musicais básicas. Apreciação de obras musicais referentes aos elementos estudados.
 
 <!--FIXME: adicionar objetivos-->
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Forma: 
       1. Cadências, frases, agrupamentos
@@ -25,15 +25,15 @@ Revisão da teoria musical básica; estudo dos princípios do contraponto estrit
       6. Acorde napolitano
       7. Acordes de sexta aumentada (italiana, francesa e alemã)
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-### Nota
+###1. Nota
 
 A média final é equivalente à média simples das notas das provas.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -45,7 +45,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
 
-## Cronograma
+##1. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
@@ -53,7 +53,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuycKabRlsgj1buqsh89Yq7-IP2ZCBdWThS48TCWpOzJEAH9HNy6t9U2gPCmC1Ps_sM3-QFL-VuZ8d/pubhtml?gid=954751890&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Exercícios de apoio
+##1. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a
   
@@ -64,7 +64,7 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
   1. [Notas melódicas, cadências e frases](https://goo.gl/Rv69f1)
   2. [Encadeamento de tétrades](https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing)
 
-## Material para análise
+##1. Material para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -124,24 +124,24 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Paganini Capriccios Op 1, n. 4. (p. 7)
   1. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
 
-### Lista organizada por conteúdo
+###1. Lista organizada por conteúdo
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
 
-#### 1. Análise harmônica e formal (frases)
+####1. 1. Análise harmônica e formal (frases)
 
 Aula 1, dia 21/08/2018
 
 - Mozart K284, mov. 3, tema
 
-#### 2. Tonicização e modulação
+####1. 2. Tonicização e modulação
 
 Aula 6, dia 05/09/2018
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
 
-#### 3. Análise harmônica e formal (combinação de frases)
+####1. 3. Análise harmônica e formal (combinação de frases)
 
 Aula 10, dia 20/09/2018
 
@@ -149,7 +149,7 @@ Aula 10, dia 20/09/2018
 - Mozart K284, mov. 3, tema
 - Mozart K545, mov. 1 (apenas primeira página)
 
-#### 4. Modulação
+####1. 4. Modulação
 
 Aulas 11 a 16, dias 25 e 27/09, 02, 09, 11 e 23/10/2018
 
@@ -172,13 +172,13 @@ Peças adicionais
 - Mozart K310, mov. 1
 - Mozart K570, mov. 1
 
-#### 5. Análise harmônica e formal (formas compostas)
+####1. 5. Análise harmônica e formal (formas compostas)
 
 Aula 17, dia 30/10/2018
 
 - Mozart K330, mov. 2 (todo o movimento)
 
-## Notas
+##1. Notas
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
   
@@ -186,7 +186,7 @@ As notas dos alunos estão disponíveis no link abaixo e serão atualizadas dura
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=939789204&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-### Distribuição de notas
+###1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
   
@@ -198,7 +198,7 @@ contém o número de alunos com média final dentro das faixas.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubchart?oid=951878699&amp;format=interactive"
 width="100%" height="300"></iframe>
 
-## Links
+##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
@@ -213,7 +213,7 @@ width="100%" height="300"></iframe>
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA70%20LEM%20II.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## Bibliografia
+##1. Bibliografia
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;">
   Aldwell, Edward, and Carl Schachter. 2002. <i>Harmony and Voice Leading</i>. 3rded. Thomson Schirmer.
@@ -253,7 +253,7 @@ width="100%" height="300"></iframe>
 
 <!-- mendeley type="folders" id="d4453a45-45fc-4da1-819e-4fae34da1a24" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

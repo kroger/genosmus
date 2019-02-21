@@ -4,25 +4,25 @@ layout: disciplina
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 <span style="font-weight: 400;">Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados.</span>
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. Princípios do contraponto tonal a duas vozes
   2. Invenção a 2 vozes
   3. Melodia (motivos e sequências)
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-### Nota
+###1. Nota
 
 A média final é equivalente à média simples das notas das provas.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -34,13 +34,13 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
 
-## Cronograma
+##1. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 
 
-## Exercícios de apoio
+##1. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a
   
@@ -51,13 +51,13 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
   1. <a href="https://goo.gl/Di2L8K" target="_blank">Treinamento de figuração melódica</a>
   2. <a href="https://goo.gl/9lQHOK" target="_blank">Figuração de melodias de corais</a>
 
-## Notas e frequência
+##1. Notas e frequência
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
 
 
 
-### Distribuição de notas
+###1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
   
@@ -67,7 +67,7 @@ contém o número de alunos com média final dentro das faixas.
 
 
 
-## Links
+##1. Links
 
   * <a href="https://respostatonal.com/" target="_blank">Resposta Tonal</a>
   * <a title="KP" href="http://genosmus.com/aulas/Kostka%20Tonal%20Harmony%20Traduzido.pdf" target="_blank">KP</a>
@@ -76,7 +76,7 @@ contém o número de alunos com média final dentro das faixas.
   * <a title="Tutorial para contraponto a duas vozes: figuração" href="http://www.youtube.com/watch?v=i1mZ7SibDZ0" target="_blank">Tutorial para contraponto a duas vozes: figuração</a>
   * <a href="http://sporadic.stanford.edu/Chorales/" target="_blank">Corais de Bach</a>
 
-## Bibliografia
+##1. Bibliografia
 
 <div class="csl-bib-body">
   <div class="csl-entry">

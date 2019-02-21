@@ -6,12 +6,12 @@ level: graduacao
 ---
 
 
-## Ementa
+##1. Ementa
 
 
 Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
 
-## Objetivos
+##1. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
@@ -20,7 +20,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
   * Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
   * Compor para orquestra sinfônica pequena
 
-## Conteúdo programático
+##1. Conteúdo programático
 
 1. Teoria de Relações de Contornos musicais
     1. Base teórica e cognitiva
@@ -33,11 +33,11 @@ Ao final do curso espera-se que o estudante seja capaz de:
 1. Apresentação e discussão do trabalho criativo
 1. Composição para formações camerísticas até orquestras de pequenas dimensões
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante trabalho de composição e trabalhos semanais realizados ao longo do semestre (ver descrição mais adiante).
 
-### Nota
+###1. Nota
 
 O cálculo da nota está em construção, dependendo das formações disponíveis para leituras.
 
@@ -61,7 +61,7 @@ Os trabalhos serão aceitos apenas se:
 
 A composição final deverá ser entregue por meio digital, via email.
 
-### Critérios de avaliação
+###1. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -72,7 +72,7 @@ Os critérios gerais de avaliação são:
   * Cuidados com a apresentação da partitura (composições)
   * Criatividade
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -82,11 +82,11 @@ O aluno que não entregar um dos trabalhos no dia marcado terá direito a entreg
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
-## Estrutura das aulas
+##1. Estrutura das aulas
 
 As aulas são divididas em exposição de conteúdo, análise interativa de obras e orientação dos trabalhos dos alunos.
 
-## Cronograma
+##1. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
@@ -94,16 +94,16 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIWOA8wNakz3wyUhvwl-xgMIAzqR9xr2sow2dLjwT2kgUkCXEMWSp_ZtMttTOkn63Ljnm5-79ul-le/pubhtml?gid=2125874849&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-### Itens extras
+###1. Itens extras
 
 1. Leitura de Banda sinfônica: 30/10/2018, 18 horas, Auditório
 
-## Trabalhos
+##1. Trabalhos
 
 Os trabalhos estão sendo definidos, dependendo das formações disponíveis para leituras.
 O trabalho principal será para a formação da OSUFBA.
 
-### Miniaturas
+###1. Miniaturas
 
 Duração de 30 segundos a 1 minuto.
 
@@ -113,7 +113,7 @@ Formações disponíveis:
 1. Quarteto de cordas
 1. Oboés (confirmar)
 
-#### Miniatura 1
+####1. Miniatura 1
 
  - Conteúdo principal: a definir
  - Formação: duo do oboés
@@ -121,7 +121,7 @@ Formações disponíveis:
  - Entrega das partes (impressas): semana seguinte
  - Leitura: 11/10/2018, 11hs, EMUS, sala a definir
  
-#### Miniatura 2
+####1. Miniatura 2
 
  - Conteúdo principal: a definir
  - Formação: quarteto de cordas
@@ -129,7 +129,7 @@ Formações disponíveis:
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
  
-#### Miniatura 3
+####1. Miniatura 3
 
  - Conteúdo principal: a definir
  - Formação: quarteto vocal
@@ -137,7 +137,7 @@ Formações disponíveis:
  - Entrega das partes (impressas): semana seguinte
  - Leitura: a definir
 
-### Exercícios semanais
+###1. Exercícios semanais
 
 Os exercícios semanais são pequenos fragmentos com aplicação dos conteúdos apresentados em aula.
 
@@ -181,15 +181,15 @@ mostrando como cada ferramentatécnica foi utilizada no trabalho.
         1. Regressão ou progressão métrica
         1. Serialismo Rítmico
 
-### Composição final
+###1. Composição final
 
 A composição final deverá ter duração de 5 a 7 minutos e formação equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas).
 
-## Análise
+##1. Análise
 
 Ao longo do semestre as obras listadas serão analisadas em conjunto durante as aulas:
 
-### Orquestra
+###1. Orquestra
 
 [em construção]
 
@@ -201,7 +201,7 @@ Ao longo do semestre as obras listadas serão analisadas em conjunto durante as 
   6. Carter, Elliott -- Three Occasions for Orchestra (Boosey and Hawkes, 1992)
   7. Penderecki, Krzysztof. Paixão Segundo São Lucas
 
-### Câmara
+###1. Câmara
 
 [em construção]
 
@@ -212,7 +212,7 @@ Ao longo do semestre as obras listadas serão analisadas em conjunto durante as 
   5. <a href="http://imslp.org/wiki/Music_for_Strings,_Percussion_and_Celesta,_Sz.106_(Bart%C3%B3k,_B%C3%A9la)" target="_blank" rel="noopener">http://imslp.org/wiki/Music_for_Strings,_Percussion_and_Celesta,_Sz.106_(Bart%C3%B3k,_B%C3%A9la)</a>
   6. <a href="http://imslp.org/wiki/Octandre_(Var%C3%A8se,_Edgard)" target="_blank" rel="noopener">http://imslp.org/wiki/Octandre_(Var%C3%A8se,_Edgard)</a>
 
-## Notas e frequência
+##1. Notas e frequência
 
 Em Construção
 
@@ -222,14 +222,14 @@ As notas dos alunos estão disponíveis no link abaixo e serão atualizadas dura
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=6205951&single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-## Links
+##1. Links
 
 * [Favoritos de Teoria Musical](https://www.diigo.com/list/msampaio/teoria-musical)
 * [Calculadora de contornos](https://contour.sampaio.me)
 * [Calculadora de matriz dodecafônica](http://www.musictheory.net/calculators/matrix)
 * [PCN Jamary](http://www.angelfire.com/music2/bahia/pcn/pcn2001ptb.htm)
 
-## Bibliografia
+##1. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
 1. Cope, David. 1997. Techniques of the Contemporary Composer. New York, NY: Schirmer Books.
@@ -241,7 +241,7 @@ width="100%" height="300"></iframe>
 1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "[Aplicação de Contornos Na Composição Musical](https://marcos.sampaio.me/pt-br/publicacoes/sampaio-ea2016-aplicacao/)." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador: EDUFBA.
 1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

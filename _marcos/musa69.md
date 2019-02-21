@@ -5,20 +5,20 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto
 estrito, da harmonia, e da construção de frases musicais básicas.
 Apreciação de obras musicais referentes aos elementos estudados.
 
-## Objetivos
+##1. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de compreender
 as relações harmônicas de obras diatônicas simples, realizar baixos
 cifrados diatônicos a quatro vozes, bem como harmonizar melodias
 diatônicas simples a quatro vozes, com domínio de condução de vozes.
 
-## Conteúdo programático
+##1. Conteúdo programático
 
 1. Revisão da teoria básica: intervalos musicais, escalas e suas
    estruturas, acordes (tríades) e suas inversões e cifragens,
@@ -33,7 +33,7 @@ diatônicas simples a quatro vozes, com domínio de condução de vozes.
 1. Princípios da análise musical, com peças curtas e harmonias
    simples.
 
-## Metodologia
+##1. Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
 exercícios a serem realizados em classe e em casa:
@@ -46,7 +46,7 @@ exercícios a serem realizados em classe e em casa:
      e modulatória simples
   4. Realização de exercícios exaustivos de condução de vozes
 
-## Pré-requisitos
+##1. Pré-requisitos
 
 São pré-requisitos dessa disciplina o entendimento da estrutura e a
 percepção de:
@@ -63,7 +63,7 @@ Além de:
 Tais pré-requisitos fazem parte da prova de ingresso dos cursos de
 música.
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas
 são compostas por questões de composição e/ou análise e têm como
@@ -71,11 +71,11 @@ objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
 de correção é subjetivo, como o próprio conteúdo da disciplina. O
 conteúdo das provas é acumulativo.
 
-### Nota
+###1. Nota
 
 A nota do semestre será a média aritmética das notas das provas.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -93,7 +93,7 @@ de Ensino de Graduação.
 A data de realização de segunda chamada está prevista no cronograma da
 disciplina.
 
-## Cronograma
+##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
@@ -103,7 +103,7 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRUuw_EufE-An2wiYN2Q69kUwa-
 width="100%" height="300"></iframe>
 
 
-## Exercícios de apoio
+##1. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a
 realização em casa. Esses exercícios serão parcialmente corrigidos em
@@ -137,7 +137,7 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
  13. [Funções secundárias, realização de baixo cifrado e análise
      harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing)
 
-## Material para análise
+##1. Material para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -156,14 +156,14 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Schumann, Álbum para Juventude op. 68, n. 2 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
 1. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
 
-## Notas
+##1. Notas
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=939789204&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
 
-### Distribuição das notas
+###1. Distribuição das notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
@@ -175,7 +175,7 @@ width="100%" height="371" frameborder="0" scrolling="no"
 seamless=""></iframe>
 
 
-## Bibliografia
+##1. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
 Voice Leading_. 3rded. Thomson Schirmer.
@@ -215,7 +215,7 @@ New York: Schirmer.
 1. "Resposta Tonal." 2015. 
 [https://respostatonal.com](https://respostatonal.com).
 
-## Links
+##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
@@ -229,7 +229,7 @@ New York: Schirmer.
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone

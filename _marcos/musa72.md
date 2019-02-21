@@ -5,13 +5,13 @@ toc: true
 level: graduacao
 ---
 
-## Ementa
+##1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados. (antiga)
 
 <!--FIXME: adicionar objetivos-->
 
-## Conteúdo programático
+##1. Conteúdo programático
 
   1. A Forma Sonata 
       * Aspecto Geral da Forma Sonata
@@ -31,15 +31,15 @@ Estudo da harmonia cromática, da construção de frases musicais e suas combina
       * O Terceiro Movimento do Concerto Clássico: Forma Concerto-Rondo
       * Nota Histórica Sobre o Concerto Após Beethoven
 
-## Avaliação
+##1. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-### Nota
+###1. Nota
 
 A média final é equivalente à média simples das notas das provas.
 
-### Segunda chamada
+###1. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -51,7 +51,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
 
-## Cronograma
+##1. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
@@ -60,7 +60,7 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFJd6AVK1yqXBc_VGyrFlWCH2W
 width="100%" height="300"></iframe>
 
 
-## Obras para análise
+##1. Obras para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -123,7 +123,7 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Mozart K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
   
 
-## Notas e frequência
+##1. Notas e frequência
 
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
 
@@ -131,7 +131,7 @@ As notas dos alunos estão disponíveis no link abaixo e serão atualizadas dura
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
-### Distribuição de notas
+###1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y contém o número de alunos com média final dentro das faixas.
 
@@ -139,7 +139,7 @@ O gráfico abaixo apresenta a distribuição da média final da turma. O eixo X 
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubchart?oid=641992382&amp;format=interactive"
 width="100%" height="300"></iframe>
 
-## Links
+##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
@@ -156,7 +156,7 @@ width="100%" height="300"></iframe>
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## Bibliografia
+##1. Bibliografia
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
@@ -176,7 +176,7 @@ width="100%" height="300"></iframe>
   Zamacois, Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos Musicales</i>. Barcelona: Editorial Labor.
 </p>
 
-## Comunicação com o professor
+##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
 em horário comercial. Assuntos acadêmicos não são tratados por telefone
