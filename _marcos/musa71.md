@@ -164,55 +164,51 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
 
-####1. 1. Revisão de frases, períodos, tonicalização e modulação
+####1. Revisão de frases, períodos, tonicalização e modulação
 
-Aulas 1 e 2, dias 03 e 05/04/2018
+Aula 1, dia 12/03/2019
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
 - Clementi, op. 36, n. 1, mov. 1
 
-####1. 2. Empréstimo modal
+####1. Empréstimo modal
 
-Aulas 3 e 4, dias 10 e 12/04/2018
+Aulas 2 e 3, dias 14 e 19/03/2019
 
-- Clementi, op. 36, n. 1, mov. 1 (finalização modulação)
 - Schubert, Sehnsucht D310B
 - Exemplos do capítulo de empréstimo modal de RG (ver links). Esses exemplos poderão ser vistos no celular.
 
-####1. 3. Acordes de nona, alterados, etc.
+####1. Acordes de nona, alterados, etc.
 
-Aulas 5 e 6, dias 17 e 19/04/2018
+Aulas 5 e 6, dias 26 e 28/03/2019
 
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
-####1. 4. Prática - harmonia cromática
+####1. Prática - harmonia cromática
 
-Aulas 7 e 8, dias 24 e 26/04/2018
+Aulas 7 e 8, dias 02 e 04/04/2019
 
-Obras não finalizadas em aulas anteriores:
+Obras não finalizadas em aulas anteriores
 
-- Schubert, Sehnsucht D310B
-- Clementi, op. 36, n. 1, mov. 1
+####1. Conceitos de forma e características gerais das frases
 
-####1. 5. Conceitos de forma e características gerais das frases
-
-Aula 9, dia 03/05/2018
+Aula 10, dia 11/04/2019
 
 - Clementi, op. 36, n. 1, mov. 1
 
-####1. 6. Estrutura harmônica da frase
+####1. Estrutura harmônica da frase
 
-Aula 11, dia 10/05/2018
+Aula 11, dia 16/04/2019
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
 - Schumann op. 68, n. 9
 
-####1. 7. Estrutura melódica da frase
+####1. Estrutura melódica da frase
 
-Aula 12, dia 15/05/2018
+Aulas 12 e 13, dias 18 e 23/04/2019
 
 - Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 - Clementi, op. 36, n. 1, mov. 1
@@ -220,9 +216,9 @@ Aula 12, dia 15/05/2018
 - Schumann op. 68, n. 7
 - Schumann op. 68, n. 9
 
-####1. 8. Desenvolvimento de frase
+####1. Desenvolvimento de frase
 
-Aula 13, dia 17/05/2018
+Aulas 14 e 15, dias 25 e 30/04/2019
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
@@ -230,18 +226,18 @@ Aula 13, dia 17/05/2018
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, op. 99, mov. 3 (apenas primeira página)
 
-####1. 9. Combinação de frases e prática composição e análise
+####1. Combinação de frases e prática composição e análise
 
-Aulas 14 e 15, dias 22 e 24/05/2018
+Aula 16 dia 02/05/2019
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
 - Mozart K284, mov. iii, tema (p. 10 (54))
 - Mozart K570, mov. ii (p 6 do pdf)
 
-####1. 10. Combinação de frases: detalhamento de períodos
+####1. Combinação de frases: detalhamento de períodos
 
-Aula 16, dia 05/06/2018
+Aulas 17 e 18, dias 07 e 09/05/2019
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -250,9 +246,9 @@ Aula 16, dia 05/06/2018
 - Mozart K570, mov. ii (p 6 do pdf)
 
 
-####1. 11. Pequenas formas: partes, desenho e movimento harmônico
+####1. Pequenas formas: partes, desenho e movimento harmônico
 
-Aula 17, dia 12/06/2018
+Aulas 20 e 21, dias 16 e 21/05/2019
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -262,9 +258,9 @@ Aula 17, dia 12/06/2018
 
 (composições já usadas no semestre)
 
-####1. 12. Formas binárias: contínuas e secionais
+####1. Formas binárias: contínuas e secionais
 
-Aulas 18 e 19, dias 19 e 21/06/2018
+Aula 22, dia 23/05/2019
 
 - J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben.
 - Clementi, op. 36, n. 1, mov. 1
@@ -274,17 +270,23 @@ Aulas 18 e 19, dias 19 e 21/06/2018
 - Mozart K570, mov. ii (p 6 do pdf)
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-###1. 13. Análise e composição de pequenas formas
+###1. Análise e composição de pequenas formas
 
-Aula 20, dia 28/06/2018
+Aula 23, dia 28/05/2019
 
 - Brahms, op. 49, n. 4 (Wiegenlied)
 - Diabelli, op. 168, n. 1, mov. 2
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-###1. 14. Análise de pequenas formas
+####1. Formas ternárias: contínuas e secionais
 
-Aulas 21 e 22, dias 10 e 12/07/2018
+Aula 24, dia 30/05/2019
+
+[definir]
+
+###1. Análise de pequenas formas
+
+Aulas 25 a 28, dias 04 a 13/06/2019
 
 - Brahms, op. 49, n. 4 (Wiegenlied)
 - Mozart K330, mov. 2 (p 111 (7))
