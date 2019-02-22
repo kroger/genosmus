@@ -29,18 +29,39 @@ title: Disciplinas - Marcos Sampaio
 
 {% assign pages = site.marcos | where:"level","graduacao" %}
 <h3>Graduação</h3>
+<pre>2011 a {{ 'now' | date: "%Y" }}</pre>
+
 <ul>
     {% for page in pages %}
     {% unless page.new %}
     <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endunless %}
     {% endfor %}
+    <li>MUSA77 - História I</li>
+    <li>MUSB12 - Composição III</li>
+    <li>MUSB13 - Composição IV</li>
+    <li>MUSB16 - Composição VII</li>
+    <li>MUSB17 - Composição VIII</li>
 </ul>
+
+<pre>2007 e 2008</pre>
+
+<ul>
+    <li>MUS003 - Percepção I (antiga)</li>
+    <li>MUS104 - Instrumentação e Orquestração I (antiga)</li>
+    <li>MUS110 - Composição III (antiga)</li>
+    <li>MUS111 - Composição IV (antiga)</li>
+</ul>
+
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" %}
 <h3>Pós-graduação</h3>
-2013 a 2016
+<pre>2013 a 2016</pre>
 <ul>
+    <li>MUS504 – Estudos especiais – Teoria de Contornos</li>
+    <li>MUS505 – Informática em Música I</li>
+    <li>MUS515 – Tópicos em Teoria I</li>
+    <li>MUS592 – Informática em Música III</li>
     {% for page in pages %}
     {% unless page.new %}
     <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
@@ -50,8 +71,10 @@ title: Disciplinas - Marcos Sampaio
 
 {% assign pages = site.marcos | where:"level","extensao" %}
 <h3>Extensão</h3>
-Até 2011
+<pre>Até 2011</pre>
 <ul>
+    <li>Curso de Python introdutório – material de aula</li>
+    <li>Curso introdutório à programação computacional com Python para compositores</li>
     {% for page in pages %}
     {% unless page.new %}
     <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
