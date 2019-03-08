@@ -162,7 +162,8 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 ###1. Lista organizada por conteúdo
 
-Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
+Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula. Essa lista poderá sofrer
+ajustes ao longo do semestre.
 
 ####1. Revisão de frases, períodos, tonicalização e modulação
 
