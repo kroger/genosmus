@@ -153,6 +153,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. J.S.Bach, Coral #012 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
 1. J.S.Bach, Coral #014 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
 1. J.S.Bach, Coral #026 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
+1. J.S.Bach, Sonata para Violino n. 1, Presto (apenas uma página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/d/da/IMSLP335779-SIBLEY1802.26426.46cb-39087032500300score.pdf) 
 1. Schumann, Álbum para Juventude op. 68, n. 2 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
 1. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
 
