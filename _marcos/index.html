@@ -15,8 +15,8 @@ title: Disciplinas - Marcos Sampaio
     {% for page in pages %}
     {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
     {% if site.data.docentes.marcos.atual contains disciplina %}
-    <li>{{ page.title | replace: '--', '&ndash;' }}</li>
-    <!--<li><a href="{{ page.url }}">{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</a></li>-->
+    <!--<li>{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</li>-->
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
     {% endfor %}
 </ul>
