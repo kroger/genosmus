@@ -37,7 +37,8 @@ para me procurar; depois disso a nota não será modificada
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
 
-| --- | --- |
+Data | Conteúdo
+ --- | ---
 Mar 12 | Introdução ao curso. Revisão de harmonia e análise
 Mar 14 | Revisão
 Mar 19 | Revisão
