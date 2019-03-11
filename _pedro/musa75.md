@@ -38,12 +38,6 @@ para me procurar; depois disso a nota não será modificada
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
 
 | --- | --- |
-Fev 19 | Não haverá aula: preparação da sala para o semestre
-Fev 21 | Não haverá aula: preparação da sala para o semestre
-Fev 26 | <del>Carnaval</del>
-Fev 28 | <del>Carnaval</del>
-Mar 05 | <del>Carnaval</del>
-Mar 07 | <del>Carnaval</del>
 Mar 12 | Introdução ao curso. Revisão de harmonia e análise
 Mar 14 | Revisão
 Mar 19 | **Prova de Revisão (análise e harmonia) e Audição**

@@ -29,9 +29,6 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 
 
 | --- | --- |
-Fev 20 | Não haverá aula: preparação da sala para o semestre
-Fev 27 | <del>Carnaval</del>
-Mar 06 | <del>Carnaval</del>
 Mar 13 | Revisão de Cordas
 Mar 20 | Orquestração para Cordas e **Entrega do trabalho 1** (1.25 pontos)
 Mar 27 | **Entrega do trabalho 1** (1.25 pontos)

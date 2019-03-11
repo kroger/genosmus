@@ -36,9 +36,6 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
 | -- | -- |
-Fev 18 | Não haverá aula: preparação da sala para o semestre
-Fev 25 | <del>Carnaval</del>
-Mar 04 | <del>Carnaval</del>
 Mar 11 | O texto: escanção, metrificação, versificação, e prosódia
 Mar 18 | **Trabalho 1**: análise de versificação de texto literário em português **(0.5 pt)**
 Mar 25 | **Trabalho 2**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)**
