@@ -13,7 +13,7 @@ A avaliação final será a média aritmética simples de 4 notas:
 
   * 1 prova de audição e análise (2 pontos): Kostka cap 11–12, 16—19, 21—24
   * 1 prova de contraponto estrito (2 pontos)
-  * 1 análise de obra, dividida em 5 etapas (3 pontos)
+  * 1 análise de obra (3 pontos)
   * 1 seminário oral com a apresentação de um tópico (3 pontos)
 
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
@@ -40,12 +40,12 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 | --- | --- |
 Mar 12 | Introdução ao curso. Revisão de harmonia e análise
 Mar 14 | Revisão
-Mar 19 | **Prova de Revisão (análise e harmonia) e Audição**
-Mar 21 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras
-Mar 26 | Contraponto estrito: 1a espécie (visão geral)
-Mar 28 | Treinamento contraponto
-Abr 02 | Contraponto estrito: 2a espécie (visão geral)
-Abr 04 | Treinamento contraponto
+Mar 19 | Revisão
+Mar 21 | Revisão
+Mar 26 | **Prova de Revisão (análise e harmonia) e Audição**
+Mar 28 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras
+Abr 02 | Contraponto estrito: 1a espécie (visão geral)
+Abr 04 | Contraponto estrito: 2a espécie (visão geral)
 Abr 09 | Contraponto estrito: 3a espécie (visão geral)
 Abr 11 | Treinamento contraponto
 Abr 16 | Contraponto estrito: 4a espécie (visão geral)
@@ -53,23 +53,26 @@ Abr 18 | Treinamento contraponto
 Abr 23 | Contraponto estrito: 5a espécie (visão geral)
 Abr 25 | Treinamento contraponto
 Abr 30 | **Prova**: Contraponto estrito
-Mai 02 | 
+Mai 02 | Análise de obras
 Mai 07 | Análise de obras
-Mai 09 | Análise de obras
-Mai 14 | 
-Mai 16 | **Trabalho**: análise de obra
-Mai 21 | **Trabalho**: análise de obra
-Mai 23 | **Apresentação** dos trabalhos 1a parte
-Mai 28 | **Apresentação** dos trabalhos 2a parte
-Mai 30 | 
-Jun 04 | **Seminários**: Moteto
-Jun 06 | **Seminários**: Madrigal
-Jun 11 | **Seminários**: Palestrina
-Jun 13 | **Seminários**: Missa
-Jun 18 | **Seminários**: Musica reservata
-Jun 20 | **Seminários**: Renascimento vs Barroco
-Jun 25 | **Seminários**: Época medieval vs Renascimento
-Jun 27 | **Seminários**: Outros Compositores Renascentistas
+Mai 09 | **Apresentação**: análise de obra (parte 1)
+Mai 14 | **Apresentação**: análise de obra (parte 2)
+Mai 16 | **Apresentação** análise de obra (parte 3)
+Mai 20 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15h)
+Mai 21 | **Apresentação** análise de obra (parte 4)
+Mai 23 | **Seminários**: Moteto
+Mai 28 | **Seminários**: Madrigal
+Mai 30 | **Seminários**: Palestrina
+Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15h)
+Jun 04 | **Seminários**: Missa
+Jun 06 | **Seminários**: Musica reservata
+Jun 11 | **Seminários**: Renascimento vs Barroco
+Jun 13 | **Seminários**: Época medieval vs Renascimento
+Jun 18 | **Seminários**: Outros Compositores Renascentistas
+Jun 20 | <del>Corpus Christi</del>
+Jun 25 | <del>São João?</del>
+Jun 27 | Entrega de resultados (online)
+Jul 02 | <del>Independência da Bahia</del>
 {: .table .table-sm}
 
 ## Notas

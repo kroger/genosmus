@@ -42,16 +42,17 @@ Mar 25 | **Trabalho 2**: análise do uso do texto em obras vocais em português 
 Abr 01 | Tipos de vozes
 Abr 08 | Análise de orquestração
 Abr 15 | Análise de orquestração
-Abr 22 | 
-Abr 29 | **Relatório oral 1:** trecho da obra final e projeto escrito **(1 pt) 1m**
-Mai 06 | **Relatório oral 2:** trecho da obra final e projeto escrito **(1 pt) 2m**
-Mai 13 | **Relatório oral 3:** trecho da obra final e projeto escrito **(1 pt) 3m**
-Mai 20 | **Relatório oral 4:** trecho da obra final e projeto escrito **(1 pt) 4m**
-Mai 27 | **Relatório oral 5:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
-Jun 03 | **Relatório oral 6:** Trecho da obra final e projeto escrito **(1 pt) 6m**
-Jun 10 | **Relatório oral 7:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
-Jun 17 | **Relatório oral 8:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
-Jun 24 | **Apresentação:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 10m**
+Abr 22 | **Relatório oral 1:** trecho da obra final e projeto escrito **(1 pt) 1m**
+Abr 29 | **Relatório oral 2:** trecho da obra final e projeto escrito **(1 pt) 2m**
+Mai 06 | **Relatório oral 3:** trecho da obra final e projeto escrito **(1 pt) 3m**
+Mai 13 | **Relatório oral 4:** trecho da obra final e projeto escrito **(1 pt) 4m**
+Mai 20 | **Relatório oral 5:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
+Mai 27 | **Relatório oral 6:** Trecho da obra final e projeto escrito **(1 pt) 6m**
+Jun 03 | **Relatório oral 7:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
+Jun 10 | **Relatório oral 8:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
+Jun 17 | **Apresentação:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 10m**
+Jun 24 | <del>São João</del>
+Jul 01 | Entrega de resultados (online)
 {: .table .table-sm }
 
 
