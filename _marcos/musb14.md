@@ -151,13 +151,13 @@ software  usado (.sib, .mus, .ly, etc). Evitar arquivos .wav.
 
 Duração de 30 segundos a 1 minuto.
 
-Todas as miniaturas deverão ser entregues em formato digital na data definida n
-o cronograma. As partituras e partes deverão ser entregues impressas na aula da semana 
+Todas as miniaturas deverão ser entregues em formato digital na data definida no cronograma. As partituras e partes 
+deverão ser entregues impressas na aula da semana 
 posterior.
 
 ####1. Miniatura 1
 
-- Conteúdo principal: A definir
+- Conteúdo principal: organização de materiais, textura e desenvolvimento
 - Formação: Duo de clarinetes
 - Leitura: A definir
 
@@ -173,7 +173,6 @@ posterior.
 - Formação: Piano solo
 - Entrega da partitura (online): ver data de entrega no cronograma
 - Leitura: A definir
-
 
 ####1. Possíveis formações instrumentais para as miniaturas
 
