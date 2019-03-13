@@ -9,12 +9,12 @@ Estudo do contraponto modal e estrito. A missa polifônica na Renascença e Ba
 
 ## Avaliação
 
-A avaliação final será a média aritmética simples de 4 notas:
+A avaliação final será a soma de 4 notas:
 
-  * 1 prova de audição e análise (2 pontos): Kostka cap 11–12, 16—19, 21—24
-  * 1 prova de contraponto estrito (2 pontos)
-  * 1 análise de obra (3 pontos)
-  * 1 seminário oral com a apresentação de um tópico (3 pontos)
+ - 1 prova de audição e análise (2 pontos): Kostka cap 11–12, 16—19, 21—24
+ - 1 prova de contraponto estrito (2 pontos)
+ - 1 análise de obra (3 pontos)
+ - 1 seminário oral com a apresentação de um tópico (3 pontos)
 
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
 início de aula do dia marcado para entrega. Eu não aceito trabalhos por
@@ -30,8 +30,15 @@ para me procurar; depois disso a nota não será modificada
 
 ## Materiais
 
-  * [Kostka Harmonia][1]
-  * [Grove, _Mode_][2]
+- [Kostka Harmonia][1]
+- [Grove, _Mode_][2]
+
+## Prova de Revisão e Audição
+
+Material para a audição:
+
+- [Lista de obras para ouvir](/pedro/lista-prova-audicao-lem-7/)
+- [Gravações das obras][3]
 
 ## Cronograma
 
@@ -104,3 +111,4 @@ Jul 02 | <del>Independência da Bahia</del>
 
 [1]: https://www.dropbox.com/s/bb23zsxbr3099ex/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=1
 [2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=1
+[3]: https://www.dropbox.com/s/av3ej8t7ihbv3d3/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip?dl=1

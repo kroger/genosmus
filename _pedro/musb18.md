@@ -58,7 +58,8 @@ Jul 01 | Entrega de resultados (online)
 
 ## Avaliação
 
-A nota final será composta pela soma dos trabalhos de texto e os relatórios orais com trechos da obra, em um total de 10 pontos.
+A nota final será composta pela soma dos trabalhos de texto e os
+relatórios orais com trechos da obra, em um total de 10 pontos.
   
 Para os relatórios e a apresentação você deve entregar um pdf da
 partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc)

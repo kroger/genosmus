@@ -19,7 +19,8 @@ dimensões desde o Barroco até o século XX.
 
 ## Trabalhos
 
-- **Trabalho 1 (27 de Março)**: Redução da [Serenata para Cordas][1] de Tchaikovsky, até a letra A.
+- **Trabalho 1 (20 de Março)**: Redução da [Serenata para Cordas][1] de
+Tchaikovsky, até a letra A.
 
 
 ## Cronograma
@@ -31,7 +32,7 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 | --- | --- |
 Mar 13 | Revisão de Cordas
 Mar 20 | Orquestração para Cordas e **Entrega do trabalho 1** (1.25 pontos)
-Mar 27 | **Entrega do trabalho 1** (1.25 pontos)
+Mar 27 | Orquestração para Cordas
 Abr 03 | Orquestração para Madeiras e Cordas
 Abr 10 | **Entrega do trabalho 2** (1.25 pontos)
 Abr 17 | Revisão de metais

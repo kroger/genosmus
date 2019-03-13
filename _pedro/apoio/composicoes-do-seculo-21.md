@@ -1,8 +1,5 @@
 ---
-id: 3400
 title: Composições do Século 21
-date: 2014-09-05T12:54:17+00:00
-author: kroger
 layout: page
 ---
 
