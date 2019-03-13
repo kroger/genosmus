@@ -76,11 +76,13 @@ Valor: 50%
 
 Os trabalhos deverão ser entregues via formulário.
   
-<!-- Trabalho 1: https://form.jotformz.com/80873765884677 -->
-<!-- Trabalho 2: https://form.jotformz.com/80873206684665 -->
-
+<!--
   * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 25/09/2018
   * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 23/10/2018
+-->
+
+  * Trabalho 1. Entrega em 16/04/2019
+  * Trabalho 2. Entrega em 14/05/2019
 
 ###1. Seminários
 
@@ -107,6 +109,7 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
+<!--
 | Data | Equipe | Tema  |
 |---|---|---|
 | 30/10/18 | Marcos W. e Danielle | A definir |
@@ -115,6 +118,7 @@ Temas, integrantes e datas de apresentação
 | 20/11/18 | Liana e Marcos F. | A definir |
 | 27/11/18 | Ednaldo e Victor | A definir |
 | 04/12/18 | Elienai / Heliane | A definir |
+-->
 
 ##1. Notas e frequência
 
