@@ -88,12 +88,11 @@ para me procurar; depois disso a nota não será modificada.
 
 | Nome              | T1 | T2 | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | AF | Nota |
 |:------------------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Diego Neves       |    |    |    |    |    |    |    |    |    |    |    | =sum |
-| Edinaldo De Paiva |    |    |    |    |    |    |    |    |    |    |    | =sum |
-| George Cristian   |    |    |    |    |    |    |    |    |    |    |    | =sum |
-| Jordan Hohenfeld  |    |    |    |    |    |    |    |    |    |    |    | =sum |
-| Peter Marques     |    |    |    |    |    |    |    |    |    |    |    | =sum |
-| Sidnei Marques    |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Diego Neves       | 0.5|    |    |    |    |    |    |    |    |    |    | =sum |
+| George Cristian   | 0.5|    |    |    |    |    |    |    |    |    |    | =sum |
+| Jordan Hohenfeld  | 0.5|    |    |    |    |    |    |    |    |    |    | =sum |
+| Peter Marques     | 0.5|    |    |    |    |    |    |    |    |    |    | =sum |
+| Sidnei Marques    | 0.5|    |    |    |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
