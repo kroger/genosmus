@@ -14,7 +14,7 @@ module Notas
             if line.start_with? "|" and line.match(/=sum/)
               split_line = line.split("|").collect(&:strip)
               nota = split_line[2..-1].map(&:to_f).reduce(0, :+)
-              new_content << line.gsub('=sum', '%.1f' % nota)
+              new_content << line.gsub('=sum', nota.round(1).to_s)
             else
               new_content << line
             end
