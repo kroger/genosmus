@@ -22,6 +22,9 @@ dimensões desde o Barroco até o século XX.
 - **Trabalho 1 (20 de Março)**: Redução da [Serenata para Cordas][1] de
 Tchaikovsky, até a letra A.
 
+- **Trabalho 2 (10 de Abril)**: Redução analítica do [Octeto para
+Sopros][5] de Beethoven (página completa). A instrumentação na partitura
+é 2 trompas em Eb, 2 oboes, 2 clarinetes em Bb, 2 fagotes.
 
 ## Cronograma
 
@@ -60,15 +63,15 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 | Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
 |:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Cristiano Wilson   |    |    |    |    |    |    |    | =sum |
-| Edinaldo De Paiva  |    |    |    |    |    |    |    | =sum |
-| Izabella Baldoíno  |    |    |    |    |    |    |    | =sum |
-| Laís Cavalcanti    |    |    |    |    |    |    |    | =sum |
-| Leandro Sukevicius |    |    |    |    |    |    |    | =sum |
-| Peter Marques      |    |    |    |    |    |    |    | =sum |
-| Roberto Intelisano |    |    |    |    |    |    |    | =sum |
-| Victor De Oliveira |    |    |    |    |    |    |    | =sum |
-| Zizimo Fonseca     |    |    |    |    |    |    |    | =sum |
+| Cristiano Wilson   |1.25|    |    |    |    |    |    | =sum |
+| Edinaldo De Paiva  |1.25|    |    |    |    |    |    | =sum |
+| Izabella Baldoíno  |1.25|    |    |    |    |    |    | =sum |
+| Laís Cavalcanti    |1.25|    |    |    |    |    |    | =sum |
+| Leandro Sukevicius |1.25|    |    |    |    |    |    | =sum |
+| Peter Marques      |1.25|    |    |    |    |    |    | =sum |
+| Roberto Intelisano |1.25|    |    |    |    |    |    | =sum |
+| Victor De Oliveira |1.25|    |    |    |    |    |    | =sum |
+| Zizimo Fonseca     |1.25|    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
