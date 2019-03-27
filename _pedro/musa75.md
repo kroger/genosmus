@@ -88,24 +88,24 @@ Jul 02 | <del>Independência da Bahia</del>
 
 | Nome               | PR | PC | AO | SE | Nota |
 |:-------------------|:---|:---|:---|:---|:-----|
-| Abraão Miranda     |    |    |    |    | =sum |
-| Adilson Figueiredo |    |    |    |    | =sum |
-| Cleiane Nunes      |    |    |    |    | =sum |
-| Cristiano Wilson   |    |    |    |    | =sum |
-| Eduardo Pinto      |    |    |    |    | =sum |
-| Gleidiane Macedo   |    |    |    |    | =sum |
-| Hercules De Amorim |    |    |    |    | =sum |
-| Juan Quezada       |    |    |    |    | =sum |
-| Leandro Sukevicius |    |    |    |    | =sum |
-| Luciano Chaves     |    |    |    |    | =sum |
-| Milena Ramos       |    |    |    |    | =sum |
-| Núbia Modolon      |    |    |    |    | =sum |
-| Paola Dalva        |    |    |    |    | =sum |
-| Raíssa Pessoa      |    |    |    |    | =sum |
-| Renato Santana     |    |    |    |    | =sum |
-| Roberto Intelisano |    |    |    |    | =sum |
-| Rosane Barbosa     |    |    |    |    | =sum |
-| Victor De Oliveira |    |    |    |    | =sum |
+| Abraão Miranda     | 1.0|    |    |    | =sum |
+| Adilson Figueiredo | 1.3|    |    |    | =sum |
+| Cleiane Nunes      | 2.0|    |    |    | =sum |
+| Cristiano Wilson   | 2.0|    |    |    | =sum |
+| Eduardo Pinto      | 1.7|    |    |    | =sum |
+| Gleidiane Macedo   | 1.0|    |    |    | =sum |
+| Hercules De Amorim | 0.8|    |    |    | =sum |
+| Juan Quezada       | 1.0|    |    |    | =sum |
+| Leandro Sukevicius | 1.9|    |    |    | =sum |
+| Luciano Chaves     | 1.9|    |    |    | =sum |
+| Milena Ramos       | 1.8|    |    |    | =sum |
+| Núbia Modolon      | 2.0|    |    |    | =sum |
+| Paola Dalva        | 0.5|    |    |    | =sum |
+| Raíssa Pessoa      | 1.5|    |    |    | =sum |
+| Renato Santana     | 1.5|    |    |    | =sum |
+| Roberto Intelisano | 2.0|    |    |    | =sum |
+| Rosane Barbosa     | 1.6|    |    |    | =sum |
+| Victor De Oliveira | 2.0|    |    |    | =sum |
 {: .table .table-sm }
 
 
