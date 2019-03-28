@@ -339,6 +339,7 @@ Application to Bartók’s Musical Language." Musica Theorica 1: 1–25.
 Dubuque, Iowa: WM. C. Brown Company.
 1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões 
 compositivas." Universidade Federal da Bahia.
+1. Jeppeson, Knud. 1939. Counterpoint: The Polyphonic Vocal Style of the Sixteenth Century. Englewood Cliffs, N.J: Prentice-Hall.
 1. Kostka, Stefan M. 2006. Materials and Techniques of Twentieth-Century Music. 3rd ed. Prentice Hall.
 1. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real Musical.
 1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de
