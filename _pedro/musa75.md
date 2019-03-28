@@ -96,7 +96,7 @@ Jul 02 | <del>Independência da Bahia</del>
 | Adilson Figueiredo | 1.3|    |    |    | =sum |
 | Cleiane Nunes      | 2.0|    |    |    | =sum |
 | Cristiano Wilson   | 2.0|    |    |    | =sum |
-| Eduardo Pinto      | 1.7|    |    |    | =sum |
+| Eduardo Pinto      | 1.8|    |    |    | =sum |
 | Gleidiane Macedo   | 1.0|    |    |    | =sum |
 | Hercules De Amorim | 0.8|    |    |    | =sum |
 | Juan Quezada       | 1.0|    |    |    | =sum |
