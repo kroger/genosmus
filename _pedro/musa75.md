@@ -37,6 +37,11 @@ para me procurar; depois disso a nota não será modificada
 - [Mode](https://en.wikipedia.org/wiki/Mode_(music))
 - [Music of Greece](https://en.wikipedia.org/wiki/Music_of_Greece)
 
+### Contraponto
+
+- [Apostila Contraponto 1a Espécie][5]
+- [Apostila Contraponto 2a Espécie][6]
+
 ## Prova de Revisão e Audição
 
 Material para a audição:
@@ -117,3 +122,5 @@ Jul 02 | <del>Independência da Bahia</del>
 [2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=1
 [3]: https://www.dropbox.com/s/av3ej8t7ihbv3d3/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip?dl=1
 [4]: https://www.dropbox.com/s/gv7jwrsaxldv7ve/Timeline%20Historia.pages?dl=1
+[5]: https://www.dropbox.com/s/dsq28pk5p62km3g/Contraponto%201.pdf?dl=1
+[6]: https://www.dropbox.com/s/sx25psspxi1n7vl/Contraponto%202.pdf?dl=1
