@@ -39,9 +39,9 @@ poderá ser modificado de acordo com a necessidade e eventualidade.
 Mar 11 | O texto: escanção, metrificação, versificação, e prosódia
 Mar 18 | **Trabalho 1**: análise de versificação de texto literário em português **(0.5 pt)**
 Mar 25 | **Trabalho 2**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)**
-Abr 01 | Tipos de vozes
-Abr 08 | Análise de orquestração
-Abr 15 | Análise de orquestração
+Abr 01 | Análise de obras
+Abr 08 | Análise de obras
+Abr 15 | Análise de obras
 Abr 22 | **Relatório oral 1:** trecho da obra final e projeto escrito **(1 pt) 1m**
 Abr 29 | **Relatório oral 2:** trecho da obra final e projeto escrito **(1 pt) 2m**
 Mai 06 | **Relatório oral 3:** trecho da obra final e projeto escrito **(1 pt) 3m**
