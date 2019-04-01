@@ -41,14 +41,14 @@ Abr 10 | **Entrega do trabalho 2** (1.25 pontos)
 Abr 17 | Revisão de metais
 Abr 24 | **Entrega do trabalho 3** (1.25 pontos)
 Mai 01 | <del>Dia to trabalho</del>
-Mai 08 | Orquestração para Metais, Madeiras e Cordas
-Mai 15 | **Entrega do trabalho 4** (1.25 pontos)
-Mai 22 | Transcrição para Orquestra
-Mai 29 | **Entrega do trabalho 5** (1.25 pontos)
-Jun 05 | Análise de obras
-Jun 12 | **Entrega do trabalho 6** (1.25 pontos)
-Jun 19 | Análise de obras
-Jun 26 | **Entrega do trabalho final** (2.5 pontos)
+Mai 08 | **Entrega do trabalho 4** (1.25 pontos)
+Mai 15 | Transcrição para Orquestra
+Mai 22 | **Entrega do trabalho 5** (1.25 pontos)
+Mai 29 | Análise de obras
+Jun 05 | **Entrega do trabalho 6** (1.25 pontos)
+Jun 12 | Análise de obras
+Jun 19 | **Entrega do trabalho final** (2.5 pontos)
+Jun 26 | <del>São João</del>
 {: .table .table-sm}
 
 
