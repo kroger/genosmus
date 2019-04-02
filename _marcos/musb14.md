@@ -308,6 +308,7 @@ Ao longo do semestre uma seleção dentre as obras listadas será analisada em c
 1. Espirito Santo, Dobrado n. 182
 1. Hydas, Suite for wind band
 1. ?, Dobrado Bombardeio na Bahia
+1. Copland, Fanfare for the Common Man for Brass & Percussion
 
 ###1. Música vocal
 
