@@ -64,8 +64,8 @@ Mar 26 | **Prova de Revisão (análise e harmonia) e Audição**
 Mar 28 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras
 Abr 02 | Contraponto estrito: 1a espécie (visão geral)
 Abr 04 | Contraponto estrito: 2a espécie (visão geral)
-Abr 09 | Contraponto estrito: 3a espécie (visão geral)
-Abr 11 | Treinamento contraponto
+Abr 09 | Treinamento contraponto
+Abr 11 | Contraponto estrito: 3a espécie (visão geral)
 Abr 16 | Contraponto estrito: 4a espécie (visão geral)
 Abr 18 | Treinamento contraponto
 Abr 23 | Contraponto estrito: 5a espécie (visão geral)
