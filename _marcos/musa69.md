@@ -230,6 +230,12 @@ New York: Schirmer.
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA69%20LEM%20I.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
+##1. Aulas em vídeo
+
+Playlist do Youtube com resoluções de baixos e cantos dados.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ##1. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, 
