@@ -26,6 +26,9 @@ Tchaikovsky, até a letra A.
 Sopros][5] de Beethoven (página completa). A instrumentação na partitura
 é 2 trompas em Eb, 2 oboes, 2 clarinetes em Bb, 2 fagotes.
 
+- **Trabalho 3 (24 de Abril)**: Orquestrar para sopros (sem
+cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
@@ -63,15 +66,15 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 | Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
 |:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Cristiano Wilson   |1.25|    |    |    |    |    |    | =sum |
-| Edinaldo De Paiva  |1.25|    |    |    |    |    |    | =sum |
-| Izabella Baldoíno  |1.25|    |    |    |    |    |    | =sum |
-| Laís Cavalcanti    |1.25|    |    |    |    |    |    | =sum |
-| Leandro Sukevicius |1.25|    |    |    |    |    |    | =sum |
-| Peter Marques      |1.25|    |    |    |    |    |    | =sum |
-| Roberto Intelisano |1.25|    |    |    |    |    |    | =sum |
-| Victor De Oliveira |1.25|    |    |    |    |    |    | =sum |
-| Zizimo Fonseca     |1.25|    |    |    |    |    |    | =sum |
+| Cristiano Wilson   |1.25|1.25|    |    |    |    |    | =sum |
+| Edinaldo De Paiva  |1.25|1.25|    |    |    |    |    | =sum |
+| Izabella Baldoíno  |1.25|1.25|    |    |    |    |    | =sum |
+| Laís Cavalcanti    |1.25|1.25|    |    |    |    |    | =sum |
+| Leandro Sukevicius |1.25|1.25|    |    |    |    |    | =sum |
+| Peter Marques      |1.25|0.00|    |    |    |    |    | =sum |
+| Roberto Intelisano |1.25|1.25|    |    |    |    |    | =sum |
+| Victor De Oliveira |1.25|1.25|    |    |    |    |    | =sum |
+| Zizimo Fonseca     |1.25|1.25|    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
