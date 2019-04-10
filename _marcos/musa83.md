@@ -218,6 +218,7 @@ As datas das provas estão indicadas no cronograma.
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Playlist com vídeos no YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29ACkzLsDWNSPpgiqRZ6pTTfq-)
+- [Excertos orquestrais](https://orchestraexcerpts.com/). Organizados por instrumento, com partitura e áudio.
 
 ##1. Comunicação com o professor
 
