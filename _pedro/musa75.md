@@ -68,7 +68,7 @@ Abr 04 | Contraponto estrito: 2a espécie (visão geral)
 Abr 09 | Treinamento contraponto
 Abr 11 | Contraponto estrito: 3a espécie (visão geral)
 Abr 16 | Contraponto estrito: 4a espécie (visão geral)
-Abr 18 | Treinamento contraponto
+Abr 18 | <del>Semana Santa</del>
 Abr 23 | Contraponto estrito: 5a espécie (visão geral)
 Abr 25 | Treinamento contraponto
 Abr 30 | **Prova**: Contraponto estrito
