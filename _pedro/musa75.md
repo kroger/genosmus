@@ -43,6 +43,7 @@ para me procurar; depois disso a nota não será modificada
 - [Apostila Contraponto 1a Espécie][6]
 - [Apostila Contraponto 2a Espécie][7]
 - [Apostila Contraponto 3a Espécie][8]
+- [Apostila Contraponto 4a Espécie][9]
 
 ## Prova de Revisão e Audição
 
@@ -128,3 +129,4 @@ Jul 02 | <del>Independência da Bahia</del>
 [6]: https://www.dropbox.com/s/dsq28pk5p62km3g/Contraponto%201.pdf?dl=1 
 [7]: https://www.dropbox.com/s/sx25psspxi1n7vl/Contraponto%202.pdf?dl=1
 [8]: https://www.dropbox.com/s/e03f5n23jom8e84/Contraponto%203.pdf?dl=1
+[9]: https://www.dropbox.com/s/il5d1ttyww31gsx/Contraponto%204.pdf?dl=1
