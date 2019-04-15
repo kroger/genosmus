@@ -348,7 +348,6 @@ New York: Schirmer.
 ##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
- - [Playlist de exemplos no Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACnHdHYzBZ9VbRmJbTt7S3TB)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
  - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
  - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf) (15MB)
@@ -359,10 +358,8 @@ New York: Schirmer.
  - [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD!N8kH_bu7MuoLFw2JuRuhqS7BoDSXwjFBqd416LrD4PI)
  - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
  - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
- - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
-
 
 ##1. Aulas em vídeo
 
