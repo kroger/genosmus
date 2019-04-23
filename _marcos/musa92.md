@@ -156,6 +156,7 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac
 - [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
 - [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
 - [Note Flight](https://www.noteflight.com/home) - Editor de partituras online
+- [MuseScore](https://musescore.org/) - Editor de partituras gratuito e multiplataforma
 
 Os demais links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
