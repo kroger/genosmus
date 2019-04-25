@@ -46,6 +46,14 @@ para me procurar; depois disso a nota não será modificada
 - [Apostila Contraponto 4a Espécie][9]
 - [Apostila Contraponto 5a Espécie][10]
 
+<!---
+
+## Trabalho de Análise
+
+  * [Trabalho de Análise](/pedro/trabalho-analise/)
+
+-->
+
 ## Prova de Revisão e Audição
 
 Material para a audição:

@@ -29,6 +29,12 @@ representativas do século XX, de grandes dimensões.
 
 ### Trabalhos
 
+<!---
+
+  - Entrega 11 de Maio: Redução da [Rapsódia Espanhola de Ravel][1], _Prelude a la Nuit_, compassos 18 a 34.
+  - Entrega 18 de maio: Análise da orquestração na _Alborada del Gracioso_ de Ravel. Até o número 8 de ensaio. [PDF][2] e [MP3][3]
+
+-->
 
 ## Cronograma
 

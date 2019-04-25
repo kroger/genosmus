@@ -29,6 +29,21 @@ Sopros][5] de Beethoven (página completa). A instrumentação na partitura
 - **Trabalho 3 (24 de Abril)**: Orquestrar para sopros (sem
 cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ de Mussorgsky. [Áudio][7].
 
+- **Trabalho 4 (8 de Maio)**: Fazer redução analítica do início
+do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
+
+<!---
+
+- **Trabalho 5 (22 de Maio)**: Fazer redução analítica do trecho da
+_Sinfonia no. 4_ de Tchaikovsky. **Colocar o nome dos instrumentos na redução**. [Partitura][10]. [Áudio][11]
+
+- **Trabalho 6 (6 de Junho)**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução**. [Partitura][12]. [Áudio][13]
+
+- **Trabalho Final (19 de Junho)**: Valor 2.5 pontos. Fazer redução analítica do trecho do _Tombeau de Couperin_ de Ravel (até o número 4 de ensaio, página 5) e comparar com versão de piano em pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**. [Partitura Orquestra][14]. [Áudio][15]. [Partitura Piano][16]. [Áudio Piano][17]
+
+-->
+
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
@@ -67,7 +82,7 @@ do trabalho com uma gravação midi (Finale) em mp3.
 | Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
 |:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
 | Cristiano Wilson   |1.25|1.25|1.25|    |    |    |    | =sum |
-| Edinaldo De Paiva  |1.25|1.25|0.00|    |    |    |    | =sum |
+| Edinaldo De Paiva  |1.25|1.25|1.25|    |    |    |    | =sum |
 | Izabella Baldoíno  |1.25|1.25|1.25|    |    |    |    | =sum |
 | Laís Cavalcanti    |1.25|1.25|0.50|    |    |    |    | =sum |
 | Leandro Sukevicius |1.25|1.25|1.25|    |    |    |    | =sum |
