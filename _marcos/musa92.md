@@ -107,12 +107,13 @@ individual.
 
 Temas, integrantes e datas de apresentação
 
-| Data | Equipe | Tema  |
-|---|---|---|
-| 14/05/19 | William | Dispositivos móveis |
-| 21/05/19 | André | Definir |
-| Definir | Vicente e Miguel | Definir |
-| Definir | Tiago, Wesley e Samuel | Definir |
+| Data     | Equipe                 | Tema                |
+|:---------|:-----------------------|:--------------------|
+| 14/05/19 | William                | Dispositivos móveis |
+| 21/05/19 | André                  | Definir             |
+| Definir  | Vicente e Miguel       | Definir             |
+| Definir  | Tiago, Wesley e Samuel | Definir             |
+{: .table .table-sm }
 
 ##1. Notas e frequência
 
