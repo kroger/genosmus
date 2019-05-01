@@ -107,18 +107,12 @@ individual.
 
 Temas, integrantes e datas de apresentação
 
-[Em construção]
-
-<!--
 | Data | Equipe | Tema  |
 |---|---|---|
-| 30/10/18 | Marcos W. e Danielle | A definir |
-| 06/11/18 | Aline e Wesley | Ntrack 9 e AmpMe |
-| 13/11/18 | Gilson | Transcribe |
-| 20/11/18 | Liana e Marcos F. | A definir |
-| 27/11/18 | Ednaldo e Victor | A definir |
-| 04/12/18 | Elienai / Heliane | A definir |
--->
+| 14/05/19 | William | Dispositivos móveis |
+| 21/05/19 | André | Definir |
+| Definir | Vicente e Miguel | Definir |
+| Definir | Tiago, Wesley e Samuel | Definir |
 
 ##1. Notas e frequência
 
