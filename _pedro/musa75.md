@@ -46,13 +46,9 @@ para me procurar; depois disso a nota não será modificada
 - [Apostila Contraponto 4a Espécie][9]
 - [Apostila Contraponto 5a Espécie][10]
 
-<!---
-
 ## Trabalho de Análise
 
   * [Trabalho de Análise](/pedro/trabalho-analise/)
-
--->
 
 ## Prova de Revisão e Audição
 
@@ -87,12 +83,12 @@ Mai 07 | Análise de obras
 Mai 09 | **Apresentação**: análise de obra (parte 1)
 Mai 14 | **Apresentação**: análise de obra (parte 2)
 Mai 16 | **Apresentação** análise de obra (parte 3)
-Mai 20 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15h)
+Mai 20 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 16h)
 Mai 21 | **Apresentação** análise de obra (parte 4)
 Mai 23 | **Seminários**: Moteto
 Mai 28 | **Seminários**: Madrigal
 Mai 30 | **Seminários**: Palestrina
-Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15h)
+Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 16h)
 Jun 04 | **Seminários**: Missa
 Jun 06 | **Seminários**: Musica reservata
 Jun 11 | **Seminários**: Renascimento vs Barroco
