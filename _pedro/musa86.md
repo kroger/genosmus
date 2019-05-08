@@ -32,10 +32,10 @@ cordas) c. 1--16 do [Grande Portão de Kiev][6] do _Quadros em uma Exposição_ 
 - **Trabalho 4 (8 de Maio)**: Fazer redução analítica do início
 do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
 
-<!---
-
 - **Trabalho 5 (22 de Maio)**: Fazer redução analítica do trecho da
 _Sinfonia no. 4_ de Tchaikovsky. **Colocar o nome dos instrumentos na redução**. [Partitura][10]. [Áudio][11]
+
+<!---
 
 - **Trabalho 6 (6 de Junho)**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução**. [Partitura][12]. [Áudio][13]
 
