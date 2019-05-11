@@ -81,6 +81,8 @@ width="100%" height="300"></iframe>
 
 1. Berry, Wallace. 1987. *Structural Functions in Music*. New York: Dover Publications, Inc.
 
+1. Castagna, Paulo. 2008. “A Musicologia Enquanto Método Científico.” *Revista Do Conservatório Brasileiro de Pelotas*, no. 1: 7–31.
+
 1. Cook, Nicholas. 1987. *A Guide to Musical Analysis*. Vol. s4–XII. New York and London: W. W. Norton & Company.
 
 1. Fineberg, Joshua. 2000. “Guide to the Basic Concepts and Techniques of Spectral Music.” *Contemporary Music Review* 19 (2): 81–113.
