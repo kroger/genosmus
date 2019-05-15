@@ -82,18 +82,18 @@ Mai 02 | Análise de obras
 Mai 07 | Análise de obras
 Mai 09 | **Apresentação**: análise de obra (parte 1)
 Mai 14 | **Apresentação**: análise de obra (parte 2)
-Mai 16 | **Apresentação** análise de obra (parte 3)
-Mai 20 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 16h)
-Mai 21 | **Apresentação** análise de obra (parte 4)
-Mai 23 | **Seminários**: Moteto
-Mai 28 | **Seminários**: Madrigal
-Mai 30 | **Seminários**: Palestrina
-Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 16h)
-Jun 04 | **Seminários**: Missa
-Jun 06 | **Seminários**: Musica reservata
-Jun 11 | **Seminários**: Renascimento vs Barroco
-Jun 13 | **Seminários**: Época medieval vs Renascimento
-Jun 18 | **Seminários**: Outros Compositores Renascentistas
+Mai 16 | <del>Não haverá aula</del>
+Mai 21 | **Apresentação** análise de obra (parte 3)
+Mai 23 | **Apresentação** análise de obra (parte 4)
+Mai 27 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
+Mai 28 | Introdução aos seminários
+Mai 30 | **Seminários**: 1. Moteto, 2. Madrigal
+Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
+Jun 04 | **Seminários**: 3. Palestrina, 4. Missa
+Jun 06 | **Seminários**: 5. Musica reservata, 6. Renascimento vs Barroco
+Jun 11 | **Seminários**: 7. Época medieval vs Renascimento
+Jun 13 | **Seminários**: 8. Outros Compositores Renascentistas
+Jun 18 | **Seminários**: 9. Tópico Livre (escolher antes)
 Jun 20 | <del>Corpus Christi</del>
 Jun 25 | <del>São João?</del>
 Jun 27 | Entrega de resultados (online)
