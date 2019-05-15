@@ -37,14 +37,14 @@ repositório com o site e instalar o Jekyll.
 
 	git clone git@github.com:kroger/genosmus.git
 
-2. Instale a versão mais nova do Ruby (2.5.x), com o homebrew:
+2. Instale a versão mais nova do Ruby (2.6.x), com o homebrew:
 
 	brew update
 	brew install ruby
 
 ou com o rbenv:
 
-  rbenv install 2.5.3
+  rbenv install 2.6.3
   gem install bundle
 
 3. Instale o Jekyll e suas dependências com o comando abaixo (no
@@ -58,6 +58,19 @@ ou com o rbenv:
    comando vai executar `bundle exec jekyll serve`. Outros comando do
    Jekyll podem ser executados dessa maneira, como `bundle exec jekyll
    clean`, etc.
+
+## Configuração no Netlify
+
+A versão mais nova do Ruby disponível no Netlify é 2.6.2, enquanto a
+versão mais nova disponível (e que eu uso localmente para
+desenvolvimento é 2.6.3).
+
+Uma opção seria usar `.ruby-version` mas para não ter que manter duas
+versões de Ruby localmente apenas para rodar esse site, o mais fácil é
+configurar a versão de Ruby na interface do Netlify. Em "Build & Deploy
+-> Environment -> Environment variables" e criar a variável
+`RUBY_VERSION` com valor `2.6.2`.
+
 
 ## Email
 
