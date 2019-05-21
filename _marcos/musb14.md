@@ -209,7 +209,7 @@ semestre e apresentar à turma em data marcada no calendário.
 - 3 Trombones
 - Tuba
 - Bombardino (em Dó)
-- 3 Percussionistas (bombo, caixa e prato)
+- 2 Percussionistas (bombo, caixa e prato)
 
 ###1. Trabalhos adicionais
 
@@ -365,6 +365,7 @@ Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 - [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
 - [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) - Calculadora de classes de notas
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de contornos
+- [Dobrado 182](https://jornalggn.com.br/sites/default/files/documentos/dob000117.pdf) - Partitura
 
 Os demais links da disciplina estão disponíveis no <a title="Links da disciplina MUSA92" href="http://www.diigo.com/list/msampaio/ferramentas-computacionais" target="_blank" rel="noopener noreferrer">Diigo</a>.
 
