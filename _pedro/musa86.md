@@ -35,9 +35,11 @@ do _Prelúdio do 3o Ato de Siegfried_ de Wagner. [Partitura][8]. [Áudio][9]
 - **Trabalho 5 (22 de Maio)**: Fazer redução analítica do trecho da
 _Sinfonia no. 4_ de Tchaikovsky. **Colocar o nome dos instrumentos na redução**. [Partitura][10]. [Áudio][11]
 
-<!---
 
-- **Trabalho 6 (6 de Junho)**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução**. [Partitura][12]. [Áudio][13]
+- **Trabalho 6 (6 de Junho)**: Fazer redução analítica do trecho da _Sinfonia no. 1_ de Brahms. (c. 42 a letra B) **Colocar o nome dos instrumentos na redução e fazer análise harmônica :-)**. [Partitura][12]. [Áudio][13]
+
+
+<!---
 
 - **Trabalho Final (19 de Junho)**: Valor 2.5 pontos. Fazer redução analítica do trecho do _Tombeau de Couperin_ de Ravel (até o número 4 de ensaio, página 5) e comparar com versão de piano em pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**. [Partitura Orquestra][14]. [Áudio][15]. [Partitura Piano][16]. [Áudio Piano][17]
 
