@@ -209,7 +209,7 @@ semestre e apresentar à turma em data marcada no calendário.
 - 3 Trombones
 - Tuba
 - Bombardino (em Dó)
-- 3 Percussionistas (bombo, caixa e prato)
+- 2 Percussionistas (bombo, caixa e prato)
 
 ###1. Trabalhos adicionais
 

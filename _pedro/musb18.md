@@ -52,7 +52,7 @@ Abr 22 | **Relatório oral 1:** trecho da obra final e projeto escrito **(1 pt) 
 Abr 29 | **Relatório oral 2:** trecho da obra final e projeto escrito **(1 pt) 2m**
 Mai 06 | **Relatório oral 3:** trecho da obra final e projeto escrito **(1 pt) 3m**
 Mai 13 | **Relatório oral 4:** trecho da obra final e projeto escrito **(1 pt) 4m**
-Mai 20 | **Relatório oral 5:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 5m**
+Mai 20 | **Relatório oral 5:** Trecho da obra final e projeto escrito **(1 pt) 5m**
 Mai 27 | **Relatório oral 6:** Trecho da obra final e projeto escrito **(1 pt) 6m**
 Jun 03 | **Relatório oral 7:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 7m**
 Jun 10 | **Relatório oral 8:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 8m**
@@ -94,11 +94,11 @@ para me procurar; depois disso a nota não será modificada.
 
 | Nome              | T1 | T2 | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | AF | Nota |
 |:------------------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Diego Neves       | 0.5|0.5 | 1.0| 1.0| 1.0|    |    |    |    |    |    | =sum |
-| George Cristian   | 0.5|0.25| 1.0| 1.0| 1.0|    |    |    |    |    |    | =sum |
-| Jordan Hohenfeld  | 0.5|0.25| 0.0| 1.0| 1.0|    |    |    |    |    |    | =sum |
-| Peter Marques     | 0.5|0.0 | 1.0| 0.0| 0.0|    |    |    |    |    |    | =sum |
-| Sidnei Marques    | 0.5|0.5 | 1.0| 1.0| 1.0|    |    |    |    |    |    | =sum |
+| Diego Neves       | 0.5|0.50| 1.0| 1.0| 1.0| 1.0|    |    |    |    |    | =sum |
+| George Cristian   | 0.5|0.25| 1.0| 1.0| 1.0| 1.0|    |    |    |    |    | =sum |
+| Jordan Hohenfeld  | 0.5|0.25| 0.0| 1.0| 1.0| 1.0|    |    |    |    |    | =sum |
+| Peter Marques     | 0.5|0.00| 1.0| 0.0| 0.0| 1.0|    |    |    |    |    | =sum |
+| Sidnei Marques    | 0.5|0.50| 1.0| 1.0| 1.0| 1.0|    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
