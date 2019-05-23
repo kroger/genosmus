@@ -87,13 +87,13 @@ Mai 21 | **Apresentação** análise de obra (parte 3)
 Mai 23 | **Apresentação** análise de obra (parte 4)
 Mai 27 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
 Mai 28 | Introdução aos seminários
-Mai 30 | **Seminários**: 1. Moteto, 2. Madrigal
+Mai 30 | **Seminários**: 1. Moteto (Raissa e Gleidiane), 2. Madrigal (Eduardo e Luciano)
 Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
-Jun 04 | **Seminários**: 3. Palestrina, 4. Missa
-Jun 06 | **Seminários**: 5. Musica reservata, 6. Renascimento vs Barroco
-Jun 11 | **Seminários**: 7. Época medieval vs Renascimento
-Jun 13 | **Seminários**: 8. Outros Compositores Renascentistas
-Jun 18 | **Seminários**: 9. Tópico Livre (escolher antes)
+Jun 04 | **Seminários**: 3. Palestrina (Núbia e Cleiane), 4. Missa (Juan e Milena)
+Jun 06 | **Seminários**: 5. Musica reservata (Victor e Leandro), 6. Renascimento vs Barroco (Wilson e Hercules)
+Jun 11 | **Seminários**: 7. Época medieval vs Renascimento (Renato e Roberto)
+Jun 13 | **Seminários**: 8. Outros Compositores Renascentistas (Rosane e Abraão)
+Jun 18 | **Seminários**: 9.  (Paola)
 Jun 20 | <del>Corpus Christi</del>
 Jun 25 | <del>São João?</del>
 Jun 27 | Entrega de resultados (online)
