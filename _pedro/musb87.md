@@ -21,9 +21,9 @@ referentes aos 10 primeiros minutos da composição final.
 
 ---| ---
 Mai 27 | Relatório monografia 2.5 pontos
+Jun 03 | Relatório monografia 2.5 pontos
 Jun 10 | Relatório monografia 2.5 pontos
 Jun 17 | Relatório monografia 2.5 pontos
-Jun 24 | Relatório monografia 2.5 pontos
 {: .table .table-sm }
 
 ## Notas
