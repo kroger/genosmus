@@ -87,13 +87,13 @@ Mai 21 | **Apresentação** análise de obra (parte 3)
 Mai 23 | **Apresentação** análise de obra (parte 4)
 Mai 27 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
 Mai 28 | Introdução aos seminários
-Mai 30 | **Seminários**: 1. Moteto (Raissa e Gleidiane), 2. Madrigal (Eduardo e Luciano)
+Mai 30 | **Seminários**: 1. Moteto (Raissa e Gleidiane)
 Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
-Jun 04 | **Seminários**: 3. Palestrina (Núbia e Cleiane), 4. Missa (Juan e Milena)
-Jun 06 | **Seminários**: 5. Musica reservata (Victor e Leandro), 6. Renascimento vs Barroco (Wilson e Hercules)
-Jun 11 | **Seminários**: 7. Época medieval vs Renascimento (Renato e Roberto)
-Jun 13 | **Seminários**: 8. Outros Compositores Renascentistas (Rosane e Abraão)
-Jun 18 | **Seminários**: 9.  (Paola)
+Jun 04 | **Seminários**: 3. Palestrina (Núbia e Cleiane)
+Jun 06 | **Seminários**: 2. Madrigal (Eduardo e Luciano)
+Jun 11 | **Seminários**: 6. Renascimento vs Barroco (Wilson e Hercules), 7. Época medieval vs Renascimento (Renato e Roberto)
+Jun 13 | **Seminários**: 4. Missa (Juan e Milena), 5. Musica reservata (Victor e Leandro)
+Jun 18 | **Seminários**: 8. Outros Compositores Renascentistas (Rosane e Abraão), 9. Contraponto imitativo (Paola)
 Jun 20 | <del>Corpus Christi</del>
 Jun 25 | <del>São João?</del>
 Jun 27 | Entrega de resultados (online)
@@ -105,24 +105,24 @@ Jul 02 | <del>Independência da Bahia</del>
 
 | Nome               | PR | PC | AO | SE | Nota |
 |:-------------------|:---|:---|:---|:---|:-----|
-| Abraão Miranda     | 1.0| 1.7|    |    | =sum |
-| Adilson Figueiredo | 1.3| 0.0|    |    | =sum |
-| Cleiane Nunes      | 2.0| 2.0|    |    | =sum |
-| Cristiano Wilson   | 2.0| 1.9|    |    | =sum |
-| Eduardo Pinto      | 1.8| 1.7|    |    | =sum |
-| Gleidiane Macedo   | 1.0| 2.0|    |    | =sum |
-| Hercules De Amorim | 0.8| 1.4|    |    | =sum |
-| Juan Quezada       | 1.0| 1.8|    |    | =sum |
-| Leandro Sukevicius | 1.9| 2.0|    |    | =sum |
-| Luciano Chaves     | 1.9| 2.0|    |    | =sum |
-| Milena Ramos       | 1.8| 1.5|    |    | =sum |
-| Núbia Modolon      | 2.0| 2.0|    |    | =sum |
-| Paola Dalva        | 0.5| 1.7|    |    | =sum |
-| Raíssa Pessoa      | 1.5| 1.5|    |    | =sum |
-| Renato Santana     | 1.5| 2.0|    |    | =sum |
-| Roberto Intelisano | 2.0| 2.0|    |    | =sum |
-| Rosane Barbosa     | 1.6| 1.7|    |    | =sum |
-| Victor De Oliveira | 2.0| 1.6|    |    | =sum |
+| Abraão Miranda     | 1.0| 1.7| 3.0|    | =sum |
+| Adilson Figueiredo | 1.3| 0.0| 0.0|    | =sum |
+| Cleiane Nunes      | 2.0| 2.0| 3.0|    | =sum |
+| Cristiano Wilson   | 2.0| 1.9| 3.0|    | =sum |
+| Eduardo Pinto      | 1.8| 1.7| 3.0|    | =sum |
+| Gleidiane Macedo   | 1.0| 2.0| 3.0|    | =sum |
+| Hercules De Amorim | 0.8| 1.4| 3.0|    | =sum |
+| Juan Quezada       | 1.0| 1.8| 3.0|    | =sum |
+| Leandro Sukevicius | 1.9| 2.0| 3.0|    | =sum |
+| Luciano Chaves     | 1.9| 2.0| 3.0|    | =sum |
+| Milena Ramos       | 1.8| 1.5| 3.0|    | =sum |
+| Núbia Modolon      | 2.0| 2.0| 3.0|    | =sum |
+| Paola Dalva        | 0.5| 1.7| 0.0|    | =sum |
+| Raíssa Pessoa      | 1.5| 1.5| 3.0|    | =sum |
+| Renato Santana     | 1.5| 2.0| 3.0|    | =sum |
+| Roberto Intelisano | 2.0| 2.0| 3.0|    | =sum |
+| Rosane Barbosa     | 1.6| 1.7| 3.0|    | =sum |
+| Victor De Oliveira | 2.0| 1.6| 1.5|    | =sum |
 {: .table .table-sm }
 
 
