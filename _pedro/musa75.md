@@ -89,16 +89,17 @@ Mai 27 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
 Mai 28 | Introdução aos seminários
 Mai 30 | <del>Manifestação (não haverá aula)</del> 🙁
 Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
-Jun 04 | **Seminários**: 1. Moteto (Raissa e Gleidiane), 3. Palestrina (Núbia e Cleiane)
-Jun 06 | **Seminários**: 2. Madrigal (Eduardo e Luciano)
-Jun 11 | **Seminários**: 6. Renascimento vs Barroco (Wilson e Hercules), 7. Época medieval vs Renascimento (Renato e Roberto)
-Jun 13 | **Seminários**: 4. Missa (Juan e Milena), 5. Musica reservata (Victor e Leandro)
-Jun 18 | **Seminários**: 8. Outros Compositores Renascentistas (Rosane e Abraão), 9. Contraponto imitativo (Paola)
+       | **Seminários:**
+Jun 04 | Moteto (Raissa e Gleidiane) <br/> Palestrina (Núbia e Cleiane)
+Jun 06 | Madrigal (Eduardo e Luciano)
+Jun 11 | Renascimento vs Barroco (Wilson e Hercules) <br/> Época medieval vs Renascimento (Renato e Roberto)
+Jun 13 | Missa (Juan e Milena) <br/> Musica reservata (Victor e Leandro)
+Jun 18 | Outros Compositores Renascentistas (Rosane e Abraão) <br/> Contraponto imitativo (Paola)
 Jun 20 | <del>Corpus Christi</del>
 Jun 25 | <del>São João?</del>
 Jun 27 | Entrega de resultados (online)
 Jul 02 | <del>Independência da Bahia</del>
-{: .table .table-sm}
+{: .table .table-sm .table-cronograma}
 
 ## Notas
 
@@ -123,7 +124,7 @@ Jul 02 | <del>Independência da Bahia</del>
 | Roberto Intelisano | 2.0| 2.0| 3.0|    | =sum |
 | Rosane Barbosa     | 1.6| 1.7| 3.0|    | =sum |
 | Victor De Oliveira | 2.0| 1.6| 1.5|    | =sum |
-{: .table .table-sm }
+{: .table .table-sm}
 
 
 [1]: https://www.dropbox.com/s/bb23zsxbr3099ex/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=1

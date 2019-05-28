@@ -59,7 +59,7 @@ Jun 10 | **Relatório oral 8:** Trecho da obra final e projeto escrito (e monogr
 Jun 17 | **Apresentação:** Trecho da obra final e projeto escrito (e monografia) **(1 pt) 10m**
 Jun 24 | <del>São João</del>
 Jul 01 | Entrega de resultados (online)
-{: .table .table-sm }
+{: .table .table-sm .table-cronograma}
 
 
 ## Avaliação

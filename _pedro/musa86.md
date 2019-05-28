@@ -68,7 +68,7 @@ Jun 05 | **Entrega do trabalho 6** (1.25 pontos)
 Jun 12 | Análise de obras
 Jun 19 | **Entrega do trabalho final** (2.5 pontos)
 Jun 26 | <del>São João</del>
-{: .table .table-sm}
+{: .table .table-sm .table-cronograma}
 
 
 ## Avaliação
