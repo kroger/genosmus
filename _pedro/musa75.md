@@ -87,9 +87,9 @@ Mai 21 | **Apresentação** análise de obra (parte 3)
 Mai 23 | **Apresentação** análise de obra (parte 4)
 Mai 27 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
 Mai 28 | Introdução aos seminários
-Mai 30 | **Seminários**: 1. Moteto (Raissa e Gleidiane)
+Mai 30 | <del>Manifestação (não haverá aula) 🙁</del>
 Jun 03 | *Aula reposição*: tirar dúvidas trabalhos (Sala Genos: 15:40h)
-Jun 04 | **Seminários**: 3. Palestrina (Núbia e Cleiane)
+Jun 04 | **Seminários**: 1. Moteto (Raissa e Gleidiane), 3. Palestrina (Núbia e Cleiane)
 Jun 06 | **Seminários**: 2. Madrigal (Eduardo e Luciano)
 Jun 11 | **Seminários**: 6. Renascimento vs Barroco (Wilson e Hercules), 7. Época medieval vs Renascimento (Renato e Roberto)
 Jun 13 | **Seminários**: 4. Missa (Juan e Milena), 5. Musica reservata (Victor e Leandro)
