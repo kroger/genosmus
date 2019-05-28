@@ -7,3 +7,5 @@ main:
     url: /pesquisa/
   - title: "Pessoas"
     url: /pessoas/
+  - title: "Grove"
+    url: http://grove.genosmus.com
