@@ -84,7 +84,7 @@ do trabalho com uma gravação midi (Finale) em mp3.
 | Leandro Sukevicius |1.25|1.25|1.25|1.20|1.25|1.25|    | =sum |
 | Peter Marques      |1.25|0.00|1.25|1.25|0.00|0.63|    | =sum |
 | Roberto Intelisano |1.25|1.25|1.25|1.25|1.25|1.25|    | =sum |
-| Victor De Oliveira |1.25|1.25|1.25|0.00|1.25|1.25|    | =sum |
+| Victor De Oliveira |1.25|1.25|1.25|0.00|1.25|0.00|    | =sum |
 | Zizimo Fonseca     |1.25|1.25|1.25|1.25|1.25|1.25|    | =sum |
 {: .table .table-sm }
 
