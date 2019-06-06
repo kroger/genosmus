@@ -284,14 +284,18 @@ Aula 23, dia 28/05/2019
 
 Aula 24, dia 30/05/2019
 
-[definir]
+[adicionar exemplo secional]
+
+- Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
 ###1. Análise de pequenas formas
 
 Aulas 25 a 28, dias 04 a 13/06/2019
 
+- Beethoven op. 26, mov. 3 (p 10 (198))
 - Brahms, op. 49, n. 4 (Wiegenlied)
-- Mozart K330, mov. 2 (p 111 (7))
+- Mozart K330, mov. 2 (p 111 (7)) - movimento completo
+- Schubert, Sehnsucht D310B
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 - Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
 - Schumann op. 68, n. 9
