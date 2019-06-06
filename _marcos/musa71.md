@@ -128,7 +128,7 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 1. Beethoven, op. 27 n. 2, mov. 2 (Allegretto) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/19/IMSLP51726-PMLP01458-Beethoven_Werke_Breitkopf_Serie_16_No_137_Op_27_No_2.pdf)
 1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP04755-Beethoven_-_String_Quartet_No.1_Dover.pdf)
 1. Beethoven op. 26, mov. 2 Trio  (p. 197 (9)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/4/4f/IMSLP243298-PMLP01454-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B135_Op_26_scan.pdf)
-1. Beethoven op. 26, mov. 3 (p 10 (198)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/4/4f/IMSLP243298-PMLP01454-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B135_Op_26_scan.pdf)
+1. Beethoven op. 26, mov. 3 (p 10 (198) e p 11 (199)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/4/4f/IMSLP243298-PMLP01454-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B135_Op_26_scan.pdf)
 1. Beethoven op. 57, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/01/IMSLP51795-PMLP01480-Beethoven_Werke_Breitkopf_Serie_16_No_146_Op_57.pdf) (até p. 13).
 1. Beethoven op. 67, mov. 3 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/0c/IMSLP52624-PMLP01586-Beethoven_Werke_Breitkopf_Serie_1_No_5_Op_67.pdf)
 1. Brahms, op. 49, n. 4 (Wiegenlied) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP81910-PMLP22223-Brahms_Werke_Band_24_Breitkopf_JB_148_Op_49_filter.pdf)
@@ -292,9 +292,10 @@ Aula 24, dia 30/05/2019
 
 Aulas 25 a 28, dias 04 a 13/06/2019
 
-- Beethoven op. 26, mov. 3 (p 10 (198))
+- Beethoven op. 26, mov. 3  (p 10 (198) e p 11 (199))
 - Brahms, op. 49, n. 4 (Wiegenlied)
 - Mozart K330, mov. 2 (p 111 (7)) - movimento completo
+- Mozart K570, mov. ii (p 6 do pdf) - movimento completo
 - Schubert, Sehnsucht D310B
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 - Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
