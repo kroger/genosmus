@@ -21,55 +21,6 @@ title: Disciplinas - Marcos Sampaio
     {% endfor %}
 </ul>
 
-<h3>Salas e horários</h3>
-
-As disciplinas ocorrem em semestres alternados, algumas apenas no semestre par e outras apenas no ímpar.
-
-<table class="table table-sm">
-  <tr>
-    <th>Disciplina</th>
-    <th>Sala</th>
-    <th>Dias</th>
-    <th>Horário</th>
-  </tr>
-  <tr>
-    <td>MUSA69 e MUSA70</td>
-    <td>201</td>
-    <td>Terças e quintas</td>
-    <td>13:00-14:50</td>
-  </tr>
-  <tr>
-    <td>MUSA71 e MUSA72</td>
-    <td>201</td>
-    <td>Terças e quintas</td>
-    <td>8:50-10:40</td>
-  </tr>
-  <tr>
-    <td>MUSA83 (semestre ímpar)</td>
-    <td>Genos</td>
-    <td>Terças</td>
-    <td>14:50-16:40</td>
-  </tr>
-  <tr>
-    <td>MUSA90 (semestre par)</td>
-    <td>Genos</td>
-    <td>Terças</td>
-    <td>14:50-15:45</td>
-  </tr>
-  <tr>
-    <td>MUSA92</td>
-    <td>Genos</td>
-    <td>Terças</td>
-    <td>16:40-17:35 (ímpar), 15:45-16:40 (par)</td>
-  </tr>
-  <tr>
-    <td>MUSB14 e MUSB15</td>
-    <td>Genos</td>
-    <td>Quintas</td>
-    <td>14:50-17:35</td>
-  </tr>
-</table>
-
 <h2>Semestres Anteriores</h2>
 
 {% assign pages = site.marcos | where:"level","graduacao" %}
@@ -126,3 +77,52 @@ As disciplinas ocorrem em semestres alternados, algumas apenas no semestre par e
     {% endunless %}
     {% endfor %}
 </ul>
+
+<h2>Salas e horários</h2>
+
+<p>As disciplinas são oferecidas em semestres alternados, algumas apenas em semestres pares e outras apenas em semestres ímpares.</p>
+
+<table class="table table-sm">
+  <tr>
+    <th>Disciplina</th>
+    <th>Sala</th>
+    <th>Dias</th>
+    <th>Horário</th>
+  </tr>
+  <tr>
+    <td>MUSA69 e MUSA70</td>
+    <td>201</td>
+    <td>Terças e quintas</td>
+    <td>13:00-14:50</td>
+  </tr>
+  <tr>
+    <td>MUSA71 e MUSA72</td>
+    <td>201</td>
+    <td>Terças e quintas</td>
+    <td>8:50-10:40</td>
+  </tr>
+  <tr>
+    <td>MUSA83 (semestre ímpar)</td>
+    <td>GenosLab</td>
+    <td>Terças</td>
+    <td>14:50-16:40</td>
+  </tr>
+  <tr>
+    <td>MUSA90 (semestre par)</td>
+    <td>GenosLab</td>
+    <td>Terças</td>
+    <td>14:50-15:45</td>
+  </tr>
+  <tr>
+    <td>MUSA92</td>
+    <td>GenosLab</td>
+    <td>Terças</td>
+    <td>16:40-17:35 (s. ímpar), 15:45-16:40 (s. par)</td>
+  </tr>
+  <tr>
+    <td>MUSB14 e MUSB15</td>
+    <td>GenosLab</td>
+    <td>Quintas</td>
+    <td>14:50-17:35</td>
+  </tr>
+</table>
