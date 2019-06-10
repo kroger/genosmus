@@ -30,10 +30,10 @@ Jun 17 | Relatório monografia 2.5 pontos
 
 | Nome              | R1 | R2 | R3 | R4 | Nota |
 |:------------------|:---|:---|:---|:---|:-----|
-| Diego Neves       | 2.5| 0.0|    |    | =sum |
-| George Cristian   | 2.5| 2.5|    |    | =sum |
-| Jordan Hohenfeld  | 2.5| 2.5|    |    | =sum |
-| Peter Marques     | 2.5| 0.0|    |    | =sum |
-| Sidnei Marques    | 2.5| 2.5|    |    | =sum |
+| Diego Neves       | 2.5| 0.0|1.25|    | =sum |
+| George Cristian   | 2.5| 2.5| 2.5|    | =sum |
+| Jordan Hohenfeld  | 2.5| 2.5| 2.5|    | =sum |
+| Peter Marques     | 2.5| 0.0| 0.0|    | =sum |
+| Sidnei Marques    | 2.5| 2.5| 2.5|    | =sum |
 {: .table .table-sm }
 
