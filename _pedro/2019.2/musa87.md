@@ -70,7 +70,6 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 ## Notas
 
-{% include_relative geradas/musa87.md %}
 
 [1]: https://www.dropbox.com/s/bw5ilcba4xlm103/Tchaikovsky%20Sinfonia%206%20-%20Trecho.pdf?dl=1
 [2]: https://www.dropbox.com/s/zy9981088balrte/Tchaikovsky%20Symphony%206%20-%20Movement%204.mkv?dl=1
