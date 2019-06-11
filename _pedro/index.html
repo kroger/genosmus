@@ -1,17 +1,30 @@
 ---
 layout: page
-title: Disciplinas Pedro Kroger -- 2019.1
+title: Disciplinas Pedro Kroger
 ---
 
 {% assign pages = site.pedro | sort %}
+
+<h2>2019.1</h2>
 
 <ul>
 {% for page in pages %}
     {% assign path = page.relative_path | split: '/' %}
     {% assign folder = path[1] %}
-    {% if path[1] contains '.md' %}
+    {% if folder == '2019.1' %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
 
+<h2>2019.2</h2>
+
+<ul>
+{% for page in pages %}
+    {% assign path = page.relative_path | split: '/' %}
+    {% assign folder = path[1] %}
+    {% if folder == '2019.2' %}
+        <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

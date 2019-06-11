@@ -1,5 +1,5 @@
 ---
-title: 'MUSA76 -- Literatura e Estruturação Musical 8'
+title: MUSA76 -- Literatura e Estruturação Musical VIII
 layout: disciplina
 ---
 
