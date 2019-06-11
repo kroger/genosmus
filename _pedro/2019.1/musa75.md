@@ -26,7 +26,7 @@ dados como desculpa para dilatar o prazo de entrega.
 
 Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
-para me procurar; depois disso a nota não será modificada
+para me procurar; depois disso a nota não será modificada.
 
 ## Materiais
 
@@ -59,7 +59,8 @@ Material para a audição:
 
 ## Cronograma
 
-Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá ser modificado de acordo com a necessidade e eventualidade.
+Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
+poderá ser modificado de acordo com a necessidade e eventualidade.
 
 Data | Conteúdo
  --- | ---
