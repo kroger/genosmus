@@ -13,6 +13,9 @@ representativas do século XX, de grandes dimensões.
 
 ## Materiais
 
+- [Termos musicais em diversos idiomas 1][20]
+- [Termos musicais em diversos idiomas 2][21]
+
 ### Texto
 
   - [Métrica (poesia)](http://pt.wikipedia.org/wiki/Métrica_(poesia))
@@ -105,3 +108,6 @@ para me procurar; depois disso a nota não será modificada.
 [1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=1
 [2]: https://www.dropbox.com/s/o604gwvyfw6rlx2/Ravel%20-%20Alborada%20del%20Gracioso.pdf?dl=1
 [3]: https://www.dropbox.com/s/bnkcy1yzctisgin/Ravel%20-%20Alborada%20del%20gracioso.mp3?dl=1
+
+[20]: https://connect.issaquah.wednet.edu/high/ihs/staff/mr_longmans_orchestras/w/general_orchestra_information/2605/music-terms
+[21]: https://web.library.yale.edu/cataloging/music/instname

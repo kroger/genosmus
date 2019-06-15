@@ -16,6 +16,8 @@ dimensões desde o Barroco até o século XX.
 
 - [Principles of Orchestration On-line][4]
 - Revisão de Cordas [Livro][2], [Áudio][3]
+- [Termos musicais em diversos idiomas 1][20]
+- [Termos musicais em diversos idiomas 2][21]
 
 ## Trabalhos
 
@@ -106,3 +108,6 @@ do trabalho com uma gravação midi (Finale) em mp3.
 [15]: https://www.dropbox.com/s/z4iqaiywqsbyswg/Ravel%20-%20Tombeau%20-%20Orq.m4a?dl=1
 [16]: https://www.dropbox.com/s/6d86z7erowabowq/Ravel%20-%20Tombeau%20-%20Piano.pdf?dl=1
 [17]: https://www.dropbox.com/s/qlv9b37km1l5ujd/Ravel%20-%20Tombeau%20-%20Piano.m4a?dl=1
+
+[20]: https://connect.issaquah.wednet.edu/high/ihs/staff/mr_longmans_orchestras/w/general_orchestra_information/2605/music-terms
+[21]: https://web.library.yale.edu/cataloging/music/instname
