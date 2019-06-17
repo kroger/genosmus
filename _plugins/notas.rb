@@ -7,8 +7,7 @@ module Notas
       pages = site.collections['pedro'].docs
 
       pages.each do |page|
-        path = page.relative_path.split('/')[1]
-        if path.include? ".md"
+        if page.path.include? ".md"
           new_content = ""
           page.content.each_line do |line|
             if line.start_with? "|" and line.match(/=sum/)
