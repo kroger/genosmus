@@ -79,15 +79,15 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 | Nome               | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
 |:-------------------|:---|:---|:---|:---|:---|:---|:---|:-----|
-| Cristiano Wilson   |1.25|1.25|1.25|1.20|1.25|1.25|    | =sum |
-| Edinaldo De Paiva  |1.25|1.25|1.25|0.50|0.63|0.63|    | =sum |
-| Izabella Baldoíno  |1.25|1.25|1.25|1.20|1.25|1.25|    | =sum |
-| Laís Cavalcanti    |1.25|1.25|0.50|0.00|1.25|1.25|    | =sum |
-| Leandro Sukevicius |1.25|1.25|1.25|1.20|1.25|1.25|    | =sum |
-| Peter Marques      |1.25|0.00|1.25|1.25|0.00|0.63|    | =sum |
-| Roberto Intelisano |1.25|1.25|1.25|1.25|1.25|1.25|    | =sum |
-| Victor De Oliveira |1.25|1.25|1.25|0.00|1.25|0.00|    | =sum |
-| Zizimo Fonseca     |1.25|1.25|1.25|1.25|1.25|1.25|    | =sum |
+| Cristiano Wilson   |1.25|1.25|1.25|1.20|1.25|1.25| 2.5| =sum |
+| Edinaldo De Paiva  |1.25|1.25|1.25|0.50|0.63|0.63| 0.0| =sum |
+| Izabella Baldoíno  |1.25|1.25|1.25|1.20|1.25|1.25| 2.5| =sum |
+| Laís Cavalcanti    |1.25|1.25|0.50|0.00|1.25|1.25| 2.5| =sum |
+| Leandro Sukevicius |1.25|1.25|1.25|1.20|1.25|1.25| 2.5| =sum |
+| Peter Marques      |1.25|0.00|1.25|1.25|0.00|0.63| 2.5| =sum |
+| Roberto Intelisano |1.25|1.25|1.25|1.25|1.25|1.25| 2.5| =sum |
+| Victor De Oliveira |1.25|1.25|1.25|0.00|1.25|0.00| 2.5| =sum |
+| Zizimo Fonseca     |1.25|1.25|1.25|1.25|1.25|1.25| 2.5| =sum |
 {: .table .table-sm }
 
 
