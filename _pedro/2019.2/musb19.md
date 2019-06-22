@@ -16,24 +16,23 @@ século XX, de grandes dimensões.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas
 poderá ser modificado de acordo com a necessidade e eventualidade.
 
-| Data | Atividade | Valor | Duração |
-| -- | -- | -- | -- |
-Ago 31 | Acompanhamento da composição
-Set 07 | <del>Feriado: Independência do Brasil</del> | |
-Set 14 | **Relatório oral e monografia** | 2pts | 12m
-Set 21 | *Música vocal (com Nathália Martins)*
-Set 28 | *Música vocal (com Nathália Martins)*
-Out 04 | **Relatório oral e monografia** | 2pts | 14m
-Out 11 | Acompanhamento da composição
-Out 18 | <del>Congresso da UFBA</del> (Não haverá aula)
-Out 25 | **Relatório oral e monografia** | 2pts | 16m
-Nov 01 | <del>Feriado: Finados</del> (sem aula: trabalho em casa) | |
-Nov 08 | Acompanhamento da composição
-Nov 15 | <del>Proclamação da República</del> | |
-Nov 22 | **Relatório oral e monografia** | 2pts | 18m
-Nov 29 | Acompanhamento da composição
-Dez 06 | Acompanhamento da composição
-Dez 13 | **Entrega trabalho final** | 2pts | 20m
+Ago 13 | Acompanhamento da composição
+Ago 20 | Acompanhamento da composição
+Ago 27 | Acompanhamento da composição 
+Set 03 | Acompanhamento da composição
+Set 10 | Acompanhamento da composição
+Set 17 | <del>Não haverá aula</del>
+Set 24 | Acompanhamento da composição
+Out 01 | Acompanhamento da composição
+Out 08 | <del>Trabalho em casa</del>
+Out 15 | Acompanhamento da composição
+Out 22 | Acompanhamento da composição
+Out 29 | Acompanhamento da composição
+Nov 05 | Acompanhamento da composição
+Nov 12 | Acompanhamento da composição
+Nov 19 | **Entrega do trabalho final**
+Nov 26 | *Banca avalia trabalho* (sem aula)
+Dez 03 | *Entrega de resultados (online)*
 {: .table .table-sm }
 
 ## Avaliação
@@ -62,7 +61,4 @@ aceita a perda de dados como desculpa para dilatar o prazo de entrega.
 Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
 para me procurar; depois disso a nota não será modificada.
-
-## Notas
-
 
