@@ -42,10 +42,15 @@ para me procurar; depois disso a nota não será modificada.
 
 - Thomas Tallis - Spem in alium [Áudio][1] e [Partitura][2]
 - Brahms - Sinfonia 1 [Áudio][3] e [Partitura][4]
-- [Gravações para a prova de audição][11]
 - Rimsky-Korsakov - Sheherazade [Áudio][5] e [Partitura][6]
 - Bach - A Arte da Fuga [Partitura][8]
 - Bach - Oferenda Musical [Partitura][10]
+
+Prova de Audição:
+
+- [Lista de obras](/pedro/lista-prova-audicao-lem8/)
+- [Gravações para a prova de audição][11]
+
 
 <!--
 - Bach - A Arte da Fuga [Áudio][7] e [Partitura][8]
