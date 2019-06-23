@@ -1,8 +1,5 @@
 ---
-id: 3994
-title: Arte da Fuga
-date: 2016-03-09T00:49:44+00:00
-author: kroger
+title: Trabalho Fuga
 layout: page
 ---
 

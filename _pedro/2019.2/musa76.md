@@ -23,8 +23,8 @@ contraponto, e texto.
 A avaliação final será soma de 4 notas:
 
   * 4 mini-trabalhos: 5 pontos
-  * 1 prova de audição e análise: 2.5 pontos
-  * 1 seminário oral: 2.5 pontos
+  * 1 prova de audição e análise: 3 pontos
+  * 1 seminário oral: 2 pontos
 
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
 início de aula do dia marcado para entrega. Eu não aceito trabalhos por
@@ -40,17 +40,27 @@ para me procurar; depois disso a nota não será modificada.
 
 ## Materiais
 
-  * [Gravações][1]
-  * [Partituras][2]
-  * [Gravações para a prova de audição][3]
-  * [Apostila Fuga][4]
+- Thomas Tallis - Spem in alium [Áudio][1] e [Partitura][2]
+- Brahms - Sinfonia 1 [Áudio][3] e [Partitura][4]
+- [Gravações para a prova de audição][11]
+- Rimsky-Korsakov - Sheherazade [Áudio][5] e [Partitura][6]
+- Bach - A Arte da Fuga [Partitura][8]
+- Bach - Oferenda Musical [Partitura][10]
+
+<!--
+- Bach - A Arte da Fuga [Áudio][7] e [Partitura][8]
+- Bach - Oferenda Musical [Áudio][9] e [Partitura][10]
+-->
+
 
 ## Trabalhos
 
-  1. Sinfonia I Brahms
-  2. Trabalho 2: Scheherazade
-  3. Arte da Fuga
+- Trabalho 1: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
 
+<!--
+- Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
+- Trabalho 3: [Fuga](/pedro/trabalho-fuga/)
+-->
 
 ## Cronograma
 
@@ -65,7 +75,7 @@ Ago 20 | Análise da Sinfonia no. 1, Brahms, **Mini-trabalho 1**
 Ago 22 | Análise da Sinfonia no. 1, Brahms
 Ago 27 | Análise da Sinfonia no. 1, Brahms
 Ago 29 | Revisão para a prova
-Set 03 | **Prova de audição e análise (10 pontos)**
+Set 03 | **Prova de audição e análise**
 Set 05 | Análise, Quarteto no. 1, Brahms
 Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**
 Set 12 | Análise de Scheherazade, Rimsky-Korsakov
@@ -75,8 +85,8 @@ Set 24 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical)
 Set 26 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**
 Out 01 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**
 Out 03 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**
-Out 08 | 
-Out 10 | Sonoridades interessantes
+Out 08 | <del>Trabalho em casa</del>
+Out 10 | <del>Trabalho em casa</del>
 Out 15 | <del>Dia do Professor</del>
 Out 17 | Introdução a Harmonia do séc. XIX
 Out 22 | Harmonia do séc. XIX
@@ -109,3 +119,16 @@ Dez 05 | *Correções e segunda chamada*
 |                    |    |    |    |    | =sum |
 |                    |    |    |    |    | =sum |
 {: .table .table-sm}
+
+
+[1]: https://www.dropbox.com/s/i7bt27hm0wffoif/Thomas%20Tallis%20-%20Spem%20in%20alium.mp3?dl=0
+[2]: https://www.dropbox.com/s/5zmcywht152nn4w/Thomas%20Tallis%20-%20Spem%20in%20alium.pdf?dl=0
+[3]: https://www.dropbox.com/s/dgqftf0c5hhbytf/Brahms%20-%20Sinfonia%201.m4a?dl=0
+[4]: https://www.dropbox.com/s/9mh54tjm6bt8j7i/Brahms%20-%20Sinfonia%201.pdf?dl=0
+[5]: https://www.dropbox.com/s/le8vrrys4s528ga/Rimsky-Korsakov%20-%20Sheherazade%20-%20Orquestra.m4a?dl=0
+[6]: https://www.dropbox.com/s/ibpj6dwlkqz8xr4/Rimsky-Korsakov%20-%20Sheherazade%20-%20Orquestra.pdf?dl=0
+[7]: http://#
+[8]: https://www.dropbox.com/s/vwjs88y43yh26sg/Bach%20-%20A%20Arte%20da%20Fuga.pdf?dl=0
+[9]: http://#
+[10]: https://www.dropbox.com/s/hu8awmglpq1yupp/Bach%20-%20Oferenda%20Musical.pdf?dl=0
+[11]: https://www.dropbox.com/s/hdwdp46kf1t9bvn/Musicas%20Audicao.zip?dl=0
