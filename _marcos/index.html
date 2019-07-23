@@ -7,7 +7,7 @@ title: Disciplinas - Marcos Sampaio
     <a href="http://www.escolademusica.ufba.br/" target="_blank">Escola de Música</a> da
     Universidade Federal da Bahia.</p>
 
-<h2>Semestre 2019.1</h2>
+<h2>Semestre 2019.2</h2>
 
 {% assign pages = site.marcos | sort %}
 
@@ -15,8 +15,8 @@ title: Disciplinas - Marcos Sampaio
     {% for page in pages %}
     {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
     {% if site.data.docentes.marcos.atual contains disciplina %}
-    <!--<li>{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</li>-->
-    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    <li>{{ page.title | replace: '--', '&ndash;' }}</li>
+    <!--<li><a href="{{ page.url }}">{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</a></li>-->
     {% endif %}
     {% endfor %}
 </ul>
