@@ -118,14 +118,13 @@ Temas, integrantes e datas de apresentação
 ##1. Notas e frequência
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
-
 
 ###1. Gráficos de desempenho da turma
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=1269582914&amp;format=interactive"
  width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ##1. Bibliografia

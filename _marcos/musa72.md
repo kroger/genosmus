@@ -128,15 +128,15 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
 As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
 ###1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y contém o número de alunos com média final dentro das faixas.
 
-<iframe seamless frameborder="0" scrolling="no" 
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XwKIhizZR_bQjYR4k9Qw0fhm5ii2UtrJxJoFheTsDdCKaa7AOigQIIaH1YToGy3Mpt8D2EhjTPjL/pubchart?oid=641992382&amp;format=interactive"
+<iframe seamless frameborder="0" scrolling="no"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
 width="100%" height="300"></iframe>
 
 ##1. Links
