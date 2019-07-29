@@ -107,17 +107,19 @@ individual.
   6. Ferramentas de pesquisa acadêmica (bibliografia, texto, etc.)
   7. Criação de página na internet (WordPress, etc.)
 
-####1. Trios e duos
+####1. Equipes
 
 Temas, integrantes e datas de apresentação
 
-| Data     | Equipe                 | Tema                  |
-|:---------|:-----------------------|:----------------------|
-| 14/05/19 | William                | Dispositivos móveis   |
-| 21/05/19 | André                  | Lilypond              |
-| 28/05/19 | Vicente e Miguel       | Apps de percepção     |
-| 04/06/19 | Tiago, Wesley e Samuel | Apps para performance |
-{: .table .table-sm }
+[Em construção]
+
+<!-- | Data     | Equipe                 | Tema                  | -->
+<!-- |:---------|:-----------------------|:----------------------| -->
+<!-- | 14/05/19 | William                | Dispositivos móveis   | -->
+<!-- | 21/05/19 | André                  | Lilypond              | -->
+<!-- | 28/05/19 | Vicente e Miguel       | Apps de percepção     | -->
+<!-- | 04/06/19 | Tiago, Wesley e Samuel | Apps para performance | -->
+<!-- {: .table .table-sm } -->
 
 ##1. Notas e frequência
 

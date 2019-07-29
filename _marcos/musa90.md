@@ -56,12 +56,12 @@ de uma técnica analítica abordada em aula. O tema escolhido deverá ser
 previamente autorizado pelo professor. A apresentação é conjunta, mas
 a nota, individual.
 
-####1. Duplas
+####1. Equipes
 
 [Em construção]
 
 <!-- | Data     | Equipe  | Tema                             | -->
-<!-- |----------|---------|----------------------------------| -->
+<!-- |:---------|:--------|:---------------------------------| -->
 <!-- | 30/10/18 | Victor  | Algo com conjuntos ou serialismo | -->
 <!-- | 20/11/18 | Sidnei  | Análise gestual                  | -->
 <!-- | 20/11/18 | Jordan  | Serialismo                       | -->
@@ -69,6 +69,7 @@ a nota, individual.
 <!-- | 27/11/18 | George  | A definir                        | -->
 <!-- | 04/12/18 | Diego   | A definir                        | -->
 <!-- | 04/12/18 | Peter   | MIR                              | -->
+<!-- {: .table .table-sm } -->
 
 ##1. Notas e frequência
 
