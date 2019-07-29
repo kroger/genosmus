@@ -12,7 +12,8 @@ tecnologia digital aplicadas à música. Desenvolvimento de habilidades
 na utilização dessas ferramentas.
 
 ##1. Objetivos
-Fornecer conhecimento básico de softwares necessários ao estudante de música.
+Fornecer conhecimento básico de softwares necessários ao estudante de
+música.
 
 ##1. Conteúdo programático
 
@@ -77,12 +78,15 @@ Valor: 50%
 Os trabalhos deverão ser entregues via formulário.
   
 <!--
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 25/09/2018
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 23/10/2018
--->
+  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em
+    25/09/2018
+  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em
+23/10/2018 -->
 
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 16/04/2019
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 14/05/2019
+  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em
+    16/04/2019
+  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em
+    14/05/2019
 
 ###1. Seminários
 
@@ -125,21 +129,34 @@ width="100%" height="400"></iframe>
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=1269582914&amp;format=interactive"
- width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
+width="100%" height="400" frameborder="0" scrolling="no"
+seamless=""></iframe>
 
 ##1. Bibliografia
 
 ###1. Básica
 
-- Wikipedia. Music Software. Disponível em [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso em 02/05/2018.
-- Wikipedia. Web Search Engine. Disponível em [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso em 02/05/2018.
-- Wikipedia. Backup. Disponível em [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso em 02/05/2018.
+- Wikipedia. Music Software. Disponível em
+  [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso
+  em 02/05/2018.
+- Wikipedia. Web Search Engine. Disponível em
+  [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso
+  em 02/05/2018.
+- Wikipedia. Backup. Disponível em
+  [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso
+  em 02/05/2018.
 
 ###1. Complementar
 
-- Wikipedia. Academic Search. Disponível em [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso em 02/05/2018.
-- Wikipedia. Cloud computing. Disponível em [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso em 02/05/2018.
-- Wikipedia. Mobile app. Disponível em [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso em 02/05/2018.
+- Wikipedia. Academic Search. Disponível em
+  [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso
+  em 02/05/2018.
+- Wikipedia. Cloud computing. Disponível em
+  [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso
+  em 02/05/2018.
+- Wikipedia. Mobile app. Disponível em
+  [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso
+  em 02/05/2018.
 
 
 ##1. Links
@@ -148,10 +165,14 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRF
 - [CPDL](http://cpdl.org/) - Repositório de partituras musicais vocais
 - [Google Acadêmico](https://scholar.google.com.br/)
 - [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
-- [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
-- [Note Flight](https://www.noteflight.com/home) - Editor de partituras online
-- [MuseScore](https://musescore.org/) - Editor de partituras gratuito e multiplataforma
-- [Exemplo Lilypond](http://lilybin.com/plkhuu/1) - Exemplo de código para gerar partitura e partes no Lilypond
+- [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao
+  Google
+- [Note Flight](https://www.noteflight.com/home) - Editor de
+  partituras online
+- [MuseScore](https://musescore.org/) - Editor de partituras gratuito
+  e multiplataforma
+- [Exemplo Lilypond](http://lilybin.com/plkhuu/1) - Exemplo de código
+  para gerar partitura e partes no Lilypond
 
 Os demais links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
@@ -160,9 +181,9 @@ target="_blank" rel="noopener noreferrer">Diigo</a>.
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 

@@ -7,27 +7,35 @@ level: graduacao
 
 ##1. Ementa
 
-Revisão da teoria musical básica; estudo dos princípios do contraponto estrito, da harmonia, e da construção de frases musicais básicas. Apreciação de obras musicais referentes aos elementos estudados.
+Revisão da teoria musical básica; estudo dos princípios do contraponto
+estrito, da harmonia, e da construção de frases musicais
+básicas. Apreciação de obras musicais referentes aos elementos
+estudados.
 
 <!--FIXME: adicionar objetivos-->
 
 ##1. Conteúdo programático
 
-  1. Forma: 
+  1. Forma:
       1. Cadências, frases, agrupamentos
       2. Forma binária, formas compostas
-  2. Harmonia 
+  2. Harmonia
       1. Notas melódicas: escapada, dupla bordadura, etc.
       2. Acodes de sétima em todas as inversões
       3. Funções secundárias
-      4. Tonicização, Modulação por acorde comum, nota comum, sequencial, monofônica e direta
+      4. Tonicização, Modulação por acorde comum, nota comum,
+         sequencial, monofônica e direta
       5. Empréstimo modal
       6. Acorde napolitano
       7. Acordes de sexta aumentada (italiana, francesa e alemã)
 
 ##1. Avaliação
 
-A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
+A avaliação nesta disciplina é realizada mediante 3 provas. As provas
+são compostas por questões de composição e/ou análise e têm como
+objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
+de correção é subjetivo, como o próprio conteúdo da disciplina. O
+conteúdo das provas é acumulativo.
 
 ###1. Nota
 
@@ -35,19 +43,26 @@ A média final é equivalente à média simples das notas das provas.
 
 ###1. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+O aluno que faltar às provas terá direito à segunda chamada se a
+requerer até dois dias úteis após a sua realização comprovando-se umas
+das seguintes situações:
 
   1. direito assegurado por legislação específica
   2. motivo de saúde comprovado por atestado médico
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta
+à segunda chamada implicará na manutenção automática e definitiva da
+nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
+de Ensino de Graduação.
 
-A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
+A prova de segunda chamada ocorrerá em data definida no cronograma da
+disciplina.
 
 ##1. Cronograma
 
-Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
+Este cronograma é uma previsão e poderá ser alterado ao longo do
+semestre.
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuycKabRlsgj1buqsh89Yq7-IP2ZCBdWThS48TCWpOzJEAH9HNy6t9U2gPCmC1Ps_sM3-QFL-VuZ8d/pubhtml?gid=1985509221&amp;single=true&amp;widget=true&amp;headers=false"
@@ -56,9 +71,7 @@ width="100%" height="300"></iframe>
 ##1. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a
-  
 realização em casa. Esses exercícios serão parcialmente corrigidos em
-  
 aula. A sua realização é desejada, mas opcional. Não valem nota.
 
   1. [Notas melódicas, cadências e frases](https://goo.gl/Rv69f1)
@@ -68,7 +81,8 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google).
+O material para análise está inteiramente disponível no site do IMSLP
+(buscar informações a respeito no Google).
 
 [Em construção]
 
@@ -126,7 +140,8 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
 
 ###1. Lista organizada por conteúdo
 
-Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula.
+Partituras a serem usadas nas aulas. Todos os itens deverão ser
+levados impressos para a aula.
 
 ####1. 1. Análise harmônica e formal (frases)
 
@@ -180,8 +195,9 @@ Aula 17, dia 30/10/2018
 
 ##1. Notas
 
-As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
-  
+As notas dos alunos estão disponíveis no link abaixo e serão
+atualizadas durante o curso:
+
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=939789204&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
@@ -189,12 +205,10 @@ width="100%" height="300"></iframe>
 ###1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
-  
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-  
 contém o número de alunos com média final dentro das faixas.
 
-<iframe seamless frameborder="0" scrolling="no" 
+<iframe seamless frameborder="0" scrolling="no"
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=951878699&amp;format=interactive"
 width="100%" height="300"></iframe>
 
@@ -215,49 +229,56 @@ width="100%" height="300"></iframe>
 
 ##1. Bibliografia
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Aldwell, Edward, and Carl Schachter. 2002. <i>Harmony and Voice Leading</i>. 3rded. Thomson Schirmer.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Aldwell, Edward,
+  and Carl Schachter. 2002. <i>Harmony and Voice
+  Leading</i>. 3rded. Thomson Schirmer.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Gauldin, Robert. 1997. <i>Harmonic Practice in Tonal Music</i>. New York, NY: W.W. Norton and Company.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Gauldin,
+  Robert. 1997. <i>Harmonic Practice in Tonal Music</i>. New York, NY:
+  W.W. Norton and Company.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Grove, George, and Stanley Sadie. 1980. <i>The New Grove Dictionary of Music and Musicians</i>. Edited by Stanley Sadie. 2nd ed. London, Washington: Macmillan Publishers.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Grove, George,
+  and Stanley Sadie. 1980. <i>The New Grove Dictionary of Music and
+  Musicians</i>. Edited by Stanley Sadie. 2nd ed. London, Washington:
+  Macmillan Publishers.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Kohs, Ellis Bonoff. 1976. <i>Musical Form: Studies in Analysis and Synthesis</i>. Boston: Houghton Mifflin.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kohs, Ellis
+  Bonoff. 1976. <i>Musical Form: Studies in Analysis and
+  Synthesis</i>. Boston: Houghton Mifflin.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Kostka, Stefan M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kostka, Stefan
+  M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction
+  to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
+  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Palisca, Claude V. 2001. <i>Norton Anthology of Western Music</i>. 4thed. New York and London: W. W. Norton & Company.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Palisca, Claude
+  V. 2001. <i>Norton Anthology of Western Music</i>. 4thed. New York
+  and London: W. W. Norton & Company.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Queiroz, Flávio José Gomes de. 2005. “Princípios Gerais Para Realização de Baixos Cifrados.” <a href="http://www.clem.ufba.br/queiroz/bx_cifr/geraisbaixocifrado.html" target="_blank" rel="noopener">http://www.clem.ufba.br/queiroz/bx_cifr/geraisbaixocifrado.html</a>.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Queiroz, Flávio
+  José Gomes de. 2005. “Princípios Gerais Para Realização de Baixos
+  Cifrados.” <a
+  href="http://www.clem.ufba.br/queiroz/bx_cifr/geraisbaixocifrado.html"
+  target="_blank"
+  rel="noopener">http://www.clem.ufba.br/queiroz/bx_cifr/geraisbaixocifrado.html</a>.
+  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Randel, Don Michael, ed. 1986. <i>The New Harvard Dictionary of Music</i>. Cambridge, MA: Belknap Press of Harvard University Press.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Randel, Don
+  Michael, ed. 1986. <i>The New Harvard Dictionary of
+  Music</i>. Cambridge, MA: Belknap Press of Harvard University Press.
+  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Zamacois, Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos Musicales</i>. Barcelona: Editorial Labor.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Zamacois,
+  Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
+  Musicales</i>. Barcelona: Editorial Labor.  </p>
 
 <!-- mendeley type="folders" id="d4453a45-45fc-4da1-819e-4fae34da1a24" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 

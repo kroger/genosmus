@@ -115,8 +115,9 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
-Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+O material para análise está inteiramente disponível no site do IMSLP
+(buscar informações a respeito no Google). Caso algum link esteja
+quebrado, buscar direto no IMSLP e informar o professor.
 
 ###1. Lista completa
 
@@ -163,8 +164,9 @@ Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor.
 
 ###1. Lista organizada por conteúdo
 
-Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula. Essa lista poderá sofrer
-ajustes ao longo do semestre.
+Partituras a serem usadas nas aulas. Todos os itens deverão ser
+levados impressos para a aula. Essa lista poderá sofrer ajustes ao
+longo do semestre.
 
 ####1. Revisão de frases, períodos, tonicalização e modulação
 
@@ -179,7 +181,8 @@ Aula 1, dia 12/03/2019
 Aulas 2 e 3, dias 14 e 19/03/2019
 
 - Schubert, Sehnsucht D310B
-- Exemplos do capítulo de empréstimo modal de RG (ver links). Esses exemplos poderão ser vistos no celular.
+- Exemplos do capítulo de empréstimo modal de RG (ver links). Esses
+  exemplos poderão ser vistos no celular.
 
 ####1. Acordes de nona, alterados, etc.
 
@@ -264,7 +267,8 @@ Aulas 20 e 21, dias 16 e 21/05/2019
 
 Aula 22, dia 23/05/2019
 
-- J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben.
+- J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
+  Sterben.
 - Clementi, op. 36, n. 1, mov. 1
 - Haydn, Divertimento in C major, Hob. XVI 7
 - Mozart K284, mov. iii, tema (p. 10 (54))
@@ -317,37 +321,36 @@ width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ##1. Bibliografia
 
-1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
-Voice Leading_. 3rded. Thomson Schirmer.
-1. D’Indy, Vincent. 1912. _Cours de Composition Musicale_. 
-Paris: Durand.
-1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
- New York, NY: W.W. Norton and Company.
-1. Green, Douglass M. 1979. _Form in Tonal Music_: an 
-Introduction to Analysis. Holt Rinehart and Winston.
-1. Grove, George, and Stanley Sadie. 1980. _The New Grove 
-Dictionary of Music and Musicians_. Edited by Stanley Sadie.
- 2nded. London, Washington: Macmillan Publishers.
-1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in 
-Analysis and Synthesis. Boston: Houghton Mifflin.
-1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal 
-Harmony, with an Introduction to Twentieth-Century Music_. 
-3rd ed. New York, NY: McGraw-Hill.
-1. Palisca, Claude V. 2001. _Norton Anthology of Western 
+1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice
+Leading_. 3rded. Thomson Schirmer.
+1. D’Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris:
+Durand.
+1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.  New
+ York, NY: W.W. Norton and Company.
+1. Green, Douglass M. 1979. _Form in Tonal Music_: an Introduction to
+Analysis. Holt Rinehart and Winston.
+1. Grove, George, and Stanley Sadie. 1980. _The New Grove Dictionary
+of Music and Musicians_. Edited by Stanley Sadie.  2nded. London,
+Washington: Macmillan Publishers.
+1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in Analysis and
+Synthesis. Boston: Houghton Mifflin.
+1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal Harmony, with an
+Introduction to Twentieth-Century Music_.  3rd ed. New York, NY:
+McGraw-Hill.
+1. Palisca, Claude V. 2001. _Norton Anthology of Western
 Music_. 4thed. New York and London: W. W. Norton & Company.
 1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
-1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary
- of Music_. Cambridge, MA: Belknap Press of Harvard University 
- Press.
+1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary of
+ Music_. Cambridge, MA: Belknap Press of Harvard University Press.
 1. Schoenberg, Arnold. 1967. _Fundamentals of Music
  Composition_. Faber and Faber.
-1. Schoenberg, Arnold. 1954. _Structural Functions of Harmony_. 
+1. Schoenberg, Arnold. 1954. _Structural Functions of Harmony_.
 Edited by Leonard Stein. London: Faber and Faber.
-1. Schoenberg, Arnold. 1983. _Theory of Harmony_. Berkeley, 
-CA: University of California Press.
+1. Schoenberg, Arnold. 1983. _Theory of Harmony_. Berkeley, CA:
+University of California Press.
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
-1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. 
-New York: Schirmer.
+1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_.  New York:
+Schirmer.
 1. "Musictheory.net." 2000. http://musictheory.net.
 1. "Resposta Tonal." 2015. https://respostatonal.com.
 
@@ -375,9 +378,9 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 

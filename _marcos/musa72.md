@@ -7,33 +7,45 @@ level: graduacao
 
 ##1. Ementa
 
-Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados. (antiga)
+Estudo da harmonia cromática, da construção de frases musicais e suas
+combinações. Estudo de formas musicais de estrutura única, binária e
+ternária. Apreciação de obras musicais referentes aos elementos
+estudados. (antiga)
 
 <!--FIXME: adicionar objetivos-->
 
 ##1. Conteúdo programático
 
-  1. A Forma Sonata 
+  1. A Forma Sonata
       * Aspecto Geral da Forma Sonata
       * Seção da Tonalidade Principal
       * A transição
       * Seção da Tonalidade Relativa
-      * Continuação da Seção da Tonalidade Relativa (Tema ou Grupo de Temas de Fechamento)
+      * Continuação da Seção da Tonalidade Relativa (Tema ou Grupo de
+        Temas de Fechamento)
       * Seção de Desenvolvimento
       * Recapitulação
       * A introdução
       * A Coda
-      * Modificações da Forma Sonata (sonatina, sonatina ampliada, sonata rondo)
-  2. O Concerto 
-      * Movimentos Externos do Concerto Barroco; O Movimento do Concerto Grosso
+      * Modificações da Forma Sonata (sonatina, sonatina ampliada,
+        sonata rondo)
+  2. O Concerto
+      * Movimentos Externos do Concerto Barroco; O Movimento do
+        Concerto Grosso
       * Forma do Movimento do Concerto Grosso
-      * O Primeiro Movimento do Concerto Clássico: A Forma Concerto-Sonata
-      * O Terceiro Movimento do Concerto Clássico: Forma Concerto-Rondo
+      * O Primeiro Movimento do Concerto Clássico: A Forma
+        Concerto-Sonata
+      * O Terceiro Movimento do Concerto Clássico: Forma
+        Concerto-Rondo
       * Nota Histórica Sobre o Concerto Após Beethoven
 
 ##1. Avaliação
 
-A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
+A avaliação nesta disciplina é realizada mediante 3 provas. As provas
+são compostas por questões de composição e/ou análise e têm como
+objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
+de correção é subjetivo, como o próprio conteúdo da disciplina. O
+conteúdo das provas é acumulativo.
 
 ###1. Nota
 
@@ -41,19 +53,26 @@ A média final é equivalente à média simples das notas das provas.
 
 ###1. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+O aluno que faltar às provas terá direito à segunda chamada se a
+requerer até dois dias úteis após a sua realização comprovando-se umas
+das seguintes situações:
 
   1. direito assegurado por legislação específica
   2. motivo de saúde comprovado por atestado médico
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta
+à segunda chamada implicará na manutenção automática e definitiva da
+nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
+de Ensino de Graduação.
 
-A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
+A prova de segunda chamada ocorrerá em data definida no cronograma da
+disciplina.
 
 ##1. Cronograma
 
-Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
+Este cronograma é uma previsão e poderá ser alterado ao longo do
+semestre.
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFJd6AVK1yqXBc_VGyrFlWCH2W0INq1LZ6hc2asD-nWFc7vlaHWrP5nxSR0SDhVPfdwb6P5V0oF3kW/pubhtml?gid=2015781779&amp;single=true&amp;widget=true&amp;headers=false"
@@ -64,7 +83,8 @@ width="100%" height="300"></iframe>
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google).
+O material para análise está inteiramente disponível no site do IMSLP
+(buscar informações a respeito no Google).
 
 [Em construção]
 
@@ -121,11 +141,11 @@ O material para análise está inteiramente disponível no site do IMSLP (buscar
   1. Mozart K 533, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b9/IMSLP56707-PMLP01854-Mozart_Werke_Breitkopf_Serie_22_KV533.pdf)
   1. Mozart K 545, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
   1. Mozart K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
-  
 
 ##1. Notas e frequência
 
-As notas dos alunos estão disponíveis no link abaixo e serão atualizadas durante o curso:
+As notas dos alunos estão disponíveis no link abaixo e serão
+atualizadas durante o curso:
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
@@ -133,7 +153,9 @@ width="100%" height="300"></iframe>
 
 ###1. Distribuição de notas
 
-O gráfico abaixo apresenta a distribuição da média final da turma. O eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y contém o número de alunos com média final dentro das faixas.
+O gráfico abaixo apresenta a distribuição da média final da turma. O
+eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
+contém o número de alunos com média final dentro das faixas.
 
 <iframe seamless frameborder="0" scrolling="no"
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
@@ -160,27 +182,28 @@ width="100%" height="300"></iframe>
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Green, Douglass M. 1979. <i>Form in Tonal Music: An Introduction to Analysis</i>. Holt Rinehart and Winston.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Green, Douglass
+  M. 1979. <i>Form in Tonal Music: An Introduction to
+  Analysis</i>. Holt Rinehart and Winston.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Kohs, Ellis Bonoff. 1976. <i>Musical Form: Studies in Analysis and Synthesis</i>. Boston: Houghton Mifflin.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kohs, Ellis
+  Bonoff. 1976. <i>Musical Form: Studies in Analysis and
+  Synthesis</i>. Boston: Houghton Mifflin.  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Kostka, Stefan M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Kostka, Stefan
+  M., and Dorothy Payne. 1995. <i>Tonal Harmony, with an Introduction
+  to Twentieth-Century Music</i>. 3rd ed. New York, NY: McGraw-Hill.
+  </p>
 
-<p style="margin-left: 24pt; text-indent: -24.0pt;">
-  Zamacois, Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos Musicales</i>. Barcelona: Editorial Labor.
-</p>
+<p style="margin-left: 24pt; text-indent: -24.0pt;"> Zamacois,
+  Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
+  Musicales</i>. Barcelona: Editorial Labor.  </p>
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 
