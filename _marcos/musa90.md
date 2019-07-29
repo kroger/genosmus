@@ -41,27 +41,25 @@ A cada duas semanas o estudante deverá realizar análise de uma obra definida p
 
 ###1. Seminário
 
-Os estudantes deverão formar duplas e escolher, com orientação do professor, uma técnica analítica não abordada em aula ou aprofundar uma técnica abordada, apresentando princípios e aplicação. A apresentação é conjunta, mas a nota, individual.
+Os estudantes deverão formar duplas e apresentar um seminário sobre
+uma técnica analítica não abordada em aula ou um aspecto aprofundado
+de uma técnica analítica abordada em aula. O tema escolhido deverá ser
+previamente autorizado pelo professor. A apresentação é conjunta, mas
+a nota, individual.
 
 ####1. Duplas
 
 [Em construção]
 
-| Data | Equipe | Tema  |
-|---|---|---|
-| 30/10/18 | Victor | Algo com conjuntos ou serialismo |
-| 20/11/18 | Sidnei | Análise gestual |
-| 20/11/18 | Jordan | Serialismo |
-| 27/11/18 | Roberto | A definir |
-| 27/11/18 | George | A definir |
-| 04/12/18 | Diego | A definir |
-| 04/12/18 | Peter | MIR |
-
-###1. Extra
-
-Trabalho solicitado por Menahem:
-
-Escrever o ritmo determinado pela série 1 B 8 A 5 9 6 4 2 3 7 C, na qual 1 representa uma semicolcheia, 2 uma colcheia e assim por diante. Ver a sessão de 'serialismo rítmico' da [dissertação de Vinicius Amaro](https://mega.nz/#!fWgjVL6a!7Wv5g10SGI7pwngMvTTuYfNN3VdYwUbkVJDR_CmW6xo) em caso de dúvida.  
+<!-- | Data     | Equipe  | Tema                             | -->
+<!-- |----------|---------|----------------------------------| -->
+<!-- | 30/10/18 | Victor  | Algo com conjuntos ou serialismo | -->
+<!-- | 20/11/18 | Sidnei  | Análise gestual                  | -->
+<!-- | 20/11/18 | Jordan  | Serialismo                       | -->
+<!-- | 27/11/18 | Roberto | A definir                        | -->
+<!-- | 27/11/18 | George  | A definir                        | -->
+<!-- | 04/12/18 | Diego   | A definir                        | -->
+<!-- | 04/12/18 | Peter   | MIR                              | -->
 
 ##1. Notas e frequência
 
