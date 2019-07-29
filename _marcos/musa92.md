@@ -76,17 +76,16 @@ width="100%" height="300"></iframe>
 Valor: 50%
 
 Os trabalhos deverão ser entregues via formulário.
-  
-<!--
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em
-    25/09/2018
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em
-23/10/2018 -->
 
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em
-    16/04/2019
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em
-    14/05/2019
+<!-- FIXME: substituir por essas linhas ao liberar   -->
+<!-- - [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em -->
+<!--     10/09/2019 -->
+<!-- - [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em -->
+<!--     01/10/2019 -->
+
+- Trabalho 1. Entrega em 10/09/2019
+- Trabalho 2. Entrega em 01/10/2019
+
 
 ###1. Seminários
 
