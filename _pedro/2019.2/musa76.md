@@ -46,7 +46,7 @@ para me procurar; depois disso a nota não será modificada.
 - Bach - A Arte da Fuga [Partitura][8]
 - Bach - Oferenda Musical [Partitura][10]
 
-Prova de Audição:
+### Prova de Audição
 
 - [Lista de obras](/pedro/lista-prova-audicao-lem8/)
 - [Gravações para a prova de audição][11]
@@ -114,15 +114,19 @@ Dez 05 | *Correções e segunda chamada*
 ## Notas
 
 | Nome               | PR | PC | AO | SE | Nota |
-|:-------------------|:---|:---|:---|:---|:-----|
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
-|                    |    |    |    |    | =sum |
+| :----------------- | :- | :- | :- | :- | :--- |
+| Cleiane Nunes      |    |    |    |    | =sum |
+| Cristiano Wilson   |    |    |    |    | =sum |
+| Danilo Marins      |    |    |    |    | =sum |
+| Gabriel Vieira     |    |    |    |    | =sum |
+| Gleidiane Macedo   |    |    |    |    | =sum |
+| Jean Prado         |    |    |    |    | =sum |
+| Leandro Sukevicius |    |    |    |    | =sum |
+| Núbia Modolon      |    |    |    |    | =sum |
+| Peter Marques      |    |    |    |    | =sum |
+| Renato Santana     |    |    |    |    | =sum |
+| Roberto Intelisano |    |    |    |    | =sum |
+| Victor De Oliveira |    |    |    |    | =sum |
 {: .table .table-sm}
 
 
