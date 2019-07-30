@@ -62,3 +62,14 @@ Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
 para me procurar; depois disso a nota não será modificada.
 
+
+## Notas
+
+| Nome              | Nota |
+|:------------------|:-----|
+| Diego Neves       |      |
+| George Cristian   |      |
+| Jordan Hohenfeld  |      |
+| Peter Marques     |      |
+| Sidnei Marques    |      |
+{: .table .table-sm}
