@@ -55,12 +55,12 @@ Out 02 | Música vocal
 Out 09 | <del>Trabalho em casa</del>
 Out 16 | Música vocal
 Out 23 | **Entrega do trabalho 4** (1.25 pontos)
-Out 30 | 
-Nov 06 | Análise de obras
-Nov 13 | **Entrega do trabalho 5** (1.25 pontos)
-Nov 20 | Análise de obras
-Nov 27 | **Entrega do trabalho final** (2.5 pontos)
-Dez 04 | Análise de obras
+Out 30 | Análise de obras
+Nov 06 | **Entrega do trabalho 5** (1.25 pontos)
+Nov 13 | Análise de obras
+Nov 20 | **Entrega do trabalho final** (2.5 pontos)
+Nov 27 | Análise de obras
+Dez 04 | *Entrega de resultados (online)*
 {: .table .table-sm}
 
 
