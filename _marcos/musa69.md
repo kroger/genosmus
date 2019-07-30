@@ -141,8 +141,9 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP (buscar informações a respeito no Google). 
-Caso algum link esteja quebrado, buscar direto no IMSLP e informar o professor. 
+O material para análise está inteiramente disponível no site do IMSLP
+(buscar informações a respeito no Google).  Caso algum link esteja
+quebrado, buscar direto no IMSLP e informar o professor.
 
 [Em construção]
 
@@ -238,9 +239,9 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 

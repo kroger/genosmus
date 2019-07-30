@@ -12,7 +12,8 @@ tecnologia digital aplicadas à música. Desenvolvimento de habilidades
 na utilização dessas ferramentas.
 
 ##1. Objetivos
-Fornecer conhecimento básico de softwares necessários ao estudante de música.
+Fornecer conhecimento básico de softwares necessários ao estudante de
+música.
 
 ##1. Conteúdo programático
 
@@ -65,7 +66,7 @@ O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzXclx-R5qRpq_u3HwDIP-xRpUs32IeA0hued0P5UcErSJs5L1lzLnXkvVcQieWONEQ392GHbHyM6V/pubhtml?gid=591909002&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzXclx-R5qRpq_u3HwDIP-xRpUs32IeA0hued0P5UcErSJs5L1lzLnXkvVcQieWONEQ392GHbHyM6V/pubhtml?gid=924153734&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe>
 
 ##1. Trabalhos
@@ -75,14 +76,16 @@ width="100%" height="300"></iframe>
 Valor: 50%
 
 Os trabalhos deverão ser entregues via formulário.
-  
-<!--
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 25/09/2018
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 23/10/2018
--->
 
-  * [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 16/04/2019
-  * [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em 14/05/2019
+<!-- FIXME: substituir por essas linhas ao liberar   -->
+<!-- - [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em -->
+<!--     10/09/2019 -->
+<!-- - [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em -->
+<!--     01/10/2019 -->
+
+- Trabalho 1. Entrega em 10/09/2019
+- Trabalho 2. Entrega em 01/10/2019
+
 
 ###1. Seminários
 
@@ -103,44 +106,58 @@ individual.
   6. Ferramentas de pesquisa acadêmica (bibliografia, texto, etc.)
   7. Criação de página na internet (WordPress, etc.)
 
-####1. Trios e duos
+####1. Equipes
 
 Temas, integrantes e datas de apresentação
 
-| Data     | Equipe                 | Tema                  |
-|:---------|:-----------------------|:----------------------|
-| 14/05/19 | William                | Dispositivos móveis   |
-| 21/05/19 | André                  | Lilypond              |
-| 28/05/19 | Vicente e Miguel       | Apps de percepção     |
-| 04/06/19 | Tiago, Wesley e Samuel | Apps para performance |
-{: .table .table-sm }
+[Em construção]
+
+<!-- | Data     | Equipe                 | Tema                  | -->
+<!-- |:---------|:-----------------------|:----------------------| -->
+<!-- | 14/05/19 | William                | Dispositivos móveis   | -->
+<!-- | 21/05/19 | André                  | Lilypond              | -->
+<!-- | 28/05/19 | Vicente e Miguel       | Apps de percepção     | -->
+<!-- | 04/06/19 | Tiago, Wesley e Samuel | Apps para performance | -->
+<!-- {: .table .table-sm } -->
 
 ##1. Notas e frequência
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1244464699&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
-
 
 ###1. Gráficos de desempenho da turma
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=1269582914&amp;format=interactive"
- width="100%" height="400" frameborder="0" scrolling="no" seamless=""></iframe>
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=1269582914&amp;format=interactive"
+width="100%" height="400" frameborder="0" scrolling="no"
+seamless=""></iframe>
 
 ##1. Bibliografia
 
 ###1. Básica
 
-- Wikipedia. Music Software. Disponível em [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso em 02/05/2018.
-- Wikipedia. Web Search Engine. Disponível em [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso em 02/05/2018.
-- Wikipedia. Backup. Disponível em [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso em 02/05/2018.
+- Wikipedia. Music Software. Disponível em
+  [https://en.wikipedia.org/wiki/Music_software](https://en.wikipedia.org/wiki/Music_software). Acesso
+  em 02/05/2018.
+- Wikipedia. Web Search Engine. Disponível em
+  [https://en.wikipedia.org/wiki/Web_search_engine](https://en.wikipedia.org/wiki/Web_search_engine). Acesso
+  em 02/05/2018.
+- Wikipedia. Backup. Disponível em
+  [https://en.wikipedia.org/wiki/Backup](https://en.wikipedia.org/wiki/Backup). Acesso
+  em 02/05/2018.
 
 ###1. Complementar
 
-- Wikipedia. Academic Search. Disponível em [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso em 02/05/2018.
-- Wikipedia. Cloud computing. Disponível em [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso em 02/05/2018.
-- Wikipedia. Mobile app. Disponível em [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso em 02/05/2018.
+- Wikipedia. Academic Search. Disponível em
+  [https://en.wikipedia.org/wiki/Academic_Search](https://en.wikipedia.org/wiki/Academic_Search). Acesso
+  em 02/05/2018.
+- Wikipedia. Cloud computing. Disponível em
+  [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing). Acesso
+  em 02/05/2018.
+- Wikipedia. Mobile app. Disponível em
+  [https://en.wikipedia.org/wiki/Mobile_app](https://en.wikipedia.org/wiki/Mobile_app). Acesso
+  em 02/05/2018.
 
 
 ##1. Links
@@ -149,10 +166,14 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac
 - [CPDL](http://cpdl.org/) - Repositório de partituras musicais vocais
 - [Google Acadêmico](https://scholar.google.com.br/)
 - [Portal de Periódicos da CAPES](http://www.periodicos.capes.gov.br/)
-- [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao Google
-- [Note Flight](https://www.noteflight.com/home) - Editor de partituras online
-- [MuseScore](https://musescore.org/) - Editor de partituras gratuito e multiplataforma
-- [Exemplo Lilypond](http://lilybin.com/plkhuu/1) - Exemplo de código para gerar partitura e partes no Lilypond
+- [DuckDuckGo](http://duckduckgo.com/) - Site de buscas alternativo ao
+  Google
+- [Note Flight](https://www.noteflight.com/home) - Editor de
+  partituras online
+- [MuseScore](https://musescore.org/) - Editor de partituras gratuito
+  e multiplataforma
+- [Exemplo Lilypond](http://lilybin.com/plkhuu/1) - Exemplo de código
+  para gerar partitura e partes no Lilypond
 
 Os demais links da disciplina estão disponíveis no <a title="Links da
 disciplina MUSA92"
@@ -161,9 +182,9 @@ target="_blank" rel="noopener noreferrer">Diigo</a>.
 
 ##1. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, 
-em horário comercial. Assuntos acadêmicos não são tratados por telefone
-ou mensagens em nenhuma hipótese.
+O único meio adicional de comunicação autorizado pelo professor é o
+email, em horário comercial. Assuntos acadêmicos não são tratados por
+telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 
