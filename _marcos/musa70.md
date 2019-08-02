@@ -145,20 +145,20 @@ levados impressos para a aula.
 
 ####1. 1. Análise harmônica e formal (frases)
 
-Aula 1, dia 21/08/2018
+Aula 1, dia 06/08/2019
 
 - Mozart K284, mov. 3, tema
 
 ####1. 2. Tonicização e modulação
 
-Aula 6, dia 05/09/2018
+Aula 6, dia 22/08/2019
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
 
 ####1. 3. Análise harmônica e formal (combinação de frases)
 
-Aula 10, dia 20/09/2018
+Aula 10, dia 05/09/2019
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K284, mov. 3, tema
@@ -166,30 +166,29 @@ Aula 10, dia 20/09/2018
 
 ####1. 4. Modulação
 
-Aulas 11 a 16, dias 25 e 27/09, 02, 09, 11 e 23/10/2018
+Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 
-*Apenas a primeira página em todas as peças*, exceto na de Clementi
-
-- Kuhlau, Op. 59, n. 1, mov. 1
-- Clementi, Op. 1, n. 5 (duas primeiras páginas)
-- Haydn Sonata em Si menor
-- Mozart K545, mov. 1
-- Mozart K333, mov. 1
-- Mozart K280, mov. 1
-
-Obs: prioridade aula 11: Kuhlau, Clementi e K545
-
-Peças adicionais
+*Apenas a primeira página*, exceto nas peças em
+ que há indicação de duas páginas. 
 
 - Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
 - Beethoven Op. 10, n. 1, mov. 1
+- Clementi, Op. 1, n. 5 (duas primeiras páginas)
 - Haydn XVI/34 N. 47 Mi menor, mov. 1
+- Kuhlau, Op. 59, n. 1, mov. 1
+- Haydn Sonata em Si menor
+- Mozart K280, mov. 1
 - Mozart K310, mov. 1
+- Mozart K333, mov. 1
+- Mozart K545, mov. 1
 - Mozart K570, mov. 1
+
+Obs: prioridade aula 11: Kuhlau, Clementi e K545
+
 
 ####1. 5. Análise harmônica e formal (formas compostas)
 
-Aula 17, dia 30/10/2018
+Aula 20, dia 10/10/2019
 
 - Mozart K330, mov. 2 (todo o movimento)
 
