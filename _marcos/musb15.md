@@ -311,6 +311,9 @@ width="100%" height="300"></iframe>
 1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A
    Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa:
    WM. C. Brown Company.
+1. Jeppesen, Knud. 1939. “Free Two-Part Counterpoint.” In Counterpoint:
+   The Polyphonic Vocal Style of the Sixteenth Century, 152–62.
+   Englewood Cliffs, N.J: Prentice-Hall.
 1. Kostka, Stefan M. 2006. Materials and Techniques of
    Twentieth-Century Music. 3rd ed. Prentice Hall.
 1. Moraes, Tharcisio, e Marcos Sampaio. 2015. "[Relações de contornos
