@@ -111,6 +111,14 @@ width="100%" height="300"></iframe>
 1. Gerling, Cristina Capparelli. 1989. “A Teoria de Heinrich Schenker:
    uma Breve Introdução.” *Em Pauta* 1 (1): 22–34.
 
+1. Sampaio, Marcos da Silva. 2012. “A Teoria de Relações de Contornos
+   Musicais: Inconsistências, Soluções e Ferramentas.” Tese de
+   Doutorado. Universidade Federal da Bahia.
+
+1. Sampaio, Marcos da Silva. 2017. “A Teoria de Relações de Contornos 
+   no Brasil.” In *Teoria e Análise Musical em Perspectiva Didática*, 
+   123–38. Salvador, BA: EDUFBA.
+
 1. Schmalfeldt, Janet. 1985. “On the Relation of Analysis to
    Performance: Beethoven’s ‘Bagatelles’ Op. 126, Nos. 2 and 5.”
    *Journal of Music Theory* 29 (1): 1–31.
