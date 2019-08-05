@@ -214,6 +214,7 @@ width="100%" height="300"></iframe>
 ##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
  - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
  - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)

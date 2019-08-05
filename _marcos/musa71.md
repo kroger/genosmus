@@ -357,6 +357,10 @@ Schirmer.
 ##1. Links
 
  - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
+ - [EK11](https://www.dropbox.com/s/j9krkhmz3hced95/ek11.pdf?dl=0)
+ - [EK12](https://www.dropbox.com/s/1a23gik9a6ue3a1/ek12.pdf?dl=0)
+ - [EK13](https://www.dropbox.com/s/06i481dwzoql1f1/ek13.pdf?dl=0)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
  - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
  - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf) (15MB)
