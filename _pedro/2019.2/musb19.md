@@ -20,7 +20,7 @@ eventualidade.
 
 | Data   | Conteúdo                           |
 | --     | --                                 |
-| Ago 13 | Acompanhamento da composição       |
+| Ago 13 | <del>Paralisação Nacional</del>    |
 | Ago 20 | Acompanhamento da composição       |
 | Ago 27 | Acompanhamento da composição       |
 | Set 03 | Acompanhamento da composição       |

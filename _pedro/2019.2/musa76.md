@@ -75,8 +75,8 @@ eventualidade.
 
 | Data   | Conteúdo                                                             |
 | -----  | ---                                                                  |
-| Ago 13 | Introdução ao curso e Análise de Spem in Alium, T. Tallis            |
-| Ago 15 | Análise de Spem in Alium, T. Tallis                                  |
+| Ago 13 | <del>Paralisação nacional</del>                                      |
+| Ago 15 | Introdução ao curso e Análise de Spem in Alium, T. Tallis            |
 | Ago 20 | Análise da Sinfonia no. 1, Brahms, **Mini-trabalho 1**               |
 | Ago 22 | Análise da Sinfonia no. 1, Brahms                                    |
 | Ago 27 | Análise da Sinfonia no. 1, Brahms                                    |
