@@ -131,8 +131,8 @@ eventualidade.
 {: .table .table-sm}
 
 
-[1]: https://www.dropbox.com/s/i7bt27hm0wffoif/Thomas%20Tallis%20-%20Spem%20in%20alium.mp3?dl=0
-[2]: https://www.dropbox.com/s/5zmcywht152nn4w/Thomas%20Tallis%20-%20Spem%20in%20alium.pdf?dl=0
+[1]: https://www.dropbox.com/s/8ysu9t77g5d0rcj/Spem%20in%20Alium%20-%20Audio.m4a?dl=0
+[2]: https://www.dropbox.com/s/ip6ni4wun5ciigt/Spem%20in%20Alium%20-%20Partitura.pdf?dl=0
 [3]: https://www.dropbox.com/s/dgqftf0c5hhbytf/Brahms%20-%20Sinfonia%201.m4a?dl=0
 [4]: https://www.dropbox.com/s/9mh54tjm6bt8j7i/Brahms%20-%20Sinfonia%201.pdf?dl=0
 [5]: https://www.dropbox.com/s/le8vrrys4s528ga/Rimsky-Korsakov%20-%20Sheherazade%20-%20Orquestra.m4a?dl=0
