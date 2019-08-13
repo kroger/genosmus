@@ -70,9 +70,9 @@ eventualidade.
 | Ago 14 | Análise de acordes                                   |
 | Ago 21 | Análise de acordes                                   |
 | Ago 28 | **Entrega do trabalho 1** (1.25 pontos)              |
-| Set 04 | Aula Kedson:                                         |
+| Set 04 | Aula Kedson: Combinações timbrísticas                |
 | Set 11 | Aula Kedson: **Entrega do trabalho 2** (1.25 pontos) |
-| Set 18 | Aula Kedson:                                         |
+| Set 18 | Aula Kedson: Densidade e contraste orquestral        |
 | Set 25 | Aula Kedson: **Entrega do trabalho 3** (1.25 pontos) |
 | Out 02 | Música vocal                                         |
 | Out 09 | <del>Trabalho em casa</del>                          |
