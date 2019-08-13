@@ -42,10 +42,9 @@ eventualidade.
 ## Avaliação
 
 A nota final será determinada pela banca composta por três
-professores, contudo, a minha nota na banca será composta soma dos
-relatórios orais. Para os relatórios e a apresentação você deve
-entregar um pdf da partitura e um mp3 com a performance MIDI (Finale,
-Sibelius, etc)
+professores. Para os relatórios e a apresentação você deve entregar um
+pdf da partitura e um mp3 com a performance MIDI (Finale, Sibelius,
+etc).
 
 O trecho da obra final deverá ter no mínimo 20 minutos de duração e
 usar ao menos a seguinte formação: 1 solista vocal, coro, madeiras
@@ -64,11 +63,6 @@ UFBA).
 
 Crie o hábito de fazer backup dos seus trabalhos e projetos. Não será
 aceita a perda de dados como desculpa para dilatar o prazo de entrega.
-
-Se você acha que eu cometi algum erro na pontuação de algum trabalho,
-você tem uma semana contando a partir da data de entrega do trabalho
-para me procurar; depois disso a nota não será modificada.
-
 
 ## Notas
 
