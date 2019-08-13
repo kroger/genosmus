@@ -79,12 +79,12 @@ Os trabalhos deverão ser entregues via formulário.
 
 <!-- FIXME: substituir por essas linhas ao liberar   -->
 <!-- - [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em -->
-<!--     10/09/2019 -->
+<!--     17/09/2019 -->
 <!-- - [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em -->
-<!--     01/10/2019 -->
+<!--     08/10/2019 -->
 
-- Trabalho 1. Entrega em 10/09/2019
-- Trabalho 2. Entrega em 01/10/2019
+- Trabalho 1. Entrega em 17/09/2019
+- Trabalho 2. Entrega em 08/10/2019
 
 
 ###1. Seminários
