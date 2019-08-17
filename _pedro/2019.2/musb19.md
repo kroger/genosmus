@@ -29,7 +29,7 @@ eventualidade.
 | Set 24 | Acompanhamento da composição       |
 | Out 01 | Acompanhamento da composição       |
 | Out 08 | <del>Trabalho em casa</del>        |
-| Out 15 | Acompanhamento da composição       |
+| Out 15 | <del>Dia do Professor</del>        |
 | Out 22 | Acompanhamento da composição       |
 | Out 29 | Acompanhamento da composição       |
 | Nov 05 | Acompanhamento da composição       |

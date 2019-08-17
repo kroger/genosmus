@@ -86,18 +86,18 @@ eventualidade.
 | Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**        |
 | Set 12 | Análise de Scheherazade, Rimsky-Korsakov                             |
 | Set 17 | <del>Não haverá aula</del>                                           |
-| Set 19 |                                                                      |
-| Set 24 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
+| Set 19 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
+| Set 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
 | Set 26 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
 | Out 01 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
-| Out 03 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
+| Out 03 | Introdução a Harmonia do séc. XIX                                    |
 | Out 08 | <del>Trabalho em casa</del>                                          |
 | Out 10 | <del>Trabalho em casa</del>                                          |
 | Out 15 | <del>Dia do Professor</del>                                          |
-| Out 17 | Introdução a Harmonia do séc. XIX                                    |
+| Out 17 | Harmonia do séc. XIX                                                 |
 | Out 22 | Harmonia do séc. XIX                                                 |
-| Out 24 | Harmonia do séc. XIX                                                 |
-| Out 29 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
+| Out 24 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
+| Out 29 | <del>Congresso da UFBA</del>                                         |
 | Out 31 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
 | Nov 05 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
 | Nov 07 | Tirar dúvidas para os seminários                                     |

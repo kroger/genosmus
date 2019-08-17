@@ -78,7 +78,7 @@ eventualidade.
 | Out 09 | <del>Trabalho em casa</del>                          |
 | Out 16 | Música vocal                                         |
 | Out 23 | **Entrega do trabalho 4** (1.25 pontos)              |
-| Out 30 | Análise de obras                                     |
+| Out 30 | <del>Congresso da UFBA</del>                         |
 | Nov 06 | **Entrega do trabalho 5** (1.25 pontos)              |
 | Nov 13 | Análise de obras                                     |
 | Nov 20 | **Entrega do trabalho final** (2.5 pontos)           |
