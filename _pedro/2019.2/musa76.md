@@ -86,20 +86,20 @@ eventualidade.
 | Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**        |
 | Set 12 | Análise de Scheherazade, Rimsky-Korsakov                             |
 | Set 17 | <del>Não haverá aula</del>                                           |
-| Set 19 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
-| Set 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
-| Set 26 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
-| Out 01 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 3**       |
-| Out 03 | Introdução a Harmonia do séc. XIX                                    |
+| Set 19 | Introdução a Harmonia do séc. XIX                                    |
+| Set 24 | Harmonia do séc. XIX                                                 |
+| Set 26 | Harmonia do séc. XIX                                                 |
+| Out 01 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
+| Out 03 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 08 | <del>Trabalho em casa</del>                                          |
 | Out 10 | <del>Trabalho em casa</del>                                          |
 | Out 15 | <del>Dia do Professor</del>                                          |
-| Out 17 | Harmonia do séc. XIX                                                 |
-| Out 22 | Harmonia do séc. XIX                                                 |
-| Out 24 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
+| Out 17 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
+| Out 22 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
+| Out 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
 | Out 29 | <del>Congresso da UFBA</del>                                         |
-| Out 31 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
-| Nov 05 | Análise: Harmonia séc. XIX, **Mini-trabalho 4**                      |
+| Out 41 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
+| Nov 05 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
 | Nov 07 | Tirar dúvidas para os seminários                                     |
 | Nov 12 | **Seminários:** A Sinfonia no século XIX                             |
 | Nov 14 | **Seminários:** O Concerto no século XIX                             |
