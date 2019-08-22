@@ -151,7 +151,7 @@ Aula 1, dia 06/08/2019
 
 ####1. 2. Tonicização e modulação
 
-Aula 6, dia 22/08/2019
+Aula 7, dia 27/08/2019 (ajustado)
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
@@ -169,7 +169,7 @@ Aula 10, dia 05/09/2019
 Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 
 *Apenas a primeira página*, exceto nas peças em
- que há indicação de duas páginas. 
+ que há indicação de duas páginas.
 
 - Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
 - Beethoven Op. 10, n. 1, mov. 1
