@@ -143,7 +143,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 Partituras a serem usadas nas aulas. Todos os itens deverão ser
 levados impressos para a aula.
 
-####1. 1. Análise harmônica e formal (frases)
+####1. Análise harmônica e formal (frases)
 
 Aula 1, dia 06/08/2019
 
@@ -164,7 +164,7 @@ Aula 11, dia 05/09/2019 (prova)
 - Mozart K284, mov. 3, tema
 - Mozart K545, mov. 1 (apenas primeira página) -->
 
-####1. 4. Modulação
+####1. Modulação
 
 Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 
