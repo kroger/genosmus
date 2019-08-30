@@ -149,20 +149,20 @@ Aula 1, dia 06/08/2019
 
 - Mozart K284, mov. 3, tema
 
-####1. 2. Tonicização e modulação
+<!-- ####1. 2. Tonicização e modulação
 
-Aula 7, dia 27/08/2019 (ajustado)
+Aula 7, dia 27/08/2019 (aula suspensa)
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
 
 ####1. 3. Análise harmônica e formal (combinação de frases)
 
-Aula 10, dia 05/09/2019
+Aula 11, dia 05/09/2019 (prova)
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K284, mov. 3, tema
-- Mozart K545, mov. 1 (apenas primeira página)
+- Mozart K545, mov. 1 (apenas primeira página) -->
 
 ####1. 4. Modulação
 
@@ -173,14 +173,16 @@ Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 
 - Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
 - Beethoven Op. 10, n. 1, mov. 1
+- Clementi Op. 36, n. 3, mov. 1
 - Clementi, Op. 1, n. 5 (duas primeiras páginas)
 - Haydn XVI/34 N. 47 Mi menor, mov. 1
 - Kuhlau, Op. 59, n. 1, mov. 1
 - Haydn Sonata em Si menor
 - Mozart K280, mov. 1
+- Mozart K284, mov. 3, tema
 - Mozart K310, mov. 1
 - Mozart K333, mov. 1
-- Mozart K545, mov. 1
+- Mozart K545, mov. 1 (pp. 1 e 2)
 - Mozart K570, mov. 1
 
 Obs: prioridade aula 11: Kuhlau, Clementi e K545
