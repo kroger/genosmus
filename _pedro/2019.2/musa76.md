@@ -114,20 +114,20 @@ eventualidade.
 
 ## Notas
 
-| Nome               | PR | PC | AO | SE | Nota |
-| :----------------- | :- | :- | :- | :- | :--- |
-| Cleiane Nunes      |    |    |    |    | =sum |
-| Cristiano Wilson   |    |    |    |    | =sum |
-| Danilo Marins      |    |    |    |    | =sum |
-| Gabriel Vieira     |    |    |    |    | =sum |
-| Gleidiane Macedo   |    |    |    |    | =sum |
-| Jean Prado         |    |    |    |    | =sum |
-| Leandro Sukevicius |    |    |    |    | =sum |
-| Núbia Modolon      |    |    |    |    | =sum |
-| Peter Marques      |    |    |    |    | =sum |
-| Renato Santana     |    |    |    |    | =sum |
-| Roberto Intelisano |    |    |    |    | =sum |
-| Victor De Oliveira |    |    |    |    | =sum |
+| Nome               | PR   | PC | AO | SE | Nota |
+| :----------------- | :-   | :- | :- | :- | :--- |
+| Cleiane Nunes      | 1.25 |    |    |    | =sum |
+| Cristiano Wilson   | 1.25 |    |    |    | =sum |
+| Danilo Marins      | 1.25 |    |    |    | =sum |
+| Gabriel Vieira     | 0.00 |    |    |    | =sum |
+| Gleidiane Macedo   | 1.25 |    |    |    | =sum |
+| Jean Prado         | 1.25 |    |    |    | =sum |
+| Leandro Sukevicius | 1.25 |    |    |    | =sum |
+| Núbia Modolon      | 1.25 |    |    |    | =sum |
+| Peter Marques      | 1.25 |    |    |    | =sum |
+| Renato Santana     | 1.25 |    |    |    | =sum |
+| Roberto Intelisano | 1.25 |    |    |    | =sum |
+| Victor De Oliveira | 0.00 |    |    |    | =sum |
 {: .table .table-sm}
 
 

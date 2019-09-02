@@ -143,44 +143,46 @@ O material para análise está inteiramente disponível no site do IMSLP
 Partituras a serem usadas nas aulas. Todos os itens deverão ser
 levados impressos para a aula.
 
-####1. 1. Análise harmônica e formal (frases)
+####1. Análise harmônica e formal (frases)
 
 Aula 1, dia 06/08/2019
 
 - Mozart K284, mov. 3, tema
 
-####1. 2. Tonicização e modulação
+<!-- ####1. 2. Tonicização e modulação
 
-Aula 6, dia 22/08/2019
+Aula 7, dia 27/08/2019 (aula suspensa)
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K545, mov. 1 (apenas primeira página)
 
 ####1. 3. Análise harmônica e formal (combinação de frases)
 
-Aula 10, dia 05/09/2019
+Aula 11, dia 05/09/2019 (prova)
 
 - Clementi Op. 36, n. 3, mov. 1
 - Mozart K284, mov. 3, tema
-- Mozart K545, mov. 1 (apenas primeira página)
+- Mozart K545, mov. 1 (apenas primeira página) -->
 
-####1. 4. Modulação
+####1. Modulação
 
 Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 
 *Apenas a primeira página*, exceto nas peças em
- que há indicação de duas páginas. 
+ que há indicação de duas páginas.
 
 - Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
 - Beethoven Op. 10, n. 1, mov. 1
+- Clementi Op. 36, n. 3, mov. 1
 - Clementi, Op. 1, n. 5 (duas primeiras páginas)
 - Haydn XVI/34 N. 47 Mi menor, mov. 1
 - Kuhlau, Op. 59, n. 1, mov. 1
 - Haydn Sonata em Si menor
 - Mozart K280, mov. 1
+- Mozart K284, mov. 3, tema
 - Mozart K310, mov. 1
 - Mozart K333, mov. 1
-- Mozart K545, mov. 1
+- Mozart K545, mov. 1 (pp. 1 e 2)
 - Mozart K570, mov. 1
 
 Obs: prioridade aula 11: Kuhlau, Clementi e K545
