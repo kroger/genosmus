@@ -61,9 +61,9 @@ para me procurar; depois disso a nota não será modificada.
 ## Trabalhos
 
 - Trabalho 1: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
+- Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
 
 <!--
-- Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
 - Trabalho 3: [Fuga](/pedro/trabalho-fuga/)
 -->
 
