@@ -21,11 +21,15 @@ Instrumentação e Orquestração III.
 
 ## Trabalhos
 
-- Trabalho 1: Orquestrar os acordes abaixo para orquestra completa
+- **Trabalho 1**: Orquestrar os acordes abaixo para orquestra completa
 levando em conta a dinâmica indicada. Fazer **duas versões** de cada
 acorde.
 
   ![](/trabalho-acordes.png)
+
+- **Trabalho 2**: Orquestrar o trecho inicial da música Asa Branca,
+levando em consideração as estratégias de combinação timbrística
+abordadas em sala de aula. [Arquivo com instruções](/trabalho-asa-branca.pdf)
 
 <!--
 - Trabalho 2: Orquestrar dois trechos da Sonata 26 de Beethoven: do
