@@ -228,7 +228,9 @@ width="100%" height="300"></iframe>
 <!-- A composição final deverá ter duração de 5 a 7 minutos e formação -->
 <!-- equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas). -->
 
-<!-- ##1. Análise -->
+##1. Análise
+
+- Brahms. Töne, lindernder Klang. Woo 28. [pdf](http://imslp.simssa.ca/files/imglnks/usimg/0/0d/IMSLP102716-PMLP210137-Brahms_Werke_Band_21_Breitkopf_JB_121_WoO_28_scan.pdf)
 
 <!-- Ao longo do semestre as obras listadas serão analisadas em conjunto -->
 <!-- durante as aulas: -->
