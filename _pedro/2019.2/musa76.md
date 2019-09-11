@@ -62,6 +62,7 @@ para me procurar; depois disso a nota não será modificada.
 
 - Trabalho 1: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
 - Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
+- Trabalho (sem nota): Analisar a obra: [Partitura][12]
 
 <!--
 - Trabalho 3: [Fuga](/pedro/trabalho-fuga/)
@@ -85,7 +86,7 @@ eventualidade.
 | Set 05 | Análise, Quarteto no. 1, Brahms                                      |
 | Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**        |
 | Set 12 | Análise de Scheherazade, Rimsky-Korsakov                             |
-| Set 17 | <del>Não haverá aula</del>                                           |
+| Set 17 | <del>Não haverá aula</del> (análise de obra)                         |
 | Set 19 | Introdução a Harmonia do séc. XIX                                    |
 | Set 24 | Harmonia do séc. XIX                                                 |
 | Set 26 | Harmonia do séc. XIX                                                 |
@@ -142,6 +143,7 @@ eventualidade.
 [9]: http://#
 [10]: https://www.dropbox.com/s/hu8awmglpq1yupp/Bach%20-%20Oferenda%20Musical.pdf?dl=0
 [11]: https://www.dropbox.com/s/hdwdp46kf1t9bvn/Musicas%20Audicao.zip?dl=0
+[12]: https://www.dropbox.com/s/opnarcabkgnc56w/musica.pdf?dl=0
 
 <!--
 Local variables:
