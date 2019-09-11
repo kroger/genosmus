@@ -21,15 +21,13 @@ Instrumentação e Orquestração III.
 
 ## Trabalhos
 
-- **Trabalho 1**: Orquestrar os acordes abaixo para orquestra completa
+- **Trabalho 1**: Orquestrar para orquestra completa os acordes
 levando em conta a dinâmica indicada. Fazer **duas versões** de cada
-acorde.
-
-  ![](/trabalho-acordes.png)
+acorde. [Arquivo com acordes][12].
 
 - **Trabalho 2**: Orquestrar o trecho inicial da música Asa Branca,
 levando em consideração as estratégias de combinação timbrística
-abordadas em sala de aula. [Arquivo com instruções](/trabalho-asa-branca.pdf)
+abordadas em sala de aula. [Arquivo com instruções][22].
 
 <!--
 - Trabalho 2: Orquestrar dois trechos da Sonata 26 de Beethoven: do
@@ -126,6 +124,8 @@ pdf do trabalho com uma gravação midi (Finale) em mp3.
 [9]: https://www.dropbox.com/s/zrrqe7kbrw33yx2/Trabalho%205.pdf?dl=1
 [10]: https://www.dropbox.com/s/phrzbwkrwn00ptd/Villa-Lobos%20Preludio%201.pdf?dl=1
 [11]: https://www.dropbox.com/s/ef57g844lh2wlkg/Villa-Lobos%20Preludio%201.mp3?dl=1
+[12]: https://www.dropbox.com/s/nje0q5zh9g8az74/Trabalho%20Acordes.pdf?dl=0
 
 [20]: https://connect.issaquah.wednet.edu/high/ihs/staff/mr_longmans_orchestras/w/general_orchestra_information/2605/music-terms
 [21]: https://web.library.yale.edu/cataloging/music/instname
+[22]: https://www.dropbox.com/s/sbfqrc1u8x73tt2/trabalho-asa-branca.pdf?dl=0
