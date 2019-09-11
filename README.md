@@ -6,7 +6,7 @@ O site do [Genos](https://genosmus.com/) é desenvolvido usando o
 
 Os diretórios principais são:
 
-- **_pages**: As páginas principais do site como *index*, *ensino* e
+- **_paginas**: As páginas principais do site como *index*, *ensino* e
   *pesquisa* estão nesse diretório
 
 - **_marcos**: páginas com as disciplinas de Marcos. As disciplinas do
