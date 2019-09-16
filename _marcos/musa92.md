@@ -83,9 +83,8 @@ Os trabalhos deverão ser entregues via formulário.
 <!-- - [Trabalho 2](https://form.jotformz.com/80873206684665). Entrega em -->
 <!--     08/10/2019 -->
 
-- Trabalho 1. Entrega em 17/09/2019
+- [Trabalho 1](https://form.jotformz.com/80873765884677). Entrega em 24/09/2019
 - Trabalho 2. Entrega em 08/10/2019
-
 
 ###1. Seminários
 
