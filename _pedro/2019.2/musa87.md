@@ -99,17 +99,17 @@ pdf do trabalho com uma gravação midi (Finale) em mp3.
 ## Notas
 
 
-| Nome               | T1 | T2 | T3 | T4 | T5 | TF | Nota |
-|:-------------------|:---|:---|:---|:---|:---|:---|:-----|
-| Cristiano Wilson   |    |    |    |    |    |    | =sum |
-| Edinaldo De Paiva  |    |    |    |    |    |    | =sum |
-| Izabella Baldoíno  |    |    |    |    |    |    | =sum |
-| Laís Cavalcanti    |    |    |    |    |    |    | =sum |
-| Leandro Sukevicius |    |    |    |    |    |    | =sum |
-| Peter Marques      |    |    |    |    |    |    | =sum |
-| Roberto Intelisano |    |    |    |    |    |    | =sum |
-| Victor De Oliveira |    |    |    |    |    |    | =sum |
-| Zizimo Fonseca     |    |    |    |    |    |    | =sum |
+| Nome               | T1  | T2  | T3 | T4 | T5 | TF | Nota |
+|:-------------------|:----|:----|:---|:---|:---|:---|:-----|
+| Cristiano Wilson   | 1.5 | 1.5 |    |    |    |    | =sum |
+| Edinaldo De Paiva  | 1.0 | 1.5 |    |    |    |    | =sum |
+| Izabella Baldoíno  | 1.5 | 1.5 |    |    |    |    | =sum |
+| Laís Cavalcanti    | 1.5 | 1.5 |    |    |    |    | =sum |
+| Leandro Sukevicius | 1.5 | 1.5 |    |    |    |    | =sum |
+| Peter Marques      | 0.0 | 0.0 |    |    |    |    | =sum |
+| Roberto Intelisano | 1.5 | 1.5 |    |    |    |    | =sum |
+| Victor De Oliveira | 1.5 | 0.0 |    |    |    |    | =sum |
+| Zizimo Fonseca     | 1.0 | 1.5 |    |    |    |    | =sum |
 {: .table .table-sm }
 
 
