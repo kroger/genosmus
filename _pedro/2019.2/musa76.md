@@ -63,6 +63,10 @@ para me procurar; depois disso a nota não será modificada.
 - Trabalho 1: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
 - Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
 - Trabalho (sem nota): Analisar a obra: [Partitura][12]
+- Trabalho 3: Analisar um trecho de uma obra do final do século XIX e
+  apresentar oralmente em etapas nos dias 26 de setembro e 1 e 3 de
+  outubro. A obra será escolhida pelo(a) aluno(a) e deverá ter algum
+  recurso harmônico interessante. A apresentação oral é individual.
 
 <!--
 - Trabalho 3: [Fuga](/pedro/trabalho-fuga/)
@@ -89,14 +93,14 @@ eventualidade.
 | Set 17 | <del>Não haverá aula</del> (análise de obra)                         |
 | Set 19 | Introdução a Harmonia do séc. XIX                                    |
 | Set 24 | Harmonia do séc. XIX                                                 |
-| Set 26 | Harmonia do séc. XIX                                                 |
+| Set 26 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 01 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 03 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 08 | <del>Trabalho em casa</del>                                          |
 | Out 10 | <del>Trabalho em casa</del>                                          |
 | Out 15 | <del>Dia do Professor</del>                                          |
-| Out 17 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
-| Out 22 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
+| Out 17 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
+| Out 22 | Análise da Arte da Fuga e Oferenda Musical                           |
 | Out 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
 | Out 29 | <del>Congresso da UFBA</del>                                         |
 | Out 41 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
