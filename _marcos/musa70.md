@@ -116,11 +116,11 @@ O material para análise está inteiramente disponível no site do IMSLP
   1. Clementi, op. 36, n. 2, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
   1. Clementi, op. 36, n. 3, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
   1. J.S. Bach, O Cravo Bem Temperado, vol. 1, n. 1 - Prelúdio.
-  1. Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
-  1. Beethoven Op. 10, n. 1, mov. 1 (apenas primeira página)
+  1. Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas) [IMSLP](http://ks4.imslp.net/files/imglnks/usimg/8/85/IMSLP243106-PMLP01446-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B124_Op_2_No_1_scan.pdf)
+  1. Beethoven Op. 10, n. 1, mov. 1 (apenas primeira página) [IMSLP](http://ks4.imslp.net/files/imglnks/usimg/c/cd/IMSLP243114-PMLP01407-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B128_Op_10_No_1_scan.pdf)
   1. Beethoven Op. 10, n. 1, mov. 3 (apenas primeira página do movimento)
   1. Beethoven Op. 18, n. 2, mov. 3, Trio  (apenas página 35/11)
-  1. Beethoven Op. 28, mov. 1  (duas primeiras páginas)
+  1. Beethoven Op. 28, mov. 1  (duas primeiras páginas) [IMSLP](http://imslp.simssa.ca/files/imglnks/usimg/2/24/IMSLP51727-PMLP01460-Beethoven_Werke_Breitkopf_Serie_16_No_138_Op_28.pdf)
   1. Beethoven, Op. 119, Bagatelle n. 9.
   1. Haydn, Piano Sonata 37, mov. 3 Trio.
   1. Haydn XVI/32 N. 47 Si menor, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/12/IMSLP00148-Haydn_-_Piano_Sonata_No_32_in_b.pdf)
@@ -129,12 +129,12 @@ O material para análise está inteiramente disponível no site do IMSLP
   1. Mozart K173, mov. 1 (p 99 (5). Final do movimento)
   1. Mozart K280, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
   1. Mozart K284, mov. 3, Tema (p. 10 (54)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/65/IMSLP56315-PMLP01839-Mozart_Werke_Breitkopf_Serie_20_KV284.pdf)
-  1. Mozart K310, mov. 1 (apenas primeira pagina)
-  1. Mozart K330, mov. 2 (p 111 (7))
+  1. Mozart K310, mov. 1 (apenas primeira pagina) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/be/IMSLP56317-PMLP01843-Mozart_Werke_Breitkopf_Serie_20_KV310.pdf)
+  1. Mozart K330, mov. 2 (p 111 (7)) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/f5/IMSLP56319-PMLP01845-Mozart_Werke_Breitkopf_Serie_20_KV330.pdf)
   1. Mozart K333, mov. 1 (apenas primeira página)  [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP56440-PMLP01849-Mozart_Werke_Breitkopf_Serie_20_KV333.pdf)
   1. Mozart K545, mov. 1 (apenas a primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
-  1. Mozart K570, mov. 1 (apenas primeira página)
-  1. Mozart K570, mov. 2 (p 6 do pdf, Adagio)
+  1. Mozart K570, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.info/files/imglnks/usimg/5/50/IMSLP56443-PMLP01857-Mozart_Werke_Breitkopf_Serie_20_KV570.pdf)
+  1. Mozart K570, mov. 2 (p 6 do pdf, Adagio) [IMSLP](http://ks.imslp.info/files/imglnks/usimg/5/50/IMSLP56443-PMLP01857-Mozart_Werke_Breitkopf_Serie_20_KV570.pdf)
   1. Paganini Capriccios Op 1, n. 4. (p. 7)
   1. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
 
