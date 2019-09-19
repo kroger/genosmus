@@ -190,7 +190,7 @@ Organização por aula:
 - 10/09: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
 - 12/09: Mozart K310, Mozart K333
 - 17/09: Mozart K280, Mozart K570
-- 19/09: Kuhlau Op. 59, n. 1, (definir a segunda)
+- 19/09: Kuhlau Op. 59, n. 1, as que faltaram
 - 24/09: Haydn XVI/32, Haydn XVI/34, N. 47
 - 26/09: Beethoven Op. 2, n. 1, Beethoven Op. 10, n. 1
 
