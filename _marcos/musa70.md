@@ -171,19 +171,24 @@ Aulas 11 a 16, dias 10, 12, 17, 19, 24 e 26/09/2019
 *Apenas a primeira página*, exceto nas peças em
  que há indicação de duas páginas.
 
-- Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas)
-- Beethoven Op. 10, n. 1, mov. 1
-- Clementi Op. 36, n. 3, mov. 1
-- Clementi, Op. 1, n. 5 (duas primeiras páginas)
-- Haydn XVI/32 Sonata em Si menor, mov. 1
-- Haydn XVI/34 Sonata em Mi menor, mov. 1
-- Kuhlau, Op. 59, n. 1, mov. 1
-- Mozart K280, mov. 1
-- Mozart K284, mov. 3, tema
-- Mozart K310, mov. 1
-- Mozart K333, mov. 1
-- Mozart K545, mov. 1 (pp. 1 e 2)
-- Mozart K570, mov. 1
+O estudo será realizado apenas na seção modulatória das peças, com os
+compassos indicados entre parênteses. No entanto é necessário ter a parte
+inicial e alguns compassos posteriores para compreender os pontos de
+partida e chegada da modulação.
+
+- Beethoven Op. 2, n. 1, mov. 1 (duas primeiras páginas) - (8--20)
+- Beethoven Op. 10, n. 1, mov. 1 (32--56)
+- Clementi Op. 36, n. 3, mov. 1 (inteira, não é Forma Sonata)
+- Clementi, Op. 1, n. 5 (duas primeiras páginas) (8--12)
+- Haydn XVI/32 Sonata em Si menor, mov. 1 (9--13)
+- Haydn XVI/34 Sonata em Mi menor, mov. 1 (duas primeiras páginas) (9--29)
+- Kuhlau, Op. 59, n. 1, mov. 1 (9--21)
+- Mozart K280, mov. 1 (13--27)
+- Mozart K284, mov. 3, tema (não é Forma Sonata)
+- Mozart K310, mov. 1 (9--23)
+- Mozart K333, mov. 1 (10--22)
+- Mozart K545, mov. 1 (duas primeiras páginas) (5--12)
+- Mozart K570, mov. 1 (23--40)
 
 Organização por aula:
 
