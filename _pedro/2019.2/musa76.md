@@ -78,42 +78,42 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das
 aulas poderá ser modificado de acordo com a necessidade e
 eventualidade.
 
-| Data   | Conteúdo                                                             |
-| -----  | ---                                                                  |
-| Ago 13 | <del>Paralisação nacional</del>                                      |
-| Ago 15 | Introdução ao curso e Análise de Spem in Alium, T. Tallis            |
-| Ago 20 | Análise da Sinfonia no. 1, Brahms, **Mini-trabalho 1**               |
-| Ago 22 | Análise da Sinfonia no. 1, Brahms                                    |
-| Ago 27 | Análise da Sinfonia no. 1, Brahms                                    |
-| Ago 29 | Revisão para a prova                                                 |
-| Set 03 | **Prova de audição e análise**                                       |
-| Set 05 | Análise, Quarteto no. 1, Brahms                                      |
-| Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**        |
-| Set 12 | Análise de Scheherazade, Rimsky-Korsakov                             |
-| Set 17 | <del>Não haverá aula</del> (análise de obra)                         |
-| Set 19 | Introdução a Harmonia do séc. XIX                                    |
-| Set 24 | Harmonia do séc. XIX                                                 |
-| Set 26 | <del>Paralisação</del>
-| Out 01 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
-| Out 03 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
-| Out 08 | <del>Trabalho em casa</del>                                          |
-| Out 10 | <del>Trabalho em casa</del>                                          |
-| Out 15 | <del>Dia do Professor</del>                                          |
-| Out 17 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical) |
-| Out 22 | Análise da Arte da Fuga e Oferenda Musical                           |
-| Out 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
-| Out 29 | <del>Congresso da UFBA</del>                                         |
-| Out 41 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
-| Nov 05 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**       |
-| Nov 07 | Tirar dúvidas para os seminários                                     |
-| Nov 12 | **Seminários:** A Sinfonia no século XIX                             |
-| Nov 14 | **Seminários:** O Concerto no século XIX                             |
-| Nov 19 | **Seminários:** A Música Programática nos séc. XIX e XX              |
-| Nov 21 | **Seminários:** A Canção Romântica (séc. XIX)                        |
-| Nov 26 | **Seminários:** A Ópera entre 1850 e 1910                            |
-| Nov 28 | **Seminários:** O Balé entre 1850 e 1920                             |
-| Dez 03 | *Correções e segunda chamada*                                        |
-| Dez 05 | *Correções e segunda chamada*                                        |
+| Data   | Conteúdo                                                                        |
+| -----  | ---                                                                             |
+| Ago 13 | <del>Paralisação nacional</del>                                                 |
+| Ago 15 | Introdução ao curso e Análise de Spem in Alium, T. Tallis                       |
+| Ago 20 | Análise da Sinfonia no. 1, Brahms, **Mini-trabalho 1**                          |
+| Ago 22 | Análise da Sinfonia no. 1, Brahms                                               |
+| Ago 27 | Análise da Sinfonia no. 1, Brahms                                               |
+| Ago 29 | Revisão para a prova                                                            |
+| Set 03 | **Prova de audição e análise**                                                  |
+| Set 05 | Análise, Quarteto no. 1, Brahms                                                 |
+| Set 10 | Análise de Scheherazade, Rimsky-Korsakov, **Mini-trabalho 2**                   |
+| Set 12 | Análise de Scheherazade, Rimsky-Korsakov                                        |
+| Set 17 | <del>Não haverá aula</del> (análise de obra)                                    |
+| Set 19 | Introdução a Harmonia do séc. XIX                                               |
+| Set 24 | Harmonia do séc. XIX                                                            |
+| Set 26 | <del>Paralisação</del>                                                          |
+| Out 01 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                                 |
+| Out 03 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                                 |
+| Out 08 | <del>Sem aula:</del> Trabalho em casa (análise Arte da Fuga e Oferenda Musical) |
+| Out 10 | <del>Sem aula:</del> Trabalho em casa (análise Arte da Fuga e Oferenda Musical) |
+| Out 15 | <del>Dia do Professor</del>                                                     |
+| Out 17 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical)            |
+| Out 22 | Análise da Arte da Fuga e Oferenda Musical                                      |
+| Out 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
+| Out 29 | <del>Congresso da UFBA</del>                                                    |
+| Out 41 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
+| Nov 05 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
+| Nov 07 | Tirar dúvidas para os seminários                                                |
+| Nov 12 | **Seminários:** A Sinfonia no século XIX                                        |
+| Nov 14 | **Seminários:** O Concerto no século XIX                                        |
+| Nov 19 | **Seminários:** A Música Programática nos séc. XIX e XX                         |
+| Nov 21 | **Seminários:** A Canção Romântica (séc. XIX)                                   |
+| Nov 26 | **Seminários:** A Ópera entre 1850 e 1910                                       |
+| Nov 28 | **Seminários:** O Balé entre 1850 e 1920                                        |
+| Dez 03 | *Correções e segunda chamada*                                                   |
+| Dez 05 | *Correções e segunda chamada*                                                   |
 {: .table .table-sm .table-cronograma}
 
 
