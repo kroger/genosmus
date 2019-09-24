@@ -93,7 +93,7 @@ eventualidade.
 | Set 17 | <del>Não haverá aula</del> (análise de obra)                         |
 | Set 19 | Introdução a Harmonia do séc. XIX                                    |
 | Set 24 | Harmonia do séc. XIX                                                 |
-| Set 26 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
+| Set 26 | <del>Paralisação</del>
 | Out 01 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 03 | Análise: Harmonia séc. XIX, **Mini-trabalho 3**                      |
 | Out 08 | <del>Trabalho em casa</del>                                          |
