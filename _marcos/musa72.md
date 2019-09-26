@@ -178,6 +178,8 @@ width="100%" height="300"></iframe>
  - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
+ - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
+
 
 ##1. Bibliografia
 
