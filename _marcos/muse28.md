@@ -132,8 +132,10 @@ Em construção
 
 ##1. Links
 
-- [Contour Metrics](https://contour.sampaio.me). Ferramenta para
-  processamento de contornos.
+- [Playlist Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACk7T84Y3OvFWlHUp0T7RWzW).
+  Obras para audição em aula.
+- [Contour Metrics](https://contour.sampaio.me).
+  Ferramenta para processamento de contornos.
 
 ##1. Bibliografia
 
