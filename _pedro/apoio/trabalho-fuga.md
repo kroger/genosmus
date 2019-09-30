@@ -1,23 +1,22 @@
 ---
-title: Trabalho Fuga
+title: Arte da Fuga e Oferenda Musical
 layout: page
 ---
 
-ADF = Arte da Fuga
+- **ADF** = Arte da Fuga
+- **OM** = Oferenda Musical
 
-OM = Oferenda Musical
-
-## Mar 15 {#Mar_15}
-
-  * Kedson Silva &#8211; **ADF** &#8211; _Contrapunctus_ 7  **OM** &#8211; _Canon_ _perpetuus_ (p. 8)
-  * Gabriel Vieira &#8211; **ADF** &#8211; _Contrapunctus 10_ **OM** &#8211; Cânone 3 (p. 9)
-
-## Mar 17 {#Mar_17}
-
-  * Diogo Santos &#8211; **ADF** &#8211; _Contrapunctus 12_ **OM** &#8211; Cânone a 4 (p. 20)
-  * Jackson Santos &#8211; **ADF** &#8211; _Contrapunctus 6_ **OM** &#8211; Cânone a 2 (p. 20)
-
-## Mar 22 {#Mar_22}
-
-  * André Chetto &#8211; **ADF** &#8211; _Contrapunctus 13_ **OM** &#8211; Cânone _4_ (p. 9)
-  * André Vieira &#8211; **ADF** &#8211; _Contrapunctus 11_ **OM** &#8211; Cânone 5 (p. 9)
+| Nome               | Obra                                                           |
+| ------------------ | -------                                                        |
+| Cleiane Nunes      | **OM**: Canon 1 a 2 cancrizans (p. 48)                         |
+| Cristiano Wilson   | **OM**: Canon 2 a 2 (p. 48)                                    |
+| Danilo Marins      | **OM**: 10. Canon a 4 (Quaerendo invenietis) (p.54)            |
+| Gleidiane Macedo   | **OM**: Fuga canonica in Epidiapente (p. 50)                   |
+| Jean Prado         | **ADF**: canon per augmentationem in contrario motu (p. 84)    |
+| Leandro Sukevicius | **OM**: 9. Canon a 2 (Quaerendo invenietis) (p.54)             |
+| Núbia Modolon      | **OM**: Canon 3 a 2 per Motum contrarium (p. 48)               |
+| Peter Marques      | **OM**: Canon 4 a 2 per Augmentationem, contrario Motu (p. 49) |
+| Renato Santana     | **OM**: Canon 5 a 2 per Tonos (p. 49)                          |
+| Roberto Intelisano | **OM**: 7. Canon perpetuus (p. 52)                             |
+| Victor De Oliveira | **OM**: 8. Canon perpetuus (p. 52)                             |
+{: .table .table-sm }

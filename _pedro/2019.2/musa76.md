@@ -43,34 +43,26 @@ para me procurar; depois disso a nota não será modificada.
 - Thomas Tallis - Spem in alium [Áudio][1] e [Partitura][2]
 - Brahms - Sinfonia 1 [Áudio][3] e [Partitura][4]
 - Rimsky-Korsakov - Sheherazade [Áudio][5] e [Partitura][6]
-- Bach - A Arte da Fuga [Partitura][8]
-- Bach - Oferenda Musical [Partitura][10]
+- Bach - A Arte da Fuga [Áudio][7] e [Partitura][8]
+- Bach - Oferenda Musical [Áudio][9] e [Partitura][10]
 
 ### Prova de Audição
 
 - [Lista de obras](/pedro/lista-prova-audicao-lem8/)
 - [Gravações para a prova de audição][11]
 
-
-<!--
-- Bach - A Arte da Fuga [Áudio][7] e [Partitura][8]
-- Bach - Oferenda Musical [Áudio][9] e [Partitura][10]
--->
-
-
 ## Trabalhos
 
-- Trabalho 1: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
-- Trabalho 2: [Scheherazade](/pedro/trabalho-scheherazade/)
+- **Trabalho 1**: [Sinfonia I Brahms](/pedro/trabalho-brahms/)
+- **Trabalho 2**: [Scheherazade](/pedro/trabalho-scheherazade/)
 - Trabalho (sem nota): Analisar a obra: [Partitura][12]
-- Trabalho 3: Analisar um trecho de uma obra do final do século XIX e
-  apresentar oralmente em etapas nos dias 26 de setembro e 1 e 3 de
-  outubro. A obra será escolhida pelo(a) aluno(a) e deverá ter algum
-  recurso harmônico interessante. A apresentação oral é individual.
+- **Trabalho 3**: Analisar um trecho de uma obra do final do século
+  XIX e apresentar oralmente em etapas nos dias 26 de setembro e 1 e 3
+  de outubro. A obra será escolhida pelo(a) aluno(a) e deverá ter
+  algum recurso harmônico interessante. A apresentação oral é
+  individual.
+- **Trabalho 4**: [Análise da Arte da Fuga e Oferenda Musical](/pedro/trabalho-fuga/)
 
-<!--
-- Trabalho 3: [Fuga](/pedro/trabalho-fuga/)
--->
 
 ## Cronograma
 
@@ -142,9 +134,9 @@ eventualidade.
 [4]: https://www.dropbox.com/s/9mh54tjm6bt8j7i/Brahms%20-%20Sinfonia%201.pdf?dl=0
 [5]: https://www.dropbox.com/s/le8vrrys4s528ga/Rimsky-Korsakov%20-%20Sheherazade%20-%20Orquestra.m4a?dl=0
 [6]: https://www.dropbox.com/s/z7yis1nxs72u38w/Rimsky-Korsakov%20-%20Sheherazade%20-%20Orquestra.pdf?dl=0
-[7]: http://#
+[7]: https://www.dropbox.com/s/0vg5rpovul07r6q/A%20Arte%20da%20Fuga.zip?dl=0
 [8]: https://www.dropbox.com/s/vwjs88y43yh26sg/Bach%20-%20A%20Arte%20da%20Fuga.pdf?dl=0
-[9]: http://#
+[9]: https://www.dropbox.com/s/3rujtu6m0z6n3c5/Oferenda%20Musical.zip?dl=0
 [10]: https://www.dropbox.com/s/hu8awmglpq1yupp/Bach%20-%20Oferenda%20Musical.pdf?dl=0
 [11]: https://www.dropbox.com/s/hdwdp46kf1t9bvn/Musicas%20Audicao.zip?dl=0
 [12]: https://www.dropbox.com/s/opnarcabkgnc56w/musica.pdf?dl=0
