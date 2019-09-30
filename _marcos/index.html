@@ -9,7 +9,23 @@ title: Disciplinas - Marcos Sampaio
 
 <h2>Semestre 2019.2</h2>
 
-{% assign pages = site.marcos | sort %}
+{% assign pages = site.marcos | where:"level","graduacao" | sort %}
+
+<h3>Graduação</h3>
+
+<ul>
+  {% for page in pages %}
+  {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
+  {% if site.data.docentes.marcos.atual contains disciplina %}
+  <!--<li>{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</li>-->
+  <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+{% assign pages = site.marcos | where:"level","pos-graduacao" | sort %}
+
+<h3>Pós-graduação</h3>
 
 <ul>
     {% for page in pages %}
