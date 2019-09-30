@@ -29,6 +29,16 @@ acorde. [Arquivo com acordes][12].
 levando em consideração as estratégias de combinação timbrística
 abordadas em sala de aula. [Arquivo com instruções][22].
 
+- **Trabalho 3**: Orquestração do estudo op. 100, n. 15 de Burgmuller,
+  ou a criação de uma miniatura orquestral
+
+- **Trabalho 4**: Orquestrar os primeiros 8 compassos do _Menuet
+  Antique_ de Ravel (até a barra dupla, 1a casa) usando a seguinte
+  formação orquestral: 2 flautas, 1 piccolo, 2 oboés, 1 corne inglês,
+  2 clarinetes, 1 clarinete baixo, 2 fagotes, 1 contra-fagote, 4
+  trompas, 3 trompetes, timpanos, harpa, e cordas. [Partitura][7] e
+  [Áudio][8].
+
 <!--
 - Trabalho 2: Orquestrar dois trechos da Sonata 26 de Beethoven: do
   *início até a letra A* e do *Allegro até a letra B*. [Partitura][3]
@@ -37,13 +47,6 @@ abordadas em sala de aula. [Arquivo com instruções][22].
 - Trabalho 3: Orquestrar dois trechos do Noturno op. 48 no. 1 de
   Chopin: os primeiros 8 compassos e da indicação em vermelho *2a
   parte* (na última página) até o final. [Partitura][5] e [Áudio][6].
-
-- Trabalho 4: Orquestrar os primeiros 8 compassos do _Menuet Antique_
-  de Ravel (até a barra dupla, 1a casa) usando a seguinte formação
-  orquestral: 2 flautas, 1 piccolo, 2 oboés, 1 corne inglês, 2
-  clarinetes, 1 clarinete baixo, 2 fagotes, 1 contra-fagote, 4
-  trompas, 3 trompetes, timpanos, harpa, e cordas. [Partitura][7] e
-  [Áudio][8].
 
 - Trabalho 5: Orquestrar o seguinte trecho para piano. Levar em conta
   a textura original. [Partitura][9]. (não temos gravação)
