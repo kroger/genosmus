@@ -98,10 +98,17 @@ As notas dos trabalhos irão obedecer ao seguinte critério:
 
 Textos disponíveis para análise:
 
+#### Pós-graduação
+
 1. Morris 1987 (cap. 2 e 7)
 1. Marvin e Laprade 1987
 1. Friedmann 1985
 1. Bor 2009 (cap. 3)
+
+#### Graduação
+
+1. Moraes et al 2015
+1. Silva et al 2014
 
 ###1. Análise de obra
 
