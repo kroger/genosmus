@@ -19,6 +19,18 @@ musical, tais como processos composicionais do século XX, estudos da
 história e da literatura musical, métodos analíticos, análise temática,
 formal e estrutural, estudo de formas musicais, notação musical, e acústica.
 
+##1. Conteúdo programático
+
+1. Contornos na Musicologia
+1. Bases cognitivas e matemáticas
+1. Características internas
+1. Relações por equivalência
+1. Relações por reflexão
+1. Relações por redução
+1. Relações por similaridade
+1. Análise de contornos
+1. Composição com base em relações de contornos
+
 ##1. Objetivos
 
 Compreender como encontrar e estabelecer relações musicais por meio de contornos.
@@ -72,12 +84,12 @@ As notas dos trabalhos irão obedecer ao seguinte critério:
 
 ##1. Cronograma
 
-| Aula | Data      | Descrição                                               |
-|------|-----------|---------------------------------------------------------|
-| 1    | 01/10/19  | Aspectos gerais da Teoria de Contornos                  |
-| 2    | 08/10/19  | Discussão de textos sobre a teoria                      |
-| 3    | 15/10/19? | Análise de obra com base na teoria                      |
-| 4    | 22/10/19  | Apreciação de composições elaboradas com base na teoria |
+| Aula | Data      | Descrição                                                              |
+|------|-----------|------------------------------------------------------------------------|
+| 1    | 01/10/19  | Aspectos gerais da Teoria de Contornos                                 |
+| 2    | 08/10/19  | Discussão de textos sobre a teoria                                     |
+| 3    | 15/10/19? | Análise de obra com base na teoria                                     |
+| 4    | 22/10/19  | Apreciação de composições elaboradas com base em relações de contornos |
 {: .table .table-sm}
 
 ##1. Trabalhos
@@ -99,13 +111,12 @@ ou escolher outra obra de sua preferência, em acordo com o professor
 ###1. Composição
 
 O estudante deverá compor uma miniatura para quarteto de cordas com
-aplicação sistemática de operações de contornos. A ênfase deve ocorrer no domínio da técnica.
+aplicação sistemática de operações de contornos. A ênfase deve ocorrer no
+domínio da técnica.
 
 ##1. Audição em aula
 
 Em construção
-
-1. 
 
 ##1. Bibliografia
 
