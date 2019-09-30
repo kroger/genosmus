@@ -118,6 +118,16 @@ domínio da técnica.
 
 Em construção
 
+1. Bela Bartók, Mikrokosmos 101 (Diminished Fifth)
+1. Alban Berg, Lyric Suite
+1. Robert Schumann, op. 15, n. 7 (Träumerei)
+1. Marcos Sampaio, op. 13. Difusa
+
+##1. Links
+
+- [Contour Metrics](https://contour.sampaio.me). Ferramenta para
+  processamento de contornos.
+
 ##1. Bibliografia
 
 ###1. Elementar
