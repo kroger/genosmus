@@ -100,10 +100,10 @@ Textos disponíveis para análise:
 
 #### Pós-graduação
 
-1. Morris 1987 (cap. 2 e 7)
-1. Marvin e Laprade 1987
-1. Friedmann 1985
-1. Bor 2009 (cap. 3)
+1. Morris 1987 (cap. 2 e 7) - Menahem
+1. Marvin e Laprade 1987 - Ícaro
+1. Friedmann 1985 - Léo
+1. Bor 2009 (cap. 3) - Eric
 
 #### Graduação
 
