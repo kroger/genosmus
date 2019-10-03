@@ -113,18 +113,18 @@ eventualidade.
 
 | Nome               | MT 1 | MT 2 | MT 3 | MT 4 | PA  | SE | Nota |
 | :----------------- | :-   | :-   | :-   | :-   | :-  | :- | :--- |
-| Cleiane Nunes      | 1.25 | 1.25 |      |      | 3.0 |    | =sum |
-| Cristiano Wilson   | 1.25 | 0.00 |      |      | 3.0 |    | =sum |
-| Danilo Marins      | 1.25 | 0.00 |      |      | 0.8 |    | =sum |
-| Gabriel Vieira     | 0.00 | 0.00 |      |      | 0.0 |    | =sum |
-| Gleidiane Macedo   | 1.25 | 1.25 |      |      | 1.2 |    | =sum |
-| Jean Prado         | 1.25 | 0.00 |      |      | 2.5 |    | =sum |
-| Leandro Sukevicius | 1.25 | 1.25 |      |      | 2.9 |    | =sum |
-| Núbia Modolon      | 1.25 | 1.25 |      |      | 3.0 |    | =sum |
-| Peter Marques      | 1.25 | 1.25 |      |      | 0.9 |    | =sum |
-| Renato Santana     | 1.25 | 1.25 |      |      | 2.9 |    | =sum |
-| Roberto Intelisano | 1.25 | 1.25 |      |      | 3.0 |    | =sum |
-| Victor De Oliveira | 0.00 | 1.25 |      |      | 3.0 |    | =sum |
+| Cleiane Nunes      | 1.25 | 1.25 | 1.25 |      | 3.0 |    | =sum |
+| Cristiano Wilson   | 1.25 | 0.00 | 1.25 |      | 3.0 |    | =sum |
+| Danilo Marins      | 1.25 | 0.00 | 0.40 |      | 0.8 |    | =sum |
+| Gabriel Vieira     | 0.00 | 0.00 | 0.00 |      | 0.0 |    | =sum |
+| Gleidiane Macedo   | 1.25 | 1.25 | 1.25 |      | 1.2 |    | =sum |
+| Jean Prado         | 1.25 | 0.00 | 0.63 |      | 2.5 |    | =sum |
+| Leandro Sukevicius | 1.25 | 1.25 | 0.63 |      | 2.9 |    | =sum |
+| Núbia Modolon      | 1.25 | 1.25 | 1.25 |      | 3.0 |    | =sum |
+| Peter Marques      | 1.25 | 1.25 | 0.00 |      | 0.9 |    | =sum |
+| Renato Santana     | 1.25 | 1.25 | 0.00 |      | 2.9 |    | =sum |
+| Roberto Intelisano | 1.25 | 1.25 | 1.25 |      | 3.0 |    | =sum |
+| Victor De Oliveira | 0.00 | 1.25 | 1.00 |      | 3.0 |    | =sum |
 {: .table .table-sm}
 
 
