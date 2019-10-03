@@ -84,12 +84,12 @@ As notas dos trabalhos irão obedecer ao seguinte critério:
 
 ##1. Cronograma
 
-| Aula | Data      | Descrição                                                              |
-|------|-----------|------------------------------------------------------------------------|
-| 1    | 01/10/19  | Aspectos gerais da Teoria de Contornos                                 |
-| 2    | 08/10/19  | Discussão de textos sobre a teoria                                     |
-| 3    | 15/10/19? | Análise de obra com base na teoria                                     |
-| 4    | 22/10/19  | Apreciação de composições elaboradas com base em relações de contornos |
+| Aula | Data     | Descrição                                                              |
+|------|----------|------------------------------------------------------------------------|
+| 1    | 01/10/19 | Aspectos gerais da Teoria de Contornos                                 |
+| 2    | 08/10/19 | Discussão de textos sobre a teoria                                     |
+| 3    | 15/10/19 | Análise de obra com base na teoria                                     |
+| 4    | 22/10/19 | Apreciação de composições elaboradas com base em relações de contornos |
 {: .table .table-sm}
 
 ##1. Trabalhos
