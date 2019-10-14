@@ -122,6 +122,7 @@ O material para análise está inteiramente disponível no site do IMSLP
   1. Beethoven Op. 27, n. 2, mov. 3  [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/19/IMSLP51726-PMLP01458-Beethoven_Werke_Breitkopf_Serie_16_No_137_Op_27_No_2.pdf)
   1. Beethoven Op. 28, n. 15, mov. 1 [IMSLP](http://imslp.simssa.ca/files/imglnks/usimg/2/24/IMSLP51727-PMLP01460-Beethoven_Werke_Breitkopf_Serie_16_No_138_Op_28.pdf)
   1. Beethoven Op. 31, n. 3, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP51740-PMLP01469-Beethoven_Werke_Breitkopf_Serie_16_No_141_Op_31_No_3.pdf)
+  1. Beethoven Op. 53, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a8/IMSLP51748-PMLP01474-Beethoven_Werke_Breitkopf_Serie_16_No_144_Op_53.pdf)
   1. Beethoven Op. 57, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/01/IMSLP51795-PMLP01480-Beethoven_Werke_Breitkopf_Serie_16_No_146_Op_57.pdf) (até p. 13).
   1. Beethoven Op. 81a, n. 26, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b9/IMSLP51798-PMLP01483-Beethoven_Werke_Breitkopf_Serie_16_No_149_Op_81a.pdf)
   1. Beethoven Sonata Violino Op. 96, n. 10, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a8/IMSLP52024-PMLP10444-Beethoven_Werke_Breitkopf_Serie_12_No_101_Op_96.pdf)
