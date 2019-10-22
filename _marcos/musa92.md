@@ -111,13 +111,11 @@ Temas, integrantes e datas de apresentação
 
 [Em construção]
 
-<!-- | Data     | Equipe                 | Tema                  | -->
-<!-- |:---------|:-----------------------|:----------------------| -->
-<!-- | 14/05/19 | William                | Dispositivos móveis   | -->
-<!-- | 21/05/19 | André                  | Lilypond              | -->
-<!-- | 28/05/19 | Vicente e Miguel       | Apps de percepção     | -->
-<!-- | 04/06/19 | Tiago, Wesley e Samuel | Apps para performance | -->
-<!-- {: .table .table-sm } -->
+| Data     | Equipe                 | Tema                  |
+|:---------|:-----------------------|:----------------------|
+| 22/10/19 | Marcos Carvalho, Bruno e Alex | Dublagens   |
+| 29/10/19 | Tiago | MIDI no Reaper |
+{: .table .table-sm }
 
 ##1. Notas e frequência
 
