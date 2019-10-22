@@ -94,8 +94,8 @@ eventualidade.
 | Out 17 | Introdução ao contraponto avançado (Arte da Fuga e Oferenda Musical)            |
 | Out 22 | Análise da Arte da Fuga e Oferenda Musical                                      |
 | Out 24 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
-| Out 29 | <del>Congresso da UFBA</del>                                                    |
-| Out 41 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
+| Out 29 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
+| Out 31 | <del>Congresso da UFBA</del>                                                    |
 | Nov 05 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
 | Nov 07 | Tirar dúvidas para os seminários                                                |
 | Nov 12 | **Seminários:** A Sinfonia no século XIX                                        |
