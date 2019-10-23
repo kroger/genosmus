@@ -39,6 +39,10 @@ abordadas em sala de aula. [Arquivo com instruções][22].
   trompas, 3 trompetes, timpanos, harpa, e cordas. [Partitura][7] e
   [Áudio][8].
 
+- **Trabalho 5**: Orquestrar o trecho para piano. Levar em conta a
+  textura original. Instrumentação livre [Partitura][9]. (não temos
+  gravação)
+
 <!--
 - Trabalho 2: Orquestrar dois trechos da Sonata 26 de Beethoven: do
   *início até a letra A* e do *Allegro até a letra B*. [Partitura][3]
@@ -47,9 +51,6 @@ abordadas em sala de aula. [Arquivo com instruções][22].
 - Trabalho 3: Orquestrar dois trechos do Noturno op. 48 no. 1 de
   Chopin: os primeiros 8 compassos e da indicação em vermelho *2a
   parte* (na última página) até o final. [Partitura][5] e [Áudio][6].
-
-- Trabalho 5: Orquestrar o seguinte trecho para piano. Levar em conta
-  a textura original. [Partitura][9]. (não temos gravação)
 
 - Trabalho Final: Orquestrar o início do Prelúdio no. 1 para violão de
   Villa-Lobos (até a palavra "FIM" em vermelho na terceira página).
