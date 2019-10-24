@@ -98,12 +98,12 @@ eventualidade.
 | Out 31 | <del>Congresso da UFBA</del>                                                    |
 | Nov 05 | Análise: Arte da Fuga e Oferenda Musical,  **Mini-trabalho 4**                  |
 | Nov 07 | Tirar dúvidas para os seminários                                                |
-| Nov 12 | **Seminários:** A Sinfonia no século XIX                                        |
-| Nov 14 | **Seminários:** O Concerto no século XIX                                        |
-| Nov 19 | **Seminários:** A Música Programática nos séc. XIX e XX                         |
-| Nov 21 | **Seminários:** A Canção Romântica (séc. XIX)                                   |
-| Nov 26 | **Seminários:** A Ópera entre 1850 e 1910                                       |
-| Nov 28 | **Seminários:** O Balé entre 1850 e 1920                                        |
+| Nov 12 | **Seminários:** A Sinfonia no século XIX (Renato e Wilson)                      |
+| Nov 14 | **Seminários:** O Concerto no século XIX (Leandro)                              |
+| Nov 19 | **Seminários:** A Música Programática nos séc. XIX e XX (Victor e Cleiane)      |
+| Nov 21 | **Seminários:** A Canção Romântica no séc. XIX (Núbia e Gleidiane)              |
+| Nov 26 | **Seminários:** A Ópera entre 1850 e 1910 (Jean e Roberto)                      |
+| Nov 28 | **Seminários:** O Balé entre 1850 e 1920 (Peter e Danilo)                       |
 | Dez 03 | *Correções e segunda chamada*                                                   |
 | Dez 05 | *Correções e segunda chamada*                                                   |
 {: .table .table-sm .table-cronograma}
