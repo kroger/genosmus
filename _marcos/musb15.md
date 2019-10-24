@@ -303,6 +303,7 @@ width="100%" height="300"></iframe>
   dodecafônica](http://www.musictheory.net/calculators/matrix)
 * [PCN
   Jamary](http://www.angelfire.com/music2/bahia/pcn/pcn2001ptb.htm)
+* [Playlist Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ)
 
 ##1. Bibliografia
 
