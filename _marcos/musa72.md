@@ -130,7 +130,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Beethoven Op. 106 ("Hammerklavier")
 1. Beethoven Op. 109
 1. Beethoven Op. 110
-1. Beethoven Op. 111, n. 32, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7e/IMSLP51811-PMLP01489-Beethoven_Werke_Breitkopf_Serie_16_No_155_Op_111.pdf)
+1. Beethoven Op. 111 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7e/IMSLP51811-PMLP01489-Beethoven_Werke_Breitkopf_Serie_16_No_155_Op_111.pdf)
 1. Brahms Op. 68 (versão reduzida), mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/72/IMSLP12057-Brahms-Singer_-_Symphony_No.1.pdf)
 1. Clementi Op. 1 N. 5, mov. 1 [IMSLP](http://ks.imslp.info/files/imglnks/usimg/3/3b/IMSLP02848-Clementi_1_5.pdf)
 1. Haydn XVI/32 N. 47 Si menor, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/12/IMSLP00148-Haydn_-_Piano_Sonata_No_32_in_b.pdf)
