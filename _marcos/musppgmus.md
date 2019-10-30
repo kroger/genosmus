@@ -1,5 +1,5 @@
 ---
-title: MUS? -- ?
+title: Disciplina para estudar Haydn
 layout: disciplina
 toc: false
 level: pos-graduacao
