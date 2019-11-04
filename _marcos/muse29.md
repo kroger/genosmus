@@ -100,7 +100,8 @@ tópico na literatura e no próprio repertório.
 1. Partituras digitais de 219 movimentos dos 68 quartetos de Haydn (formato
    kern, conversível para MusicXML)
 1. Ferramentas de análise em desenvolvimento no âmbito da pesquisa:
-   https://hmb.sampaio.me e https://contour.sampaio.me.
+   [HMB Analysis](https://hmb.sampaio.me) e
+   [ContourMetrics](https://contour.sampaio.me).
 1. Bibliografia disponível sobre o tema (ver mais abaixo).
 
 ##1. Bibliografia
