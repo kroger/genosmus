@@ -23,8 +23,8 @@ melhor os temas dos colegas e produzir um texto publicável.
 
 O trabalho proposto para essa disciplina é parte do projeto de pesquisa que
 estou desenvolvendo, sobre relações entre obras de Haydn, Mozart, Beethoven,
-atualmente na etapa "Haydn" ([ver aqui](https://marcos.sampaio.me/pt-br/
-projetos/hmb-analysis/)).
+atualmente na etapa "Haydn"
+([ver aqui](https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/)).
 
 ##1. Ementa
 
