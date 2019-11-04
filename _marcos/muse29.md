@@ -58,7 +58,7 @@ A avaliação é dividida em duas partes: processo de construção do trabalho
 publicável). A cada semana o estudante deverá apresentar um relatório oral
 sucinto a respeito do trabalho realizado, respeitando o cronograma.
 
-###. Critérios de avaliação
+### Critérios de avaliação
 
 Os critérios de avaliação são:
 
