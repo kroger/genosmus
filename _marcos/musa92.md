@@ -114,10 +114,12 @@ Temas, integrantes e datas de apresentação
 | Data     | Equipe                 | Tema                  |
 |:---------|:-----------------------|:----------------------|
 | 22/10/19 | Marcos Carvalho, Bruno e Alex | Dublagens (adiado)  |
-| 29/10/19 | Tiago | MIDI no Reaper |
-| 29/10/19 | Leonardo, João Henrique, Waléria | App Soundhound |
+| 29/10/19 | Marcos Carvalho, Bruno e Alex | Dublagens | 
+| 05/11/19 | Leonardo, João Henrique, Waléria | App Soundhound |
 | 05/11/19 | Alexandre | Segredos do Finale |
-| 12/11/19 | Marcos Carvalho, Bruno e Alex | Dublagens | 
+| 12/11/19 | Tiago | MIDI no Reaper |
+| 12/11/19 | Adalto e Aldirene | Audio avançado Cubase |
+| 19/11/19 | Júlia e Igor | Edição de partituras para violão Musescore |
 {: .table .table-sm }
 
 ##1. Notas e frequência
