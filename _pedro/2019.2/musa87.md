@@ -86,7 +86,7 @@ eventualidade.
 | Out 30 | <del>Congresso da UFBA</del>                         |
 | Nov 06 | Tópicos em orquestração                              |
 | Nov 13 | **Entrega do trabalho 5** (1.25 pontos)              |
-| Nov 20 | Análise de obras                                     |
+| Nov 20 | Tirar dúvidas trabalho final                         |
 | Nov 27 | **Entrega do trabalho final** (2.5 pontos)           |
 | Dez 04 | *Resultados (online)*                                |
 {: .table .table-sm}
