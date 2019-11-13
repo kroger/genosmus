@@ -101,17 +101,17 @@ pdf do trabalho com uma gravação midi (Finale) em mp3.
 
 ## Notas
 
-| Nome               | T1   | T2   | T3   | T4   | T5 | TF | Nota |
-|:-------------------|:-----|:-----|:-----|:-----|:---|:---|:-----|
-| Cristiano Wilson   | 1.25 | 1.25 | 1.25 | 0.0  |    |    | =sum |
-| Edinaldo De Paiva  | 1.0  | 1.25 | 1.25 | 1.25 |    |    | =sum |
-| Izabella Baldoíno  | 1.25 | 1.25 | 1.25 | 1.25 |    |    | =sum |
-| Laís Cavalcanti    | 1.25 | 1.25 | 0.0  | 1.25 |    |    | =sum |
-| Leandro Sukevicius | 1.25 | 1.25 | 1.25 | 1.25 |    |    | =sum |
-| Peter Marques      | 0.0  | 0.0  | 1.25 | 0.0  |    |    | =sum |
-| Roberto Intelisano | 1.25 | 1.25 | 1.25 | 1.25 |    |    | =sum |
-| Victor De Oliveira | 1.25 | 0.0  | 1.25 | 1.25 |    |    | =sum |
-| Zizimo Fonseca     | 1.0  | 1.25 | 1.25 | 1.25 |    |    | =sum |
+| Nome               | T1   | T2   | T3   | T4   | T5   | TF | Nota |
+|:-------------------|:-----|:-----|:-----|:-----|:-----|:---|:-----|
+| Cristiano Wilson   | 1.25 | 1.25 | 1.25 | 0.0  | 1.25 |    | =sum |
+| Edinaldo De Paiva  | 1.0  | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
+| Izabella Baldoíno  | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
+| Laís Cavalcanti    | 1.25 | 1.25 | 0.0  | 1.25 | 1.25 |    | =sum |
+| Leandro Sukevicius | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
+| Peter Marques      | 0.0  | 0.0  | 1.25 | 0.0  | 1.25 |    | =sum |
+| Roberto Intelisano | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
+| Victor De Oliveira | 1.25 | 0.0  | 1.25 | 1.25 | 1.25 |    | =sum |
+| Zizimo Fonseca     | 1.0  | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
 {: .table .table-sm }
 
 
