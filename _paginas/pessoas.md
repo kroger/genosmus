@@ -7,8 +7,8 @@ title: Pessoas
 
 - [Dr. Pedro Kroger](https://pedrokroger.net)
 - [Dr. Marcos da Silva Sampaio](https://marcos.sampaio.me)
-- Dr. Guilherme Bertissolo
-- Dr. Alexandre Espinheira
+- [Dr. Guilherme Bertissolo](https://guilhermebertissolo.wordpress.com/)
+- [Dr. Alexandre Espinheira](https://alespinheira.wordpress.com/)
 - Dra. Mara Pinheiro Menezes
 
 ## Membros
