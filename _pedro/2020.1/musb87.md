@@ -19,21 +19,20 @@ baseado no repertório ou obra específica do Trabalho Final.
 A avaliação consistirá da entrega de 4 relatórios da monografia
 referentes aos 10 primeiros minutos da composição final.
 
----| ---
-Mai 27 | Relatório monografia 2.5 pontos
-Jun 03 | Relatório monografia 2.5 pontos
-Jun 10 | Relatório monografia 2.5 pontos
-Jun 17 | Relatório monografia 2.5 pontos
+| Data   | Conteúdo                        |
+| ---    | ---                             |
+| Abr 28 | Relatório monografia 2.5 pontos |
+| Mai 19 | Relatório monografia 2.5 pontos |
+| Jun 02 | Relatório monografia 2.5 pontos |
+| Jun 16 | Relatório monografia 2.5 pontos |
 {: .table .table-sm .table-cronograma}
 
 ## Notas
 
-| Nome              | R1 | R2 | R3 | R4 | Nota |
-|:------------------|:---|:---|:---|:---|:-----|
-| Diego Neves       | 2.5| 0.0|1.25| 1.3| =sum |
-| George Cristian   | 2.5| 2.5| 2.5| 2.5| =sum |
-| Jordan Hohenfeld  | 2.5| 2.5| 2.5| 1.3| =sum |
-| Peter Marques     | 2.5| 0.0| 0.0| 2.5| =sum |
-| Sidnei Marques    | 2.5| 2.5| 2.5| 2.5| =sum |
+| Nome | R1 | R2 | R3 | R4 | Nota |
+|:-----|:---|:---|:---|:---|:-----|
+|      |    |    |    |    | =sum |
+|      |    |    |    |    | =sum |
+|      |    |    |    |    | =sum |
+|      |    |    |    |    | =sum |
 {: .table .table-sm }
-
