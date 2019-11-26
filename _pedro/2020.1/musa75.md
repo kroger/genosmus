@@ -68,10 +68,10 @@ eventualidade.
 | Mar 24 | **Prova de Revisão (análise e harmonia) e Audição**                |
 | Mar 26 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras |
 | Mar 31 | Análise de obras                                                   |
-| Abr 01 | _Aula reposição: tirar dúvidas análises (pátio: 13h)_              |
+| Abr 01 | _Aula reposição: tirar dúvidas análises (pátio: 14:50)_            |
 | Abr 02 | Análise de obras                                                   |
 | Abr 07 | Análise de obras                                                   |
-| Abr 08 | _Aula reposição: tirar dúvidas análise (pátio: 13h)_               |
+| Abr 08 | _Aula reposição: tirar dúvidas análise (pátio: 14:50)_             |
 | Abr 09 | <del>Semana santa</del>                                            |
 | Abr 14 | **Apresentação:** análise de obra                                  |
 | Abr 16 | **Apresentação:** análise de obra                                  |
