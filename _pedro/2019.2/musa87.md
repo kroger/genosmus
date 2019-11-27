@@ -74,18 +74,18 @@ eventualidade.
 | ---    | ---                                                  |
 | Ago 14 | Análise de acordes                                   |
 | Ago 21 | Análise de acordes                                   |
-| Ago 28 | **Entrega do trabalho 1** (1.25 pontos)              |
+| Ago 28 | **Entrega do trabalho 1** (1.50 pontos)              |
 | Set 04 | Aula Kedson: Combinações timbrísticas                |
-| Set 11 | Aula Kedson: **Entrega do trabalho 2** (1.25 pontos) |
+| Set 11 | Aula Kedson: **Entrega do trabalho 2** (1.50 pontos) |
 | Set 18 | Aula Kedson: Densidade e contraste orquestral        |
-| Set 25 | Aula Kedson: **Entrega do trabalho 3** (1.25 pontos) |
+| Set 25 | Aula Kedson: **Entrega do trabalho 3** (1.50 pontos) |
 | Out 02 | Música vocal                                         |
 | Out 09 | <del>Trabalho em casa</del>                          |
 | Out 16 | Música vocal                                         |
-| Out 23 | **Entrega do trabalho 4** (1.25 pontos)              |
+| Out 23 | **Entrega do trabalho 4** (1.50 pontos)              |
 | Out 30 | <del>Congresso da UFBA</del>                         |
 | Nov 06 | Tópicos em orquestração                              |
-| Nov 13 | **Entrega do trabalho 5** (1.25 pontos)              |
+| Nov 13 | **Entrega do trabalho 5** (1.50 pontos)              |
 | Nov 20 | Tirar dúvidas trabalho final                         |
 | Nov 27 | **Entrega do trabalho final** (2.5 pontos)           |
 | Dez 04 | *Resultados (online)*                                |
@@ -103,15 +103,15 @@ pdf do trabalho com uma gravação midi (Finale) em mp3.
 
 | Nome               | T1   | T2   | T3   | T4   | T5   | TF | Nota |
 |:-------------------|:-----|:-----|:-----|:-----|:-----|:---|:-----|
-| Cristiano Wilson   | 1.25 | 1.25 | 1.25 | 0.0  | 1.25 |    | =sum |
-| Edinaldo De Paiva  | 1.0  | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
-| Izabella Baldoíno  | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
-| Laís Cavalcanti    | 1.25 | 1.25 | 0.0  | 1.25 | 1.25 |    | =sum |
-| Leandro Sukevicius | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
-| Peter Marques      | 0.0  | 0.0  | 1.25 | 0.0  | 1.25 |    | =sum |
-| Roberto Intelisano | 1.25 | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
-| Victor De Oliveira | 1.25 | 0.0  | 1.25 | 1.25 | 1.25 |    | =sum |
-| Zizimo Fonseca     | 1.0  | 1.25 | 1.25 | 1.25 | 1.25 |    | =sum |
+| Cristiano Wilson   | 1.50 | 1.50 | 1.50 | 0.0  | 1.50 |    | =sum |
+| Edinaldo De Paiva  | 1.0  | 1.50 | 1.50 | 1.50 | 1.50 |    | =sum |
+| Izabella Baldoíno  | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 |    | =sum |
+| Laís Cavalcanti    | 1.50 | 1.50 | 0.0  | 1.50 | 1.50 |    | =sum |
+| Leandro Sukevicius | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 |    | =sum |
+| Peter Marques      | 0.0  | 0.0  | 1.50 | 0.0  | 1.50 |    | =sum |
+| Roberto Intelisano | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 |    | =sum |
+| Victor De Oliveira | 1.50 | 0.0  | 1.50 | 1.50 | 1.50 |    | =sum |
+| Zizimo Fonseca     | 1.0  | 1.50 | 1.50 | 1.50 | 1.50 |    | =sum |
 {: .table .table-sm }
 
 
