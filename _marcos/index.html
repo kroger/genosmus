@@ -7,7 +7,7 @@ title: Disciplinas - Marcos Sampaio
     <a href="http://www.escolademusica.ufba.br/" target="_blank">Escola de Música</a> da
     Universidade Federal da Bahia.</p>
 
-<h2>Semestre 2019.2</h2>
+<h2>Semestre 2020.1</h2>
 
 {% assign pages = site.marcos | where:"level","graduacao" | sort %}
 
@@ -35,17 +35,6 @@ title: Disciplinas - Marcos Sampaio
     <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
     {% endfor %}
-</ul>
-
-<h3>Semestre 2020.1</h3>
-
-Disciplinas previstas para o semestre 2020.
-
-<ul>
-<li>MUSA69 LEM I</li>
-<li>MUSA71 LEM III</li>
-<li>MUSB14 Composição V</li>
-<li><a href="/marcos/muse29">MUSE29 Tópicos em Teoria e Análise Musical II (PPGMUS)</a></li>
 </ul>
 
 <h2>Semestres Anteriores</h2>
@@ -85,11 +74,11 @@ Disciplinas previstas para o semestre 2020.
     <li>MUS505 – Informática em Música I</li>
     <li>MUS515 – Tópicos em Teoria I</li>
     <li>MUS592 – Informática em Música III</li>
-    {% for page in pages %}
+    {% comment %} {% for page in pages %}
     {% unless page.new %}
     <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endunless %}
-    {% endfor %}
+    {% endfor %} {% endcomment %}
 </ul>
 
 {% assign pages = site.marcos | where:"level","extensao" %}
