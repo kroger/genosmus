@@ -161,9 +161,11 @@ implicar em reprovação.
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-<iframe
+[Em construção]
+
+<!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1546056053&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+width="100%" height="300"></iframe> -->
 
 ##1. Trabalhos
 
