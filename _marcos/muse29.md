@@ -26,6 +26,8 @@ estou desenvolvendo, sobre relações entre obras de Haydn, Mozart, Beethoven,
 atualmente na etapa "Haydn"
 ([ver aqui](https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/)).
 
+Dia, horário e local: Terças-feiras, das 14:50 às 17:35, no GenosLab.
+
 ##1. Ementa
 
 Aprofundamento do estudo avançado de tópicos específicos da teoria da
