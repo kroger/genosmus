@@ -404,8 +404,10 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 ###1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite
-for Piano, Op. 25: From Composition with Twelve-Tones to the
-Twelve-Tone Method." University of Southern California.
+   for Piano, Op. 25: From Composition with Twelve-Tones to the
+   Twelve-Tone Method." University of Southern California.
+1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno
+   2. 14/4/1967.
 
 ##1. Links
 
