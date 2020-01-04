@@ -68,8 +68,7 @@ Os critérios de avaliação são:
 1. Pontualidade
 1. Concisão
 
-Os trabalhos são agrupados nas categorias seguintes e as notas definidas a
-partir delas:
+As notas serão definidas de acordo com o seguinte critério:
 
 |Nota possível|Entregue|Solicitações cumpridas|Aspecto de interesse especial|Aspecto de algum interesse|
 |:---|:---|:---|:---|:---|

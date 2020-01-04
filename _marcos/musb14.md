@@ -407,7 +407,7 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
    for Piano, Op. 25: From Composition with Twelve-Tones to the
    Twelve-Tone Method." University of Southern California.
 1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno
-   2. 14/4/1967.
+   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
 ##1. Links
 
