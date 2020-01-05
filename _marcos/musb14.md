@@ -331,6 +331,7 @@ analisada em conjunto durante as aulas:
 1. Stravinsky, Psalm Symphony
 1. Tchaikovsky, Concerto para Violino, Op. 35
 1. Tchaikovsky, Sinfonia n. 5, Op. 64
+1. Wagner, Tristão e Isolda, Abertura
 1. Williams, A Sea Symphony
 
 ###1. Banda
