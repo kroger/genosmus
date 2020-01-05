@@ -103,6 +103,9 @@ tópico na literatura e no próprio repertório.
 1. Ferramentas de análise em desenvolvimento no âmbito da pesquisa:
    [HMB Analysis](https://hmb.sampaio.me) e
    [ContourMetrics](https://contour.sampaio.me).
+1. [Digital Resources for Musicology](https://drm.ccarh.org/)
+1. [Electronic and Virtual Editions](https://eve.ccarh.org/)
+1. [Archive of Digital Applications in Musicology](https://adam.ccarh.org/)
 1. Bibliografia disponível sobre o tema (ver mais abaixo).
 
 ##1. Bibliografia
@@ -111,7 +114,7 @@ A lista abaixo contém toda a bibliografia da pesquisa, com itens sobre
 Musicologia Computacional e Mozart/Beethoven, que se afastam um pouco do
 escopo da disciplina.
 
-<iframe width="100%" height="600px" src="https://bibbase.org/show?bib=http%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib"></iframe>
+<iframe width="100%" height="600px" src="https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fstatic%2Fbibliografia.bib"></iframe>
 
 <hr>
 
