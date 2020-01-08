@@ -142,6 +142,7 @@ quebrado, buscar direto no IMSLP e informar o professor.
 1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/05/IMSLP83742-PMLP04994-CFranck_Violin_Sonata.pdf)
 1. Haydn, Divertimento in C major, Hob. XVI_7 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ee/IMSLP00110-Piano_Sonata_No_7_in_C.pdf)
 1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/2/2b/IMSLP00108-Piano_Sonata_No_5_in_A.pdf)
+1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII_27  [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/62/IMSLP455858-PMLP12302-Op17_comb.pdf)
 1. Mendelssohn, op. 72, n. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/63/IMSLP09377-Mendelssohn_-_Op.72_-_6_Pieces_for_Children.pdf)
 1. Mozart K284, mov. iii, Tema (p. 10 (54)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/65/IMSLP56315-PMLP01839-Mozart_Werke_Breitkopf_Serie_20_KV284.pdf)
 1. Mozart K330, mov. ii (p. 111 (7)) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/f5/IMSLP56319-PMLP01845-Mozart_Werke_Breitkopf_Serie_20_KV330.pdf)
