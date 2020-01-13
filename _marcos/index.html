@@ -1,17 +1,50 @@
 ---
 layout: page
-title: Disciplinas - Marcos Sampaio
+title: Marcos Sampaio
 ---
 
-<p>Disciplinas ministradas pelo Prof. <a href="https://marcos.sampaio.me/pt-br/" target="_blank">Marcos Sampaio</a> na
+<style>
+#toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+
+.toc_title {
+    font-weight: 700;
+    text-align: center;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
+</style>
+
+<p>Atividades do Prof. <a href="https://marcos.sampaio.me/pt-br/" target="_blank">Marcos Sampaio</a> na
     <a href="http://www.escolademusica.ufba.br/" target="_blank">Escola de Música</a> da
     Universidade Federal da Bahia.</p>
 
-<h2>Semestre 2020.1</h2>
+<div id="toc_container">
+  <p class="toc_title">Conteúdos</p>
+  <ul class="toc_list">
+    <li><a href="#semestre-atual">Semestre 2020.1</a>
+    <li><a href="#semestres-anteriores">Semestres anteriores</a>
+    <li><a href="#salas-horarios">Salas e horários</a>
+    <li><a href="#contato">Contato</a>
+  </ul>
+</div>
+
+<h2 id="semestre-atual">Semestre 2020.1</h2>
 
 {% assign pages = site.marcos | where:"level","graduacao" | sort %}
 
-<h3>Graduação</h3>
+<h3>Ensino</h3>
+
+<h4>Graduação</h4>
 
 <ul>
   {% for page in pages %}
@@ -25,7 +58,7 @@ title: Disciplinas - Marcos Sampaio
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" | sort %}
 
-<h3>Pós-graduação</h3>
+<h4>Pós-graduação</h4>
 
 <ul>
     {% for page in pages %}
@@ -37,10 +70,26 @@ title: Disciplinas - Marcos Sampaio
     {% endfor %}
 </ul>
 
-<h2>Semestres Anteriores</h2>
+<h3>Pesquisa</h3>
+
+<ul>
+<li>Projeto de pesquisa <a href="https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/" target="_blank">
+Estudo quantitativo de uma coleção de obras de Haydn, Mozart e Beethoven</a></li>
+</ul>
+
+<h3>Administração</h3>
+
+<ul>
+<li>Coordenação do Colegiado do Curso de Composição e Regência (2019-2021)</li>
+</ul>
+
+<hr>
+<h2 id="semestres-anteriores">Semestres Anteriores</h2>
+
+<h3>Ensino</h3>
 
 {% assign pages = site.marcos | where:"level","graduacao" %}
-<h3>Graduação</h3>
+<h4>Graduação</h4>
 <pre>2011 a {{ 'now' | date: "%Y" }}</pre>
 
 <ul>
@@ -67,7 +116,7 @@ title: Disciplinas - Marcos Sampaio
 
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" %}
-<h3>Pós-graduação</h3>
+<h4>Pós-graduação</h4>
 <pre>2013 a 2016</pre>
 <ul>
     <li>MUS504 – Estudos especiais – Teoria de Contornos</li>
@@ -81,20 +130,27 @@ title: Disciplinas - Marcos Sampaio
     {% endfor %} {% endcomment %}
 </ul>
 
-{% assign pages = site.marcos | where:"level","extensao" %}
-<h3>Extensão</h3>
-<pre>Até 2011</pre>
+<h3>Pesquisa</h3>
+
+<pre>2007 a 2018</pre>
+
 <ul>
-    <li>Curso de Python introdutório – material de aula</li>
-    <li>Curso introdutório à programação computacional com Python para compositores</li>
-    {% for page in pages %}
-    {% unless page.new %}
-    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
-    {% endunless %}
-    {% endfor %}
+<li>Algoritmos de similaridade de contornos</li>
+<li>Aplicação de contornos na Composição Musical</li>
+<li>Composições para flauta solo (1710-1810): levantamento, análise e composição</li>
+<li>Análise automática de harmonia por computador</li>
 </ul>
 
-<h2>Salas e horários</h2>
+<h3>Administração</h3>
+
+<ul>
+<li>Vice-chefia do Departamento de Música (2016-2018)</li>
+<li>Vice-coordenação do Colegiado de Composição e Regência (2011-2015)</li>
+</ul>
+
+<hr>
+
+<h2 id="salas-horarios">Salas e horários</h2>
 
 <p>As disciplinas são oferecidas em semestres alternados, algumas apenas em semestres pares e outras apenas em semestres ímpares.</p>
 
@@ -129,4 +185,15 @@ title: Disciplinas - Marcos Sampaio
     <td>Terças</td>
     <td>14:50-17:35</td>
   </tr>
+  <tr>
+    <td>Atendimento Colegiado</td>
+    <td>Sala dos Colegiados</td>
+    <td>Terças</td>
+    <td>17:35-18:00</td>
+  </tr>
 </table>
+
+<hr>
+
+<h2 id="contato">Contato</h2>
+<p>Email: sampaio.marcos@ufba.br</p>
