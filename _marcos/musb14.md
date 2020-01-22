@@ -161,6 +161,10 @@ implicar em reprovação.
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
+**OBS**: O professor ficará afastado de todas as funções por cerca de uma
+semana, em função de uma cirurgia à qual irá se submeter. Previsão entre
+março e abril.
+
 [Em construção]
 
 <!-- <iframe

@@ -83,6 +83,11 @@ As notas serão definidas de acordo com o seguinte critério:
 
 ##1. Cronograma
 
+**OBS**: O professor ficará afastado de todas as funções por cerca de uma
+semana, em função de uma cirurgia à qual irá se submeter. Previsão entre
+março e abril.
+
+
 | Semana  | Descrição                                                         |
 |:--------|:------------------------------------------------------------------|
 | 1 e 2   | Apresentação da proposta e definição da técnica de cada estudante |

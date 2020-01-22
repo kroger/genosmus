@@ -90,6 +90,10 @@ disciplina.
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
+**OBS**: O professor ficará afastado de todas as funções por cerca de uma
+semana, em função de uma cirurgia à qual irá se submeter. Previsão entre
+março e abril.
+
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af4ZqIjDnavifJJdeRZHQ0vDkCLQo-HcaCnaDJZqaOPuNAe0_c9InL/pubhtml?gid=1830898706&amp;single=true&amp;widget=true&amp;headers=false"
  width="100%" height="300">
