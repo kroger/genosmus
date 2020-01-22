@@ -107,15 +107,15 @@ Os critérios gerais de avaliação são:
 
 As notas serão definidas de acordo com o seguinte critério:
 
-|Nota|Entregue|Solicitações cumpridas|Aspecto de interesse especial|Aspecto de algum interesse|
-|:---|:---|:---|:---|:---|
-|100%|**X**|**X**|**X**|-|
-|90%|**X**|**X**|-|**X**|
-|80%|**X**|**X**|-|-|
-|50%|**X**|-|**X**|-|
-|40%|**X**|-|-|**X**|
-|10%|**X**|-|-|-|
-|0%|-|-|-|-|
+| Nota | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
+|:-----|:---------|:-----------------------|:------------------------------|:---------------------------|
+| 100% | **X**    | **X**                  | **X**                         | -                          |
+| 90%  | **X**    | **X**                  | -                             | **X**                      |
+| 80%  | **X**    | **X**                  | -                             | -                          |
+| 50%  | **X**    | -                      | **X**                         | -                          |
+| 40%  | **X**    | -                      | -                             | **X**                      |
+| 10%  | **X**    | -                      | -                             | -                          |
+| 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
 
@@ -278,7 +278,7 @@ analisada em conjunto durante as aulas:
 1. Bartók, Mikrokosmos, 125
 1. Bartók, Mikrokosmos, 131
 1. Brahms, Intermezzo. Op. 118, n. 2
-1. Beethoven, Piano Sonata n. 8 Op. 13  
+1. Beethoven, Piano Sonata n. 8 Op. 13
 1. Bloch, Sonata for Piano
 1. Chopin, Prelude n. 2
 1. Debussy, Claire de Lune

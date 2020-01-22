@@ -70,15 +70,15 @@ Os critérios de avaliação são:
 
 As notas serão definidas de acordo com o seguinte critério:
 
-|Nota possível|Entregue|Solicitações cumpridas|Aspecto de interesse especial|Aspecto de algum interesse|
-|:---|:---|:---|:---|:---|
-|100%|**X**|**X**|**X**|-|
-|90%|**X**|**X**|-|**X**|
-|80%|**X**|**X**|-|-|
-|50%|**X**|-|**X**|-|
-|40%|**X**|-|-|**X**|
-|10%|**X**|-|-|-|
-|0%|-|-|-|-|
+| Nota possível | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
+|:--------------|:---------|:-----------------------|:------------------------------|:---------------------------|
+| 100%          | **X**    | **X**                  | **X**                         | -                          |
+| 90%           | **X**    | **X**                  | -                             | **X**                      |
+| 80%           | **X**    | **X**                  | -                             | -                          |
+| 50%           | **X**    | -                      | **X**                         | -                          |
+| 40%           | **X**    | -                      | -                             | **X**                      |
+| 10%           | **X**    | -                      | -                             | -                          |
+| 0%            | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
 ##1. Cronograma

@@ -154,7 +154,7 @@ quebrado, buscar direto no IMSLP e informar o professor.
 1. J.S.Bach, Coral #012 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
 1. J.S.Bach, Coral #014 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
 1. J.S.Bach, Coral #026 (Ed. Riemenschneider) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP03820-4PC_1.PDF)
-1. J.S.Bach, Sonata para Violino n. 1, Presto (apenas uma página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/d/da/IMSLP335779-SIBLEY1802.26426.46cb-39087032500300score.pdf) 
+1. J.S.Bach, Sonata para Violino n. 1, Presto (apenas uma página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/d/da/IMSLP335779-SIBLEY1802.26426.46cb-39087032500300score.pdf)
 1. Schumann, Álbum para Juventude op. 68, n. 2 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
 1. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
 
@@ -179,42 +179,42 @@ seamless=""></iframe>
 
 ##1. Bibliografia
 
-1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and 
+1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and
 Voice Leading_. 3rded. Thomson Schirmer.
 1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
  New York, NY: W.W. Norton and Company.
 Introduction to Analysis. Holt Rinehart and Winston.
-1. Grove, George, and Stanley Sadie. 1980. _The New Grove 
+1. Grove, George, and Stanley Sadie. 1980. _The New Grove
 Dictionary of Music and Musicians_. Edited by Stanley Sadie.
  2nded. London, Washington: Macmillan Publishers.
-1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in 
+1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in
 Analysis and Synthesis. Boston: Houghton Mifflin.
-1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal 
-Harmony, with an Introduction to Twentieth-Century Music_. 
+1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal
+Harmony, with an Introduction to Twentieth-Century Music_.
 3rd ed. New York, NY: McGraw-Hill.
-1. Motte, Dieter de La. 1991. _The Study of Harmony_: 
+1. Motte, Dieter de La. 1991. _The Study of Harmony_:
 An Historical Perspective. Dubuque, Iowa: WM. C. Brown Company.
-1. Palisca, Claude V. 2001. _Norton Anthology of Western 
+1. Palisca, Claude V. 2001. _Norton Anthology of Western
 Music_. 4thed. New York and London: W. W. Norton & Company.
 1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
-1. Queiroz, Flávio José Gomes de. 2005. "Princípios Gerais para 
+1. Queiroz, Flávio José Gomes de. 2005. "Princípios Gerais para
 Realização de Baixos Cifrados." Disponível em
  [http://bit.ly/2GK93me](http://bit.ly/2GK93me).
 1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary
- of Music_. Cambridge, MA: Belknap Press of Harvard University 
+ of Music_. Cambridge, MA: Belknap Press of Harvard University
  Press.
 1. Riemenschneider, Albert, ed. 1941. _371 Harmonized Chorales
  and 69 Chorale Melodies with Figured Bass_. New York:
   Schirmer.
-1. Stone, Kurt. 1980. _Music Notation in the Twentieth 
+1. Stone, Kurt. 1980. _Music Notation in the Twentieth
 Century_: A Practical Guidebook. New York, NY: W.W. Norton
  and Company.
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
-1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. 
+1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_.
 New York: Schirmer.
 1. "Musictheory.net." 2000.
  [http://musictheory.net](http://musictheory.net).
-1. "Resposta Tonal." 2015. 
+1. "Resposta Tonal." 2015.
 [https://respostatonal.com](https://respostatonal.com).
 
 ##1. Links
