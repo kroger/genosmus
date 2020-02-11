@@ -45,8 +45,12 @@ repositório com o site e instalar o Jekyll.
 
 ou com o rbenv:
 
-    rbenv install 2.6.3
+    rbenv install 2.7.0
     gem install bundle
+
+Eu uso a versão 2.7.0 com o rbenv, a versão mais nova no homebrew é a
+2.6.x. Ambas devem funcionar com o Gemfile.lock atual. O `netlify` usa
+a versão 2.6.4.
 
 3. Instale o Jekyll e suas dependências com o comando abaixo (no
    diretório com o código do site):
