@@ -89,16 +89,13 @@ do trabalho com uma gravação midi (Finale) em mp3.
 
 ## Notas
 
-| Nome | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |
-|:-----|:---|:---|:---|:---|:---|:---|:---|:-----|
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    | =sum |
+| Nome                          | T1 | T2 | T3 | T4 | T5 | T6 | TF | Nota |      |
+|:------------------------------|:---|:---|:---|:---|:---|:---|:---|:-----|------|
+| Alexandre Carvalho De Azevedo |    |    |    |    |    |    |    |      | =sum |
+| Ian Mascarenhas Gusmão        |    |    |    |    |    |    |    |      | =sum |
+| Lucas Monteiro Lopes Pontes   |    |    |    |    |    |    |    |      | =sum |
+| Matheus Travassos de Oliveira |    |    |    |    |    |    |    |      | =sum |
+| Pedro De Andrade Vieira       |    |    |    |    |    |    |    |      | =sum |
 {: .table .table-sm }
 
 

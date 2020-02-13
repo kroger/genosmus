@@ -106,18 +106,30 @@ eventualidade.
 ## Notas
 
 
-| Nome | PR | PC | AO | SE | Nota |
-|:-----|:---|:---|:---|:---|:-----|
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
+| Nome                    | PR | PC | AO | SE | Nota |
+|:------------------------|:---|:---|:---|:---|:-----|
+| Adriane de Almeida      |    |    |    |    | =sum |
+| Alana Da Silva Costa    |    |    |    |    | =sum |
+| Andre Jesus Da Silva    |    |    |    |    | =sum |
+| Camila Silva Miranda    |    |    |    |    | =sum |
+| Camila de Oliveira      |    |    |    |    | =sum |
+| Carol Miranda Santos    |    |    |    |    | =sum |
+| Danilo Almeida Marins   |    |    |    |    | =sum |
+| Elaine Batista Santana  |    |    |    |    | =sum |
+| Ian Mascarenhas Gusmão  |    |    |    |    | =sum |
+| Joana Márcia Andrade    |    |    |    |    | =sum |
+| Lucas Lopes Pontes      |    |    |    |    | =sum |
+| Maria Madalena dos Reis |    |    |    |    | =sum |
+| Marina Leal Martins     |    |    |    |    | =sum |
+| Mateus Rafael Mariani   |    |    |    |    | =sum |
+| Matheus Travassos       |    |    |    |    | =sum |
+| Misael Santana da Cruz  |    |    |    |    | =sum |
+| Paola Dalva Maria       |    |    |    |    | =sum |
+| Riane Celi Mascarenhas  |    |    |    |    | =sum |
+| Samuel Miranda Cabral   |    |    |    |    | =sum |
+| Tássio Santos Rodrigues |    |    |    |    | =sum |
+| Tito Sousa Teofilo      |    |    |    |    | =sum |
+| Wesley Santos Lima      |    |    |    |    | =sum |
 {: .table .table-sm}
 
 

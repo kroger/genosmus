@@ -99,15 +99,18 @@ para me procurar; depois disso a nota não será modificada.
 
 ## Notas
 
-| Nome | T1 | T2 | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | AF | Nota |
-|:-----|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:-----|
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
-|      |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Nome                        | T1 | T2 | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | AF | Nota |
+|:----------------------------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:-----|
+| Cristiano Wilson            |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Edinaldo De Paiva           |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Ian Mascarenhas Gusmão      |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Izabella Baldoíno Almeida   |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Lucas Monteiro Lopes Pontes |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Matheus Travassos Ramos     |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Roberto Intelisano          |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Samuel Miranda Cabral       |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Victor De Oliveira Araujo   |    |    |    |    |    |    |    |    |    |    |    | =sum |
+| Zizimo Fonseca Santos       |    |    |    |    |    |    |    |    |    |    |    | =sum |
 {: .table .table-sm }
 
 

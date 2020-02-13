@@ -29,10 +29,14 @@ referentes aos 10 primeiros minutos da composição final.
 
 ## Notas
 
-| Nome | R1 | R2 | R3 | R4 | Nota |
-|:-----|:---|:---|:---|:---|:-----|
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
-|      |    |    |    |    | =sum |
+| Nome                      | R1 | R2 | R3 | R4 | Nota |
+|:--------------------------|:---|:---|:---|:---|:-----|
+| Cristiano Wilson          |    |    |    |    | =sum |
+| Edinaldo de Paiva         |    |    |    |    | =sum |
+| Ian Mascarenhas Gusmão    |    |    |    |    | =sum |
+| Izabella Baldoíno Almeida |    |    |    |    | =sum |
+| Matheus Travassos Ramos   |    |    |    |    | =sum |
+| Roberto Intelisano        |    |    |    |    | =sum |
+| Victor de Oliveira        |    |    |    |    | =sum |
+| Zizimo Fonseca Santos     |    |    |    |    | =sum |
 {: .table .table-sm }
