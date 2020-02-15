@@ -54,18 +54,32 @@ exercícios a serem realizados em classe e em casa:
      quatro vozes
   3. Composição de pequenas formas musicais
 
-
 ##1. Avaliação
 
-A avaliação nesta disciplina é realizada mediante 3 provas. As provas
-são compostas por questões de composição e/ou análise e têm como
-objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
-de correção é subjetivo, como o próprio conteúdo da disciplina. O
-conteúdo das provas é acumulativo.
+No semestre 2020.1, a avaliação nesta disciplina será realizada mediante 3
+provas e um trabalho.
+
+As provas são compostas por questões de composição e/ou análise e têm como
+objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de
+correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo
+das provas é acumulativo.
+
+O trabalho consiste na análise formal (frases e seus agrupamentos,
+cadências e metas harmônicas) de um movimento de um dos quartetos de
+cordas de Joseph Haydn a ser definido pelo professor. O trabalho deverá
+ser realizado individualmente ou em duplas, a critério do estudante, e
+deverá ser realizado no período em que o professor estará afastado (ver
+cronograma).
 
 ###1. Nota
 
-A nota do semestre será a média aritmética das notas das provas.
+A nota do semestre será a média ponderada das notas das provas e trabalho.
+Cada prova tem peso 3 e o trabalho tem peso 1.
+
+Dessa forma, a nota será calculada com a seguinte fórmula, onde Pn se
+refere à nota de cada prova, e T, à nota do trabalho.
+
+<img src="https://latex.codecogs.com/svg.latex?M=\frac{3P_1&plus;3P_2&plus;3P_3&plus;T}{10}" title="M=\frac{3P_1+3P_2+3P_3+T}{10}" />
 
 ###1. Segunda chamada
 
@@ -316,13 +330,17 @@ Aulas 25 a 28, dias 04 a 13/06/2019
 Em construção
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-###1. Gráficos de desempenho da turma
+###1. Distribuição das notas
+
+O gráfico abaixo apresenta a distribuição da média final da turma. O
+eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
+contém o número de alunos com média final dentro das faixas.
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=641992382&amp;format=interactive"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubchart?oid=641992382&amp;format=interactive"
 width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
 
 ##1. Bibliografia
