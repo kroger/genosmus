@@ -133,13 +133,13 @@ eventualidade.
 {: .table .table-sm}
 
 
-[1]: https://www.dropbox.com/s/bb23zsxbr3099ex/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=1
-[2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=1
-[3]: https://www.dropbox.com/s/av3ej8t7ihbv3d3/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip?dl=1
-[4]: https://www.dropbox.com/s/gv7jwrsaxldv7ve/Timeline%20Historia.pages?dl=1
-[5]: https://www.dropbox.com/s/9wyfa8hpz5rk13b/Contraponto-Modal-Any-Raquel-Carvalho.pdf?dl=1
-[6]: https://www.dropbox.com/s/dsq28pk5p62km3g/Contraponto%201.pdf?dl=1
-[7]: https://www.dropbox.com/s/sx25psspxi1n7vl/Contraponto%202.pdf?dl=1
-[8]: https://www.dropbox.com/s/e03f5n23jom8e84/Contraponto%203.pdf?dl=1
-[9]: https://www.dropbox.com/s/il5d1ttyww31gsx/Contraponto%204.pdf?dl=1
-[10]: https://www.dropbox.com/s/wjajrbxney7x8zu/Contraponto%205.pdf?dl=1
+[1]: https://www.dropbox.com/s/n4qgfe4zt13m8to/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=0
+[2]: https://www.dropbox.com/s/bbm0s7uzz1n9odt/Mode.pdf?dl=0
+[3]: https://www.dropbox.com/s/av3ej8t7ihbv3d3/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip?dl=0
+[4]: https://www.dropbox.com/s/gv7jwrsaxldv7ve/Timeline%20Historia.pages?dl=0
+[5]: https://www.dropbox.com/s/9wyfa8hpz5rk13b/Contraponto-Modal-Any-Raquel-Carvalho.pdf?dl=0
+[6]: https://www.dropbox.com/s/dsq28pk5p62km3g/Contraponto%201.pdf?dl=0
+[7]: https://www.dropbox.com/s/sx25psspxi1n7vl/Contraponto%202.pdf?dl=0
+[8]: https://www.dropbox.com/s/e03f5n23jom8e84/Contraponto%203.pdf?dl=0
+[9]: https://www.dropbox.com/s/il5d1ttyww31gsx/Contraponto%204.pdf?dl=0
+[10]: https://www.dropbox.com/s/wjajrbxney7x8zu/Contraponto%205.pdf?dl=0

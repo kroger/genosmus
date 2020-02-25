@@ -58,26 +58,26 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das
 aulas poderá ser modificado de acordo com a necessidade e
 eventualidade.
 
-| Data   | Conteúdo                                     |
-| ---    | ---                                          |
-| Mar 11 | Revisão de Cordas                            |
-| Mar 18 | **Trabalho 1** (1.25 pts)                    |
-| Mar 25 | Orquestração para Cordas                     |
-| Abr 01 | Revisão Madeiras                             |
-| Abr 08 | **Trabalho 2** (1.25 pts)                    |
-| Abr 15 | Orquestração para madeiras e cordas          |
-| Abr 22 | **Trabalho 3** (1.25 pts)                    |
-| Abr 29 | Revisão metais                               |
-| Mai 06 | **Trabalho 4** (1.25 pts)                    |
-| Mai 13 | Orquestração metais                          |
-| Mai 20 | **Trabalho 5** (1.25 pts)                    |
-| Mai 27 | Transcrição para orquestra                   |
-| Jun 03 | **Trabalho 6** (1.25 pts)                    |
-| Jun 10 | Análise de obras                             |
-| Jun 17 | **Trabalho Final** (2.5 pts)                 |
-| Jun 24 | <del>São João</del>                          |
-| Jul 01 | _Reservado para segunda chamada e reposição_ |
-| Jul 08 | _Entrega de resultados (online)_             |
+| Data   | Conteúdo                                                 |
+| ---    | ---                                                      |
+| Mar 11 | Revisão de Cordas                                        |
+| Mar 18 | <del>Greve educação</del>                                |
+| Mar 25 | **Trabalho 1** (1.25 pts) <br/> Orquestração para Cordas |
+| Abr 01 | Revisão Madeiras                                         |
+| Abr 08 | **Trabalho 2** (1.25 pts)                                |
+| Abr 15 | Orquestração para madeiras e cordas                      |
+| Abr 22 | **Trabalho 3** (1.25 pts)                                |
+| Abr 29 | Revisão metais                                           |
+| Mai 06 | **Trabalho 4** (1.25 pts)                                |
+| Mai 13 | Orquestração metais                                      |
+| Mai 20 | **Trabalho 5** (1.25 pts)                                |
+| Mai 27 | Transcrição para orquestra                               |
+| Jun 03 | **Trabalho 6** (1.25 pts)                                |
+| Jun 10 | Análise de obras                                         |
+| Jun 17 | **Trabalho Final** (2.5 pts)                             |
+| Jun 24 | <del>São João</del>                                      |
+| Jul 01 | _Reservado para segunda chamada e reposição_             |
+| Jul 08 | _Entrega de resultados (online)_                         |
 {: .table .table-sm .table-cronograma}
 
 ## Avaliação
@@ -99,23 +99,23 @@ do trabalho com uma gravação midi (Finale) em mp3.
 {: .table .table-sm }
 
 
-[1]: https://www.dropbox.com/s/yzsqtzqcsj33i75/Tchaikovsky%20Serenata%20Cordas.pdf?dl=1
-[2]: https://www.dropbox.com/s/ks113157m7jamev/Cordas%20-%20Geral.pdf?dl=1
-[3]: https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=1
+[1]: https://www.dropbox.com/s/yzsqtzqcsj33i75/Tchaikovsky%20Serenata%20Cordas.pdf?dl=0
+[2]: https://www.dropbox.com/s/ks113157m7jamev/Cordas%20-%20Geral.pdf?dl=0
+[3]: https://www.dropbox.com/s/foirxuc0yw3bv6r/Cordas%20Geral%20Audio.zip?dl=0
 [4]: http://www.northernsounds.com/forum/forumdisplay.php/77-Principles-of-Orchestration-On-line
-[5]: https://www.dropbox.com/s/mhkw51aklruets7/Beethoven%20Octet%20Op%20103.pdf?dl=1
-[6]: https://www.dropbox.com/s/iez2nrl33ypxdpf/Mussorgsky%20-%20Quadros%20Exposicao%20-%20Kiev.pdf?dl=1
-[7]: https://www.dropbox.com/s/sxwiumot6osmmz3/Mussorgsky%20-%20Quadros%20Exposicao%20-%20Kiev.mp3?dl=1
-[8]: https://www.dropbox.com/s/rl2esll6p0cp1om/Wagner%20-%20Siegfried.pdf?dl=1
-[9]: https://www.dropbox.com/s/l88h4szhb4o2ouw/Wagner%20Siegfried.mp3?dl=1
-[10]: https://www.dropbox.com/s/snvkf6gcsvbme7w/Tchaikovsky%20Sinfonia%204.pdf?dl=1
-[11]: https://www.dropbox.com/s/x116y1mm4gya7au/Tchaikovsky%20Sinfonia%204.mp3?dl=1
-[12]: https://www.dropbox.com/s/tc4qjyq3v3klyl1/Brahms%20sinf%201.pdf?dl=1
-[13]: https://www.dropbox.com/s/4o3t3j4c0yt7jry/Brahms%20sinf%201.m4a?dl=1
-[14]: https://www.dropbox.com/s/plce7yxymooki8z/Ravel%20-%20Tombeau%20-%20Orq.pdf?dl=1
-[15]: https://www.dropbox.com/s/z4iqaiywqsbyswg/Ravel%20-%20Tombeau%20-%20Orq.m4a?dl=1
-[16]: https://www.dropbox.com/s/6d86z7erowabowq/Ravel%20-%20Tombeau%20-%20Piano.pdf?dl=1
-[17]: https://www.dropbox.com/s/qlv9b37km1l5ujd/Ravel%20-%20Tombeau%20-%20Piano.m4a?dl=1
+[5]: https://www.dropbox.com/s/mhkw51aklruets7/Beethoven%20Octet%20Op%20103.pdf?dl=0
+[6]: https://www.dropbox.com/s/iez2nrl33ypxdpf/Mussorgsky%20-%20Quadros%20Exposicao%20-%20Kiev.pdf?dl=0
+[7]: https://www.dropbox.com/s/sxwiumot6osmmz3/Mussorgsky%20-%20Quadros%20Exposicao%20-%20Kiev.mp3?dl=0
+[8]: https://www.dropbox.com/s/rl2esll6p0cp1om/Wagner%20-%20Siegfried.pdf?dl=0
+[9]: https://www.dropbox.com/s/l88h4szhb4o2ouw/Wagner%20Siegfried.mp3?dl=0
+[10]: https://www.dropbox.com/s/snvkf6gcsvbme7w/Tchaikovsky%20Sinfonia%204.pdf?dl=0
+[11]: https://www.dropbox.com/s/x116y1mm4gya7au/Tchaikovsky%20Sinfonia%204.mp3?dl=0
+[12]: https://www.dropbox.com/s/tc4qjyq3v3klyl1/Brahms%20sinf%201.pdf?dl=0
+[13]: https://www.dropbox.com/s/4o3t3j4c0yt7jry/Brahms%20sinf%201.m4a?dl=0
+[14]: https://www.dropbox.com/s/plce7yxymooki8z/Ravel%20-%20Tombeau%20-%20Orq.pdf?dl=0
+[15]: https://www.dropbox.com/s/z4iqaiywqsbyswg/Ravel%20-%20Tombeau%20-%20Orq.m4a?dl=0
+[16]: https://www.dropbox.com/s/6d86z7erowabowq/Ravel%20-%20Tombeau%20-%20Piano.pdf?dl=0
+[17]: https://www.dropbox.com/s/qlv9b37km1l5ujd/Ravel%20-%20Tombeau%20-%20Piano.m4a?dl=0
 
 [20]: https://connect.issaquah.wednet.edu/high/ihs/staff/mr_longmans_orchestras/w/general_orchestra_information/2605/music-terms
 [21]: https://web.library.yale.edu/cataloging/music/instname

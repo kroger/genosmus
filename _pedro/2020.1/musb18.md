@@ -11,10 +11,12 @@ textuais relacionados às estruturas de grandes dimensões, bem como
 fenômenos extra-musicais ligados a estas, com audição comentada de
 obras representativas do século XX, de grandes dimensões.
 
+
 ## Materiais
 
 - [Termos musicais em diversos idiomas 1][20]
 - [Termos musicais em diversos idiomas 2][21]
+
 
 ### Texto
 
@@ -23,21 +25,29 @@ obras representativas do século XX, de grandes dimensões.
   - [Ritmo (ver poesia)](http://pt.wikipedia.org/wiki/Ritmo)
   - [Ritmo no poema](http://pt.wikipedia.org/wiki/Ritmo_no_poema)
   - [Versificação](http://pt.wikipedia.org/wiki/Versificação)
-  - Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/zgolwyg37d2mqgo/bilac-tratado.pdf?dl=0).
+  - Bilac, Olavo. [Tratado de versificação](https://www.dropbox.com/s/sbfx2xnwf2i8tej/bilac-tratado.pdf?dl=0).
   - [Divisão de sílabas em fonética e em ortografia](http://www.academia.org.br/artigos/divisao-de-silabas-em-fonetica-e-em-ortografia)
+
 
 ### Música
 
   - [Composições do Século 21](/pedro/composicoes-do-seculo-21/)
 
+
 ### Trabalhos
 
-<!---
+- **Trabalho 1:** Redução analítica da [Rapsódia Espanhola de
+  Ravel][1], _Prelude a la Nuit_, do número de ensaio 3 a 5 compassos
+  depois do número de ensaio 5.
 
-  - Entrega 11 de Maio: Redução da [Rapsódia Espanhola de Ravel][1], _Prelude a la Nuit_, compassos 18 a 34.
-  - Entrega 18 de maio: Análise da orquestração na _Alborada del Gracioso_ de Ravel. Até o número 8 de ensaio. [PDF][2] e [MP3][3]
+- **Trabalho 2:** Análise da orquestração na _Alborada del Gracioso_
+  de Ravel. Até o número 8 de ensaio. [PDF][2] e [MP3][3]
 
--->
+- **Trabalho 3:** análise de versificação de texto literário em português
+
+- **Trabalho 4:** análise do uso do texto em obras vocais em português
+  (erudita e popular)
+
 
 ## Cronograma
 
@@ -45,42 +55,41 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das
 aulas poderá ser modificado de acordo com a necessidade e
 eventualidade.
 
-| Data   | Conteúdo                                                                                               |
-| ---    | ---                                                                                                    |
-| Mar 10 | O texto: escanção, metrificação, versificação, e prosódia                                              |
-| Mar 17 | **Trabalho 1**: análise de versificação de texto literário em português **(0.5 pt)**                   |
-| Mar 24 | **Trabalho 2**: análise do uso do texto em obras vocais em português (erudita e popular) **(0.5 pts)** |
-| Mar 31 | Análise de obras                                                                                       |
-| Abr 07 | Análise de obras                                                                                       |
-| Abr 14 | **Relatório oral 1:** Trecho da obra: 1m (1pt)                                            |
-| Abr 21 | <del>Tiradentes</del>                                                                                  |
-| Abr 28 | **Relatório oral 2:** Trecho da obra e monografia: 2m (1pt)                                            |
-| Mai 05 | **Relatório oral 3:** Trecho da obra: 3m (1pt)                                            |
-| Mai 12 | **Relatório oral 4:** Trecho da obra: 4m (1pt)                                            |
-| Mai 19 | **Relatório oral 5:** Trecho da obra e monografia: 5m (1pt)                                            |
-| Mai 26 | **Relatório oral 6:** Trecho da obra: 6m (1pt)                                            |
-| Jun 02 | **Relatório oral 7:** Trecho da obra e monografia: 7m (1pt)                                            |
-| Jun 09 | **Relatório oral 8:** Trecho da obra: 8m (1pt)                                            |
-| Jun 16 | **Relatório final:** Trecho da obra e monografia: 10m (1pt)                                            |
-| Jun 23 | <del>São João</del>                                                                                    |
-| Jun 30 | _Reservado para segunda chamada e reposição_                                                           |
-| Jul 07 | _Entrega de resultados (online)_                                                                       |
+| Data   | Conteúdo                                                    |
+| ---    | ---                                                         |
+| Mar 10 | Introdução ao curso e obras do século 21                    |
+| Mar 17 | **Trabalho 1** (0.5 pt) e brainstorm das peças              |
+| Mar 24 | **Trabalho 2** (0.5 pts) e introdução a versificação        |
+| Mar 31 | **Trabalho 3** (0.5 pts) e análise de obras                 |
+| Abr 07 | **Trabalho 4** (0.5 pts) e análise de obras                 |
+| Abr 14 | **Relatório oral 1:** Trecho da obra: 1m (1pt)              |
+| Abr 21 | <del>Tiradentes</del>                                       |
+| Abr 28 | **Relatório oral 2:** Trecho da obra e monografia: 2m (1pt) |
+| Mai 05 | **Relatório oral 3:** Trecho da obra: 3m (1pt)              |
+| Mai 12 | **Relatório oral 4:** Trecho da obra: 4m (1pt)              |
+| Mai 19 | **Relatório oral 5:** Trecho da obra e monografia: 5m (1pt) |
+| Mai 26 | **Relatório oral 6:** Trecho da obra: 6m (1pt)              |
+| Jun 02 | **Relatório oral 7:** Trecho da obra e monografia: 7m (1pt) |
+| Jun 09 | **Relatório oral 8:** Trecho da obra: 8m (1pt)              |
+| Jun 16 | **Relatório final:** Trecho da obra e monografia: 10m       |
+| Jun 23 | <del>São João</del>                                         |
+| Jun 30 | _Reservado para segunda chamada e reposição_                |
+| Jul 07 | _Entrega de resultados (online)_                            |
 {: .table .table-sm .table-cronograma}
+
 
 ## Avaliação
 
-A nota final será composta pela soma dos trabalhos de texto e os
-relatórios orais com trechos da obra, em um total de 10 pontos.
+A nota final será composta pela soma de 4 trabalhos de análise e 8
+relatórios orais com trechos da obra, em um total de 10 pontos. Para
+os relatórios e a apresentação você deve entregar um pdf da partitura
+e um mp3 com a performance (Finale, Sibelius, etc).
 
-Para os relatórios e a apresentação você deve entregar um pdf da
-partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc)
-
-O trecho da obra final deverá ter no mínimo 10 minutos de duração e
-usar ao menos a seguinte formação: 1 solista vocal, coro, madeiras
-completos a 2, metais completos a 2, 2 percussionistas, e cordas.
-Contudo, eu recomendo usar madeiras a 3, 4 trompas e 3 trompetes. (A
-composição final deverá ter no mínimo 20 minutos e será concluída em
-Composição X)
+A obra deverá ter no mínimo 10 minutos de duração e usar ao menos a
+seguinte formação: madeiras a 3, 4 trompas, 3 trompetes, 3 trombones,
+tuba, 2 percussionistas, solista vocal, coro, cordas. A composição
+final deverá ter no mínimo 20 minutos e será concluída em Composição
+X.
 
 Os trabalhos só serão aceitos entregues rigorosamente no prazo, no
 início de aula do dia marcado para entrega. Eu não aceito trabalhos
@@ -96,6 +105,7 @@ aceita a perda de dados como desculpa para dilatar o prazo de entrega.
 Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
 para me procurar; depois disso a nota não será modificada.
+
 
 ## Notas
 
@@ -114,9 +124,9 @@ para me procurar; depois disso a nota não será modificada.
 {: .table .table-sm }
 
 
-[1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=1
-[2]: https://www.dropbox.com/s/o604gwvyfw6rlx2/Ravel%20-%20Alborada%20del%20Gracioso.pdf?dl=1
-[3]: https://www.dropbox.com/s/bnkcy1yzctisgin/Ravel%20-%20Alborada%20del%20gracioso.mp3?dl=1
+[1]: https://www.dropbox.com/s/dh7w83o19ao5gek/Ravel%20-%20Rapsodia%20Espanhola%201.pdf?dl=0
+[2]: https://www.dropbox.com/s/o604gwvyfw6rlx2/Ravel%20-%20Alborada%20del%20Gracioso.pdf?dl=0
+[3]: https://www.dropbox.com/s/bnkcy1yzctisgin/Ravel%20-%20Alborada%20del%20gracioso.mp3?dl=0
 
 [20]: https://connect.issaquah.wednet.edu/high/ihs/staff/mr_longmans_orchestras/w/general_orchestra_information/2605/music-terms
 [21]: https://web.library.yale.edu/cataloging/music/instname
