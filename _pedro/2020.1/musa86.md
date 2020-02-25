@@ -15,7 +15,6 @@ grandes dimensões desde o Barroco até o século XX.
 ## Materiais
 
 - [Principles of Orchestration On-line][4]
-- Revisão de Cordas [Livro][2], [Áudio][3]
 - [Termos musicais em diversos idiomas 1][20]
 - [Termos musicais em diversos idiomas 2][21]
 
