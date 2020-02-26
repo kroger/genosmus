@@ -103,6 +103,8 @@ tópico na literatura e no próprio repertório.
 
 ##1. Recursos disponíveis
 
+1. Partituras dos quartetos Op. 33 em formato digital
+   [IMSLP](http://conquest.imslp.info/files/imglnks/usimg/0/01/IMSLP455448-PMLP12766-Op33_comb.pdf)
 1. Partituras digitais de 219 movimentos dos 68 quartetos de Haydn (formato
    kern, conversível para MusicXML)
 1. Ferramentas de análise em desenvolvimento no âmbito da pesquisa:
