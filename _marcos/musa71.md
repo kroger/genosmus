@@ -302,7 +302,7 @@ Aula 24, dia 28/05/2020
 
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-###1. Análise de pequenas formas
+####1. Análise de pequenas formas
 
 Aulas 25 e 26, dias 02 e 04/06/2020
 
