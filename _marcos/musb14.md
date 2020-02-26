@@ -69,19 +69,14 @@ entregue junto à composição.
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
-1. Miniaturas 1 a 3 (peso 4)
-1. Análise de peça do Mikrokosmos de Bartók (peso 1)
+1. Miniaturas 1 a 3 (peso 5)
 1. Composição final (peso 5)
-    1. música (peso 4)
-    1. relatório (peso 1)
 
 Dessa forma, a média final será calculada pela equação 1, onde M
-representa a média, _a_, a soma das notas das  miniaturas, _b,_ a nota
-da análise, _c_ a nota da composição final e _d_, do relatório a
-respeito da composição final.
+representa a média, _m_, a nota de cada miniatura, e _T_, a nota da
+composição final.
 
-![\Large
-x=M=\frac{4a+b+4c+d}{10}](https://latex.codecogs.com/svg.latex?M%3D%5Cfrac%7B4a+b+4c+d%7D%7B10%7D)
+<img src="https://latex.codecogs.com/svg.latex?M=\frac{m_1&plus;m_2&plus;m_3&plus;3T}{6}" title="M=\frac{m_1+m_2+m_3+3T}{6}" />
 (eq.1)
 
 Os trabalhos serão aceitos apenas se:
@@ -166,11 +161,9 @@ semana, em função de uma cirurgia à qual irá se submeter. Previsão para
 final de abril. O professor irá passar trabalhos para casa para serem
 cumpridos nesse período.
 
-[Em construção]
-
-<!-- <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1546056053&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe> -->
+<iframe
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1509130570&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="300"></iframe>
 
 ##1. Trabalhos
 
@@ -192,13 +185,12 @@ impressas na aula da semana posterior.
 - Conteúdo principal: organização de materiais, textura e
   desenvolvimento
 - Formação: Duo de clarinetes
-- Leitura: A definir
 
 ####1. Miniatura 2
 
-- Conteúdo principal: A definir
+- Conteúdo principal: Contraste entre seções
+- Forma binária circular.
 - Formação: Quarteto de trombones
-- Leitura: A definir
 
 ####1. Miniatura 3
 
@@ -206,7 +198,6 @@ impressas na aula da semana posterior.
   na ementa)
 - Formação: Piano solo
 - Entrega da partitura (online): ver data de entrega no cronograma
-- Leitura: A definir
 
 ####1. Possíveis formações instrumentais para as miniaturas
 
@@ -216,11 +207,11 @@ impressas na aula da semana posterior.
 - Duo de clarinetes
 - Duo de oboés (confirmar)
 
-###1. Análise
+<!-- ###1. Análise
 
 O estudante deverá analisar um dos números do Mikrokosmos de Bartók
 seguindo a mesma metodologia de análise realizada durante as aulas ao
-longo do semestre e apresentar à turma em data marcada no calendário.
+longo do semestre e apresentar à turma em data marcada no calendário. -->
 
 ###1. Composição final
 
