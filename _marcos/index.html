@@ -31,18 +31,20 @@ title: Marcos Sampaio
 <div id="toc_container">
   <p class="toc_title">Conteúdos</p>
   <ul class="toc_list">
-    <li><a href="#semestre-atual">Semestre 2020.1</a>
-    <li><a href="#semestres-anteriores">Semestres anteriores</a>
+    <li><a href="#ensino">Ensino</a>
+    <li><a href="#pesquisa">Pesquisa</a>
+    <li><a href="#administracao">Administração</a>
     <li><a href="#salas-horarios">Salas e horários</a>
     <li><a href="#contato">Contato</a>
   </ul>
 </div>
 
-<h2 id="semestre-atual">Semestre 2020.1</h2>
-
+{% assign semestre_atual = site.data.docentes.marcos.semestre %}
 {% assign pages = site.marcos | where:"level","graduacao" | sort %}
 
-<h3>Ensino</h3>
+<h2 id="ensino">Ensino</h2>
+
+<h3>Semestre {{ semestre_atual }}</h3>
 
 <h4>Graduação</h4>
 
@@ -70,24 +72,7 @@ title: Marcos Sampaio
     {% endfor %}
 </ul>
 
-<h3>Pesquisa</h3>
-
-<ul>
-<li>Projeto de pesquisa <a href="https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/" target="_blank">
-Estudo quantitativo de uma coleção de obras de Haydn, Mozart e Beethoven</a></li>
-</ul>
-
-<h3>Administração</h3>
-
-<ul>
-<li>Coordenação do <a href="https://dmusufba.com/composicao-regencia/"
-target="_blank">Colegiado do Curso de Composição e Regência</a> (2019-2021)</li>
-</ul>
-
-<hr>
-<h2 id="semestres-anteriores">Semestres Anteriores</h2>
-
-<h3>Ensino</h3>
+<h3>Semestres anteriores</h3>
 
 {% assign pages = site.marcos | where:"level","graduacao" %}
 <h4>Graduação</h4>
@@ -115,7 +100,6 @@ target="_blank">Colegiado do Curso de Composição e Regência</a> (2019-2021)</
     <li>MUS111 - Composição IV (antiga)</li>
 </ul>
 
-
 {% assign pages = site.marcos | where:"level","pos-graduacao" %}
 <h4>Pós-graduação</h4>
 <pre>2013 a 2016</pre>
@@ -131,20 +115,43 @@ target="_blank">Colegiado do Curso de Composição e Regência</a> (2019-2021)</
     {% endfor %} {% endcomment %}
 </ul>
 
-<h3>Pesquisa</h3>
+<hr>
 
-<pre>2007 a 2018</pre>
+
+<h2 id="pesquisa">Pesquisa</h2>
+
+<h3>Em andamento</h3>
+
+<ul>
+<li>Projeto de pesquisa 
+<a href="https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/" 
+target="_blank">Estudo quantitativo de uma coleção de obras de Haydn,
+ Mozart e Beethoven</a> (iniciada em 2019)</li>
+</ul>
+
+<h3>Atividades concluídas</h3>
 
 <ul>
 <li><a href="https://marcos.sampaio.me/pt-br/projetos/contour-similarity/"
-target="_blank">Algoritmos de similaridade de contornos</a></li>
+target="_blank">Algoritmos de similaridade de contornos</a> (2014 a 2018)</li>
 <li><a href="https://marcos.sampaio.me/pt-br/projetos/contour-composition/"
-target="_blank">Aplicação de contornos na Composição Musical</a></li>
-<li>Composições para flauta solo (1710-1810): levantamento, análise e composição</li>
-<li>Análise automática de harmonia por computador</li>
+target="_blank">Aplicação de contornos na Composição Musical</a> (2007 a 2012)</li>
+<li>Composições para flauta solo (1710-1810): levantamento, análise e composição (2013 a 2014)</li>
+<li>Análise automática de harmonia por computador (2007 a 2009)</li>
 </ul>
 
-<h3>Administração</h3>
+<hr>
+
+<h2 id="administracao">Administração</h2>
+
+<h3>Em andamento</h3>
+
+<ul>
+<li>Coordenação do <a href="https://dmusufba.com/composicao-regencia/"
+target="_blank">Colegiado do Curso de Composição e Regência</a> (2019-2021)</li>
+</ul>
+
+<h3>Atividades concluídas</h3>
 
 <ul>
 <li>Vice-chefia do Departamento de Música (2016-2018)</li>
@@ -199,4 +206,4 @@ target="_blank">Aplicação de contornos na Composição Musical</a></li>
 <hr>
 
 <h2 id="contato">Contato</h2>
-<p>Email: sampaio.marcos@ufba.br</p>
+<p>Email: {{ site.data.docentes.marcos.email }}</p>
