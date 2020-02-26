@@ -347,15 +347,15 @@ analisada em conjunto durante as aulas:
 ##1. Notas e frequência
 
 <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-###1. Gráficos de desempenho da turma
+<!-- ###1. Gráficos de desempenho da turma
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=569784072&amp;format=interactive"
 width="600" height="371" frameborder="0" scrolling="no"
-seamless=""></iframe>
+seamless=""></iframe> -->
 
 ##1. Bibliografia
 
