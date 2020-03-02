@@ -114,6 +114,7 @@ tópico na literatura e no próprio repertório.
 1. [Electronic and Virtual Editions](https://eve.ccarh.org/)
 1. [Archive of Digital Applications in Musicology](https://adam.ccarh.org/)
 1. Bibliografia disponível sobre o tema (ver mais abaixo).
+1. Op 33 n1 mov.1. [Planilha](https://docs.google.com/spreadsheets/d/1ryw2e9lESy7bk44eytLxB-vtFRK9RGUfG3CDtjCf4BY/edit?usp=sharing) com notas.
 
 ##1. Bibliografia
 
