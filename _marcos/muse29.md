@@ -101,6 +101,29 @@ cumpridos nesse período (semanas 8 e 9).
 Para a definição da técnica é aconselhável uma verificação preliminar do
 tópico na literatura e no próprio repertório.
 
+##1. Tópicos individuais
+
+1. Diego Neves: orquestração (princípios)
+1. Fábio Lima: acentos (ou contornos e simetria)
+
+##1. Trabalhos
+
+Para apresentar nas próximas aulas:
+
+#### Em 10/03/2020
+
+Após a definição preliminar do tópico, é preciso verificar o que há de
+bibliografia disponível a seu respeito e se familiarizar com o repertório.
+Para as ações de busca bibliográfica, usar o Google Scholar limitando-se
+aos últimos 10 anos.
+
+1. Listar bibliografia disponível sobre tópico escolhido.
+1. Listar toda bibliografia disponível sobre o estudo do tópico escolhido
+no Op. 33 de Haydn (excelente), nos quartetos de Haydn (ótimo), em Haydn
+(bom). Quanto mais específico melhor.
+1. Verificar superficialmente a presença/impacto do tópico escolhido em
+algum dos movimentos do Op.33 de Haydn.
+
 ##1. Recursos disponíveis
 
 1. Partituras dos quartetos Op. 33 em formato digital
