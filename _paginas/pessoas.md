@@ -16,7 +16,6 @@ Estudantes
 - Me. Gilmário Celso Bispo de Jesus
 - Me. Tharcísio Vaz da Costa de Moraes
 - Alisson Gonçalves da Silva
-- André Matera
 - Carla Patrícia Henriques de Castro
 - Ian Mascarenhas Gusmão
 - Matheus Travassos de Oliveira Ramos
@@ -46,3 +45,4 @@ Pessoas que colaboraram com o Genos:
 - Marina Monroy (bolsista de Iniciação Científica entre nov/2013 e jul/2014)
 - Menahem Hein (bolsista de Iniciação Científica entre ago/2013 e jul/2014)
 - Daiana Maciel (bolsista de Iniciação Científica entre set/2013 e jul/2014)
+- André Matera (voluntário em pesquisa em 2019)
