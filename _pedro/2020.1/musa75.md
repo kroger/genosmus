@@ -29,6 +29,7 @@ de dados como desculpa para dilatar o prazo de entrega.
 Se você acha que eu cometi algum erro na pontuação de algum trabalho,
 você tem uma semana contando a partir da data de entrega do trabalho
 para me procurar; depois disso a nota não será modificada.
+<!-- START DEL -->
 
 ## Materiais
 
@@ -53,6 +54,8 @@ Material para a audição:
 - [Lista de obras para ouvir](/pedro/lista-prova-audicao-lem-7/)
 - [Gravações das obras][3]
 
+<!-- END DEL -->
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das
@@ -72,10 +75,10 @@ eventualidade.
 | Abr 02 | Análise de obras                                                   |
 | Abr 07 | Análise de obras                                                   |
 | Abr 08 | _Aula reposição: tirar dúvidas análise (pátio: 14:50)_             |
-| Abr 09 | <del>Semana santa</del>                                            |
+| Abr 09 | ~~Semana santa~~                                                   |
 | Abr 14 | **Apresentação:** análise de obra                                  |
 | Abr 16 | **Apresentação:** análise de obra                                  |
-| Abr 21 | <del>Tiradentes</del>                                              |
+| Abr 21 | ~~Tiradentes~~                                                     |
 | Abr 23 | **Apresentação:** análise de obra                                  |
 | Abr 28 | **Apresentação:** análise de obra                                  |
 | Abr 30 | Contraponto estrito                                                |
@@ -91,13 +94,13 @@ eventualidade.
 | Jun 02 | Moteto <br/> Palestrina                                            |
 | Jun 04 | Madrigal <br/> Outros compositores renascentistas                  |
 | Jun 09 | Renascimento vs Barroco <br/> Época medieval vs Renascimento       |
-| Jun 11 | <del>Corpus Christi</del>                                          |
+| Jun 11 | ~~Corpus Christi~~                                                 |
 | Jun 16 | Missa <br/> Musica reservata                                       |
 | Jun 18 | Contraponto imitativo                                              |
-| Jun 23 | <del>São João</del>                                                |
-| Jun 25 | <del>São João</del>                                                |
+| Jun 23 | ~~São João~~                                                       |
+| Jun 25 | ~~São João~~                                                       |
 | Jun 30 | _Reservado para segunda chamada e reposição_                       |
-| Jul 02 | <del>Independência da Bahia</del>                                  |
+| Jul 02 | ~~Independência da Bahia~~                                         |
 | Jul 07 | _Reservado para segunda chamada e reposição_                       |
 | Jul 09 | _Entrega de resultados (online)_                                   |
 {: .table .table-sm .table-cronograma}

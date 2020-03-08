@@ -12,6 +12,8 @@ orquestra e coro e orquestra -- bem como o estudo analítico das
 texturas orquestrais, com audição de obras representativas de médias e
 grandes dimensões desde o Barroco até o século XX.
 
+<!-- START DEL -->
+
 ## Materiais
 
 - [Principles of Orchestration On-line][4]
@@ -51,6 +53,8 @@ página 5) e comparar com versão de piano em pequeno relatório escrito.
 Orquestra][14]. [Áudio][15]. [Partitura Piano][16]. [Áudio Piano][17]
 -->
 
+<!-- END DEL -->
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das
@@ -60,7 +64,7 @@ eventualidade.
 | Data   | Conteúdo                                                 |
 | ---    | ---                                                      |
 | Mar 11 | Revisão de Cordas                                        |
-| Mar 18 | <del>Greve educação</del>                                |
+| Mar 18 | ~~Greve educação~~                                       |
 | Mar 25 | **Trabalho 1** (1.25 pts) <br/> Orquestração para Cordas |
 | Abr 01 | Revisão Madeiras                                         |
 | Abr 08 | **Trabalho 2** (1.25 pts)                                |
@@ -74,7 +78,7 @@ eventualidade.
 | Jun 03 | **Trabalho 6** (1.25 pts)                                |
 | Jun 10 | Análise de obras                                         |
 | Jun 17 | **Trabalho Final** (2.5 pts)                             |
-| Jun 24 | <del>São João</del>                                      |
+| Jun 24 | ~~São João~~                                             |
 | Jul 01 | _Reservado para segunda chamada e reposição_             |
 | Jul 08 | _Entrega de resultados (online)_                         |
 {: .table .table-sm .table-cronograma}

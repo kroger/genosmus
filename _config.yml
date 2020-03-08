@@ -6,7 +6,7 @@ google_analytics: "UA-25220567-1"
 timezone: "America/Bahia"
 
 markdown: kramdown
-exclude: [.idea, img, vendor, .bundle, bower_components, "_pedro/anterior"]
+exclude: [.idea, img, vendor, .bundle, bower_components, "_pedro/anterior", "out"]
 
 collections:
   paginas:

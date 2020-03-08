@@ -11,6 +11,7 @@ textuais relacionados às estruturas de grandes dimensões, bem como
 fenômenos extra-musicais ligados a estas, com audição comentada de
 obras representativas do século XX, de grandes dimensões.
 
+<!-- START DEL -->
 
 ## Materiais
 
@@ -33,6 +34,8 @@ obras representativas do século XX, de grandes dimensões.
 
   - [Composições do Século 21](/pedro/composicoes-do-seculo-21/)
 
+
+<!-- END DEL -->
 
 ### Trabalhos
 
@@ -63,7 +66,7 @@ eventualidade.
 | Mar 31 | **Trabalho 3** (0.5 pts) e análise de obras                 |
 | Abr 07 | **Trabalho 4** (0.5 pts) e análise de obras                 |
 | Abr 14 | **Relatório oral 1:** Trecho da obra: 1m (1pt)              |
-| Abr 21 | <del>Tiradentes</del>                                       |
+| Abr 21 | ~~Tiradentes~~                                              |
 | Abr 28 | **Relatório oral 2:** Trecho da obra e monografia: 2m (1pt) |
 | Mai 05 | **Relatório oral 3:** Trecho da obra: 3m (1pt)              |
 | Mai 12 | **Relatório oral 4:** Trecho da obra: 4m (1pt)              |
@@ -72,7 +75,7 @@ eventualidade.
 | Jun 02 | **Relatório oral 7:** Trecho da obra e monografia: 7m (1pt) |
 | Jun 09 | **Relatório oral 8:** Trecho da obra: 8m (1pt)              |
 | Jun 16 | **Relatório final:** Trecho da obra e monografia: 10m       |
-| Jun 23 | <del>São João</del>                                         |
+| Jun 23 | ~~São João~~                                                |
 | Jun 30 | _Reservado para segunda chamada e reposição_                |
 | Jul 07 | _Entrega de resultados (online)_                            |
 {: .table .table-sm .table-cronograma}
