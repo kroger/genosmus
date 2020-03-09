@@ -157,9 +157,9 @@ O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
 **OBS**: O professor ficará afastado de todas as funções por cerca de uma
-semana, em função de uma cirurgia à qual irá se submeter. Previsão para
-final de abril. O professor irá passar trabalhos para casa para serem
-cumpridos nesse período.
+semana, em função de uma cirurgia à qual irá se submeter, no início de
+abril. O professor irá passar trabalhos para casa para serem cumpridos
+nesse período.
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1509130570&amp;single=true&amp;widget=true&amp;headers=false"

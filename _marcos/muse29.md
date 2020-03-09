@@ -86,7 +86,7 @@ As notas serão definidas de acordo com o seguinte critério:
 **OBS**: O professor ficará afastado de todas as funções por cerca de uma
 semana, em função de uma cirurgia à qual irá se submeter. Previsão para
 final de abril. O professor irá passar trabalhos para casa para serem
-cumpridos nesse período (semanas 8 e 9).
+cumpridos nesse período (semanas 6 e 7).
 
 | Semana  | Descrição                                                         |
 |:--------|:------------------------------------------------------------------|
