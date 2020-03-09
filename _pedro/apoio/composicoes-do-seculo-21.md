@@ -3,45 +3,38 @@ title: Composições do Século 21
 layout: page
 ---
 
+1. Krzysztof Penderecki. Credo In Unum Deum. 1998, Grammy em 2001
 
-- Krzysztof Penderecki- Credo In Unum Deum. 1998, Grammy em 2001
+2. Ainadamar. Osvaldo Golijov. 2003. Compositor argentino.
 
-- Alessandra Salvati. Tektosyne: Three Architectures for Orchestra no. 3
-  Entasis. Tektosyne is the winner score of The American Prize 2013 in
-  Composition.
+3. Alessandra Salvati. 2012. Tektosyne: Three Architectures for
+  Orchestra no. 3 Entasis. Tektosyne is the winner score of The
+  American Prize 2013 in Composition.
 
-- Ivan Božičević. Microgrooves, Microscope Romp. Elaine Funaro,
+4. Ivan Božičević. Microgrooves, Microscope Romp. Elaine Funaro,
   cravista. 2012 Alienor Composition Competition.
 
-- Mark Janello: Six Harpsichord Miniatures (performed by Rebecca
-  Pechefsky). Winner of the 2012 Aliénor Competition for new music for
-  harpsichord. It was premiered in Cincinnati, Ohio,by Rebecca Pechefsky
-  on March 23, 2012.
-
-- Hee Yun Kim, Memoir of Dong-Hak. Won the Festival Pablo Casals
+5. Hee Yun Kim, Memoir of Dong-Hak. Won the Festival Pablo Casals
   International Composition Competition. 2008.
   [Listen](http://heeyunkim.net/listen/)
 
-- [Thorsten Encke](http://www.thorsten-encke.de/en/werke/kammermusik/). Streichquartett (2005). Festival Pablo Casals.
+6. Henri Dutilleux,Correspondances 2003
 
-- [Michel Petrossian](http://www.imkeb.be/cgi?usr=ews7pu7efe&lg=en&pag=1698&tab=102&rec=2661&frm=0&idd=4073&fluxx=9254032) : In the Wake of Ea. Queen Elisabeth
+7. Thorsten Encke. Vivacity for 14 Solo Strings. 2015. (Festival Pablo
+  Casals)
 
-- Aeternum by Pierre Jalbert. Masterprize 2001.
+8. Kaija Saariaho. Laterna Magica. 2009. Comissionada pela Filarmonica
+  de Berlin.
 
-- Thomas Adès. Polaris (2010)
+9. Natan Ourives. Rapsódia sobre temas de Smetak. 2014
 
-- Thomas Adès: Violin Concerto Concentric Paths, op. 24
+10. Pierre Jalbert. Aeternum. Masterprize 2001.
 
-- Henri Dutilleux,Correspondances 2003
+11. John Adams. On the Transmigration of Souls (2002). Pulitzer prize
 
-- Johannes Passion/ MacMillan (2005)
-  
-- James MacMillan. Tu es Petrus
+12. Thomas Adès. Polaris (2010)
 
-- John Adams. On the Transmigration of Souls (2002). Pulitzer prize
+13. Michel Petrossian. In the Wake of Ea. Queen Elisabeth Prize for
+  Composition. 2012
 
-- Kaija Saariaho : Laterna Magica
-
-- Unsuk Chin. Double Concerto (2011)
-
-- Onut Narbutait. oratorio Centones meae urbi
+14. A. Espinheira. E tornou-se fábula. Bienal 2010.
