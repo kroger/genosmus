@@ -38,3 +38,5 @@ layout: page
   Composition. 2012
 
 14. A. Espinheira. E tornou-se fábula. Bienal 2010.
+
+15. Samuel Adler. Gedenkfeier for String Orchestra. 2018
