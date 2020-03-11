@@ -129,7 +129,7 @@ algum dos movimentos do Op.33 de Haydn.
 1. Partituras dos quartetos Op. 33 em formato digital
    [IMSLP](http://conquest.imslp.info/files/imglnks/usimg/0/01/IMSLP455448-PMLP12766-Op33_comb.pdf)
 1. Partituras digitais de 219 movimentos dos 68 quartetos de Haydn (formato
-   kern, conversível para MusicXML)
+   kern, conversível para MusicXML) [KernScores](http://kern.ccarh.org/)
 1. Ferramentas de análise em desenvolvimento no âmbito da pesquisa:
    [HMB Analysis](https://hmb.sampaio.me) e
    [ContourMetrics](https://contour.sampaio.me).
@@ -138,6 +138,10 @@ algum dos movimentos do Op.33 de Haydn.
 1. [Archive of Digital Applications in Musicology](https://adam.ccarh.org/)
 1. Bibliografia disponível sobre o tema (ver mais abaixo).
 1. Op 33 n1 mov.1. [Planilha](https://docs.google.com/spreadsheets/d/1ryw2e9lESy7bk44eytLxB-vtFRK9RGUfG3CDtjCf4BY/edit?usp=sharing) com notas.
+1. [Portal de Periódicos da CAPES](https://www.periodicos.capes.gov.br/)
+1. [JSTOR](https://www.jstor.org/)
+1. Página oficial do [Humdrum](https://www.humdrum.org/)
+1. Visualizador de Kern [Verovio](http://verovio.humdrum.org/)
 
 ##1. Bibliografia
 
