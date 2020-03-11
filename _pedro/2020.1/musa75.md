@@ -40,6 +40,11 @@ para me procurar; depois disso a nota não será modificada.
 - [Mode](https://en.wikipedia.org/wiki/Mode_(music))
 - [Music of Greece](https://en.wikipedia.org/wiki/Music_of_Greece)
 
+
+### Slides das Aulas
+
+- [Notas Melódicas](https://www.dropbox.com/s/47rhkqd5ue2r0pc/Notas%20Melodicas.pptx?dl=0)
+
 <!--
 ## Trabalho de Análise
 
