@@ -31,6 +31,21 @@ você tem uma semana contando a partir da data de entrega do trabalho
 para me procurar; depois disso a nota não será modificada.
 <!-- START DEL -->
 
+
+## Trabalhos On-Line
+
+- Ouvir as obras para a **prova de audição**
+- Fazer análise das notas melódicas do Coral 142. [Partitura][22] e [Áudio][23]
+- Fazer análise das notas melódicas do Coral 109. [Partitura][20] e [Áudio][21]
+- Fazer análise harmônica com numerais romanos do Coral 142
+- Fazer análise harmônica com numerais romanos do Coral 109
+
+[20]: https://www.dropbox.com/s/g35v4widtfxvlhw/Coral%20109.pdf?dl=0
+[21]: https://www.dropbox.com/s/rz3xsuy94olc1c9/Coral%20109.m4a?dl=0
+[22]: https://www.dropbox.com/s/ze039nb02oo5910/Coral%20142.pdf?dl=0
+[23]: https://www.dropbox.com/s/va0ok32mn0cc4cy/Coral%20142.m4a?dl=0
+
+
 ## Materiais
 
 - [Kostka Harmonia][1]
@@ -45,12 +60,13 @@ para me procurar; depois disso a nota não será modificada.
 
 - [Notas Melódicas](https://www.dropbox.com/s/47rhkqd5ue2r0pc/Notas%20Melodicas.pptx?dl=0)
 
+
 <!--
 ## Trabalho de Análise
 
   * [Trabalho de Análise](/pedro/trabalho-analise/)
-
 -->
+
 
 ## Prova de Revisão e Audição
 
@@ -60,6 +76,7 @@ Material para a audição:
 - [Gravações das obras][3]
 
 <!-- END DEL -->
+
 
 ## Cronograma
 
@@ -71,19 +88,19 @@ eventualidade.
 | ---    | ---                                                                |
 | Mar 10 | Introdução ao curso. Revisão de harmonia e análise                 |
 | Mar 12 | Revisão                                                            |
-| Mar 17 | Revisão                                                            |
-| Mar 19 | Revisão                                                            |
-| Mar 24 | **Prova de Revisão (análise e harmonia) e Audição**                |
-| Mar 26 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras |
-| Mar 31 | Análise de obras                                                   |
-| Abr 01 | _Aula reposição: tirar dúvidas análises (pátio: 14:50)_            |
-| Abr 02 | Análise de obras                                                   |
+| Mar 17 | Sem aula presencial. Trabalhos online (prevenção 🦠)               |
+| Mar 19 | Sem aula presencial. Trabalhos online (prevenção 🦠)               |
+| Mar 24 | Revisão                                                            |
+| Mar 26 | Revisão                                                            |
+| Mar 31 | **Prova de Revisão (análise e harmonia) e Audição**                |
+| Abr 02 | Visão geral histórica & Modalidade vs Tonalidade: análise de obras |
 | Abr 07 | Análise de obras                                                   |
-| Abr 08 | _Aula reposição: tirar dúvidas análise (pátio: 14:50)_             |
 | Abr 09 | ~~Semana santa~~                                                   |
 | Abr 14 | **Apresentação:** análise de obra                                  |
+| Abr 15 | _Aula de reposição: tirar dúvidas (pátio: 14:50)_                  |
 | Abr 16 | **Apresentação:** análise de obra                                  |
 | Abr 21 | ~~Tiradentes~~                                                     |
+| Abr 22 | _Aula de reposição: tirar dúvidas (pátio: 14:50)_                  |
 | Abr 23 | **Apresentação:** análise de obra                                  |
 | Abr 28 | **Apresentação:** análise de obra                                  |
 | Abr 30 | Contraponto estrito                                                |

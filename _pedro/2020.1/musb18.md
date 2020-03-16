@@ -13,6 +13,13 @@ obras representativas do século XX, de grandes dimensões.
 
 <!-- START DEL -->
 
+## Trabalhos On-Line
+
+- Fazer o **trabalho 1** (listado abaixo)
+- Ler o material na seção de "Texto" abaixo (métrica, Rima, Versificação, etc)
+- Buscar e definir o texto para a composição
+
+
 ## Materiais
 
 - [Termos musicais em diversos idiomas 1][20]
@@ -61,10 +68,10 @@ eventualidade.
 | Data   | Conteúdo                                                    |
 | ---    | ---                                                         |
 | Mar 10 | Introdução ao curso e obras do século 21                    |
-| Mar 17 | **Trabalho 1** (0.5 pt) e brainstorm das peças              |
-| Mar 24 | **Trabalho 2** (0.5 pts) e introdução a versificação        |
-| Mar 31 | **Trabalho 3** (0.5 pts) e análise de obras                 |
-| Abr 07 | **Trabalho 4** (0.5 pts) e análise de obras                 |
+| Mar 17 | Sem aula presencial. Trabalhos online (prevenção 🦠)        |
+| Mar 24 | **Trabalho 1** (0.5 pt) e introdução a versificação         |
+| Mar 31 | **Trabalho 2 e 3** (0.5 pt) e análise de obras              |
+| Abr 07 | **Trabalho 4** (0.5 pt) e análise de obras                  |
 | Abr 14 | **Relatório oral 1:** Trecho da obra: 1m (1pt)              |
 | Abr 21 | ~~Tiradentes~~                                              |
 | Abr 28 | **Relatório oral 2:** Trecho da obra e monografia: 2m (1pt) |
