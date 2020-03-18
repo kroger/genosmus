@@ -5,6 +5,9 @@ toc: true
 level: graduacao
 ---
 
+**Informação importante**: aulas suspensas a partir de 17/03 por
+determinação da Reitoria da UFBA.
+
 ##1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto

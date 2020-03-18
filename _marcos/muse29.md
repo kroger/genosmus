@@ -5,6 +5,9 @@ toc: true
 level: pos-graduacao
 ---
 
+**Informação importante**: aulas suspensas a partir de 17/03 por
+determinação da Reitoria da UFBA.
+
 ##1. Informações preliminares
 
 No semestre 2020.1 irei ministrar a disciplina de Tópicos em Teoria e
