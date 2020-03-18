@@ -106,8 +106,11 @@ tópico na literatura e no próprio repertório.
 
 ##1. Tópicos individuais
 
-1. Diego Neves: orquestração (princípios)
-1. Fábio Lima: acentos (ou contornos e simetria)
+1. Diego Neves: Orquestração e registros.
+1. Fábio Lima: Acentos melódicos.
+1. Gilmário: Técnicas de interação entre elementos sonoros e público.
+1. Dennis: Teoria neo-riemanniana.
+1. Alisson: a definir.
 
 ##1. Trabalhos
 
