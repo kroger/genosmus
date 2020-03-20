@@ -1,6 +1,6 @@
 ---
 title: MUSA87 -- Instrumentação e Orquestração IV
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

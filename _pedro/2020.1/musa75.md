@@ -1,6 +1,6 @@
 ---
 title: MUSA75 -- Literatura e Estruturação Musical VII
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

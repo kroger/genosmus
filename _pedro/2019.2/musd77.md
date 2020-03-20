@@ -1,5 +1,5 @@
 ---
-layout: disciplina
+layout: disciplinak
 title: MUSD77 -- Estágio Supervisionado
 ---
 

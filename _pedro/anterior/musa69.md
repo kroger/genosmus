@@ -1,6 +1,6 @@
 ---
 title: 'MUSA69 -- Literatura e Estruturação Musical I'
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

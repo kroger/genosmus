@@ -1,6 +1,6 @@
 ---
 title: MUSB19 – Composição X
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

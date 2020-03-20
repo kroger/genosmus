@@ -1,6 +1,6 @@
 ---
 title: MUSB88 -- Monografia II
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

@@ -1,6 +1,6 @@
 ---
 title: MUSA86 -- Instrumentação e Orquestração III
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

@@ -1,6 +1,6 @@
 ---
 title: MUSA90 – Técnicas de análise 1
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

@@ -1,6 +1,6 @@
 ---
 title: 'MUSA84 -- Instrumentação e Orquestração I'
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

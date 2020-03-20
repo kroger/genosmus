@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2 class="blog-post-title">{{ page.title | replace: '--', '&ndash;' }}</h2>
+{% assign docente = site.data.docentes[page.collection] %}
+<p>
+  <b>Professor:</b>
+  <a href="{{ docente.website }}">{{ docente.nome }}</a>
+  ({{ docente.email }})
+</p>
+
+<div class="alert alert-danger" role="alert">
+  <strong>ATENÇÃO:</strong>
+  UFBA <a href="https://www.ufba.br/ufba_em_pauta/ufba-interrompe-atividades-por-tempo-indeterminado-em-combate-ao-coronavirus">interrompe
+  aulas por tempo indeterminado</a> em combate ao coronavírus. O
+  cronograma de aulas será atualizado quando as aulas retornarem.
+</div>
+
+{{ content | toc }}

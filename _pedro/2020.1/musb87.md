@@ -1,6 +1,6 @@
 ---
 title: MUSB87 -- Monografia I
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

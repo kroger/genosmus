@@ -1,6 +1,6 @@
 ---
 title: 'MUSB16 -- Composição 7'
-layout: disciplina
+layout: disciplinak
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'MUSB17 -- Composição 8'
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Avaliação

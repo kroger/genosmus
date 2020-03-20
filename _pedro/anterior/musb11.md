@@ -1,6 +1,6 @@
 ---
 title: 'MUSB11 -- Composição II'
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Site

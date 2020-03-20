@@ -1,6 +1,6 @@
 ---
 title: MUSA76 -- Literatura e Estruturação Musical VIII
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa

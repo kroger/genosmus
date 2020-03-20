@@ -1,6 +1,6 @@
 ---
 title: 'MUSB10 -- Composição I'
-layout: disciplina
+layout: disciplinak
 ---
 
 ## Ementa
