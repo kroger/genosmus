@@ -148,6 +148,7 @@ algum dos movimentos do Op.33 de Haydn.
 1. [JSTOR](https://www.jstor.org/)
 1. Página oficial do [Humdrum](https://www.humdrum.org/)
 1. Visualizador de Kern [Verovio](http://verovio.humdrum.org/)
+1. [Humdrum homework](https://wiki.ccarh.org/wiki/Humdrum_homework). CCARH.
 
 ##1. Bibliografia
 
