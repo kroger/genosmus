@@ -38,6 +38,15 @@ pesquisa:
 
 ## Onde publicar
 
+### Per Musi - Scholarly Music Journal (UFMG) - Qualis A1
+
+Fluxo contínuo
+
+- Temas:
+  - General Topics
+  - Music and Gender
+- [Link](https://periodicos.ufmg.br/index.php/permusi/issue/view/287)
+
 ### Revista Orfeu (UDESC) – Qualis A1
 
 Dossiê "POÉTICAS DA COMPOSIÇÃO CONTEMPORÂNEA" (v.5, n.1, 2020)
