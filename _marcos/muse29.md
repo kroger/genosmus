@@ -150,6 +150,10 @@ algum dos movimentos do Op.33 de Haydn.
 1. Visualizador de Kern [Verovio](http://verovio.humdrum.org/)
 1. [Humdrum homework](https://wiki.ccarh.org/wiki/Humdrum_homework). CCARH.
 
+##1. Links
+
+1. [McKay, Cory. Digital Musicology via jSymbolic and Machine Learning](http://www.music.mcgill.ca/~cmckay/papers/musictech/mckay20digital.pdf)
+
 ##1. Bibliografia
 
 A lista abaixo contém toda a bibliografia da pesquisa, com itens sobre
