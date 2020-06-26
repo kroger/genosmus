@@ -15,5 +15,5 @@ pdf-clean:
 
 %.pdf: %.md
 	gsed -e '/## Notas/,/{: .table .table-sm }/d' $< -e '/^{:/d' -e '/<!-- START DEL -->/,/<!-- END DEL -->/d' \
--e '6 i __Semestre:__ 2020.1 \n\n__Professor:__ Pedro Kroger (kroger@pedrokroger.net) \n\n__Site:__ http://genosmus.com/pedro/$(basename $(notdir $<)) \n' | \
+-e '6 i __Semestre:__ 2020.1 \n\n__Professor:__ Pedro Kroger (kroger@ufba.br) \n\n__Site:__ http://genosmus.com/pedro/$(basename $(notdir $<)) \n' | \
 pandoc -o out/$@ -V geometry:"margin=1.5cm,a4paper" -V fontsize=11pt -V mainfont="Georgia" --pdf-engine=xelatex --from=markdown
