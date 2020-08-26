@@ -56,6 +56,7 @@ title: Marcos Sampaio
   <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
   {% endif %}
   {% endfor %}
+  <li>MUSF26 &ndash; Introdução à análise musical</li>
 </ul>
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" | sort %}
@@ -102,6 +103,15 @@ title: Marcos Sampaio
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" %}
 <h4>Pós-graduação</h4>
+<pre>2020 a {{ 'now' | date: "%Y" }}</pre>
+<ul>
+    {% for page in pages %}
+    {% unless page.new %}
+    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    {% endunless %}
+    {% endfor %}
+</ul>
+
 <pre>2013 a 2016</pre>
 <ul>
     <li>MUS504 – Estudos especiais – Teoria de Contornos</li>
@@ -116,7 +126,6 @@ title: Marcos Sampaio
 </ul>
 
 <hr>
-
 
 <h2 id="pesquisa">Pesquisa</h2>
 
