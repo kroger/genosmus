@@ -1,0 +1,112 @@
+---
+title: 'MUSF26 -- Introdução à análise musical'
+layout: disciplina
+toc: true
+level: graduacao
+---
+
+##1. Informações preliminares
+
+Este componente foi criado no contexto do Semestre Letivo Suplementar
+2020 da UFBA e será ministrada em conjunto com o Prof. Flávio de Queiroz.
+
+##1. Ementa
+
+Estudo dos elementos básicos da Análise Musical.
+
+##1. Objetivos
+
+### Objetivo geral
+
+Desenvolver aptidão em analisar os elementos básicos das formas musicais.
+
+### Objetivos específicos
+
+1. Identificar os motivos geradores de uma frase musical.
+1. Identificar frases musicais.
+1. Identificar unidades que são formadas a partir de conexões entre
+   frases musicais (períodos, grupos de frases e outros).
+1. Forma unitária.
+1. Forma binária.
+
+##1. Conteúdo programático
+
+1. Motivo musical, frase e semi-frase, combinações de frases, conexão
+   de tais elementos com a Harmonia.
+1. Princípios das formas unitária e binária.
+
+##1. Metodologia
+
+Modalidade de ensino à distância, com atividades síncronas e
+assíncronas.
+
+##1. Ambientes virtuais utilizados
+
+1. Moodle UFBA
+1. MConf RNP
+1. Youtube
+1. Zoom
+1. Skype
+
+##1. Cronograma
+
+| Aula | Data       | Conteúdo                                                                   |
+|:-----|:-----------|:---------------------------------------------------------------------------|
+| 1    | 2020-09-09 | Apresentação da proposta, definição do repertório e técnicas de análise    |
+| 2    | 2020-09-16 | Contexto histórico; identificação de elementos a serem analisados          |
+| 3    | 2020-09-23 | Análise prévia e análise de obras                                          |
+| 4    | 2020-09-30 | Análise prévia e análise de obras                                          |
+| 5    | 2020-10-07 | Análise prévia e análise de obras                                          |
+| 6    | 2020-10-14 | Redação de texto analítico e análise de obras                              |
+| 7    | 2020-10-21 | Análise prévia e análise de obras                                          |
+| 8    | 2020-10-28 | Redação de texto analítico, análise de obras e definição do trabalho final |
+| 9    | 2020-11-04 | Análise prévia e análise de obras e definição do trabalho final            |
+| 10   | 2020-11-11 | Análise prévia e consultas para trabalho final                             |
+| 11   | 2020-11-18 | Análise prévia e consultas para trabalho final                             |
+| 12   | 2020-11-25 | Consultas para trabalho final                                              |
+| 13   | 2020-12-02 | Consultas para trabalho final                                              |
+| 14   | 2020-12-09 | Apresentação do trabalho final                                             |
+| 15   | 2020-12-16 | Entrega de resultados                                                      |
+|      |            |                                                                            |
+{: .table .table-sm}
+
+##1. Avaliação
+
+- Realização semanal dos exercícios (análises de partituras).
+- Trabalho final.
+
+
+<!-- ##1. Trabalhos -->
+
+<!-- ##1. Recursos disponíveis -->
+
+<!-- ##1. Links -->
+
+##1. Bibliografia
+
+### Básica
+
+1. Green, Douglass. Form in Tonal Music. An Introduction to
+   Analysis. Chicago: Halt, Rinehart & Winston, 1979.
+
+1. Kostka, S. & Payne, D. Tonal Harmony. New York: Alfred A. Knopf,
+   1989.
+
+1. Kohs, E. B. Musical Form: Studies in Analysis and
+   Synthesis. Boston: Houghton Wifflin, 1976
+
+1. Zamacois, Joaquín. 1960. Curso de Formas Musicales: Con Numerosos
+   Ejemplos Musicales. Barcelona: Editorial Labor.
+
+
+### Complementar
+
+1. Grove, George, and Stanley Sadie. 1980. The New Grove Dictionary of
+   Music and Musicians. Edited by Stanley Sadie. 2nd ed. London,
+   Washington: Macmillan Publishers.
+
+1. Michels, Ulrich. Atlas de música. Madrid: Alianza, 1982.
+
+1. Queiroz, Flávio José Gomes de. 2005. “Princípios Gerais para
+   Realização de Baixos Cifrados.” Disponível em
+   [http://bit.ly/2GK93me](http://bit.ly/2GK93me).
