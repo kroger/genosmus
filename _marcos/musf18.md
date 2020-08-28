@@ -94,7 +94,10 @@ acompanhamento e trabalho final.
 
 <!-- ##1. Recursos disponíveis -->
 
-<!-- ##1. Links -->
+##1. Links
+
+- Partituras do Opus 50 de Haydn no [IMSLP](https://imslp.org/wiki/String_Quartets,_Op.50_(Haydn,_Joseph)).
+- Gravações diversas do Opus 50 de Haydn no [Youtube](https://www.youtube.com/results?search_query=haydn+op.50).
 
 ##1. Bibliografia
 
@@ -141,3 +144,12 @@ acompanhamento e trabalho final.
 
 1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal
    Theory. Englewood Cliffs, NJ: Prentice-Hall.
+
+### Haydn e quartetos de cordas Opus 50
+
+1. Grave, Floyd K., and Margaret Grave. 2006. The String Quartets of
+   Joseph Haydn. New York, NY: Oxford University
+   Press.
+
+1. Sutcliffe, W. Dean. 1992. Haydn: String Quartets, Op. 50. Edited by
+   Julian Rushton. Cambridge: Cambridge University Press.
