@@ -15,6 +15,14 @@ estudados em outros componentes curriculares da Escola de Música.
 A proposta para o semestre é o estudo de aspectos harmônico-formais
 dos quartetos de cordas opus 50 de Joseph Haydn.
 
+Para acompanhar este curso é necessário conhecimento dos seguintes
+conteúdos: condução de vozes, notas melódicas, harmonia diatônica e
+cromática (funções secundárias, empréstimo modal, acordes alterados,
+acordes de nona, sextas aumentadas e napolitana), pequenas formas
+(binárias, ternárias), formas compostas, Forma Sonata, Rondó e Tema e
+variações. Estes conteúdos compõem os programas de Literatura e
+Estruturação Musical I, II, III e IV.
+
 ##1. Ementa
 
 Estudo analítico de repertórios de elevado grau de complexidade
