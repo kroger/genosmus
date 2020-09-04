@@ -80,7 +80,14 @@ assíncronas.
 
 <!-- ##1. Recursos disponíveis -->
 
-<!-- ##1. Links -->
+##1. Links
+
+- Diebold, Johan. prel. 21 [IMSLP](https://ks.imslp.net/files/imglnks/usimg/3/37/IMSLP85001-SIBLEY1802.13363.8dc5-39087012432912vol_1.pdf)
+- Bach, J. S. Menuet do Pequeno Livro de Ana Magdalena [IMSLP](https://ks.imslp.net/files/imglnks/usimg/5/58/IMSLP582238-PMLP06107-AMBach_21_Extraits.pdf)
+- Clementi, M. Op. 36 n.3, 2o mov.
+ [IMSLP](https://ks.imslp.net/files/imglnks/usimg/1/17/IMSLP02566-Clementi_-_Sonata_Op._36,_No.3.pdf)
+- Mettenleiter, B. In Diebold, n.33
+ [IMSLP](https://ks.imslp.net/files/imglnks/usimg/3/38/IMSLP283073-PMLP459404-JDiebold_175_Neue_Orgelst%C3%BCcke,_Op.70.pdf)
 
 ##1. Bibliografia
 
