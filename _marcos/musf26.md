@@ -117,3 +117,7 @@ assíncronas.
 1. Queiroz, Flávio José Gomes de. 2005. “Princípios Gerais para
    Realização de Baixos Cifrados.” Disponível em
    [http://bit.ly/2GK93me](http://bit.ly/2GK93me).
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.

@@ -152,3 +152,7 @@ acompanhamento e trabalho final.
 
 1. Sutcliffe, W. Dean. 1992. Haydn: String Quartets, Op. 50. Edited by
    Julian Rushton. Cambridge: Cambridge University Press.
+
+<hr>
+
+Última atualização em {% last_modified_at %d/%m/%Y, %H:%M %}.
