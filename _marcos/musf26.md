@@ -42,11 +42,11 @@ assíncronas.
 
 ##1. Ambientes virtuais utilizados
 
-1. Moodle UFBA
-1. MConf RNP
-1. Youtube
+1. [Moodle UFBA](https://ava.ufba.br/course/view.php?id=13589)
+1. Google Meet institucional UFBA
 1. Zoom
 1. Skype
+
 
 ##1. Cronograma
 
