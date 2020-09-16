@@ -88,6 +88,12 @@ assíncronas.
  [IMSLP](https://ks.imslp.net/files/imglnks/usimg/1/17/IMSLP02566-Clementi_-_Sonata_Op._36,_No.3.pdf)
 - Mettenleiter, B. In Diebold, n.33
  [IMSLP](https://ks.imslp.net/files/imglnks/usimg/3/38/IMSLP283073-PMLP459404-JDiebold_175_Neue_Orgelst%C3%BCcke,_Op.70.pdf)
+ 
+##1. Vídeos
+
+Playlist da disciplina:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuRmdq29ACm5edfqBGK-IczmYJspT3iQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##1. Bibliografia
 
