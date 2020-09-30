@@ -160,7 +160,7 @@ A lista abaixo contém toda a bibliografia da pesquisa, com itens sobre
 Musicologia Computacional e Mozart/Beethoven, que se afastam um pouco do
 escopo da disciplina.
 
-<iframe width="100%" height="600px" src="https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fstatic%2Fbibliografia.bib"></iframe>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fstatic%2Fbibliografia.bib&jsonp=1"></script>
 
 <hr>
 
