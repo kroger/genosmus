@@ -5,24 +5,26 @@ title: Pessoas
 
 ## Membros Atuais
 
+### Pesquisadores
+
 - [Dr. Pedro Kroger](https://pedrokroger.net)
 - [Dr. Marcos da Silva Sampaio](https://marcos.sampaio.me)
 - [Dr. Guilherme Bertissolo](https://guilhermebertissolo.wordpress.com/)
 - [Dr. Alexandre Espinheira](https://alespinheira.wordpress.com/)
 
-Estudantes
+### Estudantes
 
 - Me. Dennis Queiroz de Carvalho
 - Me. Gilmário Celso Bispo de Jesus
 - Me. Tharcísio Vaz da Costa de Moraes
 - Alisson Gonçalves da Silva
-- Carla Patrícia Henriques de Castro
 - Ian Mascarenhas Gusmão
-- Matheus Travassos de Oliveira Ramos
 - Paulo Roberto Pitta da Fonseca Filho
 - Vicente Sanches de Oliveira
+- Jaderson Cardona de Oliveira
+- Pedro de Andrade Vieira
 
-## Membros
+## Ex-membros
 
 Pessoas que colaboraram com o Genos:
 
@@ -46,3 +48,5 @@ Pessoas que colaboraram com o Genos:
 - Menahem Hein (bolsista de Iniciação Científica entre ago/2013 e jul/2014)
 - Daiana Maciel (bolsista de Iniciação Científica entre set/2013 e jul/2014)
 - André Matera (voluntário em pesquisa em 2019)
+- Carla Patrícia Henriques de Castro (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
+- Matheus Travassos de Oliveira Ramos (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
