@@ -17,8 +17,8 @@ title: Pessoas
 - Me. Dennis Queiroz de Carvalho
 - Me. Gilmário Celso Bispo de Jesus
 - Me. Tharcísio Vaz da Costa de Moraes
-- Alisson Gonçalves da Silva
-- Ian Mascarenhas Gusmão
+- Me. Alisson Gonçalves da Silva
+- Lisa Mascarenhas Gusmão
 - Paulo Roberto Pitta da Fonseca Filho
 - Vicente Sanches de Oliveira
 - Jaderson Cardona de Oliveira
