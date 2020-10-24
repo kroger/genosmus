@@ -27,7 +27,7 @@ melhor os temas dos colegas e produzir um texto publicável.
 O trabalho proposto para essa disciplina é parte do projeto de pesquisa que
 estou desenvolvendo, sobre relações entre obras de Haydn, Mozart, Beethoven,
 atualmente na etapa "Haydn"
-([ver aqui](https://marcos.sampaio.me/pt-br/projetos/hmb-analysis/)).
+([ver aqui](https://marcos.sampaio.me/project/haydn-mozart-beethoven/)).
 
 Dia, horário e local: Terças-feiras, das 14:50 às 17:35, no GenosLab.
 
@@ -160,7 +160,7 @@ A lista abaixo contém toda a bibliografia da pesquisa, com itens sobre
 Musicologia Computacional e Mozart/Beethoven, que se afastam um pouco do
 escopo da disciplina.
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fstatic%2Fbibliografia.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fhmb.sampaio.me%2Fbibliografia.bib.txt&jsonp=1"></script>
 
 <hr>
 
