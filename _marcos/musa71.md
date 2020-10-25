@@ -373,7 +373,7 @@ Schirmer.
 
 ##1. Links
 
- - [Favoritos de Teoria Musical](https://www.diigo.com/outliner/3l23ej/Teoria-Musical?key=lzekmogriv)
+ - [Posts sobre tópicos de Teoria Musical](https://marcos.sampaio.me/post/)
  - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
  - [EK11](https://www.dropbox.com/s/j9krkhmz3hced95/ek11.pdf?dl=0)
  - [EK12](https://www.dropbox.com/s/1a23gik9a6ue3a1/ek12.pdf?dl=0)
