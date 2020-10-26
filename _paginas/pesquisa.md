@@ -38,7 +38,7 @@ pesquisa:
 
 ## Onde publicar
 
-Journal rank: https://www.scimagojr.com/
+Journal rank: [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 ### Internacionais
 
