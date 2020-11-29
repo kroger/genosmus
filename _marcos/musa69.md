@@ -128,6 +128,8 @@ A cada semana o professor disponibilizará exercícios de apoio para a
 realização em casa. Esses exercícios serão parcialmente corrigidos em
 aula. A sua realização é desejada, mas opcional. Não valem nota.
 
+Os exercícios estão sendo organizados em [marcos.sampaio.me/tag/exercicios](https://marcos.sampaio.me/tag/exercicios/)
+
   1. [Distribuição  de notas da tríade e conceitos
      diversos](https://docs.google.com/document/d/13VCUNGjezhnmbHooK-O924wKj4udOC9f9Bu2igH55gU/view)
   2. [Encadeamento de duas
