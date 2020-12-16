@@ -6,9 +6,6 @@ number_sections: true
 level: graduacao
 ---
 
-**Informação importante**: aulas suspensas a partir de 17/03 por
-determinação da Reitoria da UFBA.
-
 ##1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração
