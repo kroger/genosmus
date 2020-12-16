@@ -18,7 +18,7 @@ dimensões.
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-1. Experimentar variados princípios de organização de alturas na Composição Musical.
+1. Utilizar variados princípios de organização de alturas na Composição Musical.
 2. Compor em formato de miniatura
 3. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
 4. Compor para banda sinfônica
