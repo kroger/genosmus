@@ -21,12 +21,10 @@ dimensões.
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-* Explorar em suas composições sonoridades próprias do Século XX no
-  campo das alturas
-* Compor em formato de miniatura
-* Compor para formações camerísticas diversas, como quarteto de
-  cordas, quarteto de trombones, etc.
-* Compor para banda sinfônica
+1. Experimentar variados princípios de organização de alturas na Composição Musical.
+2. Compor em formato de miniatura
+3. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
+4. Compor para banda sinfônica
 
 ##1. Conteúdo programático
 
@@ -44,28 +42,25 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 ##1. Metodologia
 
-O curso está baseado no estudo interativo de um repertório
-pré-definido. Os conteúdos previstos na ementa e demais tópicos
-pertinentes à Composição Musical serão identificados no repertório
-durante o seu estudo, serão detalhados e explorados como trabalhos
-práticos de Composição realizados em classe e/ou em casa.
+Aula expositiva dialogal (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
 
-As aulas são estruturadas em duas partes:
+Os conteúdos serão apresentados a partir do estudo do repertório e a sua compreensão ocorrerá mediante realização de trabalhos práticos de composição e análise.
 
-1. Análise interativa de obras musicais e apresentação dos conteúdos
-1. Orientação à realização dos trabalhos do semestre
+##1. Ambientes virtuais utilizados
+
+- Moodle (AVA) UFBA
+- Google Meet Institucional
+
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema).
 
 ##1. Avaliação
 
-A avaliação será feita mediante os seguintes trabalhos:
+A avaliação será realizada mediante os seguintes trabalhos:
 
 1. Composição de 3 miniaturas para formações diversas, cada uma
 relacionada com um princípio composicional previamente definido.
-1. Análise de uma das peças do Mikrokosmos de Bartók.
 1. Composição de uma obra de duração de 3 a 4 minutos para banda
-filarmônica com uso sistemático de pelo menos um dos conteúdos
-abordados no curso. Este uso deverá ser demonstrado em relatório
-entregue junto à composição.
+filarmônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso. Este uso deverá ser demonstrado em relatório entregue junto à composição.
 
 ###1. Nota
 
@@ -82,14 +77,12 @@ composição final.
 <img src="https://latex.codecogs.com/svg.latex?M=\frac{m_1&plus;m_2&plus;m_3&plus;3T}{6}" title="M=\frac{m_1+m_2+m_3+3T}{6}" />
 (eq.1)
 
-Os trabalhos serão aceitos apenas se:
+Os trabalhos serão aceitos apenas se forem entregues:
 
-1. forem entregues em versão elaborada em software apropriado, via
-   sistema de documentos da disciplina.
-1. forem entregues impreterivelmente no prazo, no início da aula
-   marcada para a entrega.
+1. em versão elaborada em software de editoração de partitura (ou similar)
+1. no prazo definido na interface do ambiente virtual de aprendizagem (Moodle)
 
-A composição final deverá ser entregue por meio digital, via email.
+Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
 
 ###1. Critérios de avaliação
 
@@ -120,25 +113,24 @@ As notas serão definidas de acordo com o seguinte critério:
 ###1. Segunda chamada
 
 O aluno que não entregar um dos trabalhos no dia marcado terá direito
-a entregar na aula seguinte se a requerer até dois dias úteis após a
-sua realização comprovando-se umas das seguintes situações:
+a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
-1. direito assegurado por legislação específica
-1. motivo de saúde comprovado por atestado médico
-1. razão de força maior, a critério do professor.
+1. direito assegurado por legislação específica.
+2. motivo de saúde comprovado por atestado médico.
+3. razão de força maior, a critério do professor.
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta
 à segunda chamada implicará na manutenção automática e definitiva da
 nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
 de Ensino de Graduação.
 
-Crie o hábito de fazer backup dos seus trabalhos e projetos. A perda
-de dados não será aceita como justificativa para dilatar o prazo de
-entrega.
+O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
 
 ##1. Assiduidade e pontualidade
 
-Assiduidade e pontualidade são de fundamental importância neste curso
+Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
+
+<!-- Assiduidade e pontualidade são de fundamental importância neste curso
 e serão rigorosamente observadas.
 
 A carga horária da disciplina é de 51 horas semestrais. De acordo com
@@ -152,17 +144,12 @@ Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso
 de mais de 15 minutos será considerado como falta para a primeira
 aula. Uma saída com mais de 15 minutos antes do final da aula será
 considerada como falta na última aula. Dessa forma atrasos poderão
-implicar em reprovação.
+implicar em reprovação. -->
 
 ##1. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
-
-**OBS**: O professor ficará afastado de todas as funções por cerca de uma
-semana, em função de uma cirurgia à qual irá se submeter, no início de
-abril. O professor irá passar trabalhos para casa para serem cumpridos
-nesse período.
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1509130570&amp;single=true&amp;widget=true&amp;headers=false"
@@ -170,10 +157,7 @@ width="100%" height="300"></iframe>
 
 ##1. Trabalhos
 
-Todos os trabalhos deverão ser entregues via sistema de armazenamento
-em nuvem (Mega). Para cada trabalho, subir para o repositório os
-devidos arquivos PDF, MP3 e original do software usado (.sib, .mus,
-.ly, etc). Evitar arquivos .wav.
+Todos os trabalhos deverão ser entregues via Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav.
 
 ###1. Miniaturas
 
@@ -183,24 +167,7 @@ Todas as miniaturas deverão ser entregues em formato digital na data
 definida no cronograma. As partituras e partes deverão ser entregues
 impressas na aula da semana posterior.
 
-####1. Miniatura 1
-
-- Conteúdo principal: organização de materiais, textura e
-  desenvolvimento
-- Formação: Duo de clarinetes
-
-####1. Miniatura 2
-
-- Conteúdo principal: Contraste entre seções
-- Forma binária circular.
-- Formação: Quarteto de trombones
-
-####1. Miniatura 3
-
-- Conteúdo principal: Alturas (escolher entre os princípios definidos
-  na ementa)
-- Formação: Piano solo
-- Entrega da partitura (online): ver data de entrega no cronograma
+Conteúdo, formação e prazo a definir.
 
 ####1. Possíveis formações instrumentais para as miniaturas
 
@@ -209,12 +176,6 @@ impressas na aula da semana posterior.
 - Quarteto de trompetes
 - Duo de clarinetes
 - Duo de oboés (confirmar)
-
-<!-- ###1. Análise
-
-O estudante deverá analisar um dos números do Mikrokosmos de Bartók
-seguindo a mesma metodologia de análise realizada durante as aulas ao
-longo do semestre e apresentar à turma em data marcada no calendário. -->
 
 ###1. Composição final
 
@@ -266,7 +227,6 @@ Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
 
 [Em construção]
-
 
 ###1. Música de câmara
 
@@ -353,13 +313,6 @@ analisada em conjunto durante as aulas:
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-<!-- ###1. Gráficos de desempenho da turma
-
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=569784072&amp;format=interactive"
-width="600" height="371" frameborder="0" scrolling="no"
-seamless=""></iframe> -->
-
 ##1. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York,
@@ -424,17 +377,6 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 - [Dobrado
   182](https://jornalggn.com.br/sites/default/files/documentos/dob000117.pdf) -
   Partitura
-
-Os demais links da disciplina estão disponíveis no <a title="Links da
-disciplina MUSA92"
-href="http://www.diigo.com/list/msampaio/ferramentas-computacionais"
-target="_blank" rel="noopener noreferrer">Diigo</a>.
-
-##1. Comunicação com o professor
-
-O único meio adicional de comunicação autorizado pelo professor é o
-email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 

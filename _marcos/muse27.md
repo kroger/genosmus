@@ -35,14 +35,14 @@ O objetivo do curso é compreender as relações de contornos na música, median
 
 ##1. Metodologia
 
-Expositiva dialogada.
+Expositiva dialogada em aulas síncronas gravadas. Discussão assíncrona em fórum da disciplina.
 
 ##1. Ambientes virtuais utilizados
 
 - Moodle (AVA) UFBA
 - Google Meet Institucional
 
-Toda a comunicação e entrega de trabalhos será realizada via pelo Moodle.
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema).
 
 ##1. Avaliação
 
