@@ -239,6 +239,7 @@ analisada em conjunto durante as aulas:
 1. Bloch, Sonata for Piano
 1. Chopin, Prelude n. 2
 1. Debussy, Claire de Lune
+1. Ginastera, Danzas Argentinas
 1. Lizst, La campanella
 1. Milhaud, Saudades do Brazil, Sorocaba
 1. Mozart, Piano Sonata N. 11, K331
