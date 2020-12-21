@@ -64,14 +64,15 @@ filarmônica, com uso sistemático de pelo menos um dos princípios de organiza�
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
-1. Miniaturas 1 a 3 (peso 5)
-1. Composição final (peso 5)
+1. Miniaturas 1 a 3 (peso 4)
+2. Composição final (peso 4)
+3. Relatório sobre a composição final (peso 2)
 
 Dessa forma, a média final será calculada pela equação 1, onde M
-representa a média, _m_, a nota de cada miniatura, e _T_, a nota da
-composição final.
+representa a média, _m_, a nota de cada miniatura, e _t_, a nota da
+composição final, e _r_, a nota do relatório sobre a composição final.
 
-<img src="https://latex.codecogs.com/svg.latex?M=\frac{m_1&plus;m_2&plus;m_3&plus;3T}{6}" title="M=\frac{m_1+m_2+m_3+3T}{6}" />
+<img src="https://latex.codecogs.com/svg.latex?M=\frac{m_1&plus;m_2&plus;m_3&plus;3T}{6}" title="M=\frac{4(m_1+m_2+m_3)+3r+6t}{15}" />
 (eq.1)
 
 Os trabalhos serão aceitos apenas se forem entregues:
