@@ -72,7 +72,7 @@ Dessa forma, a média final será calculada pela equação 1, onde M
 representa a média, _m_, a nota de cada miniatura, e _t_, a nota da
 composição final, e _r_, a nota do relatório sobre a composição final.
 
-<img src="https://latex.codecogs.com/svg.latex?M=\frac{4(m_1&plus;m_2&plus;m_3)&plus;3r&plus;6t}{15}" title="M=\frac{4(m_1+m_2+m_3)+3r+6t}{15}" />
+<img src="https://latex.codecogs.com/svg.latex?M=\frac{2(m_1&plus;m_2&plus;m_3)&plus;3r&plus;6t}{15}" title="M=\frac{2(m_1+m_2+m_3)+3r+6t}{15}" />
 (eq.1)
 
 Os trabalhos serão aceitos apenas se forem entregues:
