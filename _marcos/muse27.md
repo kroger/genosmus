@@ -7,7 +7,7 @@ level: pos-graduacao
 
 ##1. Informações preliminares
 
-No semestre 2021.1 irei ministrar a disciplina de Tópicos em Composição Musical II, com ênfase no estudo de contornos aplicado à Composição Musical.
+No semestre 2021.1 irei ministrar a disciplina de Tópicos em Composição Musical II, com ênfase no estudo de contornos aplicados à Composição Musical.
 
 **Tema**: Contornos musicais: teoria e aplicações na Composição
 
