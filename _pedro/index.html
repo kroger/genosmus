@@ -5,13 +5,15 @@ title: Disciplinas Pedro Kroger
 
 {% assign pages = site.pedro | sort %}
 
-<h2>2020.1</h2>
+<h2>2021.1</h2>
+
+<p>As disciplinas de 2021.1 estão sendo ministradas no <a href="https://ava.ufba.br/">Moodle</a> da UFBA.</p>
 
 <ul>
 {% for page in pages %}
     {% assign path = page.relative_path | split: '/' %}
     {% assign folder = path[1] %}
-    {% if folder == '2020.1' %}
+    {% if folder == '2021.1' %}
         <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
     {% endif %}
 {% endfor %}
