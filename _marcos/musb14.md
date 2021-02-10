@@ -6,7 +6,7 @@ number_sections: true
 level: graduacao
 ---
 
-##1. Ementa
+## 1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração
 de elementos musicais do século XX, politonalismo, pós-tonalismo,
@@ -14,7 +14,7 @@ atonalismo, serialismo, aleatorismo e audição comentada de obras
 representativas do século XX, com ênfase em obras de pequenas
 dimensões.
 
-##1. Objetivos
+## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
@@ -23,7 +23,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 3. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
 4. Compor para banda sinfônica
 
-##1. Conteúdo programático
+## 3. Conteúdo programático
 
 1. Politonalidade
 2. Serialismo
@@ -37,52 +37,57 @@ Ao final do curso espera-se que o estudante seja capaz de:
 9. Apresentação e discussão do trabalho criativo
 10. Composição para formações camerísticas até orquestras de pequenas
 
-##1. Metodologia
+## 4. Metodologia
 
 Aula expositiva dialogal (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
 
-Os conteúdos serão apresentados a partir do estudo do repertório e a sua compreensão ocorrerá mediante realização de trabalhos práticos de composição e análise.
+Os conteúdos serão apresentados a partir do estudo do repertório e a sua compreensão ocorrerá mediante realização de trabalhos práticos de composição e análise realizados semanalmente.
 
-##1. Ambientes virtuais utilizados
+## 5. Ambientes virtuais utilizados
 
 - Moodle (AVA) UFBA
 - Google Meet Institucional
 
 Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema).
 
-##1. Avaliação
+## 6. Avaliação
 
 A avaliação será realizada mediante os seguintes trabalhos:
 
 1. Composição de 3 miniaturas para formações diversas, cada uma
 relacionada com um princípio composicional previamente definido.
-1. Composição de uma obra de duração de 3 a 4 minutos para banda
-filarmônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso. Este uso deverá ser demonstrado em relatório entregue junto à composição.
+1. Composição de 3 exercícios básicos, para treinamento dos conteúdos estudados.
+1. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso.
+1. Relatório sobre a composição final com a demonstração da aplicação dos princípios de alturas abordados no curso.
+1. 5 Relatórios demonstrando o progresso semanal na realização do trabalho final.
 
-###1. Nota
+### 6.1. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
-1. Miniaturas 1 a 3 (peso 4)
-2. Composição final (peso 4)
-3. Relatório sobre a composição final (peso 2)
+1. Miniaturas 1 a 3 (peso 3)
+2. Exercícios 1 a 3 (peso 1)
+3. Composição final (peso 3)
+4. Relatório sobre a composição final (peso 1)
+5. Relatórios semanais sobre composição final (peso 2)
 
-Dessa forma, a média final será calculada pela equação 1, onde M
+<!-- TODO: adaptar -->
+<!-- Dessa forma, a média final será calculada pela equação 1, onde M
 representa a média, _m_, a nota de cada miniatura, e _t_, a nota da
 composição final, e _r_, a nota do relatório sobre a composição final.
 
 <img src="https://latex.codecogs.com/svg.latex?M=\frac{2(m_1&plus;m_2&plus;m_3)&plus;3r&plus;6t}{15}" title="M=\frac{2(m_1+m_2+m_3)+3r+6t}{15}" />
-(eq.1)
+(eq.1) -->
 
 Os trabalhos serão aceitos apenas se forem entregues:
 
 1. em versão elaborada em software de editoração de partitura (ou similar)
-1. no prazo definido na interface do ambiente virtual de aprendizagem (Moodle)
+1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
 
 Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
 
-###1. Critérios de avaliação
+### 6.2. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -108,7 +113,7 @@ As notas serão definidas de acordo com o seguinte critério:
 {: .table .table-sm}
 
 
-###1. Segunda chamada
+### 6.3. Segunda chamada
 
 O aluno que não entregar um dos trabalhos no dia marcado terá direito
 a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
@@ -124,7 +129,7 @@ de Ensino de Graduação.
 
 O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
 
-##1. Assiduidade e pontualidade
+## 7. Assiduidade e pontualidade
 
 Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
 
@@ -144,20 +149,18 @@ aula. Uma saída com mais de 15 minutos antes do final da aula será
 considerada como falta na última aula. Dessa forma atrasos poderão
 implicar em reprovação. -->
 
-##1. Cronograma
+## 8. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1509130570&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXymVD0q1BCcXA8By18HfSSHzdo8PQWFGpZuPAyUK78174Tssl1Ic7poSxW4wQuZ0DT3e89IyOTplD/pubhtml?gid=1267866815&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
 
-##1. Trabalhos
+## 9. Trabalhos
 
-Todos os trabalhos deverão ser entregues via Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav.
+Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav.
 
-###1. Miniaturas
+### 9.1. Miniaturas
 
 Duração de 30 segundos a 1 minuto.
 
@@ -167,24 +170,29 @@ impressas na aula da semana posterior.
 
 Conteúdo, formação e prazo a definir.
 
-####1. Possíveis formações instrumentais para as miniaturas
 
-- Piano solo
+#### 9.1.1. Possíveis formações instrumentais para as miniaturas
+
+Combinações de sopros:
+
 - Quarteto de trombones
 - Quarteto de trompetes
 - Duo de clarinetes
-- Duo de oboés (confirmar)
+- Duo de oboés
 
-###1. Composição final
+### 9.2. Exercícios básicos
 
-####1. Instruções
+Pequenos exercícios solicitados pelo professor. Duração curta e, geralmente, para instrumento solo. Os detalhes serão definidos ao longo do semestre.
+
+### 9.3. Composição final
+
+#### 9.3.1. Instruções
 
 - Formação: Banda sinfônica
 - Duração: 3 a 4 minutos
-- Primeira metade - ver data de entrega no cronograma
 - Composição final - ver data de entrega no cronograma
 
-####1. Instrumentação
+#### 9.3.2. Instrumentação
 
 - Flautim
 - 2 flautas
@@ -198,7 +206,10 @@ Conteúdo, formação e prazo a definir.
 - Bombardino (em Dó)
 - 2 Percussionistas (bombo, caixa e prato)
 
-###1. Trabalhos adicionais
+### 9.4. Relatório
+O relatório deverá demonstrar como a técnica para alturas escolhida está em uso na composição final. Deve conter exemplos musicais e duas a cinco páginas de extensão. Formatação de artigo (modelo a definir).
+
+<!-- ### 9.5. Trabalhos adicionais
 
 [Em construção]
 
@@ -217,18 +228,18 @@ fragmento/melodia instrumental; escrever acompanhamento
 1. Definir uma série e harmonizar com tetracordes da própria
 série. evitar pares de 2as e 3as consecutivas. Apresentar 3 a 5
 ocorrências. Variar a maneira de acompanhar. Informar o que foi
-feito. Para piano.
+feito. Para piano. -->
 
-##1. Análise
+## 10. Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
 
 [Em construção]
 
-###1. Música de câmara
+### 10.1. Música de câmara
 
-####1. Piano
+#### 10.1.1. Piano
 1. Bartók, Bagatelles Op. 6
 1. Bartók, Mikrokosmos, 59
 1. Bartók, Mikrokosmos, 101
@@ -247,7 +258,7 @@ analisada em conjunto durante as aulas:
 1. Schoenberg, Op. 25 (Suíte para Piano)
 1. Webern, Op. 27
 
-####1. Outros
+#### 10.1.2. Outros
 1. Bartók, Quarteto n. 1
 1. Berg, Lyrische Suite
 1. Berio, Sequenza I
@@ -269,7 +280,7 @@ analisada em conjunto durante as aulas:
 1. Webern, Op. 5
 1. Webern, Op. 21
 
-###1. Música sinfônica
+### 10.2. Música sinfônica
 
 1. Cardoso, O Vôo do Colibri
 1. Bartók, Concerto para Orquestra
@@ -292,7 +303,7 @@ analisada em conjunto durante as aulas:
 1. Wagner, Tristão e Isolda, Abertura
 1. Williams, A Sea Symphony
 
-###1. Banda
+### 10.3. Banda
 
 1. Daugherty, Raise the Roof
 1. Espirito Santo, Dobrado n. 182
@@ -300,19 +311,19 @@ analisada em conjunto durante as aulas:
 1. ?, Dobrado Bombardeio na Bahia
 1. Copland, Fanfare for the Common Man for Brass & Percussion
 
-###1. Música vocal
+### 10.4. Música vocal
 
 1. Ives, The Cage
 1. Palestrina, Missa Papae Marcelli
 1. R. Strauss, Morgen
 
-##1. Notas e frequência
+## 11. Notas e frequência
 
 <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="400"></iframe>
 
-##1. Bibliografia
+## 12. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York,
    NY: W.W. Norton and Company.
@@ -353,7 +364,7 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 1. Wuorinen, Charles. 1979. Simple Composition. New York and London:
    Longman.
 
-###1. Complementar
+### 12.1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite
    for Piano, Op. 25: From Composition with Twelve-Tones to the
@@ -361,7 +372,7 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno
    2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
-##1. Links
+## 13. Links
 
 - Playlist com vídeos no
   [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
