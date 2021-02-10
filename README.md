@@ -53,7 +53,7 @@ ou instale com com o `rbenv` (vai compilar a versão do Ruby)
 3. Instale o Jekyll e suas dependências com o comando abaixo (no
    diretório com o código do site):
 
-    cd genosmus
+  cd genosmus
 	bundle install
 
 4. Rode `make` para inicar o servidor local do Jekyll. O site deve
