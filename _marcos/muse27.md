@@ -129,10 +129,9 @@ Resenha oral das leituras indicadas pelo professor.
 
 Elaborar uma composição para uma das formações instrumentais abaixo em que o contorno seja o determinante composicional. A composição deve conter relações de contornos variadas. Por exemplo, por indentidade, reflexão, redução ou graus de similaridade.
 
-1. Quarteto de cordas
-2. Banda sinfônica
-3. Madrigal e órgão
-4. Outra formação prevista no projeto de dissertação/tese ou no anteprojeto de seleção.
+1. Banda sinfônica
+2. Madrigal e órgão
+3. Outra formação prevista no projeto de dissertação/tese ou no anteprojeto de seleção.
 
 ### 9.4. Acompanhamento da composição
 
