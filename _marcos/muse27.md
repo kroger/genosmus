@@ -48,7 +48,7 @@ Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns,
 
 Avaliação assíncrona, com sistema de nota, mediante as seguintes atividades:
 
-1. Trabalhos semanais de composição e/ou análise.
+1. Exercícios semanais de composição e/ou análise.
 2. Resenha oral sobre texto lido.
 3. Composição final com o contorno como fator determinante.
 4. Acompanhamento do processo de composição final.
@@ -58,8 +58,8 @@ Avaliação assíncrona, com sistema de nota, mediante as seguintes atividades:
 
 | Componente                         | Peso |
 | :--------------------------------- | :--- |
-| Trabalhos semanais (5)             | 20%  |
-| Resenha oral (2)                   | 10%  |
+| Exercícios semanais (5)            | 20%  |
+| Resenhas orais (2)                 | 10%  |
 | Acompanhamento da composição final | 10%  |
 | Composição final                   | 30%  |
 | Artigo                             | 30%  |
@@ -125,7 +125,7 @@ Resenhas orais das leituras indicadas pelo professor.
 
 ### 9.3. Composição final
 
-Elaborar uma composição para uma das formações instrumentais abaixo em que o contorno seja o determinante composicional. A composição deve conter relações de contornos variadas. Por exemplo, por indentidade, reflexão, redução ou graus de similaridade.
+Elaborar uma composição para uma das formações instrumentais abaixo em que o contorno seja o determinante composicional. A composição deve conter relações de contornos variadas. Por exemplo, por identidade, reflexão, redução ou graus de similaridade.
 
 1. Banda sinfônica
 2. Madrigal e órgão
