@@ -58,8 +58,8 @@ Avaliação assíncrona, com sistema de nota, mediante as seguintes atividades:
 
 | Componente                         | Peso |
 | :--------------------------------- | :--- |
-| Trabalhos semanais (6)             | 20%  |
-| Resenha oral                       | 10%  |
+| Trabalhos semanais (5)             | 20%  |
+| Resenha oral (2)                   | 10%  |
 | Acompanhamento da composição final | 10%  |
 | Composição final                   | 30%  |
 | Artigo                             | 30%  |
@@ -94,14 +94,14 @@ O cronograma poderá ser ajustado se algum item demandar mais de uma semana.
 
 | Semana | Data  | Descrição                             |
 | :----- | :---- | :------------------------------------ |
-| 1      | 02/03 | Abstração                             |
-| 2      | 09/03 | Representações                        |
-| 3      | 16/03 | Identidade                            |
-| 4      | 23/03 | Reflexão                              |
-| 5      | 30/03 | Redução                               |
-| 6      | 06/04 | Similaridade                          |
-| 7      | 13/04 | Durações                              |
-| 8      | 20/04 | Textura e resenhas orais              |
+| 1      | 02/03 | Abstração e representações            |
+| 2      | 09/03 | Identidade e reflexão                 |
+| 3      | 16/03 | Redução                               |
+| 4      | 23/03 | Similaridade                          |
+| 5      | 30/03 | Durações                              |
+| 6      | 06/04 | Textura                               |
+| 7      | 13/04 | Resenhas orais - Composição           |
+| 8      | 20/04 | Resenhas orais - Análise              |
 | 9      | 27/04 | Acompanhamento de trabalhos           |
 | 10     | 04/05 | Acompanhamento de trabalhos           |
 | 11     | 11/05 | Acompanhamento de trabalhos           |
@@ -115,15 +115,13 @@ O cronograma poderá ser ajustado se algum item demandar mais de uma semana.
 
 Todos os trabalhos são assíncronos.
 
-### 9.1. Semanais
+### 9.1. Exercícios semanais
 
-#### 9.1.1. Para 09/03/2021
+Pequenos exercícios de composição para aplicação e experimentação dos conceitos apresentados.
 
-Compor um fragmento musical qualquer, livre, bem curto, abstrair o seu contorno de alturas e elaborar múltiplas versões com contorno invariante. Não operar com motivos, mas com os contornos melódicos. Criar umas 20 ou 30 versões, analisar as que se aproximam e se afastam mais do original.
+### 9.2. Resenhas orais
 
-### 9.2. Resenha
-
-Resenha oral das leituras indicadas pelo professor.
+Resenhas orais das leituras indicadas pelo professor.
 
 ### 9.3. Composição final
 
