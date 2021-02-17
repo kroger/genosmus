@@ -19,7 +19,7 @@ Não definida na SUPAC
 
 ## 3. Objetivos
 
-O objetivo do curso é compreender as relações de contornos na música, mediante prática na Composição Musical.
+O objetivo do curso é compreender as relações de contornos na música mediante prática na Composição Musical.
 
 ## 4. Conteúdo programático
 
