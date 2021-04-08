@@ -51,106 +51,34 @@ Journal rank: [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 ### Nacionais
 
-#### Per Musi - Scholarly Music Journal (UFMG) - Qualis A1
+#### Qualis A1
 
-Fluxo contínuo
+1. Per Musi (UFMG): [https://periodicos.ufmg.br/index.php/permusi/](https://periodicos.ufmg.br/index.php/permusi/)
+1. Revista Orfeu (UDESC): [http://revistas.udesc.br/index.php/orfeu/](http://revistas.udesc.br/index.php/orfeu/)
+1. Revista OPUS (ANPPOM): [http://www.anppom.com.br/revista/index.php/opus/](http://www.anppom.com.br/revista/index.php/opus/)
+1. Revista Música Hodie (UFG): [https://www.revistas.ufg.br/musica/](https://www.revistas.ufg.br/musica/)
 
-- Temas:
-  - General Topics
-  - Music and Gender
-- [Link](https://periodicos.ufmg.br/index.php/permusi/issue/view/287)
+#### Qualis A2
 
-#### Revista Orfeu (UDESC) – Qualis A1
+1. Revista Vórtex (EMBAP): [http://vortex.unespar.edu.br/](http://vortex.unespar.edu.br/)
+1. Revista Musica Theorica (TeMA): [http://revistamusicatheorica.tema.mus.br/](http://revistamusicatheorica.tema.mus.br/)
+1. Revista da ABEM (ABEM): [http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/](http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/)
+1. Revista da FUNDARTE (FUNDARTE) [http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index](http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index)
 
-Dossiê "POÉTICAS DA COMPOSIÇÃO CONTEMPORÂNEA" (v.5, n.1, 2020)
+#### Qualis A3
 
-- Data final para submissão de trabalhos ao Dossiê : 30 de março de 2020
-- [Link](http://revistas.udesc.br/index.php/orfeu/announcement/view/246)
+1. ART Research Journal [https://periodicos.ufrn.br/artresearchjournal/](https://periodicos.ufrn.br/artresearchjournal/)
 
-Dossiê "Teoria e História" (v.5, n.2, 2020)
+#### Qualis A4
 
-- Data final para submissão de trabalhos ao Dossiê : 30 de maio de 2020
-- [link](http://revistas.udesc.br/index.php/orfeu/announcement/view/272)
+1. Revista MusMat (Música e Matemática) [https://musmat.org/musmat-journal/](https://musmat.org/musmat-journal/)
 
-#### Revista OPUS (ANPPOM) – A1
+#### Qualis B1
 
-- Fluxo contínuo
-- Temática livre (podem ser artigos de desenvolvimento de trabalhos
-  apresentados no Congresso da ANPPOM)
-- [Link](http://www.anppom.com.br/revista/index.php/opus/about/submissions#authorGuidelines)
+1. Revista Brasileira de Música (UFRJ) [https://revistas.ufrj.br/index.php/rbm/](https://revistas.ufrj.br/index.php/rbm/)
+1. Revista Música (USP) [https://www.revistas.usp.br/revistamusica/](https://www.revistas.usp.br/revistamusica/)
 
-#### Revista Música Hodie (UFG) – A1
+#### Qualis B2
 
-- Fluxo contínuo
-- Temática livre (podem ser artigos de desenvolvimento de trabalhos
-  apresentados no Congresso da ANPPOM)
-- [Link](https://www.revistas.ufg.br/musica/about/submissions)
-
-#### Revista Vórtex (EMBAP) – A2
-
-v.8 n.2, 2020 | Chamada para Artigos
-
-- "O Piano de Brincar Sobe ao Palco"
-- Prazo: 01/06/2020
-- [Link](http://vortex.unespar.edu.br/call_v8_n2.pdf)
-
-v.8 n.3 Dezembro 2020 | Chamada Temática
-
-- "O violão em pauta: perspectivas atuais entrecortando passados,
-  presentes e futuros"
-- Prazo: 01/09/2020
-- [Link](http://vortex.unespar.edu.br/call_v8_n3.pdf)
-
-#### Revista Musica Theorica (TeMA) – A2
-
-- Artigos em teoria musical
-- Fluxo contínuo
-- [Link](https://tema.mus.br/revistas/index.php/musica-theorica/about/submissions#authorGuidelines)
-
-#### Revista da ABEM (ABEM) – A2
-
-- Artigos em educação musical
-- Fluxo contínuo
-- [Link](http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/about/submissions)
-
-#### Revista da FUNDARTE (FUNDARTE) – A2
-
-- Temática e chamada para 2020 ainda não publicada
-- [Link](http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index)
-
-#### ART Research Journal - A3
-
-- Dossiê e artigos livres
-- Dossiê temático principal de ARJ (v.7, n.1, 2020): Perspectivas
-  multidisciplinares no campo da Arte
-- Prazo: 31/03
-- [Link](https://periodicos.ufrn.br/artresearchjournal/announcement)
-
-#### MUSMAT • REVISTA BRASILEIRA DE MÚSICA E MATEMÁTICA • BRAZILIAN JOURNAL OF MUSIC AND MATHEMATICS (UFRJ) – A4
-
-- Música e matemática
-- Prazo 30/05
-- [Link](https://musmat.org/musmat-journal/guidelines-for-authors/)
-
-#### Revista Brasileira de Música (UFRJ) – B1
-
-- Fluxo contínuo e Dossiê temático “Som e Música no Audiovisual”
-- Prazo 31/03
-- [Link](https://revistas.ufrj.br/index.php/rbm/announcement/view/394)
-
-#### Revista Música (USP) – B1
-
-- Temática livre
-- Prazo: 30/05
-- [Link](https://www.revistas.usp.br/revistamusica/about/submissions)
-
-#### PERCEPTA (ABCM) – B2
-
-- Artigos em cognição musical
-- Fluxo contínuo
-- [Link](https://www.abcogmus.org/journals/index.php/percepta/index)
-
-#### Debates (UNIRIO) – B2
-
-- Não existem informações sobre chamada e fluxo
-- [Link](http://www.seer.unirio.br/index.php/revistadebates/about/submissions#authorGuidelines)
+1. Percepta (Associação Brasileira de Cognição Musical) [https://www.abcogmus.org/journals/index.php/percepta/](https://www.abcogmus.org/journals/index.php/percepta/)
+1. Debates (Unirio) [http://www.seer.unirio.br/index.php/revistadebates/](http://www.seer.unirio.br/index.php/revistadebates/)
