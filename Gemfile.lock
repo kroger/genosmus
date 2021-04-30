@@ -67,7 +67,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -85,6 +85,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-numbered-headings
   jekyll-toc
+  rexml (>= 3.2.5)
   webrick (~> 1.7)
 
 BUNDLED WITH
