@@ -85,6 +85,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-numbered-headings
   jekyll-toc
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.3
+   2.2.15
