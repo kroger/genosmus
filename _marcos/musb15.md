@@ -5,9 +5,9 @@ toc: true
 level: graduacao
 ---
 
+**OBS**: em construção. Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
 
-##1. Ementa
-
+## 1. Ementa
 
 Continuação de Composição Musical V: Estudo e prática de Técnicas
 Composicionais -- manipulação e exploração de elementos musicais do
@@ -15,79 +15,158 @@ século XX, politonalismo, pós-tonalismo, atonalismo, serialismo,
 aleatorismo e audição comentada de obras representativas do século XX,
 com ênfase em obras de pequenas dimensões.
 
-##1. Objetivos
+## 2. Objetivos
 
-[Em construção]
 Ao final do curso espera-se que o estudante seja capaz de:
 
-- Explorar sonoridades estruturadas a partir de contornos em suas
-  composições
-- Compor em formato de miniatura
-- Compor para formações camerísticas diversas, como quarteto de
-  cordas, quarteto de trombones, etc.
-- Compor para orquestra sinfônica pequena
+- Explorar sonoridades estruturadas a partir de contornos em suas  composições
+- Explorar as particularidades da voz para a composição musical
+- Explorar as particularidades do texto para a composição musical
+- Explorar particularidades do órgão de tubos na composiçõa musical
+- Compor para coro profissional acompanhado de órgão de tubos
 
-##1. Conteúdo programático
+## 3. Conteúdo programático
 
-[Em construção]
+1. Revisão de organização de alturas
+   1. Politonalidade
+   2. Pós-tonalismo
+   3. Serialismo
+2. Teoria de Relações de Contornos musicais aplicada à Composição
+   1. Abstração e invariância de contornos
+   2. Representação de contornos (linear e combinatorial)
+   3. Identidade de contornos (equivalência e subconjuntos)
+   4. Redução de contornos (por janela e ao contorno primo)
+   5. Similaridade de contornos (Schmuckler e Sampaio)
+   6. Acentos melódicos (por contorno, fenomenológico, imanente)
+3. Aspectos técnicos vocais
+   1. Princípios de emissão
+   2. Registros e passagens
+   3. Extensão e tessitura
+   4. Respiração e afinação
+   5. O impacto do texto no canto
+   6. Coro e solo
+4. Órgão de tubos
+   1. Construção, emissão
+   2. Teclados
+   3. Registros
+   4. Especificidades da escrita
+5. Composição vocal
+   1. Texto e Prosódia
+   2. Fala, recitativo e "ária"
+   3. Capella e acompanhado
+   4. A voz como instrumento (Nathalia Martins)
+   5. A voz como canal (Nathalia Martins)
 
-<!-- 1. Teoria de Relações de Contornos musicais -->
-<!--     1. Base teórica e cognitiva -->
-<!--     1. Conceitos gerais -->
-<!--     1. Propriedades -->
-<!--     1. Reflexão -->
-<!--     1. Direção -->
-<!--     1. Similaridade -->
-<!--     1. Múltiplas dimensões -->
-<!-- 1. Apresentação e discussão do trabalho criativo -->
-<!-- 1. Composição para formações camerísticas até orquestras de pequenas -->
-<!--    dimensões -->
+## 4. Metodologia
 
-##1. Avaliação
+Aula expositiva dialogal entre estudantes, professor e convidados (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
 
-[Em construção]
+## 5. Ambientes virtuais utilizados
 
-<!-- A avaliação nesta disciplina é realizada mediante trabalho de -->
-<!-- composição e trabalhos semanais realizados ao longo do semestre (ver -->
-<!-- descrição mais adiante). -->
+- Moodle (AVA) UFBA
+- Google Meet Institucional
 
-###1. Nota
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, e chat do sistema). Não haverá comunicação por email.
 
-[Em construção]
+A concentração dessas atividades nessas ferramentas simplifica o acesso ao histórico de tarefas, mantém todas as questões sobre a disciplina no mesmo lugar, e permite auditoria, quando necessário.
 
-<!-- O cálculo da nota está em construção, dependendo das formações -->
-<!-- disponíveis para leituras. -->
+## 6. Avaliação
 
-<!-- A média final é equivalente à média ponderada das notas dos trabalhos, -->
-<!-- com os seguintes pesos: -->
+A avaliação será realizada mediante os seguintes trabalhos:
 
-<!--   1. Trabalhos semanais (peso 3) -->
-<!--       1. Miniaturas 1 e 2, peso 0.75 -->
-<!--       1. Miniaturas 3, peso 1.5 -->
-<!--   2. Composição final (peso 7): -->
-<!--       1. avaliação da primeira metade da composição (peso 2) -->
-<!--       2. avaliação da segunda metade da composição e conjunto final -->
-<!--          (peso 5) -->
+1. Composição de 7 exercícios básicos, para treinamento dos conteúdos estudados.
+2. Composição de uma obra de duração de 4 a 5 minutos para madrigal e órgão de tubos, com uso sistemático de contornos.
 
-<!-- Dessa forma, a média final será calculada pela equação 1, onde M -->
-<!-- representa a média, a, a soma das notas das miniaturas, b, a nota da -->
-<!-- primeira metade da composição final e c, da segunda metade e conjunto -->
-<!-- da composição. -->
+### 6.1. Nota
 
-<!-- <img id="preview_img" -->
-<!-- src="https://chart.apis.google.com/chart?cht=tx&chl=M%3D%5Cfrac%7B3a%2B2b%2B5c%7D%7B10%7D&chs=&chf=&chco=" -->
-<!-- /> (eq.1) -->
+A nota do semestre será equivalente a uma média ponderada do resultado
+obtido nos trabalhos, de acordo com os seguintes pesos:
 
-<!-- Os trabalhos serão aceitos apenas se: -->
+1. Exercícios 1 a 7 (peso 3)
+2. Acompanhamento da composição final (peso 3)
+3. Composição final (peso 4)
 
-<!--   1. forem entregues em versão elaborada em software apropriado, via -->
-<!--      Dropbox ou email. -->
-<!--   2. forem entregues impreterivelmente no prazo, no início da aula -->
-<!--      marcada para a entrega. -->
+Os trabalhos serão aceitos apenas se forem entregues:
 
-<!-- A composição final deverá ser entregue por meio digital, via email. -->
+1. em versão elaborada em software de editoração de partitura (ou similar)
+1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
 
-###1. Critérios de avaliação
+**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
+
+### 6.2. Critérios de avaliação
+
+Os critérios gerais de avaliação são:
+
+- Cumprimento do objetivo da tarefa
+- Equilíbrio
+- Capacidade de explorar recursos de composição
+- Capacidade de explorar os domínios da música (timbre, altura,
+  duração, textura, etc.)
+- Cuidados com a apresentação da partitura (composições)
+- Criatividade
+
+As notas serão definidas de acordo com o seguinte critério:
+
+| Nota | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
+|:-----|:---------|:-----------------------|:------------------------------|:---------------------------|
+| 100% | **X**    | **X**                  | **X**                         | -                          |
+| 90%  | **X**    | **X**                  | -                             | **X**                      |
+| 80%  | **X**    | **X**                  | -                             | -                          |
+| 50%  | **X**    | -                      | **X**                         | -                          |
+| 40%  | **X**    | -                      | -                             | **X**                      |
+| 10%  | **X**    | -                      | -                             | -                          |
+| 0%   | -        | -                      | -                             | -                          |
+{: .table .table-sm}
+
+### 6.3. Segunda chamada
+
+O aluno que não entregar um dos trabalhos no dia marcado terá direito
+a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+
+1. direito assegurado por legislação específica.
+2. motivo de saúde comprovado por atestado médico.
+3. razão de força maior, a critério do professor.
+
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta
+à segunda chamada implicará na manutenção automática e definitiva da
+nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
+de Ensino de Graduação.
+
+O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
+
+## 7. Assiduidade e pontualidade
+
+Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
+
+## 8. Cronograma
+
+O conteúdo e dias das aulas do cronograma abaixo poderão ser
+modificados de acordo com a necessidade e eventualidade.
+
+**OBS**: em construção
+
+## 9. Trabalhos
+
+Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. Estão previamente bloqueados no Moodle.
+
+### 9.1. Exercícios básicos
+
+Pequenos exercícios solicitados pelo professor. Duração curta e, geralmente, para instrumento solo. Os detalhes serão definidos ao longo do semestre.
+
+### 9.2. Composição final
+
+#### 9.2.1. Instruções
+
+- Formação: Madrigal e órgão de tubos
+- Duração: 4 a 5 minutos
+- Composição final - ver data de entrega no cronograma
+
+#### 9.2.2. Instrumentação
+
+- Madrigal da UFBA
+- Órgão de tubos eletrônico (Mosteiro de São Bento)
+
+### 9.3. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -99,252 +178,45 @@ Os critérios gerais de avaliação são:
   * Cuidados com a apresentação da partitura (composições)
   * Criatividade
 
-###1. Segunda chamada
+## 10. Análise
 
-O aluno que não entregar um dos trabalhos no dia marcado terá direito
-a entregar na aula seguinte se a requerer até dois dias úteis após a
-sua realização comprovando-se umas das seguintes situações:
-
-  1. direito assegurado por legislação específica
-  2. motivo de saúde comprovado por atestado médico
-  3. razão de força maior, a critério do professor.
-
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta
-à segunda chamada implicará na manutenção automática e definitiva da
-nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
-de Ensino de Graduação.
-
-##1. Estrutura das aulas
-
-As aulas são divididas em exposição de conteúdo, análise interativa de
-obras e orientação dos trabalhos dos alunos.
-
-##1. Cronograma
+Ao longo do semestre uma seleção dentre as obras listadas será
+analisada em conjunto durante as aulas:
 
 [Em construção]
 
-Este cronograma é uma previsão e poderá ser alterado ao longo do
-semestre.
+## 11. Bibliografia
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIWOA8wNakz3wyUhvwl-xgMIAzqR9xr2sow2dLjwT2kgUkCXEMWSp_ZtMttTOkn63Ljnm5-79ul-le/pubhtml?gid=567655936&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
+2. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: ACritical Evaluation of the Discipline and Its Application to Bartók’s
+Musical Language." Musica Theorica 1: 1–25.
+1. Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
+2. Cook, Nicholas. 1987. "A Guide to Musical Analysis." New York and  London: W. W. Norton & Company.
+3. Cope, David. 1997. Techniques of the Contemporary Composer. New  York, NY: Schirmer Books.
+4. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
+1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
+1. Forsyth, Cecil. 1920. Choral Orchestration. New York: The H. W. Gray Co.
+2. Jeppeson, Knud. 1939. Counterpoint: The Polyphonic Vocal Style of  the Sixteenth Century. Englewood Cliffs, N.J: Prentice-Hall.
+3. Kostka, Stefan M. 2006. Materials and Techniques of  Twentieth-Century Music. 3rd ed. Prentice Hall.
+4. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real  Musical.
+5. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+1. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
+1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
+1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
+1. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
 
-<!-- ###1. Itens extras -->
+### 11.1. Complementar
 
-<!-- 1. Leitura de Banda sinfônica: 30/10/2018, 18 horas, Auditório -->
+1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite   for Piano, Op. 25: From Composition with Twelve-Tones to the    Twelve-Tone Method." University of Southern California.
+1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
-<!-- ##1. Trabalhos -->
+## 12. Links
 
-<!-- Os trabalhos estão sendo definidos, dependendo das formações -->
-<!-- disponíveis para leituras.  O trabalho principal será para a formação -->
-<!-- da OSUFBA. -->
-
-<!-- ###1. Miniaturas -->
-
-<!-- Duração de 30 segundos a 1 minuto. -->
-
-<!-- Formações disponíveis: -->
-
-<!-- 1. Quarteto vocal -->
-<!-- 1. Quarteto de cordas -->
-<!-- 1. Oboés (confirmar) -->
-
-<!-- ####1. Miniatura 1 -->
-
-<!--  - Conteúdo principal: a definir -->
-<!--  - Formação: duo do oboés -->
-<!--  - Entrega da partitura (online): 06/09/2018 -->
-<!--  - Entrega das partes (impressas): semana seguinte -->
-<!--  - Leitura: 11/10/2018, 11hs, EMUS, sala a definir -->
- 
-<!-- ####1. Miniatura 2 -->
-
-<!--  - Conteúdo principal: a definir -->
-<!--  - Formação: quarteto de cordas -->
-<!--  - Entrega da partitura (online): 20/09/2018 -->
-<!--  - Entrega das partes (impressas): semana seguinte -->
-<!--  - Leitura: a definir -->
- 
-<!-- ####1. Miniatura 3 -->
-
-<!--  - Conteúdo principal: a definir -->
-<!--  - Formação: quarteto vocal -->
-<!--  - Entrega da partitura (online): 11/10/2018 -->
-<!--  - Entrega das partes (impressas): semana seguinte -->
-<!--  - Leitura: a definir -->
-
-<!-- ###1. Exercícios semanais -->
-
-<!-- Os exercícios semanais são pequenos fragmentos com aplicação dos -->
-<!-- conteúdos apresentados em aula. -->
-
-<!-- [Tópicos em construção] -->
-
-<!-- 1. Compor pequeno fragmento musical, abstrair o contorno melódico e -->
-<!-- gerar outros materiais de forma que todos os elementos tenham um único -->
-<!-- contorno. Formação: duo de oboés. -->
-
-<!-- 1. Compor pequeno fragmento musical, abstrair contorno melódico e, a -->
-<!-- partir de operações básicas de contorno, como retrógrado, inversão, -->
-<!-- compor outros materiais de forma que todos os elementos tenham um -->
-<!-- contorno pai. Formação: duo, preferencialmente de oboés. -->
-
-<!-- 1. Compor pequeno fragmento musical a partir do contorno < 0 2 3 0 4 7 -->
-<!--    > para a formação piano e flauta. Buscar usar operacoes de -->
-<!--    contornos disponiveis na calculadora. -->
-
-<!-- 1. Compor fragmento musical de até 40 segundos utilizando uma -->
-<!-- instrumentação de livre escolha utilizando uma ou mais técnicas de -->
-<!-- composição entre as listadas abaixo. Para este trabalho será -->
-<!-- necessário criar um esquema analítico mostrando como cada -->
-<!-- ferramentatécnica foi utilizada no trabalho. -->
-
-<!--     1. Alturas -->
-<!--         1. Escalas em geral(de 5 a 12 notas) -->
-<!--         1. Escalas microtonais -->
-<!--         1. Serialismo Clássico -->
-<!--         1. Serialismo Integral -->
-<!--         1. Pos-Tonalidade -->
-<!--         1. Música Eletroacústica -->
-<!--         1. Música Aleatória -->
-<!--         1. Música espectral -->
-<!--         1. Minimalismo -->
-<!--         1. Pontilismo -->
-<!--         1. Micropolifonia -->
-<!--         1. Sonorismo -->
-<!--         1. Contornos -->
-<!--         1. Tonalismo -->
-<!--         1. Modalismo -->
-       
-<!--     1. Durações -->
-<!--         1. Modulação Métrica -->
-<!--         1. Escala cromática de durações -->
-<!--         1. Regressão ou progressão métrica -->
-<!--         1. Serialismo Rítmico -->
-
-<!-- ###1. Composição final -->
-
-<!-- A composição final deverá ter duração de 5 a 7 minutos e formação -->
-<!-- equivalente à Orquestra Sinfônica da UFBA (1111,1111,1 perc.,cordas). -->
-
-##1. Análise
-
-- Brahms. Töne, lindernder Klang. Woo 28. [pdf](http://imslp.simssa.ca/files/imglnks/usimg/0/0d/IMSLP102716-PMLP210137-Brahms_Werke_Band_21_Breitkopf_JB_121_WoO_28_scan.pdf)
-
-<!-- Ao longo do semestre as obras listadas serão analisadas em conjunto -->
-<!-- durante as aulas: -->
-
-<!-- ###1. Orquestra -->
-
-<!-- [em construção] -->
-
-<!--   1. <a -->
-<!--      href="http://imslp.org/wiki/Symphony_No.5,_Op.64_(Tchaikovsky,_Pyotr)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Symphony_No.5,_Op.64_(Tchaikovsky,_Pyotr)</a> -->
-<!--   2. <a -->
-<!--      href="http://imslp.org/wiki/Rapsodie_espagnole_(Ravel,_Maurice)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Rapsodie_espagnole_(Ravel,_Maurice)</a> -->
-<!--   3. <a -->
-<!--      href="http://imslp.org/wiki/Russian_Easter_Festival,_Op.36_(Rimsky-Korsakov,_Nikolay)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Russian_Easter_Festival,_Op.36_(Rimsky-Korsakov,_Nikolay)</a> -->
-<!--   4. <a -->
-<!--      href="http://imslp.org/wiki/5_Pieces_for_Orchestra,_Op.16_(Schoenberg,_Arnold)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/5_Pieces_for_Orchestra,_Op.16_(Schoenberg,_Arnold)</a> -->
-<!--   5. <a -->
-<!--      href="http://imslp.org/wiki/Symphony_No.5,_Op.60_(Scriabin,_Aleksandr)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Symphony_No.5,_Op.60_(Scriabin,_Aleksandr)</a> -->
-<!--   6. Carter, Elliott -- Three Occasions for Orchestra (Boosey and -->
-<!--      Hawkes, 1992) -->
-<!--   7. Penderecki, Krzysztof. Paixão Segundo São Lucas -->
-
-<!-- ###1. Câmara -->
-
-<!-- [em construção] -->
-
-<!--   1. Schoenberg, Op. 25. Prelúdio -->
-<!--   2. Webern, Op. 21 -->
-<!--   3. Webern, Op. 25. <a href="http://bit.ly/2ztkUki" target="_blank" -->
-<!--      rel="noopener">http://bit.ly/2ztkUki</a> -->
-<!--   4. <a -->
-<!--      href="http://imslp.org/wiki/String_Sextet_No.1,_Op.18_(Brahms,_Johannes)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/String_Sextet_No.1,_Op.18_(Brahms,_Johannes)</a> -->
-<!--   5. <a -->
-<!--      href="http://imslp.org/wiki/Music_for_Strings,_Percussion_and_Celesta,_Sz.106_(Bart%C3%B3k,_B%C3%A9la)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Music_for_Strings,_Percussion_and_Celesta,_Sz.106_(Bart%C3%B3k,_B%C3%A9la)</a> -->
-<!--   6. <a href="http://imslp.org/wiki/Octandre_(Var%C3%A8se,_Edgard)" -->
-<!--      target="_blank" -->
-<!--      rel="noopener">http://imslp.org/wiki/Octandre_(Var%C3%A8se,_Edgard)</a> -->
-
-##1. Notas e frequência
-
-Em Construção
-
-As notas dos alunos estão disponíveis no link abaixo e serão
-atualizadas durante o curso:
-
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
-
-##1. Links
-
-* [Favoritos de Teoria
-  Musical](https://www.diigo.com/list/msampaio/teoria-musical)
-* [Calculadora de contornos](https://contour.sampaio.me)
-* [Calculadora de matriz
-  dodecafônica](http://www.musictheory.net/calculators/matrix)
-* [PCN
-  Jamary](http://www.angelfire.com/music2/bahia/pcn/pcn2001ptb.htm)
-* [Playlist Youtube](https://www.youtube.com/playlist?list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ)
-
-##1. Bibliografia
-
-1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York,
-   NY: W.W. Norton and Company.
-1. Cope, David. 1997. Techniques of the Contemporary Composer. New
-   York, NY: Schirmer Books.
-1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A
-   Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa:
-   WM. C. Brown Company.
-1. Jeppesen, Knud. 1939. “Free Two-Part Counterpoint.” In Counterpoint:
-   The Polyphonic Vocal Style of the Sixteenth Century, 152–62.
-   Englewood Cliffs, N.J: Prentice-Hall.
-1. Kostka, Stefan M. 2006. Materials and Techniques of
-   Twentieth-Century Music. 3rd ed. Prentice Hall.
-1. Moraes, Tharcisio, e Marcos Sampaio. 2015. "[Relações de contornos
-   entre elementos sonoros e visuais do jogo Super Mario
-   Bros](https://marcos.sampaio.me/pt-br/publicacoes/moraes-ea2015-relacoes/)". In
-   Proceedings of SBGame 2015, 714–17. Teresina, PI.
-1. Sampaio, Marcos da Silva. 2012. [A Teoria de Relações de Contornos
-   Musicais: inconsistências, soluções e
-   ferramentas](https://marcos.sampaio.me/pt-br/publicacoes/sampaio2012b-teoria/). Tese
-   de Doutorado. Universidade Federal da Bahia.
-1. Sampaio, Marcos da Silva. 2017. "[A Teoria de Relações de Contornos
-   no Brasil" In Teoria e Análise Musical em perspectiva
-   didática](https://marcos.sampaio.me/pt-br/publicacoes/sampaio2017-teoria/),
-   editado por Ilza Nogueira. 123-138. Salvador: EDUFBA.
-1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "[Aplicação de
-   Contornos Na Composição
-   Musical](https://marcos.sampaio.me/pt-br/publicacoes/sampaio-ea2016-aplicacao/)."
-   In Perspectivas de Interpretação, Teoria e Composição Musical,
-   editado por Heinz Karl Novaes Schwebel e José Maurício Valle
-   Brandão, 13–28. Salvador: EDUFBA.
-1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A
-   Practical Guidebook. New York, NY: W.W. Norton and Company.
-
-##1. Comunicação com o professor
-
-O único meio adicional de comunicação autorizado pelo professor é o
-email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
+- Playlist com vídeos no [YouTube]().
+- [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB15%20Composicao%20VI.pdf)  aprovado pelo Departamento de Música
+- [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) -  Calculadora de classes de notas
+- [Contour Metrics](https://contour.sampaio.me) - Calculadora de  contornos
 
 <hr>
 
