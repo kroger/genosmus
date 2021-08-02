@@ -66,7 +66,7 @@ Aula expositiva dialogal entre estudantes, professor e convidados (atividade sí
 - Moodle (AVA) UFBA
 - Google Meet Institucional
 
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, e chat do sistema). Não haverá comunicação por email.
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns, e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
 
 A concentração dessas atividades nessas ferramentas simplifica o acesso ao histórico de tarefas, mantém todas as questões sobre a disciplina no mesmo lugar, e permite auditoria, quando necessário.
 
@@ -83,7 +83,7 @@ A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
 1. Exercícios 1 a 7 (peso 3)
-2. Acompanhamento da composição final (peso 3)
+2. Acompanhamento da composição final 1 a 7 (peso 3)
 3. Composição final (peso 4)
 
 Os trabalhos serão aceitos apenas se forem entregues:
@@ -101,8 +101,8 @@ Os critérios gerais de avaliação são:
 - Equilíbrio
 - Capacidade de explorar recursos de composição
 - Capacidade de explorar os domínios da música (timbre, altura,
-  duração, textura, etc.)
-- Cuidados com a apresentação da partitura (composições)
+  duração, textura, texto, etc.)
+- Cuidados com a apresentação da partitura
 - Criatividade
 
 As notas serão definidas de acordo com o seguinte critério:
@@ -145,38 +145,45 @@ modificados de acordo com a necessidade e eventualidade.
 
 **OBS**: em construção
 
+| Aula | Dia   | Tópico voz                            | Tópico contornos          | Trabalho (entrega) |
+| ---- | ----- | ------------------------------------- | ------------------------- | ------------------ |
+| 1    | 11/08 | Abstract do semestre                  | Abstração e representação | -                  |
+| 2    | 18/08 | Voz, coro. F. Albano e R. Garbuio     | -                         | Exercício 1        |
+| 3    | 25/08 | -                                     | Identidade e reflexão     | Exercício 2        |
+| 4    | 01/09 | Livre. A. Daltro                      | -                         | Exercício 3        |
+| 5    | 08/09 | -                                     | Redução                   | Exercício 4        |
+| 6    | 15/09 | Texto e fala. H. Jennings e A. Pochat | -                         | Exercício 5        |
+| 7    | 22/09 | -                                     | Similaridade              | Exercício 6        |
+| 8    | 29/09 | Composição vocal. N. Martins          | -                         | Exercício 7        |
+| 9    | 06/10 | -                                     | Acento melódico           | Acompanhamento 1   |
+| 10   | 13/10 | Composição vocal. Convidado a definir |                           | Acompanhamento 2   |
+| 11   | 20/10 |                                       |                           | Acompanhamento 3   |
+| 12   | 27/10 | Canto gregoriano e órgão. F. Queiroz  |                           | Acompanhamento 4   |
+| 13   | 03/11 |                                       |                           | Acompanhamento 5   |
+| 14   | 10/11 |                                       |                           | Acompanhamento 6   |
+| 15   | 17/11 |                                       |                           | Acompanhamento 7   |
+| 16   | 24/11 |                                       |                           | Composição         |
+| 17   | 01/12 | Resultado                             |                           |                    |
+| 18   | 08/12 |                                       |                           |                    |
+
 ## 9. Trabalhos
 
 Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. Estão previamente bloqueados no Moodle.
 
 ### 9.1. Exercícios básicos
 
-Pequenos exercícios solicitados pelo professor. Duração curta e, geralmente, para instrumento solo. Os detalhes serão definidos ao longo do semestre.
+Pequenos exercícios solicitados pelo professor. Duração curta e formações relacionadas com o trabalho final. Os detalhes serão definidos ao longo do semestre.
 
 ### 9.2. Composição final
 
-#### 9.2.1. Instruções
+O trabalho final de composição deverá ser elaborado ao longo de 8 semanas, com apresentação semanal de partitura e relatório do progresso no trabalho.
 
-- Formação: Madrigal e órgão de tubos
+- Formação: Madrigal UFBA e órgão de tubos (Mosteiro de São Bento)
 - Duração: 4 a 5 minutos
-- Composição final - ver data de entrega no cronograma
-
-#### 9.2.2. Instrumentação
-
-- Madrigal da UFBA
-- Órgão de tubos eletrônico (Mosteiro de São Bento)
-
-### 9.3. Critérios de avaliação
-
-Os critérios gerais de avaliação são:
-
-  * Cumprimento do objetivo da tarefa
-  * Equilíbrio
-  * Capacidade de explorar recursos de composição
-  * Capacidade de explorar os domínios da música (timbre, altura,
-    duração, textura, etc.)
-  * Cuidados com a apresentação da partitura (composições)
-  * Criatividade
+- Conteúdos obrigatórios:
+  - Uso de técnicas de contornos para construção de algum trecho da obra
+  - Uso de técnicas de altura para construção de algum texto da obra
+  - Uso de técnicas relacionadas a coro/voz apreciadas durante o semestre
 
 ## 10. Análise
 
@@ -213,8 +220,8 @@ Musical Language." Musica Theorica 1: 1–25.
 
 ## 12. Links
 
-- Playlist com vídeos no [YouTube]().
-- [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB15%20Composicao%20VI.pdf)  aprovado pelo Departamento de Música
+- Playlist com vídeos no [YouTube](https://www.youtube.com/watch?v=tbArUJBRRJ0&list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ).
+- [Conteúdo programático](http://dmusufba.com/wp-content/uploads/MUSB15-Composicao-VI.pdf)  aprovado pelo Departamento de Música
 - [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) -  Calculadora de classes de notas
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de  contornos
 
