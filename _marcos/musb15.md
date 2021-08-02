@@ -143,6 +143,8 @@ Na modalidade remota, a frequência será verificada a partir da entrega dos tra
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
+As aulas sem conteúdo de voz e contornos, a partir do dia 20/10 serão dedicadas ao acompanhamento do trabalho final.
+
 **OBS**: em construção
 
 | Aula | Dia   | Tópico voz                            | Tópico contornos          |
