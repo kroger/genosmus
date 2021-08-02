@@ -5,41 +5,45 @@ toc: true
 level: graduacao
 ---
 
-##1. Ementa
+**OBS**: em construção. Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
+
+## 1. Ementa
 
 Estudo do princípio construtivo dos instrumentos em geral, origem e
 informações históricas, bem como obtenção do conhecimento básico de
 naturezas técnica e musical dos instrumentos da Orquestra Sinfônica,
 de modo individual, e como componentes de uma família.
 
-##1. Objetivos
+## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-  1. Escrever e/ou transcrever música para os principais instrumentos
-     da orquestra sinfônica e coro.
-  2. Aproveitar-se adequadamente das características sonoras dos
-     instrumentos da orquestra sinfônica e coro.
+1. Escrever e/ou transcrever música para os principais instrumentos
+    da orquestra sinfônica e coro.
+2. Aproveitar-se adequadamente das características sonoras dos
+    instrumentos da orquestra sinfônica e coro.
 
-##1. Conteúdo programático
+## 3. Conteúdo programático
 
-  1. Histórico, origem e transformação dos instrumentos em geral
-  2. Organologia e classificação geral dos instrumentos
-  3. Características técnicas e extensão dos instrumentos de orquestra
-  4. Características técnicas e extensão das distintas vozes, solistas
-     e de coro
-  5. Instrumentos infrequentes e obsoletos no ambiente sinfônico
-     convencional
-  6. Instrumentos eletrônicos
-  7. Aspectos de articulação nos distintos instrumentos de orquestra
-  8. Recursos e efeitos dos distintos instrumentos de orquestra
-  9. Formações de câmera e sinfônica, de pequenas, médias e grandes
-     dimensões
- 10. Novas fontes sonoras no ambiente sinfônico dos séculos XIX e XX
+1. Histórico, origem e transformação dos instrumentos em geral
+2. Organologia e classificação geral dos instrumentos
+3. Características técnicas e extensão dos instrumentos de orquestra
+4. Características técnicas e extensão das distintas vozes, solistas
+  e de coro
+5. Instrumentos infrequentes e obsoletos no ambiente sinfônico
+  convencional
+6. Instrumentos eletrônicos
+7. Aspectos de articulação nos distintos instrumentos de orquestra
+8. Recursos e efeitos dos distintos instrumentos de orquestra
+9. Formações de câmera e sinfônica, de pequenas, médias e grandes
+  dimensões
+10. Novas fontes sonoras no ambiente sinfônico dos séculos XIX e XX
 
-##1. Metodologia
+## 4. Metodologia
 
-A metodologia para atingir os objetivos propostos é baseada em
+Aula expositiva dialogal entre estudantes, professor e convidados (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
+
+<!-- A metodologia para atingir os objetivos propostos é baseada em
 
   1. aulas expositivas
   2. participação de instrumentistas convidados para demonstração
@@ -49,9 +53,18 @@ A metodologia para atingir os objetivos propostos é baseada em
 O curso está organizado de forma a estimular o estudante a realizar
 pesquisa sobre os instrumentos de modo a formar uma base mínima para
 participar das aulas com a presença dos instrumentistas e poder tirar
-dúvidas sobre questões específicas.
+dúvidas sobre questões específicas. -->
 
-##1. Pré-requisitos
+## 5. Ambientes virtuais utilizados
+
+- Moodle (AVA) UFBA
+- Google Meet Institucional
+
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns, e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
+
+A concentração dessas atividades nessas ferramentas simplifica o acesso ao histórico de tarefas, mantém todas as questões sobre a disciplina no mesmo lugar, e permite auditoria, quando necessário.
+
+## 6. Pré-requisitos
 
 São pré-requisitos dessa disciplina o entendimento da estrutura e a
 percepção de:
@@ -60,41 +73,54 @@ percepção de:
   2. Tríades
   3. Escalas maiores e menores
 
-##1. Avaliação
+## 7. Avaliação
 
-A avaliação nesta disciplina é realizada mediante:
+A avaliação nesta disciplina é realizada mediante 13 trabalhos semanais (vide detalhamento adiante).
 
- - 3 Provas escritas e de reconhecimento auditivo de instrumentos
-   (Peso 6)
- - Trabalhos semanais (Peso 4)
- 
+Os trabalhos serão aceitos apenas se forem entregues:
+
+<!-- 1. em versão elaborada em software de editoração de partitura (ou similar) -->
+1. via ambiente virtual de aprendizagem (AVA/Moodle)
+2. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
+
+**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
+
+### 7.1. Critérios de avaliação
 Os critérios gerais de avaliação são:
 
-  * Cumprimento do objetivo da tarefa
-  * Equilíbrio
-  * Domínio das características dos instrumentos envolvidos
-  * Capacidade de explorar recursos dos instrumentos
-  * Domínio da escrita
-  * Cuidados com a apresentação da partitura
+- Cumprimento do objetivo da tarefa
+- Equilíbrio
+- Domínio das características dos instrumentos envolvidos
+- Capacidade de explorar recursos dos instrumentos
+- Domínio da escrita
+- Cuidados com a apresentação da partitura
 
-Os trabalhos serão aceitos **apenas se forem entregues
-impreterivelmente no prazo**, no início da aula marcada para a
-entrega.
+As notas serão definidas de acordo com o seguinte critério:
 
-###1. Nota
+| Nota | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
+|:-----|:---------|:-----------------------|:------------------------------|:---------------------------|
+| 100% | **X**    | **X**                  | **X**                         | -                          |
+| 90%  | **X**    | **X**                  | -                             | **X**                      |
+| 80%  | **X**    | **X**                  | -                             | -                          |
+| 50%  | **X**    | -                      | **X**                         | -                          |
+| 40%  | **X**    | -                      | -                             | **X**                      |
+| 10%  | **X**    | -                      | -                             | -                          |
+| 0%   | -        | -                      | -                             | -                          |
+{: .table .table-sm}
 
-A nota do semestre será a média ponderada das notas da prova e
-trabalhos.
+### 7.2. Nota
 
-###1. Segunda chamada
+A nota do semestre será a média aritmética das notas dos trabalhos.
+
+### 7.3. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
 das seguintes situações:
 
-  1. direito assegurado por legislação específica.
-  2. motivo de saúde comprovado por atestado médico.
-  3. razão de força maior, a critério do professor.
+1. direito assegurado por legislação específica.
+2. motivo de saúde comprovado por atestado médico.
+3. razão de força maior, a critério do professor.
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta
 à segunda chamada implicará na manutenção automática e definitva da
@@ -104,16 +130,37 @@ de Ensino de Graduação.
 A data de realização de segunda chamada está prevista no cronograma da
 disciplina.
 
-##1. Cronograma
+## 8. Assiduidade e pontualidade
+
+Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
+
+## 9. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTT9yyX1MbASBbhllP9AW_bK20CdknTdC7YVgr8AJBAz0kc8JqWYiDJ8RfqN9KKtQxKdpbSwNAEoto6/pubhtml?gid=374801025&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"> </iframe>
+| Aula | Dia   | Tópico                 | Trabalho                       |
+| ---- | ----- | ---------------------- | ------------------------------ |
+| 1    | 10/08 | Características gerais |                                |
+| 2    | 17/08 | Cordas geral           | Pesquisa                       |
+| 3    | 24/08 | Cordas individual      | Transcrições individuais       |
+| 4    | 31/08 | Cordas grupo           | Transcrição seção              |
+|      | 07/09 | **Feriado**            |                                |
+| 5    | 14/09 | Madeiras geral         | Pesquisa                       |
+| 6    | 21/09 | Madeiras individual    | Transcrições individuais       |
+| 7    | 28/09 | Madeiras grupo         | Transcrição seção              |
+| 8    | 05/10 | Metais geral           | Pesquisa                       |
+|      | 12/10 | **Feriado**            |                                |
+| 9    | 19/10 | Metais individual      | Transcrições individuais       |
+|      | 02/11 | **Feriado**            |                                |
+| 10   | 26/10 | Metais grupo           | Transcrição seção              |
+| 11   | 09/11 | Percussão teclados     | Pesquisa                       |
+| 12   | 16/11 | Percussão outros       | Transcrição grupo de percussão |
+| 13   | 23/11 | Voz (solo e coro)      | Pesquisa                       |
+| 14   | 30/11 | Banda, orquestra, coro | Transcrição orquestra          |
+| 15   | 07/12 | Resultados             |                                |
 
-##1. Material para Análise
+## 10. Material para Análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -134,7 +181,7 @@ quebrado, buscar direto no IMSLP e informar o professor.
 1. Gershwin, Rapsody in Blues
 1. Gillespie, A Night in Tunisia (por Arturo Sandoval)
 1. Haydn, Trumpet Concerto in Eb
-1. Hindemith, Sonata para fagote  
+1. Hindemith, Sonata para fagote
 1. Mahler, Sinfonia n. 3
 1. Mahler, Sinfonia n. 5
 1. Mozart, Requiem
@@ -153,92 +200,56 @@ quebrado, buscar direto no IMSLP e informar o professor.
 1. Villa-Lobos, Choros n. 2
 1. Vivaldi, Concerto n. 2, Verão (Presto)
 
-##1. Notas e frequência
+## 11. Trabalhos
 
-Em construção
-  
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubhtml?gid=1060287158&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="400"></iframe>
+Estes trabalhos envolvem:
+- Pesquisa sobre uma família de instrumentos
+- Transcrição para instrumentos individuais de uma família
+- Transcrição para uma família de instrumentos
 
-###1. Gráficos de desempenho da turma
+Os objetivos dos trabalhos semanais são:
+1. estimular a atividade de pesquisa, de leitura da bibliografia e a se familiarizar com os diversos instrumentos musicais antes da presença do instrumentista na aula.
+2. praticar a transcrição de melodias de forma a explorar instrumentos individuais da melhor forma possível
+3. praticar a transcrição trechos musicais de forma a explorar seções instrumentais da melhor forma possível.
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk6QWUHXrGRF_61jF05d5B6Ac_n_cjpfxI1htDFEuOLy1jbENCF4yaumtGF8-6f_2m5sRveg20GgO/pubchart?oid=581051090&amp;format=interactive"
-width="600" height="371" frameborder="0" scrolling="no"
-seamless=""></iframe>
+### 11.1. Pesquisa
 
-##1. Trabalhos
-
-###1. Semanais
-
-O objetivo dos trabalhos semanais é estimular o estudante à atividade
-de pesquisa, de leitura da bibliografia e a se familiarizar com os
-diversos instrumentos musicais antes da presença do instrumentista na
-sala.
-
-Para cada um dos instrumentos listados na seção seguinte, o estudante
-deverá escrever um texto curto (menos de 5 linhas) apresentando as
-características fundamentais do instrumento. O ponto de partida da
-pesquisa é entender, para cada um dos seus registros como o
-instrumento se comporta quanto a:
+Para cada família de instrumentos, redigir um texto curto (até 5 linhas) apresentando as características fundamentais da família, o que há de especial e diferente em relação às demais. O ponto de partida da
+pesquisa é entender, para cada uma das famílias, como os
+instrumentos se comportam quanto a:
 
 1. Emissão sonora
-1. Timbre
-1. Intensidade
-1. Articulação
-1. Recursos idiomáticos
-1. Extensão
-1. Transposição
-
-O estudante poderá incluir exemplos de partitura no documento para
-ajudar na apresentação.
+2. Timbre
+3. Intensidade
+4. Articulação
+5. Recursos idiomáticos
+6. Extensão
+7. Transposição
 
 Dica: o livro do Samuel Adler é um bom ponto de partida para a
 pesquisa.
- 
-####1. Lista de trabalhos
 
-Ver data de entrega de cada trabalho no cronograma.
+### 11.2. Transcrição individual
 
-1. Flauta e clarinete
-1. Oboé e fagote
-1. Trompa e trompete
-1. Trombone e tuba
-1. Violino, viola e violoncelo
-1. Contrabaixo
-1. Sax
-1. Percussão: tímpanos, marimba e vibrafone
-1. Voz
-1. Harpa
+Transcrever uma melodia dada para cada instrumento de cada família de instrumentos. Buscar explorar os recursos do instrumento.
 
-*Importante*: Os trabalhos deverão ser entregues ao professor por
-email como anexos em formato PDF com o assunto `[MUSA83] Trabalho
-x`. __Não entregar em formato DOC__ nem anexar arquivo de áudio.
+### 11.3. Transcrição para seção
 
-###1. Provas
+Transcrever um trecho musical dado para uma família de instrumentos. Buscar explorar os recursos do instrumento.
 
-As provas terão questões de identificação do instrumento a partir do
-reconhecimento auditivo em trechos da literatura musical, questões
-técnicas a respeito dos instrumentos e questões para transcrição de
-trechos de um instrumento a outro.
+## 12. Bibliografia
 
-As datas das provas estão indicadas no cronograma.
+1. Adler, Samuel. 1989. _The Study of Orchestration_. 2nd ed. Vol. 8. New York, NY: W.W. Norton and Company.
+2. Carse, Adam von Ahn. 1925. The History of Orchestration: With Sixty-Six Musical Illustrations. London: Kegan Paul, Trench, Trubner & Co.
+3. Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
+4. Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
+5. Oliveira, Jamary, Ricardo Mazzini Bordini, e Marcos da Silva Sampaio. 2021. “A Harpa de Concerto: Estudo de Glissandi e de Configurações Dos Pedais Com Categorização de Classes de Conjuntos.” ICTUS - Periódico Do PPGMUS-UFBA | ICTUS Music Journal 15 (1): 25–48. https://doi.org/10.9771/ictus.v15i1.44991.
+6. Perone, James E. 1996. Orchestration Theory: A Bibliography. Wesport: Greenwood Press.
+7. Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
+8. Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
+9. Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 
-##1. Bibliografia
-
-1. Adler, Samuel. 1989. _The Study of Orchestration_. 2nd
-   ed. Vol. 8. New York, NY: W.W. Norton and Company.
-1. Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
-1. Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of
-   Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
-1. Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
-1. Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA:
-   University of California Press.
-1. Stone, Kurt. 1980. _Music Notation in the Twentieth Century_: A
-   Practical Guidebook. New York, NY: W.W. Norton and Company.
-  
-##1. Links
+## 13. Links
 
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Playlist com vídeos no
@@ -246,11 +257,6 @@ As datas das provas estão indicadas no cronograma.
 - [Excertos orquestrais](https://orchestraexcerpts.com/). Organizados
   por instrumento, com partitura e áudio.
 
-##1. Comunicação com o professor
-
-O único meio adicional de comunicação autorizado pelo professor é o
-email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
 
 <hr>
 
