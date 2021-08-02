@@ -165,6 +165,7 @@ modificados de acordo com a necessidade e eventualidade.
 | 16   | 24/11 |                                       |                           | Composição         |
 | 17   | 01/12 | Resultado                             |                           |                    |
 | 18   | 08/12 |                                       |                           |                    |
+{: .table .table-sm}
 
 ## 9. Trabalhos
 
