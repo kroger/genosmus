@@ -209,12 +209,16 @@ Musical Language." Musica Theorica 1: 1–25.
 2. Jeppeson, Knud. 1939. Counterpoint: The Polyphonic Vocal Style of  the Sixteenth Century. Englewood Cliffs, N.J: Prentice-Hall.
 3. Kostka, Stefan M. 2006. Materials and Techniques of  Twentieth-Century Music. 3rd ed. Prentice Hall.
 4. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real  Musical.
-5. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
-1. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
-1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
-1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
-1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
-1. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
+5. Sampaio, Marcos da Silva. 2012. “A Teoria de Relações de Contornos Musicais: Inconsistências, Soluções e Ferramentas.” Universidade Federal da Bahia. https://repositorio.ufba.br/ri/handle/ri/10555.
+6. Sampaio, Marcos da Silva. 2017. “A Teoria de Relações de Contornos No Brasil.” In Teoria e Análise Musical Em Perspectiva Didática, 123–38. Salvador, BA: EDUFBA.
+7. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
+8. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
+9. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+10. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
+11. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
+12. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
+
+**Obs**: Textos de Marcos Sampaio estão disponíveis em [https://marcos.sampaio.me/publication/](https://marcos.sampaio.me/publication/)
 
 ### 11.1. Complementar
 
