@@ -119,7 +119,7 @@ As notas serão definidas de acordo com o seguinte critério:
 | 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
-### 6.3. Segunda chamada
+<!-- ### 6.3. Segunda chamada
 
 O aluno que não entregar um dos trabalhos no dia marcado terá direito
 a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
@@ -133,7 +133,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta
 nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
 de Ensino de Graduação.
 
-O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
+O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega. -->
 
 ## 7. Assiduidade e pontualidade
 

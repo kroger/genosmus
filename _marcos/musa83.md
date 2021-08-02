@@ -112,7 +112,7 @@ As notas serão definidas de acordo com o seguinte critério:
 | 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
-### 7.3. Segunda chamada
+<!-- ### 7.3. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -128,7 +128,7 @@ nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
 de Ensino de Graduação.
 
 A data de realização de segunda chamada está prevista no cronograma da
-disciplina.
+disciplina. -->
 
 ## 8. Assiduidade e pontualidade
 
