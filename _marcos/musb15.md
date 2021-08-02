@@ -193,7 +193,29 @@ O trabalho final de composição deverá ser elaborado ao longo de 8 semanas, co
 Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
 
-[Em construção]
+**OBS**: em construção
+
+1. Kyrie gregoriano
+2. Palestrina. Missa Papae Marcelli. Kyrie
+3. Carlo Gesualdo. Sesto libro di madrigali: XVII. Moro, lasso, al mio duolo
+4. J.S. Bach. Choral 001 - Aus meines Herzens Grunde, BWV 269
+5. J.S. Bach. Paixão São Matheus - O Haupt voll Blut und Wunden
+6. G.F. Haendel. Aleluia
+7. W.A. Mozart. Requiem. Lacrimosa
+8. L.v. Beethoven. 9a Sinfonia
+9. G. Verdi. Va, pensiero
+10. C. Orff. Carmina Burana
+11. G. Ligeti. Nacht und Morgen for Choir (1965)
+12. G. Ligeti. Nonsense Madrigals 1/6
+13. F. Poulenc. Quatre motets pour le temps de Noël
+14. M. Ravel. Trois Chansons (1914-15)
+15. K. Penderecki. Stabat Mater (1962)
+16. R. Strauss. Deutche Mottete, op. 62
+17. F. Dantas. Chula no terreiro
+18. A. Ginastera. Lamentações de Jeremias, op. 44.
+19. L. Berio. Cries of London
+20. H. Villa-Lobos. Choros 10
+21. H. Villa-Lobos. Bachianas 9
 
 ## 11. Bibliografia
 
