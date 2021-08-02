@@ -145,26 +145,26 @@ modificados de acordo com a necessidade e eventualidade.
 
 **OBS**: em construção
 
-| Aula | Dia   | Tópico voz                            | Tópico contornos          | Trabalho (entrega) |
-| ---- | ----- | ------------------------------------- | ------------------------- | ------------------ |
-| 1    | 11/08 | Abstract do semestre                  | Abstração e representação | -                  |
-| 2    | 18/08 | Voz, coro. F. Albano e R. Garbuio     | -                         | Exercício 1        |
-| 3    | 25/08 | -                                     | Identidade e reflexão     | Exercício 2        |
-| 4    | 01/09 | Livre. A. Daltro                      | -                         | Exercício 3        |
-| 5    | 08/09 | -                                     | Redução                   | Exercício 4        |
-| 6    | 15/09 | Texto e fala. H. Jennings e A. Pochat | -                         | Exercício 5        |
-| 7    | 22/09 | -                                     | Similaridade              | Exercício 6        |
-| 8    | 29/09 | Composição vocal. N. Martins          | -                         | Exercício 7        |
-| 9    | 06/10 | -                                     | Acento melódico           | Acompanhamento 1   |
-| 10   | 13/10 | Composição vocal. Convidado a definir |                           | Acompanhamento 2   |
-| 11   | 20/10 |                                       |                           | Acompanhamento 3   |
-| 12   | 27/10 | Canto gregoriano e órgão. F. Queiroz  |                           | Acompanhamento 4   |
-| 13   | 03/11 |                                       |                           | Acompanhamento 5   |
-| 14   | 10/11 |                                       |                           | Acompanhamento 6   |
-| 15   | 17/11 |                                       |                           | Acompanhamento 7   |
-| 16   | 24/11 |                                       |                           | Composição         |
-| 17   | 01/12 | Resultado                             |                           |                    |
-| 18   | 08/12 |                                       |                           |                    |
+| Aula | Dia   | Tópico voz                            | Tópico contornos          |
+| ---- | ----- | ------------------------------------- | ------------------------- |
+| 1    | 11/08 | Abstract do semestre                  | Abstração e representação |
+| 2    | 18/08 | Voz, coro. F. Albano e R. Garbuio     | -                         |
+| 3    | 25/08 | -                                     | Identidade e reflexão     |
+| 4    | 01/09 | Livre. A. Daltro                      | -                         |
+| 5    | 08/09 | -                                     | Redução                   |
+| 6    | 15/09 | Texto e fala. H. Jennings e A. Pochat | -                         |
+| 7    | 22/09 | -                                     | Similaridade              |
+| 8    | 29/09 | Composição vocal. N. Martins          | -                         |
+| 9    | 06/10 | -                                     | Acento melódico           |
+| 10   | 13/10 | Composição vocal. Convidado a definir |                           |
+| 11   | 20/10 |                                       |                           |
+| 12   | 27/10 | Canto gregoriano e órgão. F. Queiroz  |                           |
+| 13   | 03/11 |                                       |                           |
+| 14   | 10/11 |                                       |                           |
+| 15   | 17/11 |                                       |                           |
+| 16   | 24/11 |                                       |                           |
+| 17   | 01/12 | Resultado                             |                           |
+| 18   | 08/12 |                                       |                           |
 {: .table .table-sm}
 
 ## 9. Trabalhos
