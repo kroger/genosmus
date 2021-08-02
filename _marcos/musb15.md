@@ -77,6 +77,14 @@ A avaliação será realizada mediante os seguintes trabalhos:
 1. Composição de 7 exercícios básicos, para treinamento dos conteúdos estudados.
 2. Composição de uma obra de duração de 4 a 5 minutos para madrigal e órgão de tubos, com uso sistemático de contornos.
 
+Os trabalhos serão aceitos apenas se forem entregues:
+
+<!-- 1. em versão elaborada em software de editoração de partitura (ou similar) -->
+1. via ambiente virtual de aprendizagem (AVA/Moodle)
+1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
+
+**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
+
 ### 6.1. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado
@@ -85,13 +93,6 @@ obtido nos trabalhos, de acordo com os seguintes pesos:
 1. Exercícios 1 a 7 (peso 3)
 2. Acompanhamento da composição final 1 a 7 (peso 3)
 3. Composição final (peso 4)
-
-Os trabalhos serão aceitos apenas se forem entregues:
-
-1. em versão elaborada em software de editoração de partitura (ou similar)
-1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
-
-**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
 
 ### 6.2. Critérios de avaliação
 
