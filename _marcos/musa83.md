@@ -85,7 +85,11 @@ Os trabalhos serão aceitos apenas se forem entregues:
 
 **IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
 
-### 7.1. Critérios de avaliação
+### 7.1. Nota
+
+A nota do semestre será a média aritmética das notas dos trabalhos.
+
+### 7.2. Critérios de avaliação
 Os critérios gerais de avaliação são:
 
 - Cumprimento do objetivo da tarefa
@@ -107,10 +111,6 @@ As notas serão definidas de acordo com o seguinte critério:
 | 10%  | **X**    | -                      | -                             | -                          |
 | 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
-
-### 7.2. Nota
-
-A nota do semestre será a média aritmética das notas dos trabalhos.
 
 ### 7.3. Segunda chamada
 
@@ -159,6 +159,7 @@ modificados de acordo com a necessidade e eventualidade.
 | 13   | 23/11 | Voz (solo e coro)      | Pesquisa                       |
 | 14   | 30/11 | Banda, orquestra, coro | Transcrição orquestra          |
 | 15   | 07/12 | Resultados             |                                |
+{: .table .table-sm}
 
 ## 10. Material para Análise
 
