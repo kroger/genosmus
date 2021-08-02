@@ -44,7 +44,7 @@ title: Marcos Sampaio
 
 <h2 id="ensino">Ensino</h2>
 
-<h3>Semestre {{ semestre_atual }} (em planejamento)</h3>
+<h3>Semestre {{ semestre_atual }}</h3>
 
 <h4>Graduação</h4>
 
@@ -52,8 +52,8 @@ title: Marcos Sampaio
   {% for page in pages %}
   {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
   {% if site.data.docentes.marcos.atual contains disciplina %}
-  <li>{{ page.title | replace: '--', '&ndash;' }}</li>
-  <!-- <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li> -->
+  <!-- <li>{{ page.title | replace: '--', '&ndash;' }}</li> -->
+  <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
   {% endif %}
   {% endfor %}
 </ul>
