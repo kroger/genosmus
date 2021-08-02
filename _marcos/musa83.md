@@ -244,7 +244,7 @@ Transcrever um trecho musical dado para uma família de instrumentos. Buscar exp
 2. Carse, Adam von Ahn. 1925. The History of Orchestration: With Sixty-Six Musical Illustrations. London: Kegan Paul, Trench, Trubner & Co.
 3. Forsyth, Cecil. 1982. _Orchestration_. New York: Dover. 1982.
 4. Kennan, Kent Wheeler, and Donald Grantham. 1983. _The Technique of Orchestration_. Englewood Cliffs, N.J: Prentice-Hall.
-5. Oliveira, Jamary, Ricardo Mazzini Bordini, e Marcos da Silva Sampaio. 2021. “A Harpa de Concerto: Estudo de Glissandi e de Configurações Dos Pedais Com Categorização de Classes de Conjuntos.” ICTUS - Periódico Do PPGMUS-UFBA | ICTUS Music Journal 15 (1): 25–48. https://doi.org/10.9771/ictus.v15i1.44991.
+5. Oliveira, Jamary, Ricardo Mazzini Bordini, e Marcos da Silva Sampaio. 2021. “A Harpa de Concerto: Estudo de Glissandi e de Configurações Dos Pedais Com Categorização de Classes de Conjuntos.” ICTUS - Periódico Do PPGMUS-UFBA // ICTUS Music Journal 15 (1): 25–48. https://doi.org/10.9771/ictus.v15i1.44991.
 6. Perone, James E. 1996. Orchestration Theory: A Bibliography. Wesport: Greenwood Press.
 7. Piston, Walter. 1969. _Orchestration_. London: Victor Gollancz Ltd.
 8. Stiller, Andrew. 1985. _Handbook of Instrumentation_. Berkeley, CA: University of California Press.
