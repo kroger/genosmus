@@ -102,7 +102,7 @@ Os critérios gerais de avaliação são:
 As notas serão definidas de acordo com o seguinte critério:
 
 | Nota | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
-|:-----|:---------|:-----------------------|:------------------------------|:---------------------------|
+| :--- | :------- | :--------------------- | :---------------------------- | :------------------------- |
 | 100% | **X**    | **X**                  | **X**                         | -                          |
 | 90%  | **X**    | **X**                  | -                             | **X**                      |
 | 80%  | **X**    | **X**                  | -                             | -                          |
@@ -139,7 +139,7 @@ Na modalidade remota, a frequência será verificada a partir da entrega dos tra
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Dia   | Tópico                 | Trabalho                       |
+| Aula | Dia   | Tópico                 | Trabalho (correção)            |
 | ---- | ----- | ---------------------- | ------------------------------ |
 | 1    | 10/08 | Características gerais |                                |
 | 2    | 17/08 | Cordas geral           | Pesquisa                       |
