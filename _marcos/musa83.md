@@ -5,7 +5,9 @@ toc: true
 level: graduacao
 ---
 
-**OBS**: em construção. Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
+Plano de curso da disciplina Introdução à Instrumentação, do curso de Composição e Regência da UFBA.
+
+Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
 
 ## 1. Ementa
 
