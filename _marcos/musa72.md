@@ -14,30 +14,40 @@ estudados. (antiga)
 
 <!--FIXME: adicionar objetivos-->
 
+##1. Objetivos
+
+Ao final do curso, espera-se que o estudante seja capaz de:
+
+1. Compreeender a diversidade da Forma Sonata no repertório.
+1. Reconhecer obras em Forma Sonata e identificar as suas seções e
+   relações harmônicas.
+1. Incorporar o conhecimento da estrutura da Forma Sonata na construção
+   da interpretação.
+
 ##1. Conteúdo programático
 
-  1. A Forma Sonata
-      * Aspecto Geral da Forma Sonata
-      * Seção da Tonalidade Principal
-      * A transição
-      * Seção da Tonalidade Relativa
-      * Continuação da Seção da Tonalidade Relativa (Tema ou Grupo de
-        Temas de Fechamento)
-      * Seção de Desenvolvimento
-      * Recapitulação
-      * A introdução
-      * A Coda
-      * Modificações da Forma Sonata (sonatina, sonatina ampliada,
-        sonata rondo)
-  2. O Concerto
-      * Movimentos Externos do Concerto Barroco; O Movimento do
-        Concerto Grosso
-      * Forma do Movimento do Concerto Grosso
-      * O Primeiro Movimento do Concerto Clássico: A Forma
-        Concerto-Sonata
-      * O Terceiro Movimento do Concerto Clássico: Forma
-        Concerto-Rondo
-      * Nota Histórica Sobre o Concerto Após Beethoven
+1. A Forma Sonata
+   - Aspecto Geral da Forma Sonata
+   - Seção da Tonalidade Principal
+   - A transição
+   - Seção da Tonalidade Relativa
+   - Continuação da Seção da Tonalidade Relativa (Tema ou Grupo de
+    Temas de Fechamento)
+   - Seção de Desenvolvimento
+   - Recapitulação
+   - A introdução
+   - A Coda
+   - Modificações da Forma Sonata (sonatina, sonatina ampliada,
+    sonata rondo)
+2. O Concerto
+   - Movimentos Externos do Concerto Barroco; O Movimento do
+    Concerto Grosso
+   - Forma do Movimento do Concerto Grosso
+   - O Primeiro Movimento do Concerto Clássico: A Forma
+    Concerto-Sonata
+   - O Terceiro Movimento do Concerto Clássico: Forma
+    Concerto-Rondo
+   - Nota Histórica Sobre o Concerto Após Beethoven
 
 ##1. Avaliação
 
@@ -74,9 +84,9 @@ disciplina.
 Este cronograma é uma previsão e poderá ser alterado ao longo do
 semestre.
 
-<iframe
+<!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFJd6AVK1yqXBc_VGyrFlWCH2W0INq1LZ6hc2asD-nWFc7vlaHWrP5nxSR0SDhVPfdwb6P5V0oF3kW/pubhtml?gid=2015781779&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+width="100%" height="300"></iframe> -->
 
 
 ##1. Obras para análise
@@ -137,9 +147,9 @@ O material para análise está inteiramente disponível no site do IMSLP
 As notas dos alunos estão disponíveis no link abaixo e serão
 atualizadas durante o curso:
 
-<iframe
+<!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe>
+width="100%" height="300"></iframe> -->
 
 ###1. Distribuição de notas
 
@@ -147,9 +157,9 @@ O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
 contém o número de alunos com média final dentro das faixas.
 
-<iframe seamless frameborder="0" scrolling="no"
+<!-- <iframe seamless frameborder="0" scrolling="no"
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
-width="100%" height="300"></iframe>
+width="100%" height="300"></iframe> -->
 
 ##1. Links
 

@@ -19,9 +19,9 @@ estudados.
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-  1. Compreender a harmonia e forma de pequenas obras modulatórias e
-     com recursos cromáticos, tais como _lieder_ e minuetos mediante
-     análise.
+  1. Compreender, mediante análise, a harmonia e forma de pequenas
+     obras com trechos modulatórias e recursos cromáticos, tais como
+     _lieder_ e minuetos.
   2. Realizar baixos cifrados e harmonizar melodias modulatórias com
      recursos cromáticos a quatro vozes.
   3. Compor _lieder_ binário e ternário.
@@ -107,15 +107,10 @@ disciplina.
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-**OBS**: O professor ficará afastado de todas as funções por cerca de uma
-semana, em função de uma cirurgia à qual irá se submeter, no início de
-abril. O professor irá passar trabalhos para casa para serem cumpridos
-nesse período.
-
-<iframe
+<!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af4ZqIjDnavifJJdeRZHQ0vDkCLQo-HcaCnaDJZqaOPuNAe0_c9InL/pubhtml?gid=1830898706&amp;single=true&amp;widget=true&amp;headers=false"
  width="100%" height="300">
-</iframe>
+</iframe> -->
 
 ##1. Exercícios de apoio
 
@@ -143,7 +138,7 @@ quebrado, buscar direto no IMSLP e informar o professor.
 
 ###1. Lista completa
 
-[Em construção]
+[Em construção, links para o IMSLP desatualizados]
 
 1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b7/IMSLP03821-4PC_2.PDF)
 1. Beethoven, op. 7, mov. 2 (Largo, con gran espessione) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/04/IMSLP243111-PMLP01406-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B127_Op_7_scan.pdf)
@@ -332,9 +327,9 @@ O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
 contém o número de alunos com média final dentro das faixas.
 
-<iframe
+<!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubchart?oid=641992382&amp;format=interactive"
-width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe>
+width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe> -->
 
 ##1. Bibliografia
 
