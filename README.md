@@ -34,33 +34,51 @@ diretamente pela interface web do Github:
 Para modificar e visualizar o site localmente deve-se clonar o
 repositório com o site e instalar o Jekyll.
 
-1. Clone o repositório:
+### 1. Clone o repositório
 
     git clone git@github.com:kroger/genosmus.git
 
-2. Instale a versão mais nova do Ruby (3.0), com o homebrew:
+### 2. Instale a versão mais nova do Ruby (3.0)
+
+No Mac, com o homebrew:
 
     brew update
     brew install ruby
 
 ou instale com com o `rbenv` (vai compilar a versão do Ruby)
 
-	brew install rbenv
+  	brew install rbenv
     rbenv install 3.0
-	rbenv global 3.0.0
+    rbenv global 3.0.0
+
+No Linux, ver documentação [Jekyll][1]:
+
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    source ~/.bashrc
+
+    gem install jekyll bundler
+
+### 3. Instale o Bundle
+
     gem install bundle
 
-3. Instale o Jekyll e suas dependências com o comando abaixo (no
-   diretório com o código do site):
+### 4. Instale o Jekyll e suas dependências
 
-  cd genosmus
-	bundle install
+Com o comando abaixo (no diretório com o código do site):
 
-4. Rode `make` para inicar o servidor local do Jekyll. O site deve
-   estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000).
-   Esse comando vai executar `bundle exec jekyll serve`. Outros
-   comando do Jekyll podem ser executados dessa maneira, como `bundle
-   exec jekyll clean`, etc.
+    cd genosmus
+    bundle install
+
+### 5. Rode `make` para iniciar o servidor local do Jekyll.
+
+O site deve estar disponível em [http://127.0.0.1:4000](http://127.0.0.1:4000).
+Esse comando vai executar `bundle exec jekyll serve`. Outros
+comando do Jekyll podem ser executados dessa maneira, como `bundle
+exec jekyll clean`, etc.
 
 ## Configuração no Netlify
 
@@ -78,3 +96,5 @@ Deploy -> Environment -> Environment variables" e criar a variável
 
 O email do genos é genos@genosmus.com e pode ser acessado em
 https://mail.zoho.com/zm/
+
+[1]: https://jekyllrb.com/docs/installation/ubuntu/
