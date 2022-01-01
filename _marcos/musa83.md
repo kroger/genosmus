@@ -5,6 +5,9 @@ toc: true
 level: graduacao
 ---
 
+**OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
+A metodologia, sistema de avaliação e cronograma ainda serão revistos.
+
 Plano de curso da disciplina Introdução à Instrumentação, do curso de Composição e Regência da UFBA.
 
 Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.

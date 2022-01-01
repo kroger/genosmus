@@ -5,10 +5,12 @@ toc: true
 level: graduacao
 ---
 
+**OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
+A metodologia, sistema de avaliação e cronograma ainda serão revistos.
+
 ##1. Informações preliminares
 
-Este componente foi criado no contexto do Semestre Letivo Suplementar
-2020 da UFBA. O objetivo principal é possibilitar a abordagem de
+O objetivo principal deste componente é possibilitar a abordagem de
 repertórios de certo grau de complexidade que nem sempre podem ser
 estudados em outros componentes curriculares da Escola de Música.
 

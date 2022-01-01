@@ -6,6 +6,9 @@ number_sections: true
 level: graduacao
 ---
 
+**OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
+A metodologia e sistema de avaliação ainda serão revistos.
+
 ## 1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração
