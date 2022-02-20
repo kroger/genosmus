@@ -1,0 +1,18 @@
+**Semana de abertura UFBA**
+Características gerais
+Cordas geral (Pesquisa)
+Cordas individual (Transcrições individuais)
+Cordas grupo (Transcrição seção)
+Madeiras geral (Pesquisa)
+Madeiras individual (Transcrições individuais)
+Madeiras grupo (Transcrição seção)
+Metais geral (Pesquisa)
+Metais individual (Transcrições individuais)
+Metais grupo (Transcrição seção)
+Percussão teclados (Pesquisa)
+Percussão outros (Transcrição grupo de percussão)
+Voz (solo e coro) (Pesquisa)
+Banda, orquestra, coro (Transcrição orquestra)
+A definir
+Entrega de resultados
+Reservado para reposição
