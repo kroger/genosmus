@@ -52,19 +52,49 @@ Ao final do curso, espera-se que o estudante seja capaz de:
     Concerto-Rondo
    - Nota Histórica Sobre o Concerto Após Beethoven
 
-## 4. Avaliação
+## 4. Metodologia
 
-A avaliação nesta disciplina é realizada mediante 3 provas. As provas
+A compreensão dos conteúdos e desenvolvimento de habilidades analíticas será resultado de uma metodologia híbrida, com atividades síncronas e assíncronas, bem como aulas expositivas dialogais e atividades práticas.
+
+Em todas as aulas os estudantes irão analisar obras com movimentos em Forma Sonata.
+
+Os encontros síncronos ocorrerão nas terças-feiras e as atividades assíncronas serão realizadas no horário de aula das quintas-feiras:
+
+1. Terça-feira (encontro síncrono)
+   1. Exposição de conteúdos
+   2. Análise individual pelos estudantes (cerca de 50 minutos), com suporte do professor
+   3. Correção da análise em aula, pelo professor
+   4. Correção da atividade assíncrona da semana anterior, pelo professor.
+2. Quinta-feira (atividade assíncrona - sem a presença do professor)
+   1. Análise individual pelos estudantes, para entrega até o fim do dia.
+
+## 5. Ambientes virtuais utilizados
+
+- Moodle (AVA) UFBA
+- Google Meet Institucional
+
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema). O email nem outras formas de comunicação serão utilizadas.
+
+**OBSERVAÇÃO**: Todas as atividades deverão ser entregues pelo Moodle no prazo determinado e, em **NENHUMA HIPÓTESE**, serão aceitos por outro canal ou fora do prazo. O cronograma está disponível desde o início do semestre, de forma que é plenamente possível ao estudante organizar as suas atividades.
+
+## 6. Avaliação
+
+A avaliação do aprendizado será realizada mediante trabalhos semanais e participação nos encontros síncronos.
+
+
+<!-- A avaliação nesta disciplina é realizada mediante 3 provas. As provas
 são compostas por questões de composição e/ou análise e têm como
 objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
 de correção é subjetivo, como o próprio conteúdo da disciplina. O
-conteúdo das provas é acumulativo.
+conteúdo das provas é acumulativo. -->
 
-### 4.1. Nota
+### 6.1. Nota
 
-A média final é equivalente à média simples das notas das provas.
+A média final será uma média ponderada, com pesos a definir para os trabalhos semanais por participação nos encontros.
 
-### 4.2. Segunda chamada
+<!-- A média final é equivalente à média simples das notas das provas.
+
+### 6.2. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -80,9 +110,9 @@ nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
 de Ensino de Graduação.
 
 A prova de segunda chamada ocorrerá em data definida no cronograma da
-disciplina.
+disciplina. -->
 
-## 5. Cronograma
+## 7. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do
 semestre.
@@ -127,7 +157,7 @@ semestre.
 | 31   | 07-07-2022 | Qui | Reservado para reposição                        |
 {: .table .table-sm}
 
-## 6. Obras para análise
+## 8. Obras para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -136,7 +166,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 
 [Em construção]
 
-### 6.1. Beethoven
+### 8.1. Beethoven
 
 1. Piano Sonata n. 1. Op 2, n. 1, mov. 1. [IMSLP](http://ks4.imslp.net/files/imglnks/usimg/8/85/IMSLP243106-PMLP01446-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B124_Op_2_No_1_scan.pdf)
 1. Piano Sonata n. 2. Op 2, n. 2, mov. 1. [IMSLP](http://imslp.simssa.ca/files/imglnks/usimg/7/72/IMSLP243107-PMLP01413-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B125_Op_2_No_2_scan.pdf)
@@ -159,7 +189,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Piano Sonata n. 31. Op. 110
 1. Piano Sonata n. 32. Op. 111, mov. 1. [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7e/IMSLP51811-PMLP01489-Beethoven_Werke_Breitkopf_Serie_16_No_155_Op_111.pdf)
 
-### 6.2. Mozart
+### 8.2. Mozart
 
 1. Piano Sonata n. 2. K 280, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
 1. Piano Sonata n. 8. K 310, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/be/IMSLP56317-PMLP01843-Mozart_Werke_Breitkopf_Serie_20_KV310.pdf)
@@ -171,7 +201,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Piano Sonata n. 16. K 545, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
 1. Piano Sonata n. 18. K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
 
-### 6.3. Outros
+### 8.3. Outros
 
 1. Brahms Op. 68 (versão reduzida), mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/72/IMSLP12057-Brahms-Singer_-_Symphony_No.1.pdf)
 1. Clementi Op. 1 N. 5, mov. 1 [IMSLP](http://ks.imslp.info/files/imglnks/usimg/3/3b/IMSLP02848-Clementi_1_5.pdf)
@@ -180,26 +210,28 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Hindemith, Piano Sonata n. 2, mov. 1 [IMSLP](http://petruccilibrary.ca/files/imglnks/caimg/2/28/IMSLP422919-PMLP501630-hindemithpianosonatano.2score(FE).pdf)
 1. Kuhlau Op. 59 N. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/9/97/IMSLP481807-PMLP780856-kuhlausonatinasforthepianovol.IOp.59No.1.pdf)
 
-## 7. Notas e frequência
+## 9. Notas
 
-As notas dos alunos estão disponíveis no link abaixo e serão
-atualizadas durante o curso:
+As notas ficam disponíveis no AVA/Moodle.
+
+<!-- As notas dos alunos estão disponíveis no link abaixo e serão
+atualizadas durante o curso: -->
 
 <!-- <iframe
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe> -->
 
-### 7.1. Distribuição de notas
+<!-- ### 9.1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-contém o número de alunos com média final dentro das faixas.
+contém o número de alunos com média final dentro das faixas. -->
 
 <!-- <iframe seamless frameborder="0" scrolling="no"
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
 width="100%" height="300"></iframe> -->
 
-## 8. Links
+## 10. Links
 
  - [Posts sobre tópicos de Teoria Musical](https://marcos.sampaio.me/post/)
  - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
@@ -219,7 +251,7 @@ width="100%" height="300"></iframe> -->
  - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
 
 
-## 9. Bibliografia
+## 11. Bibliografia
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
@@ -240,11 +272,13 @@ width="100%" height="300"></iframe> -->
   Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
   Musicales</i>. Barcelona: Editorial Labor.  </p>
 
-## 10. Comunicação com o professor
+## 12. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o
+A comunicação da disciplina deverá ocorrer exlusivamente pelo AVA/Moodle. Assuntos acadêmicos não serão tratados por telefone ou mensagens em nenhuma hipótese.
+
+<!-- O único meio adicional de comunicação autorizado pelo professor é o
 email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
+telefone ou mensagens em nenhuma hipótese. -->
 
 <hr>
 
