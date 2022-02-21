@@ -5,17 +5,12 @@ toc: true
 level: graduacao
 ---
 
-**OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
-A metodologia e sistema de avaliação ainda serão revistos.
-
 ## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
 combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
 estudados. (antiga)
-
-<!--FIXME: adicionar objetivos-->
 
 ## 2. Objetivos
 
