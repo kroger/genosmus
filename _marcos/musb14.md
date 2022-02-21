@@ -158,21 +158,21 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia | Tópico                                  |
 | ---- | ---------- | --- | --------------------------------------- |
-|      | 09-03-2022 | Qua | **Semana de abertura UFBA**             |
-| 1    | 16-03-2022 | Qua | Apresentação, Politonalidade            |
-| 2    | 23-03-2022 | Qua | Politonalidade. Entrega de exercício 1  |
-| 3    | 30-03-2022 | Qua | Politonalidade. Entrega de miniatura 1  |
-| 4    | 06-04-2022 | Qua | Politonalidade. Entrega de exercício 2  |
-| 5    | 13-04-2022 | Qua | Politonalidade. Entrega de miniatura 2  |
-| 6    | 20-04-2022 | Qua | Politonalidade. Entrega de exercício 3  |
-| 7    | 27-04-2022 | Qua | Politonalidade. Entrega de miniatura 3  |
-| 8    | 04-05-2022 | Qua | Pós-tonalismo e serialismo              |
-| 9    | 11-05-2022 | Qua | Consulta composição final 1             |
-| 10   | 18-05-2022 | Qua | Consulta composição final 2             |
-| 11   | 25-05-2022 | Qua | Consulta composição final 3             |
-| 12   | 01-06-2022 | Qua | Consulta composição final 4             |
-| 13   | 08-06-2022 | Qua | Consulta composição final 5             |
-| 14   | 15-06-2022 | Qua | Consulta composição final 6             |
+| 1    | 09-03-2022 | Qua | Apresentação, Politonalidade            |
+| 2    | 16-03-2022 | Qua | Politonalidade. Entrega de exercício 1  |
+| 3    | 23-03-2022 | Qua | Politonalidade. Entrega de miniatura 1  |
+| 4    | 30-03-2022 | Qua | Politonalidade. Entrega de exercício 2  |
+| 5    | 06-04-2022 | Qua | Politonalidade. Entrega de miniatura 2  |
+| 6    | 13-04-2022 | Qua | Politonalidade. Entrega de exercício 3  |
+| 7    | 20-04-2022 | Qua | Politonalidade. Entrega de miniatura 3  |
+| 8    | 27-04-2022 | Qua | Pós-tonalismo e serialismo              |
+| 9    | 04-05-2022 | Qua | Consulta composição final 1             |
+| 10   | 11-05-2022 | Qua | Consulta composição final 2             |
+| 11   | 18-05-2022 | Qua | Consulta composição final 3             |
+| 12   | 25-05-2022 | Qua | Consulta composição final 4             |
+| 13   | 01-06-2022 | Qua | Consulta composição final 5             |
+| 14   | 08-06-2022 | Qua | Consulta composição final 6             |
+|      | 15-06-2022 | Qua | **Ausência do professor**               |
 | 15   | 22-06-2022 | Qua | Entrega da composição final e relatório |
 | 16   | 29-06-2022 | Qua | Entrega de resultados                   |
 | 17   | 06-07-2022 | Qua | Reservado para reposição                |

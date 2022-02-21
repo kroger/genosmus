@@ -89,8 +89,8 @@ semestre.
 
 | Aula | Data       | Dia | Tópico                                          |
 | ---- | ---------- | --- | ----------------------------------------------- |
-|      | 08-03-2022 | Ter | **Semana de abertura UFBA**                     |
-|      | 10-03-2022 | Qui | **Semana de abertura UFBA**                     |
+|      | 08-03-2022 | Ter | **Aula magna EMUS**                             |
+|      | 10-03-2022 | Qui | **Preparativos finais - sem aula**              |
 | 1    | 15-03-2022 | Ter | Análise Mozart K 545                            |
 | 2    | 17-03-2022 | Qui | Análise Kuhlau Op. 59 N. 1                      |
 | 3    | 22-03-2022 | Ter | Análise Haydn XVI/32 N. 47 Si menor             |

@@ -69,24 +69,24 @@ síncronas.
 
 | Aula | Data       | Dia | Tópico                                                                     |
 | ---- | ---------- | --- | -------------------------------------------------------------------------- |
-|      | 08-03-2022 | Ter | **Semana de abertura UFBA**                                                |
-| 1    | 15-03-2022 | Ter | Apresentação, definição do repertório e técnicas de análise                |
-| 2    | 22-03-2022 | Ter | Contexto histórico, análise prévia, análise de obras                       |
-| 3    | 29-03-2022 | Ter | Análise prévia e análise de obras                                          |
-| 4    | 05-04-2022 | Ter | Análise prévia e análise de obras                                          |
-| 5    | 12-04-2022 | Ter | Análise prévia e análise de obras                                          |
-| 6    | 19-04-2022 | Ter | Redação de texto analítico e análise de obras                              |
-| 7    | 26-04-2022 | Ter | Análise prévia e análise de obras                                          |
-| 8    | 03-05-2022 | Ter | Redação de texto analítico, análise de obras e definição do trabalho final |
-| 9    | 10-05-2022 | Ter | Análise prévia, análise de obras e definição do trabalho final             |
-| 10   | 17-05-2022 | Ter | Análise prévia e consultas para trabalho final                             |
-| 11   | 24-05-2022 | Ter | Análise prévia e consultas para trabalho final                             |
-| 12   | 31-05-2022 | Ter | Consultas para trabalho final                                              |
-| 13   | 07-06-2022 | Ter | Consultas para trabalho final                                              |
-| 14   | 14-06-2022 | Ter | Consultas para trabalho final                                              |
-| 15   | 21-06-2022 | Ter | Apresentação do trabalho final                                             |
-| 16   | 28-06-2022 | Ter | Entrega de resultados                                                      |
-| 17   | 05-07-2022 | Ter | Reservado para reposição                                                   |
+| 1    | 09-03-2022 | Qua | Apresentação, definição do repertório e técnicas de análise                |
+| 2    | 16-03-2022 | Qua | Contexto histórico, análise prévia, análise de obras                       |
+| 3    | 23-03-2022 | Qua | Análise prévia e análise de obras                                          |
+| 4    | 30-03-2022 | Qua | Análise prévia e análise de obras                                          |
+| 5    | 06-04-2022 | Qua | Análise prévia e análise de obras                                          |
+| 6    | 13-04-2022 | Qua | Redação de texto analítico e análise de obras                              |
+| 7    | 20-04-2022 | Qua | Análise prévia e análise de obras                                          |
+| 8    | 27-04-2022 | Qua | Redação de texto analítico, análise de obras e definição do trabalho final |
+| 9    | 04-05-2022 | Qua | Análise prévia, análise de obras e definição do trabalho final             |
+| 10   | 11-05-2022 | Qua | Análise prévia e consultas para trabalho final                             |
+| 11   | 18-05-2022 | Qua | Análise prévia e consultas para trabalho final                             |
+| 12   | 25-05-2022 | Qua | Consultas para trabalho final                                              |
+| 13   | 01-06-2022 | Qua | Consultas para trabalho final                                              |
+| 14   | 08-06-2022 | Qua | Consultas para trabalho final                                              |
+|      | 15-06-2022 | Qua | **Ausência do professor**                                                  |
+| 15   | 22-06-2022 | Qua | Apresentação do trabalho final                                             |
+| 16   | 29-06-2022 | Qua | Entrega de resultados                                                      |
+| 17   | 06-07-2022 | Qua | Reservado para reposição                                                   |
 {: .table .table-sm}
 
 ## 8. Avaliação
