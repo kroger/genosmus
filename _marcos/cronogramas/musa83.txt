@@ -1,4 +1,3 @@
-**Semana de abertura UFBA**
 Características gerais
 Cordas geral (Pesquisa)
 Cordas individual (Transcrições individuais)
@@ -13,6 +12,7 @@ Percussão teclados (Pesquisa)
 Percussão outros (Transcrição grupo de percussão)
 Voz (solo e coro) (Pesquisa)
 Banda, orquestra, coro (Transcrição orquestra)
+A definir
 A definir
 Entrega de resultados
 Reservado para reposição
