@@ -8,7 +8,7 @@ level: graduacao
 **OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
 A metodologia e sistema de avaliação ainda serão revistos.
 
-##1. Ementa
+## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
 combinações. Estudo de formas musicais de estrutura única, binária e
@@ -17,7 +17,7 @@ estudados. (antiga)
 
 <!--FIXME: adicionar objetivos-->
 
-##1. Objetivos
+## 2. Objetivos
 
 Ao final do curso, espera-se que o estudante seja capaz de:
 
@@ -27,7 +27,7 @@ Ao final do curso, espera-se que o estudante seja capaz de:
 1. Incorporar o conhecimento da estrutura da Forma Sonata na construção
    da interpretação.
 
-##1. Conteúdo programático
+## 3. Conteúdo programático
 
 1. A Forma Sonata
    - Aspecto Geral da Forma Sonata
@@ -52,7 +52,7 @@ Ao final do curso, espera-se que o estudante seja capaz de:
     Concerto-Rondo
    - Nota Histórica Sobre o Concerto Após Beethoven
 
-##1. Avaliação
+## 4. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas
 são compostas por questões de composição e/ou análise e têm como
@@ -60,11 +60,11 @@ objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
 de correção é subjetivo, como o próprio conteúdo da disciplina. O
 conteúdo das provas é acumulativo.
 
-###1. Nota
+### 4.1. Nota
 
 A média final é equivalente à média simples das notas das provas.
 
-###1. Segunda chamada
+### 4.2. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -82,17 +82,52 @@ de Ensino de Graduação.
 A prova de segunda chamada ocorrerá em data definida no cronograma da
 disciplina.
 
-##1. Cronograma
+## 5. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do
 semestre.
 
-<!-- <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFJd6AVK1yqXBc_VGyrFlWCH2W0INq1LZ6hc2asD-nWFc7vlaHWrP5nxSR0SDhVPfdwb6P5V0oF3kW/pubhtml?gid=2015781779&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe> -->
+| Aula | Data       | Dia | Tópico                                          |
+| ---- | ---------- | --- | ----------------------------------------------- |
+|      | 08-03-2022 | Ter | **Semana de abertura UFBA**                     |
+|      | 10-03-2022 | Qui | **Semana de abertura UFBA**                     |
+| 1    | 15-03-2022 | Ter | Análise Mozart K 545                            |
+| 2    | 17-03-2022 | Qui | Análise Kuhlau Op. 59 N. 1                      |
+| 3    | 22-03-2022 | Ter | Análise Haydn XVI/32 N. 47 Si menor             |
+| 4    | 24-03-2022 | Qui | Análise Clementi Op. 1 N. 5                     |
+| 5    | 29-03-2022 | Ter | Análise Mozart K 280                            |
+| 6    | 31-03-2022 | Qui | Análise Mozart K 333                            |
+| 7    | 05-04-2022 | Ter | Análise Mozart K 310                            |
+| 8    | 07-04-2022 | Qui | Análise Beethoven Op. 2, n. 1                   |
+| 9    | 12-04-2022 | Ter | Análise Beethoven Op. 2, n. 2                   |
+| 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3                   |
+| 11   | 19-04-2022 | Ter | Análise Beethoven Op. 14, n. 2                  |
+| 12   | 21-04-2022 | Qui | Análise Beethoven Op. 28, n. 15                 |
+| 13   | 26-04-2022 | Ter | Análise Beethoven Op. 14, n. 1                  |
+|      | 28-04-2022 | Qui | **Feriado**                                     |
+| 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1                  |
+| 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3          |
+| 16   | 10-05-2022 | Ter | Análise Beethoven Op. 13, n. 1                  |
+| 17   | 12-05-2022 | Qui | Análise Beethoven. Op. 53                       |
+| 18   | 17-05-2022 | Ter | Análise Beethoven Quarteto Op. 18, n. 1, mov. 1 |
+| 19   | 19-05-2022 | Qui | Análise Beethoven Op. 81a                       |
+| 20   | 24-05-2022 | Ter | Análise Mozart K 465                            |
+| 21   | 26-05-2022 | Qui | Análise Beethoven Op. 31, n. 3                  |
+| 22   | 31-05-2022 | Ter | Análise Beethoven Op. 111                       |
+| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 96                        |
+| 24   | 07-06-2022 | Ter | Análise Brahms Op. 68 e Hindemith               |
+| 25   | 09-06-2022 | Qui | Análise Piano Sonata n. 2                       |
+| 26   | 14-06-2022 | Ter | Análise Beethoven Op. 57                        |
+|      | 16-06-2022 | Qui | **Feriado**                                     |
+| 27   | 21-06-2022 | Ter | Análise Haydn Op. 50, n. 5, mov. 1 (confirmar)  |
+|      | 23-06-2022 | Qui | **Véspera de São João**                         |
+| 28   | 28-06-2022 | Ter | Entrega de resultados                           |
+| 29   | 30-06-2022 | Qui | Reservado para reposição                        |
+| 30   | 05-07-2022 | Ter | Reservado para reposição                        |
+| 31   | 07-07-2022 | Qui | Reservado para reposição                        |
+{: .table .table-sm}
 
-
-##1. Obras para análise
+## 6. Obras para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -101,7 +136,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 
 [Em construção]
 
-### Beethoven
+### 6.1. Beethoven
 
 1. Piano Sonata n. 1. Op 2, n. 1, mov. 1. [IMSLP](http://ks4.imslp.net/files/imglnks/usimg/8/85/IMSLP243106-PMLP01446-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B124_Op_2_No_1_scan.pdf)
 1. Piano Sonata n. 2. Op 2, n. 2, mov. 1. [IMSLP](http://imslp.simssa.ca/files/imglnks/usimg/7/72/IMSLP243107-PMLP01413-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B125_Op_2_No_2_scan.pdf)
@@ -124,7 +159,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Piano Sonata n. 31. Op. 110
 1. Piano Sonata n. 32. Op. 111, mov. 1. [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7e/IMSLP51811-PMLP01489-Beethoven_Werke_Breitkopf_Serie_16_No_155_Op_111.pdf)
 
-### Mozart
+### 6.2. Mozart
 
 1. Piano Sonata n. 2. K 280, mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/6f/IMSLP56311-PMLP01832-Mozart_Werke_Breitkopf_Serie_20_KV280.pdf)
 1. Piano Sonata n. 8. K 310, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/be/IMSLP56317-PMLP01843-Mozart_Werke_Breitkopf_Serie_20_KV310.pdf)
@@ -136,7 +171,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Piano Sonata n. 16. K 545, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
 1. Piano Sonata n. 18. K 576, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
 
-### Outros
+### 6.3. Outros
 
 1. Brahms Op. 68 (versão reduzida), mov. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/72/IMSLP12057-Brahms-Singer_-_Symphony_No.1.pdf)
 1. Clementi Op. 1 N. 5, mov. 1 [IMSLP](http://ks.imslp.info/files/imglnks/usimg/3/3b/IMSLP02848-Clementi_1_5.pdf)
@@ -145,7 +180,7 @@ O material para análise está inteiramente disponível no site do IMSLP
 1. Hindemith, Piano Sonata n. 2, mov. 1 [IMSLP](http://petruccilibrary.ca/files/imglnks/caimg/2/28/IMSLP422919-PMLP501630-hindemithpianosonatano.2score(FE).pdf)
 1. Kuhlau Op. 59 N. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/9/97/IMSLP481807-PMLP780856-kuhlausonatinasforthepianovol.IOp.59No.1.pdf)
 
-##1. Notas e frequência
+## 7. Notas e frequência
 
 As notas dos alunos estão disponíveis no link abaixo e serão
 atualizadas durante o curso:
@@ -154,7 +189,7 @@ atualizadas durante o curso:
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe> -->
 
-###1. Distribuição de notas
+### 7.1. Distribuição de notas
 
 O gráfico abaixo apresenta a distribuição da média final da turma. O
 eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
@@ -164,7 +199,7 @@ contém o número de alunos com média final dentro das faixas.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
 width="100%" height="300"></iframe> -->
 
-##1. Links
+## 8. Links
 
  - [Posts sobre tópicos de Teoria Musical](https://marcos.sampaio.me/post/)
  - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
@@ -184,7 +219,7 @@ width="100%" height="300"></iframe> -->
  - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
 
 
-##1. Bibliografia
+## 9. Bibliografia
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
@@ -205,7 +240,7 @@ width="100%" height="300"></iframe> -->
   Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
   Musicales</i>. Barcelona: Editorial Labor.  </p>
 
-##1. Comunicação com o professor
+## 10. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o
 email, em horário comercial. Assuntos acadêmicos não são tratados por

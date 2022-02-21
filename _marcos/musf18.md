@@ -8,7 +8,7 @@ level: graduacao
 **OBS**: Esta página ainda não está atualizada para o semestre 2022.1.
 A metodologia, sistema de avaliação e cronograma ainda serão revistos.
 
-##1. Informações preliminares
+## 1. Informações preliminares
 
 O objetivo principal deste componente é possibilitar a abordagem de
 repertórios de certo grau de complexidade que nem sempre podem ser
@@ -25,18 +25,18 @@ acordes de nona, sextas aumentadas e napolitana), pequenas formas
 variações. Estes conteúdos compõem os programas de Literatura e
 Estruturação Musical I, II, III e IV.
 
-##1. Ementa
+## 2. Ementa
 
 Estudo analítico de repertórios de elevado grau de complexidade
 musical. A escolha do repertório e das técnicas de análise é aberta.
 
-##1. Objetivos
+## 3. Objetivos
 
-### Objetivo geral
+### 3.1. Objetivo geral
 
 Aprimorar a capacidade de análise musical mediante estudo de aspectos de elevado grau de complexidade em repertório.
 
-### Objetivos específicos
+### 3.2. Objetivos específicos
 
 1. Ampliação do conhecimento de literatura musical
 2. Compreensão de aspectos musicais especiais
@@ -44,14 +44,14 @@ Aprimorar a capacidade de análise musical mediante estudo de aspectos de elevad
 4. Desenvolvimento de habilidade de identificar aspectos relevantes em análise
 5. Desenvolvimento da habilidade de escrita de texto analítico
 
-##1. Conteúdo programático
+## 4. Conteúdo programático
 
 1. Contexto histórico acerca do repertório
 1. Teorias musicais de apoio à análise do repertório
 1. Análise de repertório
 1. Redação de texto analítico
 
-##1. Metodologia
+## 5. Metodologia
 
 Expositiva e dialógica, com atividades síncronas e assíncronas, em
 proporção a ser ajustada ao longo do semestre.
@@ -60,49 +60,52 @@ As atividades de análise prévia serão preferencialmente assíncronas e
 as sessões de consulta e análise de obras, preferencialmente
 síncronas.
 
-##1. Ambientes virtuais utilizados
+## 6. Ambientes virtuais utilizados
 
 1. [Moodle UFBA](https://ava.ufba.br/course/view.php?id=13553)
 1. Google Meet institucional UFBA
 
-##1. Cronograma
+## 7. Cronograma
 
-| Aula | Data       | Conteúdo                                                                   |
-|:-----|:-----------|:---------------------------------------------------------------------------|
-| 1    | 2020-09-08 | Apresentação da proposta, definição do repertório e técnicas de análise    |
-| 2    | 2020-09-15 | Contexto histórico, análise prévia, análise de obras                       |
-| 3    | 2020-09-22 | Análise prévia e análise de obras                                          |
-| 4    | 2020-09-29 | Análise prévia e análise de obras                                          |
-| 5    | 2020-10-06 | Análise prévia e análise de obras                                          |
-| 6    | 2020-10-13 | Redação de texto analítico e análise de obras                              |
-| 7    | 2020-10-20 | Análise prévia e análise de obras                                          |
-| 8    | 2020-10-27 | Redação de texto analítico, análise de obras e definição do trabalho final |
-| 9    | 2020-11-03 | Análise prévia e análise de obras e definição do trabalho final            |
-| 10   | 2020-11-10 | Análise prévia e consultas para trabalho final                             |
-| 11   | 2020-11-17 | Análise prévia e consultas para trabalho final                             |
-| 12   | 2020-11-24 | Consultas para trabalho final                                              |
-| 13   | 2020-12-01 | Consultas para trabalho final                                              |
-| 14   | 2020-12-08 | Apresentação do trabalho final                                             |
-| 15   | 2020-12-15 | Entrega de resultados                                                      |
+| Aula | Data       | Dia | Tópico                                                                     |
+| ---- | ---------- | --- | -------------------------------------------------------------------------- |
+|      | 08-03-2022 | Ter | **Semana de abertura UFBA**                                                |
+| 1    | 15-03-2022 | Ter | Apresentação, definição do repertório e técnicas de análise                |
+| 2    | 22-03-2022 | Ter | Contexto histórico, análise prévia, análise de obras                       |
+| 3    | 29-03-2022 | Ter | Análise prévia e análise de obras                                          |
+| 4    | 05-04-2022 | Ter | Análise prévia e análise de obras                                          |
+| 5    | 12-04-2022 | Ter | Análise prévia e análise de obras                                          |
+| 6    | 19-04-2022 | Ter | Redação de texto analítico e análise de obras                              |
+| 7    | 26-04-2022 | Ter | Análise prévia e análise de obras                                          |
+| 8    | 03-05-2022 | Ter | Redação de texto analítico, análise de obras e definição do trabalho final |
+| 9    | 10-05-2022 | Ter | Análise prévia, análise de obras e definição do trabalho final             |
+| 10   | 17-05-2022 | Ter | Análise prévia e consultas para trabalho final                             |
+| 11   | 24-05-2022 | Ter | Análise prévia e consultas para trabalho final                             |
+| 12   | 31-05-2022 | Ter | Consultas para trabalho final                                              |
+| 13   | 07-06-2022 | Ter | Consultas para trabalho final                                              |
+| 14   | 14-06-2022 | Ter | Consultas para trabalho final                                              |
+| 15   | 21-06-2022 | Ter | Apresentação do trabalho final                                             |
+| 16   | 28-06-2022 | Ter | Entrega de resultados                                                      |
+| 17   | 05-07-2022 | Ter | Reservado para reposição                                                   |
 {: .table .table-sm}
 
-##1. Avaliação
+## 8. Avaliação
 
 Assíncrona, sistema de nota, mediante trabalhos semanais/quinzenais de
 acompanhamento e trabalho final.
 
-<!-- ##1. Trabalhos -->
+<!-- ## Trabalhos -->
 
-<!-- ##1. Recursos disponíveis -->
+<!-- ## Recursos disponíveis -->
 
-##1. Links
+## 9. Links
 
 - Partituras do Opus 50 de Haydn no [IMSLP](https://imslp.org/wiki/String_Quartets,_Op.50_(Haydn,_Joseph)).
 - Gravações diversas do Opus 50 de Haydn no [Youtube](https://www.youtube.com/results?search_query=haydn+op.50).
 
-##1. Bibliografia
+## 10. Bibliografia
 
-### Básica
+### 10.1. Básica
 
 1. Bent, Ian, and Anthony Pople. 2011. “Analysis.” In Grove Music
    Online.
@@ -116,7 +119,7 @@ acompanhamento e trabalho final.
 1. Zamacois, Joaquín. 1960. Curso de Formas Musicales: Con Numerosos
    Ejemplos Musicales. Barcelona: Editorial Labor.
 
-### Complementar
+### 10.2. Complementar
 
 1. Adler, Samuel. 2002. The Study of Orchestration. 3rd ed. New York
    and London: W.W. Norton and Company.
@@ -146,7 +149,7 @@ acompanhamento e trabalho final.
 1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal
    Theory. Englewood Cliffs, NJ: Prentice-Hall.
 
-### Haydn e quartetos de cordas Opus 50
+### 10.3. Haydn e quartetos de cordas Opus 50
 
 1. Grave, Floyd K., and Margaret Grave. 2006. The String Quartets of
    Joseph Haydn. New York, NY: Oxford University
