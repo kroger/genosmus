@@ -127,9 +127,9 @@ semestre.
 | 9    | 12-04-2022 | Ter | Análise Beethoven Op. 2, n. 2                   |
 | 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3                   |
 | 11   | 19-04-2022 | Ter | Análise Beethoven Op. 14, n. 2                  |
-| 12   | 21-04-2022 | Qui | Análise Beethoven Op. 28, n. 15                 |
-| 13   | 26-04-2022 | Ter | Análise Beethoven Op. 14, n. 1                  |
-|      | 28-04-2022 | Qui | **Feriado**                                     |
+|      | 21-04-2022 | Qui | **Feriado**                                     |
+| 12   | 26-04-2022 | Ter | Análise Beethoven Op. 28, n. 15                 |
+| 13   | 28-04-2022 | Qui | Análise Beethoven Op. 14, n. 1                  |
 | 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1                  |
 | 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3          |
 | 16   | 10-05-2022 | Ter | Análise Beethoven Op. 13, n. 1                  |
