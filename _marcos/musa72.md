@@ -199,7 +199,7 @@ Edição preferencial: Breitkopf und Härtel
 1. Piano Sonata n. 16. K 545, mov. 1
 1. Piano Sonata n. 18. K 576, mov. 1
 
-### Haydn
+### 8.3. Haydn
 
 Edição preferencial: Edition Peters
 
@@ -207,7 +207,7 @@ Edição preferencial: Edition Peters
 1. PIano Sonata XVI/34 N. 47 Mi menor, mov. 1
 2. Quarteto de cordas  Op. 50, n. 3, mov. 1
 
-### 8.3. Outros
+### 8.4. Outros
 
 1. Brahms Op. 68, mov. 1 (ver versão para 2 pianos em "arranjos e transcrições", no IMSLP)
 1. Clementi Op. 1 N. 5, mov. 1 (ver pasta de recursos do Moodle)
@@ -237,7 +237,6 @@ width="100%" height="300"></iframe> -->
 
 ## 10. Links
 
- - [Posts sobre tópicos de Teoria Musical](https://marcos.sampaio.me/post/)
  - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
  - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
@@ -247,9 +246,6 @@ width="100%" height="300"></iframe> -->
  - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
  - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
  - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf)
- - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
- - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
- - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
  - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
