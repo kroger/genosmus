@@ -342,10 +342,6 @@ analisada em conjunto durante as aulas:
 ## 11. Notas
 
 As notas ficam disponíveis no AVA/Moodle.
-<!-- 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=6205951&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="400"></iframe> -->
 
 ## 12. Bibliografia
 
