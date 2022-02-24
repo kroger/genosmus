@@ -239,12 +239,6 @@ width="100%" height="300"></iframe> -->
 
  - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
  - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
- <!-- - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
- - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
- - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
- - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
- - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
- - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf) -->
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
  - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
