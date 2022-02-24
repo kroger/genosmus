@@ -159,12 +159,12 @@ modificados de acordo com a necessidade e eventualidade.
 | Aula | Data       | Dia | Tópico                                  |
 | ---- | ---------- | --- | --------------------------------------- |
 | 1    | 09-03-2022 | Qua | Apresentação, Politonalidade            |
-| 2    | 16-03-2022 | Qua | Politonalidade. Entrega de exercício 1  |
-| 3    | 23-03-2022 | Qua | Politonalidade. Entrega de miniatura 1  |
-| 4    | 30-03-2022 | Qua | Politonalidade. Entrega de exercício 2  |
-| 5    | 06-04-2022 | Qua | Politonalidade. Entrega de miniatura 2  |
-| 6    | 13-04-2022 | Qua | Politonalidade. Entrega de exercício 3  |
-| 7    | 20-04-2022 | Qua | Politonalidade. Entrega de miniatura 3  |
+| 2    | 16-03-2022 | Qua | Politonalidade. Exercício básico 1      |
+| 3    | 23-03-2022 | Qua | Politonalidade. Miniatura 1             |
+| 4    | 30-03-2022 | Qua | Politonalidade. Exercício básico 2      |
+| 5    | 06-04-2022 | Qua | Politonalidade. Miniatura 2             |
+| 6    | 13-04-2022 | Qua | Politonalidade. Exercício básico 3      |
+| 7    | 20-04-2022 | Qua | Politonalidade. Miniatura 3             |
 | 8    | 27-04-2022 | Qua | Pós-tonalismo e serialismo              |
 | 9    | 04-05-2022 | Qua | Consulta composição final 1             |
 | 10   | 11-05-2022 | Qua | Consulta composição final 2             |
@@ -278,10 +278,12 @@ analisada em conjunto durante as aulas:
 1. Mozart, Piano Sonata N. 11, K331
 1. Reger, Variations and Fugue on theme by Mozart
 1. Schoenberg, Op. 25 (Suíte para Piano)
+1. Schuman, W. - Three-Score Set (1943)
 1. Webern, Op. 27
 
 #### 10.1.2. Outros
-1. Bartók, Quarteto n. 1
+1. Bartók, Quarteto de cordas n. 1
+1. Bartók, Quarteto de cordas n. 5
 1. Berg, Lyrische Suite
 1. Berio, Sequenza I
 1. Foss, Studies in Improvisation, Music for Clarinet, Percussion, and
