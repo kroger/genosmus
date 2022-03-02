@@ -246,7 +246,7 @@ width="100%" height="300"></iframe> -->
 ### 10.1. Softwares para edição de PDF
 
 - [Xournal](https://xournalpp.github.io/). Windows, Linux e Mac.
-- [Android: Sketch on PDF](https://play.google.com/store/apps/details?id=com.applikationsprogramvara.sketchonpdfs)
+- [Sketch on PDF](https://play.google.com/store/apps/details?id=com.applikationsprogramvara.sketchonpdfs). Android.
 
 ## 11. Bibliografia
 
