@@ -1,3 +1,6 @@
+Encontro inicial
+~~Suspenso, aguardando calouros~~
+~~Suspenso, aguardando calouros~~
 Características gerais
 Cordas geral (Pesquisa)
 Cordas individual (Transcrições individuais)
@@ -8,11 +11,7 @@ Madeiras grupo (Transcrição seção)
 Metais geral (Pesquisa)
 Metais individual (Transcrições individuais)
 Metais grupo (Transcrição seção)
-Percussão teclados (Pesquisa)
-Percussão outros (Transcrição grupo de percussão)
+Percussão (Pesquisa)
 Voz (solo e coro) (Pesquisa)
 Banda, orquestra, coro (Transcrição orquestra)
-A definir
-A definir
 Entrega de resultados
-Reservado para reposição

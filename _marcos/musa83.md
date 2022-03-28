@@ -144,26 +144,25 @@ Na modalidade remota, a frequência será verificada a partir da entrega dos tra
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Dia        | Tópico | Trabalho (correção)                               |
-| ---- | ---------- | ------ | ------------------------------------------------- |
-| 1    | 08-03-2022 | Ter    | Características gerais                            |
-| 2    | 15-03-2022 | Ter    | Cordas geral (Pesquisa)                           |
-| 3    | 22-03-2022 | Ter    | Cordas individual (Transcrições individuais)      |
-| 4    | 29-03-2022 | Ter    | Cordas grupo (Transcrição seção)                  |
-| 5    | 05-04-2022 | Ter    | Madeiras geral (Pesquisa)                         |
-| 6    | 12-04-2022 | Ter    | Madeiras individual (Transcrições individuais)    |
-| 7    | 19-04-2022 | Ter    | Madeiras grupo (Transcrição seção)                |
-| 8    | 26-04-2022 | Ter    | Metais geral (Pesquisa)                           |
-| 9    | 03-05-2022 | Ter    | Metais individual (Transcrições individuais)      |
-| 10   | 10-05-2022 | Ter    | Metais grupo (Transcrição seção)                  |
-| 11   | 17-05-2022 | Ter    | Percussão teclados (Pesquisa)                     |
-| 12   | 24-05-2022 | Ter    | Percussão outros (Transcrição grupo de percussão) |
-| 13   | 31-05-2022 | Ter    | Voz (solo e coro) (Pesquisa)                      |
-| 14   | 07-06-2022 | Ter    | Banda, orquestra, coro (Transcrição orquestra)    |
-| 15   | 14-06-2022 | Ter    | A definir                                         |
-| 16   | 21-06-2022 | Ter    | A definir                                         |
-| 17   | 28-06-2022 | Ter    | Entrega de resultados                             |
-| 18   | 05-07-2022 | Ter    | Reservado para reposição                          |
+| Aula | Dia        | Tópico | Trabalho (correção)                            |
+| ---- | ---------- | ------ | ---------------------------------------------- |
+| 1    | 08-03-2022 | Ter    | Encontro inicial                               |
+| 2    | 15-03-2022 | Ter    | ~~Suspenso, aguardando calouros~~              |
+| 3    | 22-03-2022 | Ter    | ~~Suspenso, aguardando calouros~~              |
+| 4    | 29-03-2022 | Ter    | Características gerais                         |
+| 5    | 05-04-2022 | Ter    | Cordas geral (Pesquisa)                        |
+| 6    | 12-04-2022 | Ter    | Cordas individual (Transcrições individuais)   |
+| 7    | 19-04-2022 | Ter    | Cordas grupo (Transcrição seção)               |
+| 8    | 26-04-2022 | Ter    | Madeiras geral (Pesquisa)                      |
+| 9    | 03-05-2022 | Ter    | Madeiras individual (Transcrições individuais) |
+| 10   | 10-05-2022 | Ter    | Madeiras grupo (Transcrição seção)             |
+| 11   | 17-05-2022 | Ter    | Metais geral (Pesquisa)                        |
+| 12   | 24-05-2022 | Ter    | Metais individual (Transcrições individuais)   |
+| 13   | 31-05-2022 | Ter    | Metais grupo (Transcrição seção)               |
+| 14   | 07-06-2022 | Ter    | Percussão (Pesquisa)                           |
+| 15   | 14-06-2022 | Ter    | Voz (solo e coro) (Pesquisa)                   |
+| 16   | 21-06-2022 | Ter    | Banda, orquestra, coro (Transcrição orquestra) |
+| 17   | 28-06-2022 | Ter    | Entrega de resultados                          |
 {: .table .table-sm}
 
 ## 10. Material para Análise
