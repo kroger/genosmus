@@ -122,7 +122,7 @@ semestre.
 | 4    | 24-03-2022 | Qui | Análise Clementi Op. 1 N. 5                     |
 | 5    | 29-03-2022 | Ter | Análise Mozart K 280                            |
 | 6    | 31-03-2022 | Qui | Análise Mozart K 333                            |
-| 7    | 05-04-2022 | Ter | Análise Mozart K 310                            |
+| 7    | 05-04-2022 | Ter | Atualização da análise das peças anteriores     |
 | 8    | 07-04-2022 | Qui | Análise Beethoven Op. 2, n. 1                   |
 | 9    | 12-04-2022 | Ter | Análise Beethoven Op. 2, n. 2                   |
 | 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3                   |
