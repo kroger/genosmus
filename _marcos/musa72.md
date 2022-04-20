@@ -112,44 +112,44 @@ disciplina. -->
 Este cronograma é uma previsão e poderá ser alterado ao longo do
 semestre.
 
-| Aula | Data       | Dia | Tópico                                          |
-| ---- | ---------- | --- | ----------------------------------------------- |
-|      | 08-03-2022 | Ter | **Aula magna EMUS**                             |
-|      | 10-03-2022 | Qui | **Preparativos finais - sem aula**              |
-| 1    | 15-03-2022 | Ter | Análise Mozart K 545                            |
-| 2    | 17-03-2022 | Qui | Análise Kuhlau Op. 59 N. 1                      |
-| 3    | 22-03-2022 | Ter | Análise Haydn XVI/32 N. 47 Si menor             |
-| 4    | 24-03-2022 | Qui | Análise Clementi Op. 1 N. 5                     |
-| 5    | 29-03-2022 | Ter | Análise Mozart K 280                            |
-| 6    | 31-03-2022 | Qui | Análise Mozart K 333                            |
-| 7    | 05-04-2022 | Ter | Atualização da análise das peças anteriores     |
-| 8    | 07-04-2022 | Qui | Análise Beethoven Op. 2, n. 1                   |
-| 9    | 12-04-2022 | Ter | Análise Beethoven Op. 2, n. 2                   |
-| 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3                   |
-| 11   | 19-04-2022 | Ter | Análise Beethoven Op. 14, n. 2                  |
-|      | 21-04-2022 | Qui | **Feriado**                                     |
-| 12   | 26-04-2022 | Ter | Análise Beethoven Op. 28, n. 15                 |
-| 13   | 28-04-2022 | Qui | Análise Beethoven Op. 14, n. 1                  |
-| 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1                  |
-| 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3          |
-| 16   | 10-05-2022 | Ter | Análise Beethoven Op. 13, n. 1                  |
-| 17   | 12-05-2022 | Qui | Análise Beethoven. Op. 53                       |
-| 18   | 17-05-2022 | Ter | Análise Beethoven Quarteto Op. 18, n. 1, mov. 1 |
-| 19   | 19-05-2022 | Qui | Análise Beethoven Op. 81a                       |
-| 20   | 24-05-2022 | Ter | Análise Mozart K 465                            |
-| 21   | 26-05-2022 | Qui | Análise Beethoven Op. 31, n. 3                  |
-| 22   | 31-05-2022 | Ter | Análise Beethoven Op. 111                       |
-| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 96                        |
-| 24   | 07-06-2022 | Ter | Análise Brahms Op. 68 e Hindemith               |
-| 25   | 09-06-2022 | Qui | Análise Piano Sonata n. 2                       |
-| 26   | 14-06-2022 | Ter | Análise Beethoven Op. 57                        |
-|      | 16-06-2022 | Qui | **Feriado**                                     |
-| 27   | 21-06-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1              |
-|      | 23-06-2022 | Qui | **Véspera de São João**                         |
-| 28   | 28-06-2022 | Ter | Entrega de resultados                           |
-| 29   | 30-06-2022 | Qui | Reservado para reposição                        |
-| 30   | 05-07-2022 | Ter | Reservado para reposição                        |
-| 31   | 07-07-2022 | Qui | Reservado para reposição                        |
+| Aula | Data       | Dia | Tópico                                      |
+| ---- | ---------- | --- | ------------------------------------------- |
+|      | 08-03-2022 | Ter | **Aula magna EMUS**                         |
+|      | 10-03-2022 | Qui | **Preparativos finais - sem aula**          |
+| 1    | 15-03-2022 | Ter | Análise Mozart K 545                        |
+| 2    | 17-03-2022 | Qui | Análise Kuhlau Op. 59 N. 1                  |
+| 3    | 22-03-2022 | Ter | Análise Haydn XVI/32 N. 47 Si menor         |
+| 4    | 24-03-2022 | Qui | Análise Clementi Op. 1 N. 5                 |
+| 5    | 29-03-2022 | Ter | Análise Mozart K 280                        |
+| 6    | 31-03-2022 | Qui | Análise Mozart K 333                        |
+| 7    | 05-04-2022 | Ter | Atualização da análise das peças anteriores |
+| 8    | 07-04-2022 | Qui | Análise Beethoven Op. 2, n. 1               |
+| 9    | 12-04-2022 | Ter | Atualização da análise das peças anteriores |
+| 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
+| 11   | 19-04-2022 | Ter | Atualização da análise das peças anteriores |
+|      | 21-04-2022 | Qui | **Feriado**                                 |
+| 12   | 26-04-2022 | Ter | Análise Beethoven Op. 2, n. 2               |
+| 13   | 28-04-2022 | Qui | Análise Haydn XVI/34 Mi menor               |
+| 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
+| 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3      |
+| 16   | 10-05-2022 | Ter | Análise Beethoven Op. 13, n. 1              |
+| 17   | 12-05-2022 | Qui | Análise Beethoven. Op. 53                   |
+| 18   | 17-05-2022 | Ter | Análise Beethoven Op. 14, n. 1              |
+| 19   | 19-05-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
+| 20   | 24-05-2022 | Ter | Análise Beethoven Op. 81a                   |
+| 21   | 26-05-2022 | Qui | Análise Mozart K 465                        |
+| 22   | 31-05-2022 | Ter | Análise Beethoven Op. 31, n. 3              |
+| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 111                   |
+| 24   | 07-06-2022 | Ter | Análise Beethoven Op. 96                    |
+| 25   | 09-06-2022 | Qui | Análise Beethoven Op. 28, n. 15             |
+| 26   | 14-06-2022 | Ter | Análise Beethoven Op. 57                    |
+|      | 16-06-2022 | Qui | **Feriado**                                 |
+| 27   | 21-06-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
+|      | 23-06-2022 | Qui | **Véspera de São João**                     |
+| 28   | 28-06-2022 | Ter | Entrega de resultados                       |
+| 29   | 30-06-2022 | Qui | Reservado para reposição                    |
+| 30   | 05-07-2022 | Ter | Reservado para reposição                    |
+| 31   | 07-07-2022 | Qui | Reservado para reposição                    |
 {: .table .table-sm}
 
 ## 8. Obras para análise
