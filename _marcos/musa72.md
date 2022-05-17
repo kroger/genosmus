@@ -132,17 +132,17 @@ semestre.
 | 13   | 28-04-2022 | Qui | Análise Haydn XVI/34 Mi menor               |
 | 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
 | 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3      |
-| 16   | 10-05-2022 | Ter | Análise Beethoven Op. 13, n. 1              |
+| 16   | 10-05-2022 | Ter | Correção do trabalho de casa                |
 | 17   | 12-05-2022 | Qui | Análise Beethoven. Op. 53                   |
-| 18   | 17-05-2022 | Ter | Análise Beethoven Op. 14, n. 1              |
+| 18   | 17-05-2022 | Ter | Correção do trabalho de casa                |
 | 19   | 19-05-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
-| 20   | 24-05-2022 | Ter | Análise Beethoven Op. 81a                   |
-| 21   | 26-05-2022 | Qui | Análise Mozart K 465                        |
-| 22   | 31-05-2022 | Ter | Análise Beethoven Op. 31, n. 3              |
-| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 111                   |
-| 24   | 07-06-2022 | Ter | Análise Beethoven Op. 96                    |
-| 25   | 09-06-2022 | Qui | Análise Beethoven Op. 28, n. 15             |
-| 26   | 14-06-2022 | Ter | Análise Beethoven Op. 57                    |
+| 20   | 24-05-2022 | Ter | Correção do trabalho de casa                |
+| 21   | 26-05-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
+| 22   | 31-05-2022 | Ter | Correção do trabalho de casa                |
+| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 13, n. 1              |
+| 24   | 07-06-2022 | Ter | Correção do trabalho de casa                |
+| 25   | 09-06-2022 | Qui | Análise Beethoven Op. 57                    |
+| 26   | 14-06-2022 | Ter | Correção do trabalho de casa                |
 |      | 16-06-2022 | Qui | **Feriado**                                 |
 | 27   | 21-06-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
 |      | 23-06-2022 | Qui | **Véspera de São João**                     |
