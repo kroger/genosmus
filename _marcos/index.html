@@ -35,7 +35,7 @@ title: Marcos Sampaio
     <li><a href="#pesquisa">Pesquisa</a>
     <li><a href="#administracao">Administração</a>
     <li><a href="#salas-horarios">Salas e horários</a>
-    <li><a href="#contato">Contato</a>
+    <li><a href="#contato">Contato e links</a>
   </ul>
 </div>
 
@@ -60,7 +60,7 @@ title: Marcos Sampaio
 
 {% assign pages = site.marcos | where:"level","pos-graduacao" | sort %}
 
-<!-- <h4>Pós-graduação</h4> -->
+<h4>Pós-graduação</h4>
 
 <ul>
     {% for page in pages %}
@@ -157,8 +157,10 @@ target="_blank">Aplicação de contornos na Composição Musical</a> (2007 a 201
 <h2 id="administracao">Administração</h2>
 
 <h3>Em andamento</h3>
-  <li>Coordenação das disciplinas de análise (Técnicas de Análise I e II, Introdução à Análise Musical e Análise Musical Avançada I)</li>
 <ul>
+  <li>Coordenação das disciplinas de análise (Técnicas de Análise I e II, Introdução à Análise Musical e Análise Musical Avançada I). 2021 a 2023.</li>
+  <ul>
+</ul>
 </ul>
 
 <h3>Atividades concluídas</h3>
@@ -175,91 +177,55 @@ target="_blank">Aplicação de contornos na Composição Musical</a> (2007 a 201
 <h2 id="salas-horarios">Salas e horários</h2>
 
 <p>
-  No Semestre Letivo Suplementar da UFBA, as aulas síncronas serão
-  realizadas no Google Meet institucional nos horários listados
+  As disciplinas de mesmo horário são oferecidas em semestres alternados, pares (P) e ímpares (I).
 </p>
 
 <table class="table table-sm">
   <tr>
-    <th>Disciplina</th>
+    <th>Atividade</th>
     <th>Sala</th>
     <th>Dias</th>
     <th>Horário</th>
   </tr>
   <tr>
-    <td>MUSA72</td>
-    <td>Google Meet</td>
-    <td>Terças</td>
+    <td>MUSA71 (I) / MUSA72 (P)</td>
+    <td>201</td>
+    <td>Terças e quintas</td>
     <td>8:50hs</td>
   </tr>
   <tr>
-    <td>MUSA83</td>
-    <td>Google Meet</td>
+    <td>MUSA69 (I) / MUSA70 (P)</td>
+    <td>201</td>
+    <td>Terças e quintas</td>
+    <td>13:00hs</td>
+  </tr>
+  <tr>
+    <td>MUSE07</td>
+    <td>PPGMUS</td>
     <td>Terças</td>
     <td>14:50hs</td>
   </tr>
   <tr>
-    <td>MUSB14</td>
-    <td>Google Meet</td>
-    <td>Quartas</td>
+    <td>MUSB14 (I) / MUSB15 (P)</td>
+    <td>Genos</td>
+    <td>Quintas</td>
     <td>14:50hs</td>
   </tr>
   <tr>
-    <td>MUSF18</td>
-    <td>Google Meet</td>
-    <td>Quartas</td>
-    <td>8:50hs</td>
-  </tr>
-  <tr>
-    <td>Atendimento</td>
-    <td>Google Meet</td>
-    <td>Mediante agendamento</td>
-    <td>Mediante agendamento</td>
+    <td>Reunião de pesquisa</td>
+    <td>Microsoft Teams</td>
+    <td>Segundas</td>
+    <td>17:45hs</td>
   </tr>
 </table>
 
-<!-- <p>As disciplinas são oferecidas em semestres alternados, algumas apenas em semestres pares e outras apenas em semestres ímpares.</p> -->
-
-<!-- <table class="table table-sm"> -->
-<!--   <tr> -->
-<!--     <th>Disciplina</th> -->
-<!--     <th>Sala</th> -->
-<!--     <th>Dias</th> -->
-<!--     <th>Horário</th> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>MUSA69 e MUSA70</td> -->
-<!--     <td>201</td> -->
-<!--     <td>Terças e quintas</td> -->
-<!--     <td>13:00-14:50</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>MUSA71 e MUSA72</td> -->
-<!--     <td>201</td> -->
-<!--     <td>Terças e quintas</td> -->
-<!--     <td>8:50-10:40</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>MUSB14 e MUSB15</td> -->
-<!--     <td>GenosLab</td> -->
-<!--     <td>Quintas</td> -->
-<!--     <td>14:50-17:35</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>Disciplinas PPGMUS</td> -->
-<!--     <td>GenosLab</td> -->
-<!--     <td>Terças</td> -->
-<!--     <td>14:50-17:35</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>Atendimento Colegiado</td> -->
-<!--     <td>Sala dos Colegiados</td> -->
-<!--     <td>Terças</td> -->
-<!--     <td>17:35-18:00</td> -->
-<!--   </tr> -->
-<!-- </table> -->
-
 <hr>
 
-<h2 id="contato">Contato</h2>
-<p>Email: {{ site.data.docentes.marcos.email }}</p>
+<h2 id="contato">Contato e links</h2>
+<ul>
+  <li>Email: {{ site.data.docentes.marcos.email }}</li>
+  <li>Currículo <a href="http://lattes.cnpq.br/3759593698150817" target="_blank">Lattes</a></li>
+  <li>Perfil no <a href="https://sigaa.ufba.br/sigaa/public/docente/portal.jsf?siape=2564642" target="_blank">SIGAA</a></li>
+  <li>Perfil na página da <a href="http://escolademusica.ufba.br/marcos-da-silva-sampaio" target="_blank">Escola de Música</a></li>
+  <li>Página <a href="https://marcos.sampaio.me/" target="_blank">pessoal</a></li>
+</ul>

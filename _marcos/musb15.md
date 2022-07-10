@@ -11,21 +11,16 @@ Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
 
 ## 1. Ementa
 
-Continuação de Composição Musical V: Estudo e prática de Técnicas
-Composicionais -- manipulação e exploração de elementos musicais do
-século XX, politonalismo, pós-tonalismo, atonalismo, serialismo,
-aleatorismo e audição comentada de obras representativas do século XX,
-com ênfase em obras de pequenas dimensões.
+Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
 
 ## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-- Explorar sonoridades estruturadas a partir de contornos em suas  composições
-- Explorar as particularidades da voz para a composição musical
-- Explorar as particularidades do texto para a composição musical
-- Explorar particularidades do órgão de tubos na composiçõa musical
-- Compor para coro profissional acompanhado de órgão de tubos
+1. Explorar sonoridades estruturadas a partir de contornos em suas composições
+1. Explorar as particularidades da voz para a composição musical
+1. Explorar as particularidades do texto para a composição musical
+1. Compor para coro profissional à capella
 
 ## 3. Conteúdo programático
 
@@ -47,17 +42,12 @@ Ao final do curso espera-se que o estudante seja capaz de:
    4. Respiração e afinação
    5. O impacto do texto no canto
    6. Coro e solo
-4. Órgão de tubos
-   1. Construção, emissão
-   2. Teclados
-   3. Registros
-   4. Especificidades da escrita
-5. Composição vocal
+4. Composição vocal
    1. Texto e Prosódia
    2. Fala, recitativo e "ária"
    3. Capella e acompanhado
-   4. A voz como instrumento (Nathalia Martins)
-   5. A voz como canal (Nathalia Martins)
+   4. A voz como instrumento
+   5. A voz como canal
 
 ## 4. Metodologia
 
@@ -66,18 +56,15 @@ Aula expositiva dialogal entre estudantes, professor e convidados (atividade sí
 ## 5. Ambientes virtuais utilizados
 
 - Moodle (AVA) UFBA
-- Google Meet Institucional
 
 Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns, e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
-
-A concentração dessas atividades nessas ferramentas simplifica o acesso ao histórico de tarefas, mantém todas as questões sobre a disciplina no mesmo lugar, e permite auditoria, quando necessário.
 
 ## 6. Avaliação
 
 A avaliação será realizada mediante os seguintes trabalhos:
 
-1. Composição de 7 exercícios básicos, para treinamento dos conteúdos estudados.
-2. Composição de uma obra de duração de 4 a 5 minutos para madrigal e órgão de tubos, com uso sistemático de contornos.
+1. Composição de exercícios básicos, para treinamento dos conteúdos estudados.
+2. Composição de uma obra de duração de 4 a 5 minutos para madrigal à capella.
 
 Os trabalhos serão aceitos apenas se forem entregues:
 
@@ -85,18 +72,37 @@ Os trabalhos serão aceitos apenas se forem entregues:
 1. via ambiente virtual de aprendizagem (AVA/Moodle)
 1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
 
-**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
+**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o AVA/Moodle.
 
-### 6.1. Nota
+### 6.1. Trabalhos
+
+Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. Estão previamente bloqueados no Moodle.
+
+#### 6.1.1. Exercícios básicos
+
+Pequenos exercícios solicitados pelo professor. Duração curta e formações relacionadas com o trabalho final. Os detalhes serão definidos ao longo do semestre.
+
+#### 6.1.2. Composição final
+
+O trabalho final de composição deverá ser elaborado ao longo de 8 semanas, com apresentação semanal de partitura e relatório do progresso no trabalho.
+
+- Formação: Madrigal UFBA e órgão de tubos (Mosteiro de São Bento)
+- Duração: 4 a 5 minutos
+- Conteúdos obrigatórios:
+  - Uso de técnicas de contornos para construção de algum trecho da obra
+  - Uso de técnicas de altura para construção de algum texto da obra
+  - Uso de técnicas relacionadas a coro/voz apreciadas durante o semestre
+
+### 6.2. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
-1. Exercícios 1 a 7 (peso 3)
-2. Acompanhamento da composição final 1 a 7 (peso 3)
+1. Exercícios básicos (peso 3)
+2. Acompanhamento da composição final (peso 3)
 3. Composição final (peso 4)
 
-### 6.2. Critérios de avaliação
+### 6.3. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -111,7 +117,7 @@ Os critérios gerais de avaliação são:
 As notas serão definidas de acordo com o seguinte critério:
 
 | Nota | Entregue | Solicitações cumpridas | Aspecto de interesse especial | Aspecto de algum interesse |
-|:-----|:---------|:-----------------------|:------------------------------|:---------------------------|
+| :--- | :------- | :--------------------- | :---------------------------- | :------------------------- |
 | 100% | **X**    | **X**                  | **X**                         | -                          |
 | 90%  | **X**    | **X**                  | -                             | **X**                      |
 | 80%  | **X**    | **X**                  | -                             | -                          |
@@ -121,25 +127,22 @@ As notas serão definidas de acordo com o seguinte critério:
 | 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
-<!-- ### 6.3. Segunda chamada
+### 6.4. Segunda chamada
 
-O aluno que não entregar um dos trabalhos no dia marcado terá direito
-a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
 1. direito assegurado por legislação específica.
 2. motivo de saúde comprovado por atestado médico.
 3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta
-à segunda chamada implicará na manutenção automática e definitiva da
-nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
-de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
-O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega. -->
+O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
+
 
 ## 7. Assiduidade e pontualidade
 
-Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
+Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas. A carga horária da disciplina é de 51 horas semestrais e a frequência mínima definida pelo Regulamento de Ensino de Graduação e Pós-Graduação é de 75%.
 
 ## 8. Cronograma
 
@@ -150,48 +153,29 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 20/10 serão dedicada
 
 **OBS**: em construção
 
-| Aula | Dia   | Tópico voz                            | Tópico contornos          |
-| ---- | ----- | ------------------------------------- | ------------------------- |
-| 1    | 11/08 | Abstract do semestre                  | Abstração e representação |
-| 2    | 18/08 | Voz, coro. F. Albano e R. Garbuio     | -                         |
-| 3    | 25/08 | -                                     | Identidade e reflexão     |
-| 4    | 01/09 | Livre. A. Daltro                      | -                         |
-| 5    | 08/09 | -                                     | Redução                   |
-| 6    | 15/09 | Texto e fala. H. Jennings e A. Pochat | -                         |
-| 7    | 22/09 | -                                     | Similaridade              |
-| 8    | 29/09 | Composição vocal. N. Martins          | -                         |
-| 9    | 06/10 | -                                     | Acento melódico           |
-| 10   | 13/10 | Composição vocal. Convidado a definir |                           |
-| 11   | 20/10 |                                       |                           |
-| 12   | 27/10 | Canto gregoriano e órgão. F. Queiroz  |                           |
-| 13   | 03/11 |                                       |                           |
-| 14   | 10/11 |                                       |                           |
-| 15   | 17/11 |                                       |                           |
-| 16   | 24/11 |                                       |                           |
-| 17   | 01/12 | Resultado                             |                           |
-| 18   | 08/12 |                                       |                           |
+| Aula | Data       | Dia | Tópico                                      |
+| ---- | ---------- | --- | ------------------------------------------- |
+| 1    | 18-08-2022 | Qui | Abstração e representação de contornos      |
+| 2    | 25-08-2022 | Qui | Voz e coro                                  |
+| 3    | 01-09-2022 | Qui | Identidade e reflexão de contornos          |
+| 4    | 08-09-2022 | Qui | Texto e fala                                |
+| 5    | 15-09-2022 | Qui | Redução de contornos                        |
+|      | 22-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
+|      | 29-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
+| 6    | 06-10-2022 | Qui | Composição vocal                            |
+| 7    | 13-10-2022 | Qui | Similaridade de contornos                   |
+| 8    | 20-10-2022 | Qui | Acento melódico                             |
+| 9    | 27-10-2022 | Qui | Consultas e análises                        |
+| 10   | 03-11-2022 | Qui | Consultas e análises                        |
+| 11   | 10-11-2022 | Qui | Consultas e análises                        |
+| 12   | 17-11-2022 | Qui | Consultas e análises                        |
+| 13   | 24-11-2022 | Qui | Entrega de trabalhos                        |
+| 14   | 01-12-2022 | Qui | A definir                                   |
 {: .table .table-sm}
 
-## 9. Trabalhos
 
-Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. Estão previamente bloqueados no Moodle.
 
-### 9.1. Exercícios básicos
-
-Pequenos exercícios solicitados pelo professor. Duração curta e formações relacionadas com o trabalho final. Os detalhes serão definidos ao longo do semestre.
-
-### 9.2. Composição final
-
-O trabalho final de composição deverá ser elaborado ao longo de 8 semanas, com apresentação semanal de partitura e relatório do progresso no trabalho.
-
-- Formação: Madrigal UFBA e órgão de tubos (Mosteiro de São Bento)
-- Duração: 4 a 5 minutos
-- Conteúdos obrigatórios:
-  - Uso de técnicas de contornos para construção de algum trecho da obra
-  - Uso de técnicas de altura para construção de algum texto da obra
-  - Uso de técnicas relacionadas a coro/voz apreciadas durante o semestre
-
-## 10. Análise
+## 9. Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
@@ -199,58 +183,58 @@ analisada em conjunto durante as aulas:
 **OBS**: em construção
 
 1. Kyrie gregoriano
-2. Palestrina. Missa Papae Marcelli. Kyrie
-3. Carlo Gesualdo. Sesto libro di madrigali: XVII. Moro, lasso, al mio duolo
-4. J.S. Bach. Choral 001 - Aus meines Herzens Grunde, BWV 269
-5. J.S. Bach. Paixão São Matheus - O Haupt voll Blut und Wunden
-6. G.F. Haendel. Aleluia
-7. W.A. Mozart. Requiem. Lacrimosa
-8. L.v. Beethoven. 9a Sinfonia
-9. G. Verdi. Va, pensiero
-10. C. Orff. Carmina Burana
-11. G. Ligeti. Nacht und Morgen for Choir (1965)
-12. G. Ligeti. Nonsense Madrigals 1/6
-13. F. Poulenc. Quatre motets pour le temps de Noël
-14. M. Ravel. Trois Chansons (1914-15)
-15. K. Penderecki. Stabat Mater (1962)
-16. R. Strauss. Deutche Mottete, op. 62
-17. F. Dantas. Chula no terreiro
-18. A. Ginastera. Lamentações de Jeremias, op. 44.
-19. L. Berio. Cries of London
-20. H. Villa-Lobos. Choros 10
-21. H. Villa-Lobos. Bachianas 9
+1. Palestrina. Missa Papae Marcelli. Kyrie
+1. Carlo Gesualdo. Sesto libro di madrigali: XVII. Moro, lasso, al mio duolo
+1. J.S. Bach. Choral 001 - Aus meines Herzens Grunde, BWV 269
+1. J.S. Bach. Paixão São Matheus - O Haupt voll Blut und Wunden
+1. G.F. Haendel. Aleluia
+1. W.A. Mozart. Requiem. Lacrimosa
+1. L.v. Beethoven. 9a Sinfonia
+1. G. Verdi. Va, pensiero
+1. C. Orff. Carmina Burana
+1. G. Ligeti. Nacht und Morgen for Choir (1965)
+1. G. Ligeti. Nonsense Madrigals 1/6
+1. F. Poulenc. Quatre motets pour le temps de Noël
+1. M. Ravel. Trois Chansons (1914-15)
+1. K. Penderecki. Stabat Mater (1962)
+1. R. Strauss. Deutche Mottete, op. 62
+1. F. Dantas. Chula no terreiro
+1. A. Ginastera. Lamentações de Jeremias, op. 44.
+1. L. Berio. Cries of London
+1. H. Villa-Lobos. Choros 10
+1. H. Villa-Lobos. Bachianas 9
 
-## 11. Bibliografia
+## 10. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
-2. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: ACritical Evaluation of the Discipline and Its Application to Bartók’s
-Musical Language." Musica Theorica 1: 1–25.
+1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: ACritical Evaluation of the Discipline and Its Application to Bartók's
 1. Brindle, Reginald Smith. 1966. Serial Composition. London: Oxford University Press.
-2. Cook, Nicholas. 1987. "A Guide to Musical Analysis." New York and  London: W. W. Norton & Company.
-3. Cope, David. 1997. Techniques of the Contemporary Composer. New  York, NY: Schirmer Books.
-4. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
+1. Cook, Nicholas. 1987. "A Guide to Musical Analysis." New York and  London: W. W. Norton & Company.
+1. Cope, David. 1997. Techniques of the Contemporary Composer. New  York, NY: Schirmer Books.
+1. Dallin, Leon. 1974. Techniques of Twentieth Century Composition: A Guide to the Materials of Modern Music. 3rd ed. Dubuque, Iowa: WM. C. Brown Company.
 1. Espinheira, Alexandre Mascarenhas. 2011. "A Teoria Pós-Tonal aplicada à Composição: um guia de sugestões compositivas." Universidade Federal da Bahia.
 1. Forsyth, Cecil. 1920. Choral Orchestration. New York: The H. W. Gray Co.
-2. Jeppeson, Knud. 1939. Counterpoint: The Polyphonic Vocal Style of  the Sixteenth Century. Englewood Cliffs, N.J: Prentice-Hall.
-3. Kostka, Stefan M. 2006. Materials and Techniques of  Twentieth-Century Music. 3rd ed. Prentice Hall.
-4. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real  Musical.
-5. Sampaio, Marcos da Silva. 2012. “A Teoria de Relações de Contornos Musicais: Inconsistências, Soluções e Ferramentas.” Universidade Federal da Bahia. https://repositorio.ufba.br/ri/handle/ri/10555.
-6. Sampaio, Marcos da Silva. 2017. “A Teoria de Relações de Contornos No Brasil.” In Teoria e Análise Musical Em Perspectiva Didática, 123–38. Salvador, BA: EDUFBA.
-7. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13–28. Salvador, BA: EDUFBA.
-8. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
-9. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
-10. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
-11. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
-12. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
+1. Jeppeson, Knud. 1939. Counterpoint: The Polyphonic Vocal Style of  the Sixteenth Century. Englewood Cliffs, N.J: Prentice-Hall.
+1. Kostka, Stefan M. 2006. Materials and Techniques of  Twentieth-Century Music. 3rd ed. Prentice Hall.
+1. Persichetti, Vincent. 1985. Armonía Del Siglo XX. Madrid: Real  Musical.
+1. Reisberg, Horace. 1975. "The Vertical Dimension in Twentieth-Century Music." In Aspects of 20th Century Music, edited by Gary L. Wittlich, 322--87. Englewood Cliffs, NJ: Prentice Hall.
+1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13--28. Salvador, BA: EDUFBA.
+1. Sampaio, Marcos da Silva. 2012. "A Teoria de Relações de Contornos Musicais: Inconsistências, Soluções e Ferramentas." Universidade Federal da Bahia. https://repositorio.ufba.br/ri/handle/ri/10555.
+1. Sampaio, Marcos da Silva. 2017. "A Teoria de Relações de Contornos No Brasil." In Teoria e Análise Musical Em Perspectiva Didática, 123--38. Salvador, BA: EDUFBA.
+1. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
+1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
+1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
+1. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
+1usical Language." Musica Theorica 1: 1--25.
 
 **Obs**: Textos de Marcos Sampaio estão disponíveis em [https://marcos.sampaio.me/publication/](https://marcos.sampaio.me/publication/)
 
-### 11.1. Complementar
+### 10.1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite   for Piano, Op. 25: From Composition with Twelve-Tones to the    Twelve-Tone Method." University of Southern California.
 1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
-## 12. Links
+## 11. Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/watch?v=tbArUJBRRJ0&list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ).
 - [Conteúdo programático](http://dmusufba.com/wp-content/uploads/MUSB15-Composicao-VI.pdf)  aprovado pelo Departamento de Música

@@ -10,7 +10,9 @@ level: graduacao
 Estudo da harmonia cromática, da construção de frases musicais e suas
 combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
-estudados. (antiga)
+estudados.
+
+**OBS**: Esta ementa está desatualizada e aguarda tramitação de reforma curricular para atualização.
 
 ## 2. Objetivos
 
@@ -37,7 +39,7 @@ Ao final do curso, espera-se que o estudante seja capaz de:
    - A Coda
    - Modificações da Forma Sonata (sonatina, sonatina ampliada,
     sonata rondo)
-2. O Concerto
+<!-- 2. O Concerto
    - Movimentos Externos do Concerto Barroco; O Movimento do
     Concerto Grosso
    - Forma do Movimento do Concerto Grosso
@@ -45,111 +47,78 @@ Ao final do curso, espera-se que o estudante seja capaz de:
     Concerto-Sonata
    - O Terceiro Movimento do Concerto Clássico: Forma
     Concerto-Rondo
-   - Nota Histórica Sobre o Concerto Após Beethoven
+   - Nota Histórica Sobre o Concerto Após Beethoven -->
 
 ## 4. Metodologia
 
-A compreensão dos conteúdos e desenvolvimento de habilidades analíticas será resultado de uma metodologia híbrida, com atividades síncronas e assíncronas, bem como aulas expositivas dialogais e atividades práticas.
+Trabalhos práticos de análise formal e aula expositiva. A compreensão da Forma Sonata ocorre como resultado de análises orientadas de múltiplas obras, com ênfase na observação das relações das suas estruturas musicais. O repertório é concentrado no classicismo vienense.
 
-Em todas as aulas os estudantes irão analisar obras com movimentos em Forma Sonata.
+## 5. Ambientes virtuais
 
-Os encontros síncronos ocorrerão nas terças-feiras e as atividades assíncronas serão realizadas no horário de aula das quintas-feiras:
+- AVA/Moodle UFBA
 
-1. Terça-feira (encontro síncrono)
-   1. Exposição de conteúdos
-   2. Análise individual pelos estudantes (cerca de 50 minutos), com suporte do professor
-   3. Correção da análise em aula, pelo professor
-   4. Correção da atividade assíncrona da semana anterior, pelo professor.
-2. Quinta-feira (atividade assíncrona - sem a presença do professor)
-   1. Análise individual pelos estudantes, para entrega até o fim do dia.
-
-## 5. Ambientes virtuais utilizados
-
-- Moodle (AVA) UFBA
-- Google Meet Institucional
-
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema). O email nem outras formas de comunicação serão utilizadas.
-
-**OBSERVAÇÃO**: Todas as atividades deverão ser entregues pelo Moodle no prazo determinado e, em **NENHUMA HIPÓTESE**, serão aceitos por outro canal ou fora do prazo. O cronograma está disponível desde o início do semestre, de forma que é plenamente possível ao estudante organizar as suas atividades.
+Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns, diário e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
 
 ## 6. Avaliação
 
-A avaliação do aprendizado será realizada mediante trabalhos semanais e participação nos encontros síncronos.
+A avaliação nesta disciplina é realizada mediante 3 provas e um trabalho de análise. O critério de correção é subjetivo, com ênfase nos elementos mais importantes da Forma Sonata. O conteúdo das provas é acumulativo.
 
-
-<!-- A avaliação nesta disciplina é realizada mediante 3 provas. As provas
-são compostas por questões de composição e/ou análise e têm como
-objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério
-de correção é subjetivo, como o próprio conteúdo da disciplina. O
-conteúdo das provas é acumulativo. -->
+**OBS**: O trabalho deverá ser entregue pelo Moodle e no prazo indicado. Não serão aceitos trabalhos fora do prazo ou entregues por outro meio.
 
 ### 6.1. Nota
 
-A média final será uma média ponderada, com pesos a definir para os trabalhos semanais por participação nos encontros.
-
-<!-- A média final é equivalente à média simples das notas das provas.
+A média final é equivalente à média aritmética das notas das provas e trabalho.
 
 ### 6.2. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a
-requerer até dois dias úteis após a sua realização comprovando-se umas
-das seguintes situações:
+O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
   1. direito assegurado por legislação específica
   2. motivo de saúde comprovado por atestado médico
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta
-à segunda chamada implicará na manutenção automática e definitiva da
-nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
-de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
-A prova de segunda chamada ocorrerá em data definida no cronograma da
-disciplina. -->
+A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
 
 ## 7. Cronograma
 
-Este cronograma é uma previsão e poderá ser alterado ao longo do
-semestre.
+Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No período de ausência do professor haverá um trabalho de análise a ser realizado.
 
 | Aula | Data       | Dia | Tópico                                      |
 | ---- | ---------- | --- | ------------------------------------------- |
-|      | 08-03-2022 | Ter | **Aula magna EMUS**                         |
-|      | 10-03-2022 | Qui | **Preparativos finais - sem aula**          |
-| 1    | 15-03-2022 | Ter | Análise Mozart K 545                        |
-| 2    | 17-03-2022 | Qui | Análise Kuhlau Op. 59 N. 1                  |
-| 3    | 22-03-2022 | Ter | Análise Haydn XVI/32 N. 47 Si menor         |
-| 4    | 24-03-2022 | Qui | Análise Clementi Op. 1 N. 5                 |
-| 5    | 29-03-2022 | Ter | Análise Mozart K 280                        |
-| 6    | 31-03-2022 | Qui | Análise Mozart K 333                        |
-| 7    | 05-04-2022 | Ter | Atualização da análise das peças anteriores |
-| 8    | 07-04-2022 | Qui | Análise Beethoven Op. 2, n. 1               |
-| 9    | 12-04-2022 | Ter | Atualização da análise das peças anteriores |
-| 10   | 14-04-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
-| 11   | 19-04-2022 | Ter | Atualização da análise das peças anteriores |
-|      | 21-04-2022 | Qui | **Feriado**                                 |
-| 12   | 26-04-2022 | Ter | Análise Beethoven Op. 2, n. 2               |
-| 13   | 28-04-2022 | Qui | Análise Haydn XVI/34 Mi menor               |
-| 14   | 03-05-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
-| 15   | 05-05-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3      |
-| 16   | 10-05-2022 | Ter | Correção do trabalho de casa                |
-| 17   | 12-05-2022 | Qui | Análise Beethoven. Op. 53                   |
-| 18   | 17-05-2022 | Ter | Correção do trabalho de casa                |
-| 19   | 19-05-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
-| 20   | 24-05-2022 | Ter | Correção do trabalho de casa                |
-| 21   | 26-05-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
-| 22   | 31-05-2022 | Ter | Correção do trabalho de casa                |
-| 23   | 02-06-2022 | Qui | Análise Beethoven Op. 13, n. 1              |
-| 24   | 07-06-2022 | Ter | Correção do trabalho de casa                |
-| 25   | 09-06-2022 | Qui | Análise Beethoven Op. 57                    |
-| 26   | 14-06-2022 | Ter | Correção do trabalho de casa                |
-|      | 16-06-2022 | Qui | **Feriado**                                 |
-| 27   | 21-06-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
-|      | 23-06-2022 | Qui | **Véspera de São João**                     |
-| 28   | 28-06-2022 | Ter | Entrega de resultados                       |
-| 29   | 30-06-2022 | Qui | Reservado para reposição                    |
-| 30   | 05-07-2022 | Ter | Reservado para reposição                    |
-| 31   | 07-07-2022 | Qui | Reservado para reposição                    |
+|      | 16-08-2022 | Ter | **Reservado para semana inaugural**         |
+| 1    | 18-08-2022 | Qui | Análise Mozart K 545                        |
+| 2    | 23-08-2022 | Ter | Análise Kuhlau Op. 59 N. 1                  |
+| 3    | 25-08-2022 | Qui | Análise Haydn XVI/32 N. 47 Si menor         |
+| 4    | 30-08-2022 | Ter | Análise Clementi Op. 1 N. 5                 |
+| 5    | 01-09-2022 | Qui | Análise Mozart K 280                        |
+| 6    | 06-09-2022 | Ter | Análise Mozart K 333                        |
+| 7    | 08-09-2022 | Qui | Análise Haydn XVI/34 Mi menor               |
+| 8    | 13-09-2022 | Ter | Prova I                                     |
+| 9    | 15-09-2022 | Qui | Análise Beethoven Op. 2, n. 1               |
+| 10   | 20-09-2022 | Ter | Análise Beethoven Op. 2, n. 2               |
+|      | 22-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
+|      | 27-09-2022 | Ter | **Ausência do professor. Data a confirmar** |
+|      | 29-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
+|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar** |
+| 11   | 06-10-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
+| 12   | 11-10-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
+| 13   | 13-10-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
+| 14   | 18-10-2022 | Ter | Análise Beethoven Op. 13, n. 1              |
+| 15   | 20-10-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
+| 16   | 25-10-2022 | Ter | Prova II                                    |
+| 17   | 27-10-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3      |
+| 18   | 01-11-2022 | Ter | Análise Beethoven Op. 53                    |
+| 19   | 03-11-2022 | Qui | Análise Beethoven Op. 57                    |
+| 20   | 08-11-2022 | Ter | Análise Beethoven Op. 67                    |
+| 21   | 10-11-2022 | Qui | Análise Mozart K 465                        |
+|      | 15-11-2022 | Ter | **Feriado**                                 |
+| 22   | 17-11-2022 | Qui | Análise Beethoven Op. 111                   |
+| 23   | 22-11-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
+| 24   | 24-11-2022 | Qui | Prova III                                   |
+| 25   | 29-11-2022 | Ter | Segunda chamada de todas as provas          |
+| 26   | 01-12-2022 | Qui | Entrega de resultados                       |
 {: .table .table-sm}
 
 ## 8. Obras para análise
@@ -171,12 +140,13 @@ Edição preferencial: Breitkopf und Härtel, reimpressa pela E.F. Kalmus.
 1. Piano Sonata n. 8. Op 13, mov. 1.
 1. Piano Sonata n. 9. Op 14, n. 1, mov. 1.
 1. Piano Sonata n. 10. Op 14, n. 2, mov. 1.
-1. String Quartet N. 1. Op. 18, n. 1, mov. 1.
+1. String Quartet n. 1. Op. 18, n. 1, mov. 1.
 1. Piano Sonata n. 14. Op 27, n. 2, mov. 3 (Moonlight).
 1. Piano Sonata n. 15. Op 28, mov. 1 (Pastoral).
 1. Piano Sonata n. 18. Op 31, n. 3. mov. 1 (The Hunt).
 1. Piano Sonata n. 21. Op 53, mov. 1 (Waldstein).
 1. Piano Sonata n. 23. Op 57, mov. 1 (Apassionata). - até p. 13.
+1. Sinfonia n. 5. Op 67, mov. 1.
 1. Piano Sonata n. 26. Op 81a, mov. 1 (Les Audieux).
 1. Violino Sonata n. 10. Op. 96, mov. 1.
 1. Piano Sonata n. 28. Op. 101
