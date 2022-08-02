@@ -5,6 +5,10 @@ toc: true
 level: pos-graduacao
 ---
 
+Plano de curso da disciplina Seminários em Composição II, do Mestrado em Música da UFBA, área de Concentração em Composição.
+
+Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
+
 ## 1. Ementa
 
 Aprofundamento do estudo teórico-prático de tópicos da composição musical debtrada no processo do compor abordado no componente Composição Musical I. Prática composicional e exame de partituras de música de diversos estilos e meios de execução. Composição de uma ou mais obras musiciais.
@@ -115,10 +119,10 @@ As notas serão definidas de acordo com o seguinte critério:
 | 2    | 30-08-2022 | Ter | Qualificação, quantificação, progressão e recessão |
 | 3    | 06-09-2022 | Ter | Análise particional de textura                     |
 | 4    | 13-09-2022 | Ter | Textura e forma                                    |
-|      | 20-09-2022 | Ter | **Ausência do professor. Data a confirmar**        |
-|      | 27-09-2022 | Ter | **Ausência do professor. Data a confirmar**        |
-| 5    | 04-10-2022 | Ter | Projetos individuais                               |
-| 6    | 11-10-2022 | Ter | Consultas e análises                               |
+| 5    | 20-09-2022 | Ter | Projetos individuais                               |
+| 6    | 27-09-2022 | Ter | Consultas e análises                               |
+|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
+|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
 | 7    | 18-10-2022 | Ter | Consultas e análises                               |
 | 8    | 25-10-2022 | Ter | Consultas e análises                               |
 | 9    | 01-11-2022 | Ter | Consultas e análises                               |
