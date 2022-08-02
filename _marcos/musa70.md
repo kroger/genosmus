@@ -92,13 +92,13 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 8    | 13-09-2022 | Ter | Prova I                                        |
 | 9    | 15-09-2022 | Qui | Tonicização, Modulação: análise de obras       |
 | 10   | 20-09-2022 | Ter | Tipos de modulação                             |
-|      | 22-09-2022 | Qui | **Ausência do professor. Data a confirmar**    |
-|      | 27-09-2022 | Ter | **Ausência do professor. Data a confirmar**    |
-|      | 29-09-2022 | Qui | **Ausência do professor. Data a confirmar**    |
+| 11   | 22-09-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
+| 12   | 27-09-2022 | Ter | Aula prática: análise de obras, canto/baixo    |
+| 13   | 29-09-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
 |      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar**    |
-| 11   | 06-10-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
-| 12   | 11-10-2022 | Ter | Aula prática: análise de obras, canto/baixo    |
-| 13   | 13-10-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
+|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar**    |
+|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar**    |
+|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar**    |
 | 14   | 18-10-2022 | Ter | Aula prática: análise de obras, canto/baixo    |
 | 15   | 20-10-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
 | 16   | 25-10-2022 | Ter | Prova II                                       |

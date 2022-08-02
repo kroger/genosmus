@@ -160,10 +160,10 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 20/10 serão dedicada
 | 3    | 01-09-2022 | Qui | Identidade e reflexão de contornos          |
 | 4    | 08-09-2022 | Qui | Texto e fala                                |
 | 5    | 15-09-2022 | Qui | Redução de contornos                        |
-|      | 22-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
-|      | 29-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
-| 6    | 06-10-2022 | Qui | Composição vocal                            |
-| 7    | 13-10-2022 | Qui | Similaridade de contornos                   |
+| 6    | 22-09-2022 | Qui | Composição vocal                            |
+| 7    | 29-09-2022 | Qui | Similaridade de contornos                   |
+|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
+|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
 | 8    | 20-10-2022 | Qui | Acento melódico                             |
 | 9    | 27-10-2022 | Qui | Consultas e análises                        |
 | 10   | 03-11-2022 | Qui | Consultas e análises                        |

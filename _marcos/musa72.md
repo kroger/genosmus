@@ -98,13 +98,13 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No
 | 8    | 13-09-2022 | Ter | Prova I                                     |
 | 9    | 15-09-2022 | Qui | Análise Beethoven Op. 2, n. 1               |
 | 10   | 20-09-2022 | Ter | Análise Beethoven Op. 2, n. 2               |
-|      | 22-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
-|      | 27-09-2022 | Ter | **Ausência do professor. Data a confirmar** |
-|      | 29-09-2022 | Qui | **Ausência do professor. Data a confirmar** |
+| 11   | 22-09-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
+| 12   | 27-09-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
+| 13   | 29-09-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
 |      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar** |
-| 11   | 06-10-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
-| 12   | 11-10-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
-| 13   | 13-10-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
+|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
+|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar** |
+|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
 | 14   | 18-10-2022 | Ter | Análise Beethoven Op. 13, n. 1              |
 | 15   | 20-10-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
 | 16   | 25-10-2022 | Ter | Prova II                                    |
@@ -117,7 +117,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No
 | 22   | 17-11-2022 | Qui | Análise Beethoven Op. 111                   |
 | 23   | 22-11-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
 | 24   | 24-11-2022 | Qui | Prova III                                   |
-| 25   | 29-11-2022 | Ter | Segunda chamada de todas as provas          |
+| 25   | 29-11-2022 | Ter | Segunda chamada                             |
 | 26   | 01-12-2022 | Qui | Entrega de resultados                       |
 {: .table .table-sm}
 
