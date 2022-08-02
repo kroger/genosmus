@@ -5,6 +5,10 @@ toc: true
 level: graduacao
 ---
 
+Plano de curso da disciplina Literatura e Estruturação Musical II, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
+
+Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
+
 ## 1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto

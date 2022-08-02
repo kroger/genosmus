@@ -7,7 +7,7 @@ level: graduacao
 
 Plano de curso da disciplina Composição VI, do curso de Composição e Regência da UFBA.
 
-Esta página é um espelho da página oficial do curso, no AVA/Moodle UFBA.
+Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
 
 ## 1. Ementa
 

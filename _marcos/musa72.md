@@ -5,6 +5,10 @@ toc: true
 level: graduacao
 ---
 
+Plano de curso da disciplina Literatura e Estruturação Musical IV, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
+
+Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
+
 ## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
