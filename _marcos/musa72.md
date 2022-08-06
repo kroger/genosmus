@@ -43,6 +43,7 @@ Ao final do curso, espera-se que o estudante seja capaz de:
    - A Coda
    - Modificações da Forma Sonata (sonatina, sonatina ampliada,
     sonata rondo)
+
 <!-- 2. O Concerto
    - Movimentos Externos do Concerto Barroco; O Movimento do
     Concerto Grosso
