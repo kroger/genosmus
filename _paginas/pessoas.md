@@ -14,15 +14,25 @@ title: Pessoas
 
 ### Estudantes
 
+#### Doutorado
+
+- Me. Alisson Gonçalves da Silva
 - Me. Dennis Queiroz de Carvalho
 - Me. Gilmário Celso Bispo de Jesus
 - Me. Tharcísio Vaz da Costa de Moraes
-- Me. Alisson Gonçalves da Silva
+
+#### Mestrado
+
+- Sidnei Marques de Carvalho
+
+#### Graduação
+
+- Daniel Costa Oliveira
+- Jaderson Cardona de Oliveira
+- Kevin Macedo
 - Lisa Mascarenhas Gusmão
 - Paulo Roberto Pitta da Fonseca Filho
 - Vicente Sanches de Oliveira
-- Jaderson Cardona de Oliveira
-- Pedro de Andrade Vieira
 
 ## Ex-membros
 
@@ -50,3 +60,4 @@ Pessoas que colaboraram com o Genos:
 - André Matera (voluntário em pesquisa em 2019)
 - Carla Patrícia Henriques de Castro (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
 - Matheus Travassos de Oliveira Ramos (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
+- Pedro de Andrade Vieira (voluntário em pesquisa em 2020)
