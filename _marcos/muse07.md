@@ -135,16 +135,17 @@ As notas serão definidas de acordo com o seguinte critério:
 
 ## 8. Obras para análise
 
-- Alberto Ginastera. Piano Sonata n. 2. Mov. 1;
-- Anton Webern. Fünf Sätze für Streichquartett, op. 5. Mov. 3;
-- Edvard Grieg. Piano Sonata in E minor, op. 7. Mov. 1;
-- Gyorgy Ligeti. Atmosphères;
-- Gyorgy Ligeti. Lux Aeterna;
-- Gyorgy Ligeti. String Quartet;
-- Heitor Villa-Lobos. Rudepoema;
-- Lili Boulanger. Trois morceaux pour piano;
-- Krysztof Penderecki. Threnody;
-- Ruth Crawford Seeger. String Quartet (1931)
+1. Alberto Ginastera. Piano Sonata n. 2. Mov. 1;
+1. Anton Webern. Fünf Sätze für Streichquartett, op. 5. Mov. 3;
+1. Edvard Grieg. Piano Sonata in E minor, op. 7. Mov. 1;
+1. Franz Schubert. String Quartet n. 14 (Maiden and Death), d
+1. Gyorgy Ligeti. Atmosphères;
+1. Gyorgy Ligeti. Lux Aeterna;
+1. Gyorgy Ligeti. String Quartet;
+1. Heitor Villa-Lobos. Rudepoema;
+1. Krysztof Penderecki. Threnody;
+1. Lili Boulanger. Trois morceaux pour piano;
+1. Ruth Crawford Seeger. String Quartet (1931)
 
 ## 9. Links
 
