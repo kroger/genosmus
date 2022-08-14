@@ -148,6 +148,8 @@ As notas serão definidas de acordo com o seguinte critério:
 
 ## 9. Links
 
+- [Parsemat](https://pauxy.net/parsemat-v-0-8-beta/)
+
 ## 10. Bibliografia
 
 1. Alves, José Orlando. 2005. "Invariâncias e Disposições Texturais: Do Planejamento Composicional à Reflexão Sobre o Processo Criativo." PhD Dissertation, Unicamp.
