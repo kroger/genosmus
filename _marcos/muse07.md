@@ -59,7 +59,7 @@ Experimentos composicionais de curta duração para exploração de ideias e con
 
 #### 6.1.2. Composição final
 
-Obra para formação de câmara a definir, com mínimo de 10 vozes, com uso da textura como determinante composicional e relacionado ao projeto individual de pesquisa no PPGMUS. Duração de 5 a 8 minutos. Entrega de partitura e áudio.
+Obra para formação de câmara a definir, com mínimo de 8 vozes, com uso da textura como determinante composicional e relacionado ao projeto individual de pesquisa no PPGMUS. Duração de 5 a 8 minutos. Entrega de partitura e áudio.
 
 #### 6.1.3. Consultas
 
@@ -134,6 +134,17 @@ As notas serão definidas de acordo com o seguinte critério:
 {: .table .table-sm}
 
 ## 8. Obras para análise
+
+- Alberto Ginastera. Piano Sonata n. 2. Mov. 1;
+- Anton Webern. Fünf Sätze für Streichquartett, op. 5. Mov. 3;
+- Edvard Grieg. Piano Sonata in E minor, op. 7. Mov. 1;
+- Gyorgy Ligeti. Atmosphères;
+- Gyorgy Ligeti. Lux Aeterna;
+- Gyorgy Ligeti. String Quartet;
+- Heitor Villa-Lobos. Rudepoema;
+- Lili Boulanger. Trois morceaux pour piano;
+- Krysztof Penderecki. Threnody;
+- Ruth Crawford Seeger. String Quartet (1931)
 
 ## 9. Links
 
