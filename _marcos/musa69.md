@@ -115,7 +115,7 @@ modificados de acordo com a necessidade e eventualidade.
 |   31 |      |      | Entrega de resultados               |
 {: .table .table-sm}
 
-## 8. Exercícios de apoio
+<!-- ## 8. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a
 realização em casa. Esses exercícios serão parcialmente corrigidos em
@@ -135,9 +135,9 @@ Os exercícios estão sendo organizados em [marcos.sampaio.me/tag/exercicios](ht
 1. [Notas melódicas, harmonização de melodia e análise harmônica](https://docs.google.com/a/sampaio.me/document/d/1aLj6L2iDEQnaAxv6p8Fxra-KoobiwMLAvzU_7XbB_5M/edit?usp=sharing)
 1. [Análise harmônica](https://docs.google.com/document/d/11NsEew7d10r9NfOaylfuS9l1ANWKTRjZCSlH96ysNGg/edit?usp=sharing)
 1. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1sVgPAwNA55aOuDyq5XbfPF9_aRgB-nbrqPtLoo8HreE/edit?usp=sharing)
-1. [Funções secundárias, realização de baixo cifrado e análise harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing)
+1. [Funções secundárias, realização de baixo cifrado e análise harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing) -->
 
-## 9. Material para análise
+## 8. Material para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -157,11 +157,11 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 1. R. Schumann, Álbum para Juventude op. 68, n. 2
 1. M. Clementi, op. 36, n. 1, mov. 1.
 
-## 10. Notas
+## 9. Notas
 
 [Em construção]
 
-## 11. Bibliografia
+## 10. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice Leading_. 3rded. Thomson Schirmer.
 1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
@@ -179,7 +179,7 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza. 1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. New York: Schirmer.
 1. "Musictheory.net." 2000. [http://musictheory.net](http://musictheory.net)
 
-## 12. Links
+## 11. Links
 
 - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
 - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
@@ -192,13 +192,13 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/wp-content/uploads/MUSA69-LEM-I.pdf)
 - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## 13. Aulas em vídeo
+## 12. Aulas em vídeo
 
 Playlist do Youtube com resoluções de baixos e cantos dados.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## 14. Comunicação com o professor
+## 13. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o email, em horário comercial. Assuntos acadêmicos não são tratados por telefone ou mensagens em nenhuma hipótese.
 
