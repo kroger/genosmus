@@ -79,40 +79,41 @@ disciplina.
 O conteúdo e dias das aulas do cronograma poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data | Dia  | Conteúdo                            |
-| ---: | :--- | :--- | :---------------------------------- |
-|      |      |      | **Reservado para semana inaugural** |
-|    1 |      |      | A definir                           |
-|    2 |      |      | A definir                           |
-|    3 |      |      | A definir                           |
-|    4 |      |      | A definir                           |
-|    5 |      |      | A definir                           |
-|    6 |      |      | A definir                           |
-|    7 |      |      | A definir                           |
-|    8 |      |      | A definir                           |
-|    9 |      |      | Prova I                             |
-|   10 |      |      | A definir                           |
-|   11 |      |      | A definir                           |
-|   12 |      |      | A definir                           |
-|   13 |      |      | A definir                           |
-|   14 |      |      | A definir                           |
-|   15 |      |      | A definir                           |
-|   16 |      |      | A definir                           |
-|   17 |      |      | A definir                           |
-|   18 |      |      | A definir                           |
-|   19 |      |      | A definir                           |
-|   20 |      |      | Prova II                            |
-|   21 |      |      | A definir                           |
-|   22 |      |      | A definir                           |
-|   23 |      |      | A definir                           |
-|   24 |      |      | A definir                           |
-|   25 |      |      | A definir                           |
-|   26 |      |      | A definir                           |
-|   27 |      |      | A definir                           |
-|   28 |      |      | A definir                           |
-|   29 |      |      | Prova III                           |
-|   30 |      |      | Segunda chamada                     |
-|   31 |      |      | Entrega de resultados               |
+| Aula | Data | Dia  | Conteúdo                                           |
+| ---: | :--- | :--- | :------------------------------------------------- |
+|      |      |      | **Reservado para semana inaugural**                |
+|    1 |      |      | Apresentação e revisão (intervalos e acordes)      |
+|    2 |      |      | Escrita a quatro vozes e campo harmônico           |
+|    3 |      |      | Tríades a quatro vozes e cifras (pos. fund.)       |
+|    4 |      |      | Encadeamentos de tríades (pos. fund.)              |
+|    5 |      |      | Tríades a quatro vozes e cifras (1a inversão)      |
+|    6 |      |      | Encadeamentos de tríades (pos. fund e invertidas)  |
+|    7 |      |      | Ciclo de quintas, sucessões, progressões, bx. dado |
+|    8 |      |      | Baixo dado                                         |
+|    9 |      |      | Prática de canto dado                              |
+|   10 |      |      | Prova I                                            |
+|      |      |      | **Feriado: previsão**                              |
+|   11 |      |      | Tríades a quatro vozes e cifras (2a. inversão)     |
+|   12 |      |      | Encadeamentos de tríades (todas)                   |
+|   13 |      |      | Harmonização de canto dado, colcheias              |
+|   14 |      |      | Notas melódicas - passagem e bordadura             |
+|   15 |      |      | Prática de composição, harmonização e análise      |
+|   16 |      |      | Dominante secundária                               |
+|   17 |      |      | Notas melódicas - ritardo, suspensão               |
+|   18 |      |      | Prática de composição, harmonização e análise      |
+|   19 |      |      | Prova II                                           |
+|   20 |      |      | Acordes de sétima da dominante                     |
+|   21 |      |      | Notas melódicas - apojatura e escapada             |
+|   22 |      |      | Prática de composição, harmonização e análise      |
+|   23 |      |      | Prática de composição, harmonização e análise      |
+|   24 |      |      | Acordes de sétima da dominante (inversão 1)        |
+|   25 |      |      | Prática de composição, harmonização e análise      |
+|   26 |      |      | Prática de composição, harmonização e análise      |
+|   27 |      |      | Prova III                                          |
+|      |      |      | **Feriado: previsão**                              |
+|      |      |      | **Reservado correção de provas (sem aula)**        |
+|   28 |      |      | Segunda chamada                                    |
+|   29 |      |      | Entrega de resultados                              |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
@@ -124,18 +125,18 @@ aula. A sua realização é desejada, mas opcional. Não valem nota.
 Os exercícios estão sendo organizados em [marcos.sampaio.me/tag/exercicios](https://marcos.sampaio.me/tag/exercicios/)
 
 1. [Distribuição de notas da tríade e conceitos diversos](https://docs.google.com/document/d/13VCUNGjezhnmbHooK-O924wKj4udOC9f9Bu2igH55gU/view)
-1. [Encadeamento de duas tríades](https://docs.google.com/a/sampaio.me/document/d/17T3pxHwo8pbAN3BdKXTOK5g8S17WGxd2f_aedg05lNg/edit?usp=sharing)
-1. [Encadeamento de três tríades e análise harmônica](https://docs.google.com/document/d/1rhDgtRNmP_PMiiTiZDl5X3ZRDXwFzqp4DPSjzoyTi50/edit?usp=sharing)
-1. [Encadeamento de tríades e realização de baixo cifrado diatônico](https://docs.google.com/document/d/1H3ouVKR4Kuzppk6gzROa6SwBr3NHKkdU0wVOF1YkWps/edit?usp=sharing)
-1. [Acordes de segunda inversão e realização de baixo cifrado diatônico](https://docs.google.com/document/d/1Uz4GyuNW-XIUZ4n4OWAu1ZP0CroClr01ghDodoajX1c/edit?usp=sharing)
-1. [Harmonização de melodia e realização de baixo cifrado 1](https://docs.google.com/document/d/17xaYmVB2dcGRxXrYqsmhyRlpWfYaFb-tc2Yt-bjGB4E/edit?usp=sharing)
-1. [Harmonização de melodia e realização de baixo cifrado 2](https://docs.google.com/document/d/14RBvi71Q-YgNMmdTF-kEJ88zmv39u5QKw1DiHnjoa4o/edit?usp=sharing)
-1. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/14D88Z5YsyGY6UIPML1_SVRZK0xcfTPk7ZblNS5ndtlE/edit?usp=sharing)
-1. [Acordes de sétima da dominante, harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1IE5K0WLd90pEyHAXdbxSyv_8hrfJaivzCXUsRz8BSmc/edit?usp=sharing)
-1. [Notas melódicas, harmonização de melodia e análise harmônica](https://docs.google.com/a/sampaio.me/document/d/1aLj6L2iDEQnaAxv6p8Fxra-KoobiwMLAvzU_7XbB_5M/edit?usp=sharing)
-1. [Análise harmônica](https://docs.google.com/document/d/11NsEew7d10r9NfOaylfuS9l1ANWKTRjZCSlH96ysNGg/edit?usp=sharing)
-1. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1sVgPAwNA55aOuDyq5XbfPF9_aRgB-nbrqPtLoo8HreE/edit?usp=sharing)
-1. [Funções secundárias, realização de baixo cifrado e análise harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing) -->
+2. [Encadeamento de duas tríades](https://docs.google.com/a/sampaio.me/document/d/17T3pxHwo8pbAN3BdKXTOK5g8S17WGxd2f_aedg05lNg/edit?usp=sharing)
+3. [Encadeamento de três tríades e análise harmônica](https://docs.google.com/document/d/1rhDgtRNmP_PMiiTiZDl5X3ZRDXwFzqp4DPSjzoyTi50/edit?usp=sharing)
+4. [Encadeamento de tríades e realização de baixo cifrado diatônico](https://docs.google.com/document/d/1H3ouVKR4Kuzppk6gzROa6SwBr3NHKkdU0wVOF1YkWps/edit?usp=sharing)
+5. [Acordes de segunda inversão e realização de baixo cifrado diatônico](https://docs.google.com/document/d/1Uz4GyuNW-XIUZ4n4OWAu1ZP0CroClr01ghDodoajX1c/edit?usp=sharing)
+6. [Harmonização de melodia e realização de baixo cifrado 1](https://docs.google.com/document/d/17xaYmVB2dcGRxXrYqsmhyRlpWfYaFb-tc2Yt-bjGB4E/edit?usp=sharing)
+7. [Harmonização de melodia e realização de baixo cifrado 2](https://docs.google.com/document/d/14RBvi71Q-YgNMmdTF-kEJ88zmv39u5QKw1DiHnjoa4o/edit?usp=sharing)
+8. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/14D88Z5YsyGY6UIPML1_SVRZK0xcfTPk7ZblNS5ndtlE/edit?usp=sharing)
+9. [Acordes de sétima da dominante, harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1IE5K0WLd90pEyHAXdbxSyv_8hrfJaivzCXUsRz8BSmc/edit?usp=sharing)
+10. [Notas melódicas, harmonização de melodia e análise harmônica](https://docs.google.com/a/sampaio.me/document/d/1aLj6L2iDEQnaAxv6p8Fxra-KoobiwMLAvzU_7XbB_5M/edit?usp=sharing)
+11. [Análise harmônica](https://docs.google.com/document/d/11NsEew7d10r9NfOaylfuS9l1ANWKTRjZCSlH96ysNGg/edit?usp=sharing)
+12. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1sVgPAwNA55aOuDyq5XbfPF9_aRgB-nbrqPtLoo8HreE/edit?usp=sharing)
+13. [Funções secundárias, realização de baixo cifrado e análise harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing) -->
 
 ## 8. Material para análise
 
