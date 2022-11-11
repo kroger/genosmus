@@ -90,40 +90,40 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No período de ausência do professor haverá um trabalho de análise a ser realizado.
 
-| Aula | Data       | Dia | Tópico                                      |
-| ---- | ---------- | --- | ------------------------------------------- |
-|      | 16-08-2022 | Ter | **Reservado para semana inaugural**         |
-| 1    | 18-08-2022 | Qui | Análise Mozart K 545                        |
-| 2    | 23-08-2022 | Ter | Análise Kuhlau Op. 59 N. 1                  |
-| 3    | 25-08-2022 | Qui | Análise Haydn XVI/32 N. 47 Si menor         |
-| 4    | 30-08-2022 | Ter | Análise Clementi Op. 1 N. 5                 |
-| 5    | 01-09-2022 | Qui | Análise Mozart K 280                        |
-| 6    | 06-09-2022 | Ter | Análise Mozart K 333                        |
-| 7    | 08-09-2022 | Qui | Análise Haydn XVI/34 Mi menor               |
-| 8    | 13-09-2022 | Ter | Prova I                                     |
-| 9    | 15-09-2022 | Qui | Análise Beethoven Op. 2, n. 1               |
-| 10   | 20-09-2022 | Ter | Análise Beethoven Op. 2, n. 2               |
-| 11   | 22-09-2022 | Qui | Análise Beethoven Op. 2, n. 3               |
-| 12   | 27-09-2022 | Ter | Análise Beethoven Op. 10, n. 1              |
-| 13   | 29-09-2022 | Qui | Análise Beethoven Op. 14, n. 1              |
-|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar** |
-|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
-|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar** |
-|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
-| 14   | 18-10-2022 | Ter | Análise Beethoven Op. 13, n. 1              |
-| 15   | 20-10-2022 | Qui | Análise Beethoven Op. 14, n. 2              |
-| 16   | 25-10-2022 | Ter | Prova II                                    |
-| 17   | 27-10-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3      |
-| 18   | 01-11-2022 | Ter | Análise Beethoven Op. 53                    |
-| 19   | 03-11-2022 | Qui | Análise Beethoven Op. 57                    |
-| 20   | 08-11-2022 | Ter | Análise Beethoven Op. 67                    |
-| 21   | 10-11-2022 | Qui | Análise Mozart K 465                        |
-|      | 15-11-2022 | Ter | **Feriado**                                 |
-| 22   | 17-11-2022 | Qui | Análise Beethoven Op. 111                   |
-| 23   | 22-11-2022 | Ter | Análise Haydn Op. 50, n. 3, mov. 1          |
-| 24   | 24-11-2022 | Qui | Prova III                                   |
-| 25   | 29-11-2022 | Ter | Segunda chamada                             |
-| 26   | 01-12-2022 | Qui | Entrega de resultados                       |
+| Aula | Data       | Dia | Tópico                                             |
+| ---- | ---------- | --- | -------------------------------------------------- |
+|      | 16-08-2022 | Ter | **Reservado para semana inaugural**                |
+| 1    | 18-08-2022 | Qui | Análise Mozart K 545                               |
+| 2    | 23-08-2022 | Ter | Análise Kuhlau Op. 59 N. 1                         |
+| 3    | 25-08-2022 | Qui | Análise Haydn XVI/32 N. 47 Si menor                |
+| 4    | 30-08-2022 | Ter | Análise Clementi Op. 1 N. 5                        |
+| 5    | 01-09-2022 | Qui | Análise Mozart K 280                               |
+| 6    | 06-09-2022 | Ter | Análise Mozart K 333                               |
+| 7    | 08-09-2022 | Qui | Análise Haydn XVI/34 Mi menor                      |
+| 8    | 13-09-2022 | Ter | Prova I                                            |
+| 9    | 15-09-2022 | Qui | Análise Beethoven Op. 2, n. 1                      |
+| 10   | 20-09-2022 | Ter | Análise Beethoven Op. 2, n. 2                      |
+| 11   | 22-09-2022 | Qui | Análise Beethoven Op. 2, n. 3                      |
+| 12   | 27-09-2022 | Ter | Análise Beethoven Op. 10, n. 1                     |
+| 13   | 29-09-2022 | Qui | Análise Beethoven Op. 14, n. 1                     |
+|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
+|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar**        |
+|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
+|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar**        |
+| 14   | 18-10-2022 | Ter | Análise Beethoven Op. 13, n. 1                     |
+| 15   | 20-10-2022 | Qui | Análise Beethoven Op. 14, n. 2                     |
+| 16   | 25-10-2022 | Ter | Prova II                                           |
+| 17   | 27-10-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3             |
+| 18   | 01-11-2022 | Ter | Análise Beethoven Op. 53                           |
+| 19   | 03-11-2022 | Qui | Análise Beethoven Op. 57                           |
+| 20   | 08-11-2022 | Ter | Análise Beethoven Op. 67                           |
+| 21   | 10-11-2022 | Qui | Análise Mozart K 465                               |
+|      | 15-11-2022 | Ter | **Feriado**                                        |
+| 22   | 17-11-2022 | Qui | Análise Beethoven Op. 111                          |
+| 23   | 22-11-2022 | Ter | Prova III                                          |
+| 24   | 24-11-2022 | Qui | Sem aula: tempo para correção                      |
+| 25   | 29-11-2022 | Ter | Segunda chamada                                    |
+| 26   | 01-12-2022 | Qui | Entrega de resultados e Haydn Op. 50, n. 3, mov. 1 |
 {: .table .table-sm}
 
 ## 8. Obras para análise

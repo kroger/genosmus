@@ -113,8 +113,8 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 21   | 10-11-2022 | Qui | Acordes de sexta aumentada: outros usos        |
 |      | 15-11-2022 | Ter | **Feriado**                                    |
 | 22   | 17-11-2022 | Qui | Aula prática: canto e baixo                    |
-| 23   | 22-11-2022 | Ter | Aula prática: canto e baixo                    |
-| 24   | 24-11-2022 | Qui | Prova III                                      |
+| 23   | 22-11-2022 | Ter | Prova III                                      |
+| 24   | 24-11-2022 | Qui | Sem aula: tempo para correção                  |
 | 25   | 29-11-2022 | Ter | Segunda chamada                                |
 | 26   | 01-12-2022 | Qui | Entrega de resultados                          |
 {: .table .table-sm}
