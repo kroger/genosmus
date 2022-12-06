@@ -85,6 +85,17 @@ A nota do semestre será a média ponderada dos seguintes trabalhos:
 
 Todos os trabalhos deverão ser entregues pelo AVA/Moodle no prazo determinado.
 
+Notas em 2022.2
+
+| Matrícula  | Nota  | Resultado |
+| ---------- | ----- | --------- |
+| 2022118216 | 6.0   | AP        |
+| 2022118172 | 10.0  | AP        |
+| 2022118181 | 6.0   | AP        |
+| 2022118190 | 10.0  | AP        |
+| 2022118207 | 10.0 | AP        |
+{: .table .table-sm}
+
 ### 6.3. Critérios
 
 Os critérios gerais de avaliação são:
