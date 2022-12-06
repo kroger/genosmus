@@ -191,24 +191,31 @@ Edição preferencial: Edition Peters
 
 ## 9. Notas
 
-As notas ficam disponíveis no AVA/Moodle.
+Semestre 2022.2
 
-<!-- As notas dos alunos estão disponíveis no link abaixo e serão
-atualizadas durante o curso: -->
+| Matrícula | T   | P1   | P2  | P3   | M   | R   |
+| --------- | --- | ---- | --- | ---- | --- | --- |
+| 214100097 | 10  | 5    | 7.4 | 6.2  | 7.0 | AP  |
+| 216122288 | 8.0 | 9.2  | 9*  | 8.8  | 8.8 | AP  |
+| 216220739 | 10  | 7.6  | 7.8 | 10*  | 8.9 | AP  |
+| 216220741 | 8.5 | 9.5  | 4.2 | 5.6  | 7.0 | AP  |
+| 217121979 | 10  | 8.0* | 4.0 | 8.8  | 7.7 | AP  |
+| 217121986 | -   | 6.5* | 8.4 | 6.5* | 5.4 | AP  |
+| 217221338 | 10  | 9.5* | 9.3 | 10   | 9.7 | AP  |
+| 218124904 | 10  | 10*  | 9.8 | 10   | 10  | AP  |
+| 218124905 | 10  | 8    | 10  | 10   | 9.8 | AP  |
+| 219122236 | 10  | 7.4  | 9.0 | 6.0  | 8.4 | AP  |
+| 219122243 | 10  | 9.8  | 5.0 | 7.9  | 8.2 | AP  |
+{: .table .table-sm}
 
-<!-- <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="300"></iframe> -->
+Legenda:
 
-<!-- ### 9.1. Distribuição de notas
+- T: trabalho
+- P1, P2 e P3: provas 1, 2 e 3
+- M: Média final
+- R: Resultado
 
-O gráfico abaixo apresenta a distribuição da média final da turma. O
-eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-contém o número de alunos com média final dentro das faixas. -->
-
-<!-- <iframe seamless frameborder="0" scrolling="no"
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=641992382&amp;format=interactive"
-width="100%" height="300"></iframe> -->
+`* Segunda chamada`
 
 ## 10. Links
 

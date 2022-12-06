@@ -259,17 +259,26 @@ Aula 20, dia 10/10/2019
 
 ## 10. Notas
 
-As notas estão disponíveis no AVA/Moodle
+Semestre 2022.2
 
-### 10.1. Distribuição de notas
+| Matrícula | T    | P1  | P2  | P3  | M   | R   |
+| --------- | ---- | --- | --- | --- | --- | --- |
+| 211103539 |      |     |     |     |     | RF  |
+| 213104824 |      |     |     |     |     | RF  |
+| 216122270 | 10.0 | 3.5 | 7   | 4.5 | 6.3 | AP  |
+| 216122282 |      | 4.5 |     |     |     | RF  |
+| 216126636 |      | 2.0 |     |     |     | RF  |
+| 218124889 | -    | 8.3 | 8.3 | 8   | 6.2 | AP  |
+| 218124896 |      | 9.2 | 5.0 | 7.5 | 5.4 | AP  |
+| 220119159 | 5.0  | 6.5 | 7.8 | 8.5 | 7   | AP  |
+{: .table .table-sm}
 
-O gráfico abaixo apresenta a distribuição da média final da turma. O
-eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-contém o número de alunos com média final dentro das faixas.
+Legenda:
 
-<iframe seamless frameborder="0" scrolling="no"
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQs-fgYyBiRz2ZoTPhGevkW7WRFrIEfwZtdsJ55nDu_eqOHiGL8rCkYsMtuEqJKOKaTHcyQ0bSiVXoN/pubchart?oid=951878699&amp;format=interactive"
-width="100%" height="300"></iframe>
+- T: trabalho
+- P1, P2 e P3: provas 1, 2 e 3
+- M: Média final
+- R: Resultado
 
 ## 11. Links
 
