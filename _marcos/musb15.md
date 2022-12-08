@@ -144,6 +144,16 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
 
+### 6.5. Resultados
+
+Semestre 2022.2
+
+| Matrícula | Média | Resultado |
+| --------- | ----- | --------- |
+| 201514950 | 9     | AP        |
+| 218124852 | 9     | AP        |
+| 218218707 | 8     | AP        |
+{: .table .table-sm}
 
 ## 7. Assiduidade e pontualidade
 
@@ -177,8 +187,6 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 20/10 serão dedicada
 | 13   | 24-11-2022 | Qui | Entrega de trabalhos                        |
 | 14   | 01-12-2022 | Qui | A definir                                   |
 {: .table .table-sm}
-
-
 
 ## 9. Análise
 
