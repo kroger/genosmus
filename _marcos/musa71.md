@@ -5,17 +5,14 @@ toc: true
 level: graduacao
 ---
 
-**Informação importante**: aulas suspensas a partir de 17/03 por
-determinação da Reitoria da UFBA.
-
-##1. Ementa
+## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
 combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
 estudados.
 
-##1. Objetivos
+## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
@@ -26,7 +23,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
      recursos cromáticos a quatro vozes.
   3. Compor _lieder_ binário e ternário.
 
-##1. Conteúdo programático
+## 3. Conteúdo programático
 
   1. Mistura de modos
   2. Acordes alterados, de 9ª, 11ª e 13ª.
@@ -34,7 +31,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
   4. Pequenas formas: divisão em partes
   5. Formas binárias, ternárias, únicas
 
-##1. Pré-requisitos
+## 4. Pré-requisitos
 
 São pré-requisitos para a disciplina:
 
@@ -45,7 +42,7 @@ São pré-requisitos para a disciplina:
      condução de vozes
   4. Realização de baixo cifrado a quatro vozes
 
-##1. Metodologia
+## 5. Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
 exercícios a serem realizados em classe e em casa:
@@ -57,34 +54,15 @@ exercícios a serem realizados em classe e em casa:
      quatro vozes
   3. Composição de pequenas formas musicais
 
-##1. Avaliação
+## 6. Avaliação
 
-No semestre 2020.1, a avaliação nesta disciplina será realizada mediante 3
-provas e um trabalho.
+A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-As provas são compostas por questões de composição e/ou análise e têm como
-objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de
-correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo
-das provas é acumulativo.
+### 6.1. Nota
 
-O trabalho consiste na análise formal (frases e seus agrupamentos,
-cadências e metas harmônicas) de um movimento de um dos quartetos de
-cordas de Joseph Haydn a ser definido pelo professor. O trabalho deverá
-ser realizado individualmente ou em duplas, a critério do estudante, e
-deverá ser realizado no período em que o professor estará afastado (ver
-cronograma).
+A nota do semestre será a média aritmética das notas das provas.
 
-###1. Nota
-
-A nota do semestre será a média ponderada das notas das provas e trabalho.
-Cada prova tem peso 3 e o trabalho tem peso 1.
-
-Dessa forma, a nota será calculada com a seguinte fórmula, onde Pn se
-refere à nota de cada prova, e T, à nota do trabalho.
-
-<img src="https://latex.codecogs.com/svg.latex?M=\frac{3P_1&plus;3P_2&plus;3P_3&plus;T}{10}" title="M=\frac{3P_1+3P_2+3P_3+T}{10}" />
-
-###1. Segunda chamada
+### 6.2. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a
 requerer até dois dias úteis após a sua realização comprovando-se umas
@@ -102,17 +80,50 @@ de Ensino de Graduação.
 A data de realização de segunda chamada está prevista no cronograma da
 disciplina.
 
-##1. Cronograma
+## 7. Cronograma
 
-O conteúdo e dias das aulas do cronograma abaixo poderão ser
+O conteúdo e dias das aulas do cronograma poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-<!-- <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af4ZqIjDnavifJJdeRZHQ0vDkCLQo-HcaCnaDJZqaOPuNAe0_c9InL/pubhtml?gid=1830898706&amp;single=true&amp;widget=true&amp;headers=false"
- width="100%" height="300">
-</iframe> -->
+| Aula | Data       | Dia  | Conteúdo                                                  |
+| ---: | :--------- | :--- | :-------------------------------------------------------- |
+|      | 07-03-2023 | Ter  | **Reservado para semana inaugural**                       |
+|    1 | 09-03-2023 | Qui  | Revisão de tonicização e modulação                        |
+|    2 | 14-03-2023 | Ter  | Mistura de modos                                          |
+|    3 | 16-03-2023 | Qui  | Mistura de modos                                          |
+|    4 | 21-03-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
+|    5 | 23-03-2023 | Qui  | Acordes de nona                                           |
+|    6 | 28-03-2023 | Ter  | Acordes alterados e substituições                         |
+|    7 | 30-03-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
+|    8 | 04-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
+|      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                                 |
+|    9 | 11-04-2023 | Ter  | Prova I                                                   |
+|   10 | 13-04-2023 | Qui  | Conceitos de forma e características gerais das frases    |
+|   11 | 18-04-2023 | Ter  | Estrutura harmônica da frase                              |
+|   12 | 20-04-2023 | Qui  | Estrutura melódica da frase                               |
+|   13 | 25-04-2023 | Ter  | Prática de harmonização, composição e análise             |
+|   14 | 27-04-2023 | Qui  | Desenvolvimento de frases                                 |
+|   15 | 02-05-2023 | Ter  | Combinação de frases 1 - períodos                         |
+|   16 | 04-05-2023 | Qui  | Combinação de frases 2 - detalhamento de períodos         |
+|   17 | 09-05-2023 | Ter  | Prática de harmonização, composição e análise             |
+|   18 | 11-05-2023 | Qui  | Prática de harmonização, composição e análise             |
+|   19 | 16-05-2023 | Ter  | Prova II                                                  |
+|   20 | 18-05-2023 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
+|   21 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise de períodos |
+|   22 | 25-05-2023 | Qui  | Pequenas formas: binária contínua e secional              |
+|   23 | 30-05-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
+|   24 | 01-06-2023 | Qui  | Pequenas formas: ternária contínua e secional             |
+|   25 | 06-06-2023 | Ter  | Formas compostas e Pequenas obras                         |
+|      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                               |
+|   26 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
+|      | 15-06-2023 | Qui  | **Ausência do professor**                                 |
+|   27 | 20-06-2023 | Ter  | Prova III                                                 |
+|      | 22-06-2023 | Qui  | **Reservado correção de provas (sem aula)**               |
+|   28 | 27-06-2023 | Ter  | Segunda chamada                                           |
+|   29 | 29-06-2023 | Qui  | Entrega de resultados                                     |
+{: .table .table-sm}
 
-##1. Exercícios de apoio
+<!-- ## 8. Exercícios de apoio
 
 1. [Revisão de modulação e harmonia: análise e baixo cifrado ](https://docs.google.com/document/d/16wQi3VdMPik19cjD8o7I1kbGVuaBLbJKLXEtd9L5LFE/edit?usp=sharing)
 1. [Acordes de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo cifrado](https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing)
@@ -126,9 +137,9 @@ src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXUo_H_eOe-XGDSBqeXVl3d3Af
 1. [Formas binárias, análise e composição](https://docs.google.com/document/d/1OZuF-dwjky0iKFLqNXPIhZzHoGSdO0tXCkUGqXbMQnE/edit?usp=sharing)
 1. [Análise de forma de pequena obra 1](https://docs.google.com/document/d/1i0jJNV7gvDj3RwT7OeOsv69QUcxs0CQE_ySMCKK_eZk/edit?usp=sharing)
 1. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
-1. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing)
+1. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing) -->
 
-##1. Material para Análise
+## 8. Material para Análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -136,102 +147,102 @@ O material para análise está inteiramente disponível no site do IMSLP
 (buscar informações a respeito no Google). Caso algum link esteja
 quebrado, buscar direto no IMSLP e informar o professor.
 
-###1. Lista completa
+### 8.1. Lista completa
 
-[Em construção, links para o IMSLP desatualizados]
+Lista em construção. Todas as partituras estão disponíveis no [IMSLP](https://imslp.org). Observar números e movimentos.
 
-1. J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b7/IMSLP03821-4PC_2.PDF)
-1. Beethoven, op. 7, mov. 2 (Largo, con gran espessione) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/04/IMSLP243111-PMLP01406-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B127_Op_7_scan.pdf)
-1. Beethoven, op. 13, mov. 2 (apenas primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ee/IMSLP243128-PMLP01410-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B131_Op_13_scan.pdf)
-1. Beethoven, op. 27 n. 2, mov. 2 (Allegretto) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/1/19/IMSLP51726-PMLP01458-Beethoven_Werke_Breitkopf_Serie_16_No_137_Op_27_No_2.pdf)
-1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP04755-Beethoven_-_String_Quartet_No.1_Dover.pdf)
-1. Beethoven op. 26, mov. 2 Trio  (p. 197 (9)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/4/4f/IMSLP243298-PMLP01454-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B135_Op_26_scan.pdf)
-1. Beethoven op. 26, mov. 3 (p 10 (198) e p 11 (199)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/4/4f/IMSLP243298-PMLP01454-Beethoven,_Ludwig_van-Werke_Breitkopf_Kalmus_Band_20_B135_Op_26_scan.pdf)
-1. Beethoven op. 57, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/01/IMSLP51795-PMLP01480-Beethoven_Werke_Breitkopf_Serie_16_No_146_Op_57.pdf) (até p. 13).
-1. Beethoven op. 67, mov. 3 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/0c/IMSLP52624-PMLP01586-Beethoven_Werke_Breitkopf_Serie_1_No_5_Op_67.pdf)
-1. Brahms, op. 49, n. 4 (Wiegenlied) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a0/IMSLP81910-PMLP22223-Brahms_Werke_Band_24_Breitkopf_JB_148_Op_49_filter.pdf)
-1. Clementi, op. 36, n. 1, mov. 1. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
-1. Clementi, op. 36, n. 1, mov. 2. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
-1. Clementi, op. 36, n. 1, mov. 3. [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b5/IMSLP29868-PMLP06617-Clementi_Op36_Schirmer.pdf)
-1. Diabelli, op. 151, n. 1, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b4/IMSLP175453-PMLP109562-ADiabelli_Le_Bouquetier,_Op.151_CGurlitt_ed.pdf)
-1. Diabelli, op. 151, n. 4, mov. 1 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/b/b4/IMSLP175453-PMLP109562-ADiabelli_Le_Bouquetier,_Op.151_CGurlitt_ed.pdf)
-1. Diabelli, op. 168, n. 1, mov. 2 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/5/58/IMSLP13262-Diabelli,_Anton_-_Sonatinas_(7),_Op.168_(pf).pdf)
-1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/05/IMSLP83742-PMLP04994-CFranck_Violin_Sonata.pdf)
-1. Haydn, Divertimento in C major, Hob. XVI_7 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/ee/IMSLP00110-Piano_Sonata_No_7_in_C.pdf)
-1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/2/2b/IMSLP00108-Piano_Sonata_No_5_in_A.pdf)
-1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII_27  [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/62/IMSLP455858-PMLP12302-Op17_comb.pdf)
-1. Mendelssohn, op. 72, n. 1 [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/63/IMSLP09377-Mendelssohn_-_Op.72_-_6_Pieces_for_Children.pdf)
-1. Mozart K284, mov. iii, Tema (p. 10 (54)) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/6/65/IMSLP56315-PMLP01839-Mozart_Werke_Breitkopf_Serie_20_KV284.pdf)
-1. Mozart K330, mov. ii (p. 111 (7)) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/f5/IMSLP56319-PMLP01845-Mozart_Werke_Breitkopf_Serie_20_KV330.pdf)
-1. Mozart K331, mov. i, Tema [IMSLP](http://hz.imslp.info/files/imglnks/usimg/f/fe/IMSLP56321-PMLP01846-Mozart_Werke_Breitkopf_Serie_20_KV331.pdf)
-1. Mozart K545, mov. i [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP56442-PMLP01855-Mozart_Werke_Breitkopf_Serie_20_KV545.pdf)
-1. Mozart K570, mov. ii (p. 6 do pdf) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/8/82/IMSLP00228-Mozart_-_Piano_Sonata,_K_570.pdf)
-1. Mozart K576, mov. ii [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/e/e8/IMSLP56445-PMLP01859-Mozart_Werke_Breitkopf_Serie_20_KV576.pdf)
-1. Mozart K597 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/8/8f/IMSLP63851-PMLP98627-Mozart_Werke_Breitkopf_Serie_07_KV597.pdf)
-1. Schubert, An den Mond. D 468 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a9/IMSLP13343-SchubertD468_An_den_Mond.pdf)
-1. Schubert, Sehnsucht D310B [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/c/c4/IMSLP14837-SchubertD310A_Sehnsucht.pdf)
-1. Schubert, op. 29, mov. 1 (apenas primeira página) [IMSLP](http://ks.imslp.net/files/imglnks/usimg/3/35/IMSLP04040-SchubertStringQuartetNo13.pdf)
-1. Schubert, op. 99, mov. 3 (apenas primeira página) [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/f/ff/IMSLP34581-PMLP10135-Trio.pdf) Confirmar
-1. Schumann, Álbum para Juventude op. 68, n. 2 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
-1. Schumann, Álbum para Juventude op. 68, n. 7 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
-1. Schumann, Álbum para Juventude op. 68, n. 8 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
-1. Schumann, Álbum para Juventude op. 68, n. 9 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
-1. Schumann, Álbum para Juventude op. 68, n. 17 [IMSLP](http://ks4.imslp.info/files/imglnks/usimg/a/a5/IMSLP92512-PMLP02707-Schumann_-_Album_f%C3%BCr_die_Jugend.pdf)
-1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit". [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/06/IMSLP51539-PMLP02799-RS53.pdf)
-1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei". [IMSLP](http://ks.imslp.net/files/imglnks/usimg/0/06/IMSLP51539-PMLP02799-RS53.pdf)
+1. Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben
+1. Beethoven, op. 7, mov. 2 (Largo, con gran espessione)
+1. Beethoven, op. 13, mov. 2 (apenas primeira página)
+1. Beethoven, op. 27 n. 2, mov. 2 (Allegretto)
+1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
+1. Beethoven op. 26, mov. 2 Trio  (p. 197 (9))
+1. Beethoven op. 26, mov. 3 (p 10 (198) e p 11 (199))
+1. Beethoven op. 57, mov. 1 (apenas primeira página).
+1. Beethoven op. 67, mov. 3 (apenas primeira página)
+1. Brahms, op. 49, n. 4 (Wiegenlied)
+1. Clementi, op. 36, n. 1, mov. 1.
+1. Clementi, op. 36, n. 1, mov. 2.
+1. Clementi, op. 36, n. 1, mov. 3.
+1. Diabelli, op. 151, n. 1, mov. 1
+1. Diabelli, op. 151, n. 4, mov. 1
+1. Diabelli, op. 168, n. 1, mov. 2
+1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
+1. Haydn, Divertimento in C major, Hob. XVI_7
+1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio)
+1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII_27 
+1. Mendelssohn, op. 72, n. 1
+1. Mozart K284, mov. iii, Tema (p. 10 (54))
+1. Mozart K330, mov. ii (p. 111 (7))
+1. Mozart K331, mov. i, Tema
+1. Mozart K545, mov. i
+1. Mozart K570, mov. ii (p. 6 do pdf)
+1. Mozart K576, mov. ii
+1. Mozart K597
+1. Schubert, An den Mond. D 468
+1. Schubert, Sehnsucht D310B
+1. Schubert, op. 29, mov. 1 (apenas primeira página)
+1. Schubert, op. 99, mov. 3 (apenas primeira página) Confirmar
+1. Schumann, Álbum para Juventude op. 68, n. 2
+1. Schumann, Álbum para Juventude op. 68, n. 7
+1. Schumann, Álbum para Juventude op. 68, n. 8
+1. Schumann, Álbum para Juventude op. 68, n. 9
+1. Schumann, Álbum para Juventude op. 68, n. 17
+1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit".
+1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei".
 
-###1. Lista organizada por conteúdo
+### 8.2. Lista organizada por conteúdo
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser
 levados impressos para a aula. Essa lista poderá sofrer ajustes ao
 longo do semestre.
 
-####1. Revisão de frases, períodos, tonicalização e modulação
+#### 8.2.1. Revisão de frases, períodos, tonicalização e modulação
 
-Aula 1, dia 03/03/2020
+Aula 1
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
 - Clementi, op. 36, n. 1, mov. 1
 
-####1. Empréstimo modal
+#### 8.2.2. Empréstimo modal
 
-Aulas 2 e 3, dias 05 e 10/03/2020
+Aulas 2 e 3
 
 - Schubert, Sehnsucht D310B
 - Exemplos do capítulo de empréstimo modal de RG (ver links). Esses
   exemplos poderão ser vistos no celular.
 
-####1. Acordes de nona, alterados, etc.
+#### 8.2.3. Acordes de nona, alterados, etc.
 
-Aulas 5 e 6, dias 17 e 19/03/2020
+Aulas 5 e 6
 
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
-####1. Prática - harmonia cromática
+#### 8.2.4. Prática - harmonia cromática
 
-Aulas 7 e 8, dias 24 e 26/03/2020
+Aulas 7 e 8
 
 Obras não finalizadas em aulas anteriores
 
-####1. Conceitos de forma e características gerais das frases
+#### 8.2.5. Conceitos de forma e características gerais das frases
 
-Aula 10, dia 02/04/2020
+Aula 10, dia
 
 - Clementi, op. 36, n. 1, mov. 1
 
-####1. Estrutura harmônica da frase
+#### 8.2.6. Estrutura harmônica da frase
 
-Aula 11, dia 07/04/2020
+Aula 11
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
 - Schumann op. 68, n. 9
 
-####1. Estrutura melódica da frase
+#### 8.2.7. Estrutura melódica da frase
 
-Aulas 12 e 13, dias 14 e 16/04/2020
+Aulas 12 e 13
 
 - Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 - Clementi, op. 36, n. 1, mov. 1
@@ -239,9 +250,9 @@ Aulas 12 e 13, dias 14 e 16/04/2020
 - Schumann op. 68, n. 7
 - Schumann op. 68, n. 9
 
-####1. Desenvolvimento de frase
+#### 8.2.8. Desenvolvimento de frase
 
-Aula 17, dia 05/05/2020
+Aula 14
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
@@ -249,9 +260,9 @@ Aula 17, dia 05/05/2020
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, op. 99, mov. 3 (apenas primeira página)
 
-####1. Combinação de frases, detalhamento de períodos
+#### 8.2.9. Combinação de frases, detalhamento de períodos
 
-Aula 18, dia 07/05/2020
+Aulas 15 e 16
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -259,9 +270,9 @@ Aula 18, dia 07/05/2020
 - Mozart K330, mov. 2 (p 111 (7))
 - Mozart K570, mov. ii (p 6 do pdf)
 
-####1. Pequenas formas: partes, desenho e movimento harmônico
+#### 8.2.10. Pequenas formas: partes, desenho e movimento harmônico
 
-Aulas 20 e 21, dias 14 e 19/05/2019
+Aulas 20 e 21
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -271,9 +282,9 @@ Aulas 20 e 21, dias 14 e 19/05/2019
 
 (composições já usadas no semestre)
 
-####1. Formas binárias: contínuas e secionais
+#### 8.2.11. Formas binárias: contínuas e secionais
 
-Aulas 22 e 23, dias 21 e 26/05/2020
+Aulas 22 e 23
 
 - J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
   Sterben.
@@ -284,7 +295,8 @@ Aulas 22 e 23, dias 21 e 26/05/2020
 - Mozart K570, mov. ii (p 6 do pdf)
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-<!-- ###1. Análise e composição de pequenas formas
+<!-- Dont reveal -->
+<!-- ### Análise e composição de pequenas formas
 
 Aula 23, dia 28/05/2019
 
@@ -292,17 +304,17 @@ Aula 23, dia 28/05/2019
 - Diabelli, op. 168, n. 1, mov. 2
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit" -->
 
-####1. Formas ternárias: contínuas e secionais
+#### 8.2.12. Formas ternárias: contínuas e secionais
 
-Aula 24, dia 28/05/2020
+Aula 24
 
 [adicionar exemplo secional]
 
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-####1. Análise de pequenas formas
+#### 8.2.13. Análise de pequenas formas
 
-Aulas 25 e 26, dias 02 e 04/06/2020
+Aulas 25 e 26
 
 - Beethoven op. 26, mov. 3  (p 10 (198) e p 11 (199))
 - Brahms, op. 49, n. 4 (Wiegenlied)
@@ -313,29 +325,20 @@ Aulas 25 e 26, dias 02 e 04/06/2020
 - Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
 - Schumann op. 68, n. 9
 
-##1. Notas e frequência
+## 9. Notas
 
-Em construção
+[Em construção]
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubhtml?gid=1273769576&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="400"></iframe>
+| Matrícula | P1  | P2  | P3  | Média | Resultado |
+| --------- | --- | --- | --- | ----- | --------- |
+| ...       |     |     |     |       |           |
+{: .table .table-sm}
 
-###1. Distribuição das notas
-
-O gráfico abaixo apresenta a distribuição da média final da turma. O
-eixo X contém faixas de notas (entre 0 e 1, 1 e 2, etc.) e o eixo Y
-contém o número de alunos com média final dentro das faixas.
-
-<!-- <iframe
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRa5RtO00aF1zc8aWtV1fQDBGDiSZ7YtFBFIXFXAgXF7HBaT4ocYU6ihVNPhIyD1_05UUQCjEU8X2oM/pubchart?oid=641992382&amp;format=interactive"
-width="600" height="371" frameborder="0" scrolling="no" seamless=""></iframe> -->
-
-##1. Bibliografia
+## 10. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice
 Leading_. 3rded. Thomson Schirmer.
-1. D’Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris:
+1. D'Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris:
 Durand.
 1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.  New
  York, NY: W.W. Norton and Company.
@@ -366,9 +369,8 @@ Schirmer.
 1. "Musictheory.net." 2000. http://musictheory.net.
 1. "Resposta Tonal." 2015. https://respostatonal.com.
 
-##1. Links
+## 11. Links
 
- - [Posts sobre tópicos de Teoria Musical](https://marcos.sampaio.me/post/)
  - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
  - [EK11](https://www.dropbox.com/s/j9krkhmz3hced95/ek11.pdf?dl=0)
  - [EK12](https://www.dropbox.com/s/1a23gik9a6ue3a1/ek12.pdf?dl=0)
@@ -386,13 +388,13 @@ Schirmer.
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-##1. Aulas em vídeo
+## 12. Aulas em vídeo
 
 Playlist do Youtube com resoluções de baixos e cantos dados.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-##1. Comunicação com o professor
+## 13. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o
 email, em horário comercial. Assuntos acadêmicos não são tratados por

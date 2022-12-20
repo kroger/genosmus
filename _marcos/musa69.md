@@ -49,8 +49,7 @@ música.
 
 ## 6. Avaliação
 
-No semestre 2020.1, a avaliação nesta disciplina será realizada mediante 3
-provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
+A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
 ### 6.1. Nota
 
@@ -79,41 +78,42 @@ disciplina.
 O conteúdo e dias das aulas do cronograma poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data | Dia  | Conteúdo                                           |
-| ---: | :--- | :--- | :------------------------------------------------- |
-|      |      |      | **Reservado para semana inaugural**                |
-|    1 |      |      | Apresentação e revisão (intervalos e acordes)      |
-|    2 |      |      | Escrita a quatro vozes e campo harmônico           |
-|    3 |      |      | Tríades a quatro vozes e cifras (pos. fund.)       |
-|    4 |      |      | Encadeamentos de tríades (pos. fund.)              |
-|    5 |      |      | Tríades a quatro vozes e cifras (1a inversão)      |
-|    6 |      |      | Encadeamentos de tríades (pos. fund e invertidas)  |
-|    7 |      |      | Ciclo de quintas, sucessões, progressões, bx. dado |
-|    8 |      |      | Baixo dado                                         |
-|    9 |      |      | Prática de canto dado                              |
-|   10 |      |      | Prova I                                            |
-|      |      |      | **Feriado: previsão**                              |
-|   11 |      |      | Tríades a quatro vozes e cifras (2a. inversão)     |
-|   12 |      |      | Encadeamentos de tríades (todas)                   |
-|   13 |      |      | Harmonização de canto dado, colcheias              |
-|   14 |      |      | Notas melódicas - passagem e bordadura             |
-|   15 |      |      | Prática de composição, harmonização e análise      |
-|   16 |      |      | Dominante secundária                               |
-|   17 |      |      | Notas melódicas - ritardo, suspensão               |
-|   18 |      |      | Prática de composição, harmonização e análise      |
-|   19 |      |      | Prova II                                           |
-|   20 |      |      | Acordes de sétima da dominante                     |
-|   21 |      |      | Notas melódicas - apojatura e escapada             |
-|   22 |      |      | Prática de composição, harmonização e análise      |
-|   23 |      |      | Prática de composição, harmonização e análise      |
-|   24 |      |      | Acordes de sétima da dominante (inversão 1)        |
-|   25 |      |      | Prática de composição, harmonização e análise      |
-|   26 |      |      | Prática de composição, harmonização e análise      |
-|   27 |      |      | Prova III                                          |
-|      |      |      | **Feriado: previsão**                              |
-|      |      |      | **Reservado correção de provas (sem aula)**        |
-|   28 |      |      | Segunda chamada                                    |
-|   29 |      |      | Entrega de resultados                              |
+| Aula | Data       | Dia  | Conteúdo                                           |
+| ---: | :--------- | :--- | :------------------------------------------------- |
+|      | 07-03-2023 | Ter  | **Reservado para semana inaugural**                |
+|    1 | 09-03-2023 | Qui  | Apresentação e revisão (intervalos e acordes)      |
+|    2 | 14-03-2023 | Ter  | Escrita a quatro vozes e campo harmônico           |
+|    3 | 16-03-2023 | Qui  | Tríades a quatro vozes e cifras (pos. fund.)       |
+|    4 | 21-03-2023 | Ter  | Encadeamentos de tríades (pos. fund.)              |
+|    5 | 23-03-2023 | Qui  | Tríades a quatro vozes e cifras (1a inversão)      |
+|    6 | 28-03-2023 | Ter  | Encadeamentos de tríades (pos. fund e invertidas)  |
+|    7 | 30-03-2023 | Qui  | Ciclo de quintas, sucessões, progressões, bx. dado |
+|    8 | 04-04-2023 | Ter  | Baixo dado                                         |
+|      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                          |
+|    9 | 11-04-2023 | Ter  | Prova I                                            |
+|   10 | 13-04-2023 | Qui  | Tríades a quatro vozes e cifras (2a. inversão)     |
+|   11 | 18-04-2023 | Ter  | Encadeamentos de tríades (todas)                   |
+|   12 | 20-04-2023 | Qui  | Harmonização de canto dado, colcheias              |
+|   13 | 25-04-2023 | Ter  | Notas melódicas - passagem e bordadura             |
+|   14 | 27-04-2023 | Qui  | Prática de composição, harmonização e análise      |
+|   15 | 02-05-2023 | Ter  | Dominante secundária                               |
+|   16 | 04-05-2023 | Qui  | Notas melódicas - ritardo, suspensão               |
+|   17 | 09-05-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   18 | 11-05-2023 | Qui  | Prática de composição, harmonização e análise      |
+|   19 | 16-05-2023 | Ter  | Prova II                                           |
+|   20 | 18-05-2023 | Qui  | Acordes de sétima da dominante                     |
+|   21 | 23-05-2023 | Ter  | Notas melódicas - apojatura e escapada             |
+|   22 | 25-05-2023 | Qui  | Prática de composição, harmonização e análise      |
+|   23 | 30-05-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   24 | 01-06-2023 | Qui  | Acordes de sétima da dominante (inversão 1)        |
+|   25 | 06-06-2023 | Ter  | Prática de composição, harmonização e análise      |
+|      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                        |
+|   26 | 13-06-2023 | Ter  | Prática de composição, harmonização e análise      |
+|      | 15-06-2023 | Qui  | **Ausência do professor**                          |
+|   27 | 20-06-2023 | Ter  | Prova III                                          |
+|      | 22-06-2023 | Qui  | **Reservado correção de provas (sem aula)**        |
+|   28 | 27-06-2023 | Ter  | Segunda chamada                                    |
+|   29 | 29-06-2023 | Qui  | Entrega de resultados                              |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
@@ -162,9 +162,15 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 [Em construção]
 
+| Matrícula | P1  | P2  | P3  | Média | Resultado |
+| --------- | --- | --- | --- | ----- | --------- |
+| ...       |     |     |     |       |           |
+{: .table .table-sm}
+
 ## 10. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice Leading_. 3rded. Thomson Schirmer.
+1. Bordini, Ricardo Mazzini. 2020. Curso de Teoria e Percepção Musical. Disponível em [http://musica.ufma.br/bordini/ext/unidades/unidades.html](http://musica.ufma.br/bordini/ext/unidades/unidades.html). Acessado em 16/12/2022.
 1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.
  New York, NY: W.W. Norton and Company.
 1. Grove, George, and Stanley Sadie. 1980. _The New Grove Dictionary of Music and Musicians_. Edited by Stanley Sadie. 2nded. London, Washington: Macmillan Publishers.

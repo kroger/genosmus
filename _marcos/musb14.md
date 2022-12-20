@@ -21,7 +21,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 1. Utilizar variados princípios de organização de alturas na Composição Musical.
 2. Compor em formato de miniatura
 3. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
-4. Compor para banda sinfônica
+4. Compor para orquestra sinfônica
 
 ## 3. Conteúdo programático
 
@@ -46,9 +46,9 @@ Os conteúdos serão apresentados a partir do estudo do repertório e a sua comp
 ## 5. Ambientes virtuais utilizados
 
 - Moodle (AVA) UFBA
-- Google Meet Institucional
+- Página Genos
 
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (fóruns, diário e chat do sistema).
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (via fóruns e chat do sistema).
 
 ## 6. Avaliação
 
@@ -57,7 +57,7 @@ A avaliação será realizada mediante os seguintes trabalhos:
 1. Composição de 3 miniaturas para formações diversas, cada uma
 relacionada com um princípio composicional previamente definido.
 1. Composição de 3 exercícios básicos, para treinamento dos conteúdos estudados.
-1. Composição de uma obra de duração de 3 a 4 minutos para banda filarmônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso.
+1. Composição de uma obra de duração de 3 a 4 minutos para orquestra sinfônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso.
 1. Relatório sobre a composição final com a demonstração da aplicação dos princípios de alturas abordados no curso.
 1. 5 Relatórios demonstrando o progresso semanal na realização do trabalho final.
 
@@ -83,9 +83,10 @@ composição final, e _r_, a nota do relatório sobre a composição final.
 Os trabalhos serão aceitos apenas se forem entregues:
 
 1. em versão elaborada em software de editoração de partitura (ou similar)
-1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
+1. no prazo definido nesta página
+1. via postagem no fórum do ambiente virtual de aprendizagem (AVA/Moodle)
 
-Nenhum trabalho poderá ser entregue por email ou outra via que não o Moodle.
+Nenhum trabalho poderá ser entregue por email ou outra via que não o fórum do Moodle.
 
 ### 6.2. Critérios de avaliação
 
@@ -130,23 +131,7 @@ O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projeto
 
 ## 7. Assiduidade e pontualidade
 
-Na modalidade remota, a frequência será verificada a partir da entrega dos trabalhos.
-
-<!-- Assiduidade e pontualidade são de fundamental importância neste curso
-e serão rigorosamente observadas.
-
-A carga horária da disciplina é de 51 horas semestrais. De acordo com
-o [Regulamento de Ensino de
-Graduação](https://www.ufba.br/sites/devportal.ufba.br/files/REGPG%20Completo%20%2817-12-2014%29.pdf),
-o aluno que não cumprir frequência mínima de 75% nas aulas será
-considerado reprovado (artigo 112). Dessa forma o número máximo de
-faltas nesta disciplina é de 12 horas-aula (ou 4 dias de aula).
-
-Cada dia de aula tem 3 horas-aula conectadas de 50 minutos. Um atraso
-de mais de 15 minutos será considerado como falta para a primeira
-aula. Uma saída com mais de 15 minutos antes do final da aula será
-considerada como falta na última aula. Dessa forma atrasos poderão
-implicar em reprovação. -->
+A carga horária da disciplina é de 45 horas semestrais. De acordo com o [Regulamento de Ensino de Graduação](https://www.ufba.br/sites/devportal.ufba.br/files/REGPG%20Completo%20%2817-12-2014%29.pdf), o aluno que não cumprir frequência mínima de 75% nas aulas será considerado reprovado (artigo 112). Dessa forma o número máximo de faltas nesta disciplina é de 11 horas-aula (ou 3 dias de aula).
 
 ## 8. Cronograma
 
@@ -155,24 +140,24 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia | Tópico                                                   |
 | ---- | ---------- | --- | -------------------------------------------------------- |
-| 1    | 09-03-2022 | Qua | Apresentação, Politonalidade                             |
-| 2    | 16-03-2022 | Qua | Politonalidade - dimensão horizontal. Exercício básico 1 |
-| 3    | 23-03-2022 | Qua | Politonalidade - dimensão horizontal. Miniatura 1        |
-| 4    | 30-03-2022 | Qua | Policordes - dimensão vertical. Exercício básico 2       |
-| 5    | 06-04-2022 | Qua | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 13-04-2022 | Qua | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 20-04-2022 | Qua | Politonalidade e policordes. Miniatura 3                 |
-| 8    | 27-04-2022 | Qua | Pós-tonalismo, serialismo e indeterminação.              |
-| 9    | 04-05-2022 | Qua | Consulta composição final 1                              |
-| 10   | 11-05-2022 | Qua | Consulta composição final 2                              |
-| 11   | 18-05-2022 | Qua | Consulta composição final 3                              |
-| 12   | 25-05-2022 | Qua | Consulta composição final 4                              |
-| 13   | 01-06-2022 | Qua | Consulta composição final 5                              |
-| 14   | 08-06-2022 | Qua | Consulta composição final 6                              |
-|      | 15-06-2022 | Qua | **Ausência do professor**                                |
-| 15   | 22-06-2022 | Qua | Entrega da composição final e relatório                  |
-| 16   | 29-06-2022 | Qua | Entrega de resultados                                    |
-| 17   | 06-07-2022 | Qua | Reservado para reposição                                 |
+| 1    | 09-03-2023 | Qui | Apresentação, Politonalidade                             |
+| 2    | 16-03-2023 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
+| 3    | 23-03-2023 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
+| 4    | 30-03-2023 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
+|      | 06-04-2023 | Qui | **Feriado: Semana Santa**                                |
+| 5    | 13-04-2023 | Qui | Policordes - dimensão vertical. Miniatura 2              |
+| 6    | 20-04-2023 | Qui | Politonalidade e policordes. Exercício básico 3          |
+| 7    | 27-04-2023 | Qui | Politonalidade e policordes. Miniatura 3                 |
+| 8    | 04-05-2023 | Qui | Pós-tonalismo, serialismo e indeterminação.              |
+| 9    | 11-05-2023 | Qui | Consulta composição final 1                              |
+| 10   | 18-05-2023 | Qui | Consulta composição final 2                              |
+| 11   | 25-05-2023 | Qui | Consulta composição final 3                              |
+| 12   | 01-06-2023 | Qui | Consulta composição final 4                              |
+|      | 08-06-2023 | Qui | **Feriado: Corpus Christi**                              |
+|      | 15-06-2023 | Qui | **Ausência do professor**                                |
+| 13   | 22-06-2023 | Qui | Entrega da composição final e relatório                  |
+| 14   | 29-06-2023 | Qui | Entrega de resultados                                    |
+| 15   | 06-07-2023 | Qui | Reservado para reposição                                 |
 {: .table .table-sm}
 
 ## 9. Trabalhos
@@ -207,12 +192,15 @@ Pequenos exercícios solicitados pelo professor. Duração curta e, geralmente, 
 
 #### 9.3.1. Instruções
 
-- Formação: Banda sinfônica
+- Formação: Orquestra sinfônica
 - Duração: 3 a 4 minutos
 - Composição final - ver data de entrega no cronograma
 
 #### 9.3.2. Instrumentação
 
+A definir
+
+<!-- Banda
 - Flautim
 - 2 flautas
 - 3 clarinetes (1 requinta)
@@ -223,7 +211,7 @@ Pequenos exercícios solicitados pelo professor. Duração curta e, geralmente, 
 - 3 Trombones
 - Tuba
 - Bombardino (em Dó)
-- 2 Percussionistas (bombo, caixa e prato)
+- 2 Percussionistas (bombo, caixa e prato) -->
 
 ### 9.4. Relatório
 O relatório deverá demonstrar como a técnica para alturas escolhida está em uso na composição final. Deve conter exemplos musicais e duas a cinco páginas de extensão. Formatação de artigo (modelo a definir).
@@ -340,7 +328,17 @@ analisada em conjunto durante as aulas:
 
 ## 11. Notas
 
-As notas ficam disponíveis no AVA/Moodle.
+[Em construção]
+
+| Matrícula | M1  | M2  | M3  | C   | Média | Resultado |
+| --------- | --- | --- | --- | --- | ----- | --------- |
+| ...       |     |     |     |     |       |           |
+{: .table .table-sm}
+
+Legenda:
+
+- M1 a M3: Miniaturas 1 a 3
+- C: Composição final
 
 ## 12. Bibliografia
 
