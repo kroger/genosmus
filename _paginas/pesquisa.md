@@ -51,34 +51,42 @@ Journal rank: [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 ### Nacionais
 
+Quadriênio 2017 -- 2020 (https://sucupira.capes.gov.br/)
+
 #### Qualis A1
 
-1. Per Musi (UFMG): [https://periodicos.ufmg.br/index.php/permusi/](https://periodicos.ufmg.br/index.php/permusi/)
-1. Revista Orfeu (UDESC): [http://revistas.udesc.br/index.php/orfeu/](http://revistas.udesc.br/index.php/orfeu/)
-1. Revista OPUS (ANPPOM): [http://www.anppom.com.br/revista/index.php/opus/](http://www.anppom.com.br/revista/index.php/opus/)
-1. Revista Música Hodie (UFG): [https://www.revistas.ufg.br/musica/](https://www.revistas.ufg.br/musica/)
+1. Revista Vórtex (EMBAP): [http://vortex.unespar.edu.br/](http://vortex.unespar.edu.br/)
+1. Revista da ABEM (ABEM): [http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/](http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/)
+1. Revista da FUNDARTE (FUNDARTE) [http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index](http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index)
+1. ART Research Journal [https://periodicos.ufrn.br/artresearchjournal/](https://periodicos.ufrn.br/artresearchjournal/)
 
 #### Qualis A2
 
-1. Revista Vórtex (EMBAP): [http://vortex.unespar.edu.br/](http://vortex.unespar.edu.br/)
 1. Revista Musica Theorica (TeMA): [http://revistamusicatheorica.tema.mus.br/](http://revistamusicatheorica.tema.mus.br/)
-1. Revista da ABEM (ABEM): [http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/](http://www.abemeducacaomusical.com.br/revistas/revistaabem/index.php/revistaabem/)
-1. Revista da FUNDARTE (FUNDARTE) [http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index](http://seer.fundarte.rs.gov.br/index.php/RevistadaFundarte/index)
+1. Revista Música (USP) [https://www.revistas.usp.br/revistamusica/](https://www.revistas.usp.br/revistamusica/)
 
 #### Qualis A3
 
-1. ART Research Journal [https://periodicos.ufrn.br/artresearchjournal/](https://periodicos.ufrn.br/artresearchjournal/)
+1. Revista Brasileira de Música (UFRJ) [https://revistas.ufrj.br/index.php/rbm/](https://revistas.ufrj.br/index.php/rbm/)
+1. Revista Orfeu (UDESC): [http://revistas.udesc.br/index.php/orfeu/](http://revistas.udesc.br/index.php/orfeu/)
+1. Percepta (Associação Brasileira de Cognição Musical) [https://www.abcogmus.org/journals/index.php/percepta/](https://www.abcogmus.org/journals/index.php/percepta/)
+1. Debates (Unirio) [http://www.seer.unirio.br/index.php/revistadebates/](http://www.seer.unirio.br/index.php/revistadebates/)
 
 #### Qualis A4
 
-1. Revista MusMat (Música e Matemática) [https://musmat.org/musmat-journal/](https://musmat.org/musmat-journal/)
+1. Revista Música Hodie (UFG): [https://www.revistas.ufg.br/musica/](https://www.revistas.ufg.br/musica/)
+1. Revista OPUS (ANPPOM): [http://www.anppom.com.br/revista/index.php/opus/](http://www.anppom.com.br/revista/index.php/opus/)
 
 #### Qualis B1
 
-1. Revista Brasileira de Música (UFRJ) [https://revistas.ufrj.br/index.php/rbm/](https://revistas.ufrj.br/index.php/rbm/)
-1. Revista Música (USP) [https://www.revistas.usp.br/revistamusica/](https://www.revistas.usp.br/revistamusica/)
+1. Per Musi (UFMG): [https://periodicos.ufmg.br/index.php/permusi/](https://periodicos.ufmg.br/index.php/permusi/)
 
 #### Qualis B2
 
-1. Percepta (Associação Brasileira de Cognição Musical) [https://www.abcogmus.org/journals/index.php/percepta/](https://www.abcogmus.org/journals/index.php/percepta/)
-1. Debates (Unirio) [http://www.seer.unirio.br/index.php/revistadebates/](http://www.seer.unirio.br/index.php/revistadebates/)
+#### Qualis B3
+
+1. Revista MusMat (Música e Matemática) [https://musmat.org/musmat-journal/](https://musmat.org/musmat-journal/)
+
+#### Qualis B4
+
+1. Ictus (UFBA) [https://periodicos.ufba.br/index.php/ictus](https://periodicos.ufba.br/index.php/ictus)
