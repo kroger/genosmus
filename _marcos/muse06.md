@@ -227,7 +227,12 @@ Obs: Formação instrumental e sistema de altura livres.
 
 1. Flávio Lima
 1. Daniel Moreira
+   1. Skyline
+   1. [Sagração de um Fauno na Primavera](https://www.youtube.com/watch?v=yaaXd2jnKMM)
 1. Marcos Sampaio
+   1. Genética, op. 8
+   1. Difusa, op. 13
+   1. Em torno da romã, op. 6
 
 ## 10. Recursos disponíveis
 
