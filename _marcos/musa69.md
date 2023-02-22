@@ -164,7 +164,25 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 | Matrícula | P1  | P2  | P3  | Média | Resultado |
 | --------- | --- | --- | --- | ----- | --------- |
-| ...       |     |     |     |       |           |
+| 219122262 |     |     |     |       |           |
+| 220119188 |     |     |     |       |           |
+| 220121573 |     |     |     |       |           |
+| 221120494 |     |     |     |       |           |
+| 221120497 |     |     |     |       |           |
+| 221120499 |     |     |     |       |           |
+| 221120500 |     |     |     |       |           |
+| 221120501 |     |     |     |       |           |
+| 221120505 |     |     |     |       |           |
+| 221120506 |     |     |     |       |           |
+| 221120508 |     |     |     |       |           |
+| 221120509 |     |     |     |       |           |
+| 221120510 |     |     |     |       |           |
+| 222118661 |     |     |     |       |           |
+| 222118665 |     |     |     |       |           |
+| 222118666 |     |     |     |       |           |
+| 222118671 |     |     |     |       |           |
+| 222118674 |     |     |     |       |           |
+| 222118676 |     |     |     |       |           |
 {: .table .table-sm}
 
 ## 10. Bibliografia
@@ -207,7 +225,7 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ## 13. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o email, em horário comercial. Assuntos acadêmicos não são tratados por telefone ou mensagens em nenhuma hipótese.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente por email ou fórum Moodle.
 
 <hr>
 

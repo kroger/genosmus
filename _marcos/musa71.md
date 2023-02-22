@@ -331,7 +331,21 @@ Aulas 25 e 26
 
 | Matrícula | P1  | P2  | P3  | Média | Resultado |
 | --------- | --- | --- | --- | ----- | --------- |
-| ...       |     |     |     |       |           |
+| 216122278 |     |     |     |       |           |
+| 218124889 |     |     |     |       |           |
+| 218124910 |     |     |     |       |           |
+| 218126407 |     |     |     |       |           |
+| 219122270 |     |     |     |       |           |
+| 219123309 |     |     |     |       |           |
+| 219216972 |     |     |     |       |           |
+| 219217805 |     |     |     |       |           |
+| 219217873 |     |     |     |       |           |
+| 220118954 |     |     |     |       |           |
+| 220119159 |     |     |     |       |           |
+| 220119166 |     |     |     |       |           |
+| 220119192 |     |     |     |       |           |
+| 222118648 |     |     |     |       |           |
+| 222118649 |     |     |     |       |           |
 {: .table .table-sm}
 
 ## 10. Bibliografia
@@ -396,9 +410,7 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ## 13. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o
-email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente por email ou fórum Moodle.
 
 <hr>
 
