@@ -87,57 +87,58 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia  | Conteúdo                                                  |
 | ---: | :--------- | :--- | :-------------------------------------------------------- |
-|      | 07-03-2023 | Ter  | **Reservado para semana inaugural**                       |
-|    1 | 09-03-2023 | Qui  | Revisão de tonicização e modulação                        |
-|    2 | 14-03-2023 | Ter  | Mistura de modos                                          |
-|    3 | 16-03-2023 | Qui  | Mistura de modos                                          |
-|    4 | 21-03-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
-|    5 | 23-03-2023 | Qui  | Acordes de nona                                           |
-|    6 | 28-03-2023 | Ter  | Acordes alterados e substituições                         |
-|    7 | 30-03-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
-|    8 | 04-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
+|      | 14-03-2023 | Ter  | **Reservado para semana inaugural**                       |
+|      | 16-03-2023 | Qui  | **Congresso UFBA**                                        |
+|    1 | 21-03-2023 | Ter  | Revisão de tonicização e modulação                        |
+|    2 | 23-03-2023 | Qui  | Mistura de modos                                          |
+|    3 | 28-03-2023 | Ter  | Mistura de modos                                          |
+|    4 | 30-03-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
+|    5 | 04-04-2023 | Ter  | Acordes de nona                                           |
 |      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                                 |
-|    9 | 11-04-2023 | Ter  | Prova I                                                   |
-|   10 | 13-04-2023 | Qui  | Conceitos de forma e características gerais das frases    |
-|   11 | 18-04-2023 | Ter  | Estrutura harmônica da frase                              |
-|   12 | 20-04-2023 | Qui  | Estrutura melódica da frase                               |
-|   13 | 25-04-2023 | Ter  | Prática de harmonização, composição e análise             |
-|   14 | 27-04-2023 | Qui  | Desenvolvimento de frases                                 |
-|   15 | 02-05-2023 | Ter  | Combinação de frases 1 - períodos                         |
-|   16 | 04-05-2023 | Qui  | Combinação de frases 2 - detalhamento de períodos         |
-|   17 | 09-05-2023 | Ter  | Prática de harmonização, composição e análise             |
-|   18 | 11-05-2023 | Qui  | Prática de harmonização, composição e análise             |
-|   19 | 16-05-2023 | Ter  | Prova II                                                  |
-|   20 | 18-05-2023 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
-|   21 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise de períodos |
-|   22 | 25-05-2023 | Qui  | Pequenas formas: binária contínua e secional              |
-|   23 | 30-05-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
-|   24 | 01-06-2023 | Qui  | Pequenas formas: ternária contínua e secional             |
-|   25 | 06-06-2023 | Ter  | Formas compostas e Pequenas obras                         |
+|    6 | 11-04-2023 | Ter  | Acordes alterados e substituições                         |
+|    7 | 13-04-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
+|    8 | 18-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
+|    9 | 20-04-2023 | Qui  | Prova I                                                   |
+|   10 | 25-04-2023 | Ter  | Conceitos de forma e características gerais das frases    |
+|   11 | 27-04-2023 | Qui  | Estrutura harmônica da frase                              |
+|   12 | 02-05-2023 | Ter  | Estrutura melódica da frase                               |
+|   13 | 04-05-2023 | Qui  | Prática de harmonização, composição e análise             |
+|   14 | 09-05-2023 | Ter  | Desenvolvimento de frases                                 |
+|   15 | 11-05-2023 | Qui  | Combinação de frases 1 - períodos                         |
+|   16 | 16-05-2023 | Ter  | Combinação de frases 2 - detalhamento de períodos         |
+|   17 | 18-05-2023 | Qui  | Prática de harmonização, composição e análise             |
+|   18 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise             |
+|   19 | 25-05-2023 | Qui  | Prova II                                                  |
+|   20 | 30-05-2023 | Ter  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
+|   21 | 01-06-2023 | Qui  | Prática de harmonização, composição e análise de períodos |
+|   22 | 06-06-2023 | Ter  | Pequenas formas: binária contínua e secional              |
 |      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                               |
-|   26 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
+|   23 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
 |      | 15-06-2023 | Qui  | **Ausência do professor**                                 |
-|   27 | 20-06-2023 | Ter  | Prova III                                                 |
-|      | 22-06-2023 | Qui  | **Reservado correção de provas (sem aula)**               |
-|   28 | 27-06-2023 | Ter  | Segunda chamada                                           |
-|   29 | 29-06-2023 | Qui  | Entrega de resultados                                     |
+|   24 | 20-06-2023 | Ter  | Pequenas formas: ternária contínua e secional             |
+|   25 | 22-06-2023 | Qui  | Formas compostas e Pequenas obras                         |
+|   26 | 27-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
+|   27 | 29-06-2023 | Qui  | Prova III                                                 |
+|      | 04-07-2023 | Ter  | **Reservado correção de provas (sem aula)**               |
+|   28 | 06-07-2023 | Qui  | Segunda chamada                                           |
+|   29 | 11-07-2023 | Ter  | Entrega de resultados                                     |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
 
 1. [Revisão de modulação e harmonia: análise e baixo cifrado ](https://docs.google.com/document/d/16wQi3VdMPik19cjD8o7I1kbGVuaBLbJKLXEtd9L5LFE/edit?usp=sharing)
-1. [Acordes de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo cifrado](https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing)
-1. [Harmonia cromática: análise e baixo cifrado](https://docs.google.com/document/d/1Q8k8cZNq1p3Rw7KLTlHyTnxa-JqTtAdoC4iLn4WJEAI/edit?usp=sharing)
-1. [Conceitos, análise e composição](https://docs.google.com/document/d/1-qZ5mTsZFjE3kuDpbPz8uOWmJY-BwyWF-paf4PgaMhQ/edit?usp=sharing)
-1. [Cadência, análise e composição](https://docs.google.com/document/d/1zfaPrFk0wCPUR8DxRZDs_4ckS2_Qon9j8FNiw4RKkUo/edit?usp=sharing)
-1. [Agrupamento de frases, análise e composição](https://docs.google.com/document/d/1q2eSv8uZJraSAZjYP9kpiRiPW9qcIofgw9hg62x8yV4/edit?usp=sharing)
-1. [Combinação de frases, análise e composição](https://docs.google.com/document/d/1AVi1EXCgaeH1xJLmkj1tW4tLtWxWkeE9FUcFNSem6I0/edit?usp=sharing)
-1. [Combinação e desenvolvimento de frases, análise e composição](https://docs.google.com/document/d/1TQf4BJ1Sr7lwqyRD3mbLDvTnMK_-onB9JdrljLAX6ws/edit?usp=sharing)
-1. [Pequenas formas, análise e composição](https://docs.google.com/document/d/1yiPWGOkqqae30gBDgVma729B9j-P3IuUi0dd2ZO-Vrw/edit?usp=sharing)
-1. [Formas binárias, análise e composição](https://docs.google.com/document/d/1OZuF-dwjky0iKFLqNXPIhZzHoGSdO0tXCkUGqXbMQnE/edit?usp=sharing)
-1. [Análise de forma de pequena obra 1](https://docs.google.com/document/d/1i0jJNV7gvDj3RwT7OeOsv69QUcxs0CQE_ySMCKK_eZk/edit?usp=sharing)
-1. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
-1. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing) -->
+2. [Acordes de 9a, 11a, 13a, empr. modal e acorde aum.: harmonização e baixo cifrado](https://docs.google.com/document/d/1CuBz_3yI56fcwZP2tJ_rHp_wR4L0hcXIYHrXkim7dyo/edit?usp=sharing)
+3. [Harmonia cromática: análise e baixo cifrado](https://docs.google.com/document/d/1Q8k8cZNq1p3Rw7KLTlHyTnxa-JqTtAdoC4iLn4WJEAI/edit?usp=sharing)
+4. [Conceitos, análise e composição](https://docs.google.com/document/d/1-qZ5mTsZFjE3kuDpbPz8uOWmJY-BwyWF-paf4PgaMhQ/edit?usp=sharing)
+5. [Cadência, análise e composição](https://docs.google.com/document/d/1zfaPrFk0wCPUR8DxRZDs_4ckS2_Qon9j8FNiw4RKkUo/edit?usp=sharing)
+6. [Agrupamento de frases, análise e composição](https://docs.google.com/document/d/1q2eSv8uZJraSAZjYP9kpiRiPW9qcIofgw9hg62x8yV4/edit?usp=sharing)
+7. [Combinação de frases, análise e composição](https://docs.google.com/document/d/1AVi1EXCgaeH1xJLmkj1tW4tLtWxWkeE9FUcFNSem6I0/edit?usp=sharing)
+8. [Combinação e desenvolvimento de frases, análise e composição](https://docs.google.com/document/d/1TQf4BJ1Sr7lwqyRD3mbLDvTnMK_-onB9JdrljLAX6ws/edit?usp=sharing)
+9. [Pequenas formas, análise e composição](https://docs.google.com/document/d/1yiPWGOkqqae30gBDgVma729B9j-P3IuUi0dd2ZO-Vrw/edit?usp=sharing)
+10. [Formas binárias, análise e composição](https://docs.google.com/document/d/1OZuF-dwjky0iKFLqNXPIhZzHoGSdO0tXCkUGqXbMQnE/edit?usp=sharing)
+11. [Análise de forma de pequena obra 1](https://docs.google.com/document/d/1i0jJNV7gvDj3RwT7OeOsv69QUcxs0CQE_ySMCKK_eZk/edit?usp=sharing)
+12. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
+13. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing) -->
 
 ## 8. Material para Análise
 

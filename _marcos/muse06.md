@@ -118,23 +118,23 @@ O cronograma poderá ser ajustado se algum item demandar mais de uma semana.
 
 | Aula | Data       | Dia  | Conteúdo                              |
 | ---: | :--------- | :--- | :------------------------------------ |
-|      | 07-03-2023 | Ter  | **Reservado para semana inaugural**   |
-|    1 | 14-03-2023 | Ter  | Abstração e representações            |
-|    2 | 21-03-2023 | Ter  | Identidade e reflexão                 |
-|    3 | 28-03-2023 | Ter  | Redução                               |
-|    4 | 04-04-2023 | Ter  | Similaridade                          |
-|    5 | 11-04-2023 | Ter  | Durações                              |
-|    6 | 18-04-2023 | Ter  | Textura                               |
-|    7 | 25-04-2023 | Ter  | Resenhas orais - Composição           |
-|    8 | 02-05-2023 | Ter  | Resenhas orais - Análise              |
-|    9 | 09-05-2023 | Ter  | Acompanhamento de trabalhos           |
-|   10 | 16-05-2023 | Ter  | Acompanhamento de trabalhos           |
-|   11 | 23-05-2023 | Ter  | Acompanhamento de trabalhos           |
-|   12 | 30-05-2023 | Ter  | Acompanhamento de trabalhos           |
-|   13 | 06-06-2023 | Ter  | Acompanhamento de trabalhos           |
-|   14 | 13-06-2023 | Ter  | Acompanhamento de trabalhos           |
-|   15 | 20-06-2023 | Ter  | Acompanhamento de trabalhos           |
-|   16 | 27-06-2023 | Ter  | Entrega e apresentação dos resultados |
+|      | 14-03-2023 | Ter  | **Reservado para semana inaugural**   |
+|    1 | 21-03-2023 | Ter  | Abstração e representações            |
+|    2 | 28-03-2023 | Ter  | Identidade e reflexão                 |
+|    3 | 04-04-2023 | Ter  | Redução                               |
+|    4 | 11-04-2023 | Ter  | Similaridade                          |
+|    5 | 18-04-2023 | Ter  | Durações                              |
+|    6 | 25-04-2023 | Ter  | Textura                               |
+|    7 | 02-05-2023 | Ter  | Resenhas orais - Composição           |
+|    8 | 09-05-2023 | Ter  | Resenhas orais - Análise              |
+|    9 | 16-05-2023 | Ter  | Acompanhamento de trabalhos           |
+|   10 | 23-05-2023 | Ter  | Acompanhamento de trabalhos           |
+|   11 | 30-05-2023 | Ter  | Acompanhamento de trabalhos           |
+|   12 | 06-06-2023 | Ter  | Acompanhamento de trabalhos           |
+|   13 | 13-06-2023 | Ter  | Acompanhamento de trabalhos           |
+|   14 | 20-06-2023 | Ter  | Acompanhamento de trabalhos           |
+|   15 | 27-06-2023 | Ter  | Acompanhamento de trabalhos           |
+|   16 | 04-07-2023 | Ter  | Entrega e apresentação dos resultados |
 {: .table .table-sm}
 
 ## 8. Trabalhos

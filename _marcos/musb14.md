@@ -140,26 +140,26 @@ A carga horária da disciplina é de 45 horas semestrais. De acordo com o [Regul
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data       | Dia | Prof | Tópico                                                   |
-| ---- | ---------- | --- | ---- | -------------------------------------------------------- |
-| 1    | 09-03-2023 | Qui | S+M  | Apresentação, Politonalidade                             |
-| 2    | 16-03-2023 | Qui | S    | Politonalidade - dimensão horizontal. Exercício básico 1 |
-| 3    | 23-03-2023 | Qui | S    | Politonalidade - dimensão horizontal. Miniatura 1        |
-| 4    | 30-03-2023 | Qui | S    | Policordes - dimensão vertical. Exercício básico 2       |
-|      | 06-04-2023 | Qui | S    | **Feriado: Semana Santa**                                |
-| 5    | 13-04-2023 | Qui | S+M  | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 20-04-2023 | Qui | S    | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 27-04-2023 | Qui | S    | Politonalidade e policordes. Miniatura 3                 |
-| 8    | 04-05-2023 | Qui | S    | Pós-tonalismo, serialismo e indeterminação.              |
-| 9    | 11-05-2023 | Qui | S+M  | Consulta composição final 1                              |
-| 10   | 18-05-2023 | Qui | S    | Consulta composição final 2                              |
-| 11   | 25-05-2023 | Qui | S    | Consulta composição final 3                              |
-| 12   | 01-06-2023 | Qui | S    | Consulta composição final 4                              |
-|      | 08-06-2023 | Qui | S    | **Feriado: Corpus Christi**                              |
-|      | 15-06-2023 | Qui | S    | Consulta composição final 5                              |
-| 13   | 22-06-2023 | Qui | S+M  | Entrega da composição final e relatório                  |
-| 14   | 29-06-2023 | Qui | S    | Entrega de resultados                                    |
-| 15   | 06-07-2023 | Qui | S    | Reservado para reposição                                 |
+| Aula | Data       | Dia | Prof                                                              | Tópico |
+| ---- | ---------- | --- | ----------------------------------------------------------------- | ------ |
+|      | 16-03-2023 | Qui | **Congresso UFBA**                                                |
+| 1    | 23-03-2023 | Qui | Apresentação, Politonalidade (Sidnei/Marcos)                      |
+| 2    | 30-03-2023 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 (Sidnei) |
+|      | 06-04-2023 | Qui | **Feriado: Semana Santa**                                         |
+| 3    | 13-04-2023 | Qui | Politonalidade - dimensão horizontal. Miniatura 1 (Sidnei)        |
+| 4    | 20-04-2023 | Qui | Policordes - dimensão vertical. Exercício básico 2 (Sidnei)       |
+| 5    | 27-04-2023 | Qui | Policordes - dimensão vertical. Miniatura 2 (Sidnei/Marcos)       |
+| 6    | 04-05-2023 | Qui | Politonalidade e policordes. Exercício básico 3 (Sidnei)          |
+| 7    | 11-05-2023 | Qui | Politonalidade e policordes. Miniatura 3 (Sidnei)                 |
+| 8    | 18-05-2023 | Qui | Pós-tonalismo, serialismo e indeterminação. (Sidnei)              |
+| 9    | 25-05-2023 | Qui | Consulta composição final 1 (Sidnei/Marcos)                       |
+| 10   | 01-06-2023 | Qui | Consulta composição final 2 (Sidnei)                              |
+|      | 08-06-2023 | Qui | **Feriado: Corpus Christi**                                       |
+| 11   | 15-06-2023 | Qui | Consulta composição final 3 (Sidnei)                              |
+| 12   | 22-06-2023 | Qui | Consulta composição final 4 (Sidnei)                              |
+| 13   | 29-06-2023 | Qui | Consulta composição final 5 (Sidnei)                              |
+| 14   | 06-07-2023 | Qui | Entrega da composição final e relatório (Sidnei/Marcos)           |
+| 15   | 13-07-2023 | Qui | Reservado para reposição                                          |
 {: .table .table-sm}
 
 Legenda:
