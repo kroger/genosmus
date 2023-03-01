@@ -140,8 +140,8 @@ A carga horária da disciplina é de 45 horas semestrais. De acordo com o [Regul
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data       | Dia | Prof                                                              | Tópico |
-| ---- | ---------- | --- | ----------------------------------------------------------------- | ------ |
+| Aula | Data       | Dia | Tópico                                                            |
+| ---- | ---------- | --- | ----------------------------------------------------------------- |
 |      | 16-03-2023 | Qui | **Congresso UFBA**                                                |
 | 1    | 23-03-2023 | Qui | Apresentação, Politonalidade (Sidnei/Marcos)                      |
 | 2    | 30-03-2023 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 (Sidnei) |
