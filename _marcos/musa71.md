@@ -87,7 +87,7 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia  | Conteúdo                                                  |
 | ---: | :--------- | :--- | :-------------------------------------------------------- |
-|      | 14-03-2023 | Ter  | **Reservado para semana inaugural**                       |
+|      | 14-03-2023 | Ter  | **Congresso UFBA**                                        |
 |      | 16-03-2023 | Qui  | **Congresso UFBA**                                        |
 |    1 | 21-03-2023 | Ter  | Revisão de tonicização e modulação                        |
 |    2 | 23-03-2023 | Qui  | Mistura de modos                                          |

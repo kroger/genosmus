@@ -118,7 +118,7 @@ O cronograma poderá ser ajustado se algum item demandar mais de uma semana.
 
 | Aula | Data       | Dia  | Conteúdo                              |
 | ---: | :--------- | :--- | :------------------------------------ |
-|      | 14-03-2023 | Ter  | **Reservado para semana inaugural**   |
+|      | 14-03-2023 | Ter  | **Congresso UFBA**                    |
 |    1 | 21-03-2023 | Ter  | Abstração e representações            |
 |    2 | 28-03-2023 | Ter  | Identidade e reflexão                 |
 |    3 | 04-04-2023 | Ter  | Redução                               |

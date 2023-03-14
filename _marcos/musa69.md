@@ -80,7 +80,7 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia  | Conteúdo                                           |
 | ---: | :--------- | :--- | :------------------------------------------------- |
-|      | 14-03-2023 | Ter  | **Reservado para semana inaugural**                |
+|      | 14-03-2023 | Ter  | **Congresso UFBA**                                 |
 |      | 16-03-2023 | Qui  | **Congresso UFBA**                                 |
 |    1 | 21-03-2023 | Ter  | Apresentação e revisão (intervalos e acordes)      |
 |    2 | 23-03-2023 | Qui  | Escrita a quatro vozes e campo harmônico           |
