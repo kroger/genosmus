@@ -152,6 +152,7 @@ quebrado, buscar direto no IMSLP e informar o professor.
 
 Lista em construção. Todas as partituras estão disponíveis no [IMSLP](https://imslp.org). Observar números e movimentos.
 
+1. Bach (J.S.), BWV16.6. Coral #007 (Riemenschneider) Nun lob, mein Seel, den Herren
 1. Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben
 1. Beethoven, op. 7, mov. 2 (Largo, con gran espessione)
 1. Beethoven, op. 13, mov. 2 (apenas primeira página)
@@ -204,14 +205,14 @@ Aula 1
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
-- Clementi, op. 36, n. 1, mov. 1
+- Bach (J.S.), BWV16.6. Coral #007 (Riemenschneider)
 
 #### 8.2.2. Empréstimo modal
 
 Aulas 2 e 3
 
 - Schubert, Sehnsucht D310B
-- Exemplos do capítulo de empréstimo modal de RG (ver links). Esses
+- Exemplos do capítulo de empréstimo modal de RG (ver AVA/Moodle). Esses
   exemplos poderão ser vistos no celular.
 
 #### 8.2.3. Acordes de nona, alterados, etc.
@@ -287,7 +288,7 @@ Aulas 20 e 21
 
 Aulas 22 e 23
 
-- J.S.Bach, BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
+- Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
   Sterben.
 - Clementi, op. 36, n. 1, mov. 1
 - Haydn, Divertimento in C major, Hob. XVI 7
