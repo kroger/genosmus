@@ -95,33 +95,33 @@ modificados de acordo com a necessidade e eventualidade.
 |    4 | 30-03-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
 |    5 | 04-04-2023 | Ter  | Acordes de nona                                           |
 |      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                                 |
-|    6 | 11-04-2023 | Ter  | Acordes alterados e substituições                         |
-|    7 | 13-04-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
-|    8 | 18-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
-|    9 | 20-04-2023 | Qui  | Prova I                                                   |
-|   10 | 25-04-2023 | Ter  | Conceitos de forma e características gerais das frases    |
-|   11 | 27-04-2023 | Qui  | Estrutura harmônica da frase                              |
-|   12 | 02-05-2023 | Ter  | Estrutura melódica da frase                               |
-|   13 | 04-05-2023 | Qui  | Prática de harmonização, composição e análise             |
-|   14 | 09-05-2023 | Ter  | Desenvolvimento de frases                                 |
-|   15 | 11-05-2023 | Qui  | Combinação de frases 1 - períodos                         |
-|   16 | 16-05-2023 | Ter  | Combinação de frases 2 - detalhamento de períodos         |
-|   17 | 18-05-2023 | Qui  | Prática de harmonização, composição e análise             |
-|   18 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise             |
-|   19 | 25-05-2023 | Qui  | Prova II                                                  |
-|   20 | 30-05-2023 | Ter  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
-|   21 | 01-06-2023 | Qui  | Prática de harmonização, composição e análise de períodos |
-|   22 | 06-06-2023 | Ter  | Pequenas formas: binária contínua e secional              |
+|      | 11-04-2023 | Ter  | **Ausência do professor**                                 |
+|    6 | 13-04-2023 | Qui  | Acordes alterados e substituições                         |
+|    7 | 18-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
+|    8 | 20-04-2023 | Qui  | Prova I                                                   |
+|    9 | 25-04-2023 | Ter  | Conceitos de forma e características gerais das frases    |
+|   10 | 27-04-2023 | Qui  | Estrutura harmônica da frase                              |
+|   11 | 02-05-2023 | Ter  | Estrutura melódica da frase                               |
+|   12 | 04-05-2023 | Qui  | Prática de harmonização, composição e análise             |
+|   13 | 09-05-2023 | Ter  | Desenvolvimento de frases                                 |
+|   14 | 11-05-2023 | Qui  | Combinação de frases 1 - períodos                         |
+|   15 | 16-05-2023 | Ter  | Combinação de frases 2 - detalhamento de períodos         |
+|   16 | 18-05-2023 | Qui  | Prática de harmonização, composição e análise             |
+|   17 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise             |
+|   18 | 25-05-2023 | Qui  | Prova II                                                  |
+|   19 | 30-05-2023 | Ter  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
+|   20 | 01-06-2023 | Qui  | Prática de harmonização, composição e análise de períodos |
+|   21 | 06-06-2023 | Ter  | Pequenas formas: binária contínua e secional              |
 |      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                               |
-|   23 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
+|   22 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
 |      | 15-06-2023 | Qui  | **Ausência do professor**                                 |
-|   24 | 20-06-2023 | Ter  | Pequenas formas: ternária contínua e secional             |
-|   25 | 22-06-2023 | Qui  | Formas compostas e Pequenas obras                         |
-|   26 | 27-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
-|   27 | 29-06-2023 | Qui  | Prova III                                                 |
+|   23 | 20-06-2023 | Ter  | Pequenas formas: ternária contínua e secional             |
+|   24 | 22-06-2023 | Qui  | Formas compostas e Pequenas obras                         |
+|   25 | 27-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
+|   26 | 29-06-2023 | Qui  | Prova III                                                 |
 |      | 04-07-2023 | Ter  | **Reservado correção de provas (sem aula)**               |
-|   28 | 06-07-2023 | Qui  | Segunda chamada                                           |
-|   29 | 11-07-2023 | Ter  | Entrega de resultados                                     |
+|   27 | 06-07-2023 | Qui  | Segunda chamada                                           |
+|   28 | 11-07-2023 | Ter  | Entrega de resultados                                     |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio

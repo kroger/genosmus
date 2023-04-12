@@ -88,33 +88,33 @@ modificados de acordo com a necessidade e eventualidade.
 |    4 | 30-03-2023 | Qui  | Encadeamentos de tríades (pos. fund.)              |
 |    5 | 04-04-2023 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
 |      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                          |
-|    6 | 11-04-2023 | Ter  | Encadeamentos de tríades (pos. fund e invertidas)  |
-|    7 | 13-04-2023 | Qui  | Ciclo de quintas, sucessões, progressões, bx. dado |
-|    8 | 18-04-2023 | Ter  | Baixo dado                                         |
-|    9 | 20-04-2023 | Qui  | Prova I                                            |
-|   10 | 25-04-2023 | Ter  | Tríades a quatro vozes e cifras (2a. inversão)     |
-|   11 | 27-04-2023 | Qui  | Encadeamentos de tríades (todas)                   |
-|   12 | 02-05-2023 | Ter  | Harmonização de canto dado, colcheias              |
-|   13 | 04-05-2023 | Qui  | Notas melódicas - passagem e bordadura             |
-|   14 | 09-05-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   15 | 11-05-2023 | Qui  | Dominante secundária                               |
-|   16 | 16-05-2023 | Ter  | Notas melódicas - ritardo, suspensão               |
-|   17 | 18-05-2023 | Qui  | Prática de composição, harmonização e análise      |
-|   18 | 23-05-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   19 | 25-05-2023 | Qui  | Prova II                                           |
-|   20 | 30-05-2023 | Ter  | Acordes de sétima da dominante                     |
-|   21 | 01-06-2023 | Qui  | Notas melódicas - apojatura e escapada             |
-|   22 | 06-06-2023 | Ter  | Prática de composição, harmonização e análise      |
+|      | 11-04-2023 | Ter  | **Ausência do professor**                          |
+|    6 | 13-04-2023 | Qui  | Encadeamentos de tríades (pos. fund e invertidas)  |
+|    7 | 18-04-2023 | Ter  | Ciclo de quintas, sucessões, progressões, bx. dado |
+|    8 | 20-04-2023 | Qui  | Prova I                                            |
+|    9 | 25-04-2023 | Ter  | Tríades a quatro vozes e cifras (2a. inversão)     |
+|   10 | 27-04-2023 | Qui  | Encadeamentos de tríades (todas)                   |
+|   11 | 02-05-2023 | Ter  | Harmonização de canto dado, colcheias              |
+|   12 | 04-05-2023 | Qui  | Notas melódicas - passagem e bordadura             |
+|   13 | 09-05-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   14 | 11-05-2023 | Qui  | Dominante secundária                               |
+|   15 | 16-05-2023 | Ter  | Notas melódicas - ritardo, suspensão               |
+|   16 | 18-05-2023 | Qui  | Prática de composição, harmonização e análise      |
+|   17 | 23-05-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   18 | 25-05-2023 | Qui  | Prova II                                           |
+|   19 | 30-05-2023 | Ter  | Acordes de sétima da dominante                     |
+|   20 | 01-06-2023 | Qui  | Notas melódicas - apojatura e escapada             |
+|   21 | 06-06-2023 | Ter  | Prática de composição, harmonização e análise      |
 |      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                        |
-|   23 | 13-06-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   22 | 13-06-2023 | Ter  | Prática de composição, harmonização e análise      |
 |      | 15-06-2023 | Qui  | **Ausência do professor**                          |
-|   24 | 20-06-2023 | Ter  | Acordes de sétima da dominante (inversão 1)        |
-|   25 | 22-06-2023 | Qui  | Prática de composição, harmonização e análise      |
-|   26 | 27-06-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   27 | 29-06-2023 | Qui  | Prova III                                          |
+|   23 | 20-06-2023 | Ter  | Acordes de sétima da dominante (inversão 1)        |
+|   24 | 22-06-2023 | Qui  | Prática de composição, harmonização e análise      |
+|   25 | 27-06-2023 | Ter  | Prática de composição, harmonização e análise      |
+|   26 | 29-06-2023 | Qui  | Prova III                                          |
 |      | 04-07-2023 | Ter  | **Reservado correção de provas (sem aula)**        |
-|   28 | 06-07-2023 | Qui  | Segunda chamada                                    |
-|   29 | 11-07-2023 | Ter  | Entrega de resultados                              |
+|   27 | 06-07-2023 | Qui  | Segunda chamada                                    |
+|   28 | 11-07-2023 | Ter  | Entrega de resultados                              |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
