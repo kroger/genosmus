@@ -230,13 +230,16 @@ Obras não finalizadas em aulas anteriores
 
 #### 8.2.5. Conceitos de forma e características gerais das frases
 
-Aula 10, dia
+<!-- Aula 10, dia -->
+Aula 9, dia 25/04/23
 
+- Schumann op. 68, n. 7
 - Clementi, op. 36, n. 1, mov. 1
 
 #### 8.2.6. Estrutura harmônica da frase
 
-Aula 11
+<!-- Aula 11 -->
+Aula 10, dia 27/04/23
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -244,7 +247,8 @@ Aula 11
 
 #### 8.2.7. Estrutura melódica da frase
 
-Aulas 12 e 13
+<!-- Aulas 12 e 13 -->
+Aulas 11 e 12, dias 02 e 04/05
 
 - Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 - Clementi, op. 36, n. 1, mov. 1
