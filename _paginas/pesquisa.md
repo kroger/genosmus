@@ -42,12 +42,16 @@ Journal rank: [https://www.scimagojr.com/](https://www.scimagojr.com/)
 
 ### Internacionais
 
-1. Transactions ISMIR: [https://transactions.ismir.net/](https://transactions.ismir.net/)
-1. Computer Music Journal: [http://computermusicjournal.org/](http://computermusicjournal.org/)
 1. Journal of Music and Mathematics: [https://www.tandfonline.com/loi/tmam20](https://www.tandfonline.com/loi/tmam20)
+1. Journal of New Music Research: [https://www.tandfonline.com/toc/nnmr20/current](https://www.tandfonline.com/toc/nnmr20/current)
+1. Journal of Music Theory: [https://read.dukeupress.edu/journal-of-music-theory](https://read.dukeupress.edu/journal-of-music-theory)
+1. Music Analysis [https://onlinelibrary.wiley.com/journal/14682249](https://onlinelibrary.wiley.com/journal/14682249)
+1. Music Theory Spectrum [https://academic.oup.com/mts](https://academic.oup.com/mts?login=false)
+1. Music Theory Online: [https://mtosmt.org/](https://mtosmt.org/)
+1. Computer Music Journal: [http://computermusicjournal.org/](http://computermusicjournal.org/)
+1. Transactions ISMIR: [https://transactions.ismir.net/](https://transactions.ismir.net/)
 1. Empirical Musicology Review: [https://emusicology.org/](https://emusicology.org/)
 1. Haydn Online Journal: [https://www.rit.edu/affiliate/haydn/](https://www.rit.edu/affiliate/haydn/)
-1. Journal of New Music Research: [https://www.tandfonline.com/toc/nnmr20/current](https://www.tandfonline.com/toc/nnmr20/current)
 
 ### Nacionais
 
