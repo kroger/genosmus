@@ -258,7 +258,8 @@ Aulas 11 e 12, dias 02 e 04/05
 
 #### 8.2.8. Desenvolvimento de frase
 
-Aula 14
+<!-- Aula 14 -->
+Aula 13, dia 09/05
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
@@ -268,7 +269,8 @@ Aula 14
 
 #### 8.2.9. Combinação de frases, detalhamento de períodos
 
-Aulas 15 e 16
+<!-- Aulas 15 e 16 -->
+Aulas 14 e 15, dias 11 e 16/05
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
