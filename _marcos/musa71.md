@@ -170,9 +170,10 @@ Lista em construção. Todas as partituras estão disponíveis no [IMSLP](https:
 1. Diabelli, op. 151, n. 4, mov. 1
 1. Diabelli, op. 168, n. 1, mov. 2
 1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
-1. Haydn, Divertimento in C major, Hob. XVI_7
-1. Haydn, Divertimento in A major, Hob. XVI_5, mov. 2 (Menuetto e Trio)
-1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII_27 
+1. Haydn, Divertimento in C major, Hob. XVI:7
+1. Haydn, Divertimento in A major, Hob. XVI:5, mov. 2 (Menuetto e Trio)
+1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII:27
+1. Haydn, Quarteto de Cordas Op. 50, n. 1, mov. 3 Hob. XIII:44
 1. Mendelssohn, op. 72, n. 1
 1. Mozart K284, mov. iii, Tema (p. 10 (54))
 1. Mozart K330, mov. ii (p. 111 (7))
