@@ -146,13 +146,11 @@ O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projeto
 
 ### 6.5. Resultados
 
-Semestre 2022.2
+Semestre 2023.2
 
 | Matrícula | Média | Resultado |
 | --------- | ----- | --------- |
-| 201514950 | 9     | AP        |
-| 218124852 | 9     | AP        |
-| 218218707 | 8     | AP        |
+|           |       |           |
 {: .table .table-sm}
 
 ## 7. Assiduidade e pontualidade
@@ -164,28 +162,30 @@ Assiduidade e pontualidade são de fundamental importância neste curso e serão
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-As aulas sem conteúdo de voz e contornos, a partir do dia 20/10 serão dedicadas ao acompanhamento do trabalho final.
+As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicadas ao acompanhamento do trabalho final.
 
 **OBS**: em construção
 
-| Aula | Data       | Dia | Tópico                                      |
-| ---- | ---------- | --- | ------------------------------------------- |
-| 1    | 18-08-2022 | Qui | Abstração e representação de contornos      |
-| 2    | 25-08-2022 | Qui | Voz e coro                                  |
-| 3    | 01-09-2022 | Qui | Identidade e reflexão de contornos          |
-| 4    | 08-09-2022 | Qui | Texto e fala                                |
-| 5    | 15-09-2022 | Qui | Redução de contornos                        |
-| 6    | 22-09-2022 | Qui | Composição vocal                            |
-| 7    | 29-09-2022 | Qui | Similaridade de contornos                   |
-|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
-|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar** |
-| 8    | 20-10-2022 | Qui | Acento melódico                             |
-| 9    | 27-10-2022 | Qui | Consultas e análises                        |
-| 10   | 03-11-2022 | Qui | Consultas e análises                        |
-| 11   | 10-11-2022 | Qui | Consultas e análises                        |
-| 12   | 17-11-2022 | Qui | Consultas e análises                        |
-| 13   | 24-11-2022 | Qui | Entrega de trabalhos                        |
-| 14   | 01-12-2022 | Qui | A definir                                   |
+| Aula | Data       | Dia | Tópico                                 |
+| ---- | ---------- | --- | -------------------------------------- |
+| 1    | 17-08-2023 | Qui | Abstração e representação de contornos |
+| 2    | 24-08-2023 | Qui | Voz e coro                             |
+| 3    | 31-08-2023 | Qui | Identidade e reflexão de contornos     |
+|      | 07-09-2023 | Qui | **Feriado**                            |
+| 4    | 14-09-2023 | Qui | Texto e fala                           |
+| 5    | 21-09-2023 | Qui | Redução de contornos                   |
+| 6    | 28-09-2023 | Qui | Composição vocal                       |
+| 7    | 05-10-2023 | Qui | Similaridade de contornos              |
+|      | 12-10-2023 | Qui | **Feriado**                            |
+| 8    | 19-10-2023 | Qui | Acento melódico                        |
+| 9    | 26-10-2023 | Qui | Consultas e análises                   |
+|      | 02-11-2023 | Qui | **Feriado**                            |
+| 10   | 09-11-2023 | Qui | Consultas e análises                   |
+| 11   | 16-11-2023 | Qui | Consultas e análises                   |
+| 12   | 23-11-2023 | Qui | Consultas e análises                   |
+| 13   | 30-11-2023 | Qui | Entrega de trabalhos                   |
+|      | 07-12-2023 | Qui | **Reservado para eventual reposição**  |
+|      | 14-12-2023 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
 ## 9. Análise

@@ -85,38 +85,41 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 | Aula | Data       | Dia | Tópico                                         |
 | ---- | ---------- | --- | ---------------------------------------------- |
-|      | 16-08-2022 | Ter | **Reservado para semana inaugural**            |
-| 1    | 18-08-2022 | Qui | Forma: cadências e frases, análise Mozart K284 |
-| 2    | 23-08-2022 | Ter | Tétrades dominantes invertidas                 |
-| 3    | 25-08-2022 | Qui | Tétrades diminutas                             |
-| 4    | 30-08-2022 | Ter | Tétrades comuns                                |
-| 5    | 01-09-2022 | Qui | Tétrades: todas                                |
-| 6    | 06-09-2022 | Ter | Aula prática: canto e baixo                    |
-| 7    | 08-09-2022 | Qui | Aula prática: canto e baixo                    |
-| 8    | 13-09-2022 | Ter | Prova I                                        |
-| 9    | 15-09-2022 | Qui | Tonicização, Modulação: análise de obras       |
-| 10   | 20-09-2022 | Ter | Tipos de modulação                             |
-| 11   | 22-09-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
-| 12   | 27-09-2022 | Ter | Aula prática: análise de obras, canto/baixo    |
-| 13   | 29-09-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
-|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar**    |
-|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar**    |
-|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar**    |
-|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar**    |
-| 14   | 18-10-2022 | Ter | Aula prática: análise de obras, canto/baixo    |
-| 15   | 20-10-2022 | Qui | Aula prática: análise de obras, canto/baixo    |
-| 16   | 25-10-2022 | Ter | Prova II                                       |
-| 17   | 27-10-2022 | Qui | Acorde de sexta napolitana                     |
-| 18   | 01-11-2022 | Ter | Acordes de sexta aumentada italiana            |
-| 19   | 03-11-2022 | Qui | Acordes de sexta aumentada francesa e alemã    |
-| 20   | 08-11-2022 | Ter | Aula prática: canto e baixo                    |
-| 21   | 10-11-2022 | Qui | Acordes de sexta aumentada: outros usos        |
-|      | 15-11-2022 | Ter | **Feriado**                                    |
-| 22   | 17-11-2022 | Qui | Aula prática: canto e baixo                    |
-| 23   | 22-11-2022 | Ter | Prova III                                      |
-| 24   | 24-11-2022 | Qui | Sem aula: tempo para correção                  |
-| 25   | 29-11-2022 | Ter | Segunda chamada                                |
-| 26   | 01-12-2022 | Qui | Entrega de resultados                          |
+|      | 15-08-2023 | Ter | **Reservado para semana inaugural**            |
+| 1    | 17-08-2023 | Qui | Forma: cadências e frases, análise Mozart K284 |
+| 2    | 22-08-2023 | Ter | Tétrades dominantes invertidas                 |
+| 3    | 24-08-2023 | Qui | Tétrades diminutas                             |
+| 4    | 29-08-2023 | Ter | Tétrades comuns                                |
+| 5    | 31-08-2023 | Qui | Tétrades: todas                                |
+| 6    | 05-09-2023 | Ter | Aula prática: canto e baixo                    |
+|      | 07-09-2023 | Qui | **Feriado**                                    |
+| 7    | 12-09-2023 | Ter | Prova I                                        |
+| 8    | 14-09-2023 | Qui | Acorde de sexta napolitana                     |
+| 9    | 19-09-2023 | Ter | Acordes de sexta aumentada italiana            |
+| 10   | 21-09-2023 | Qui | Acordes de sexta aumentada francesa e alemã    |
+| 11   | 26-09-2023 | Ter | Aula prática: canto e baixo                    |
+| 12   | 28-09-2023 | Qui | Acordes de sexta aumentada: outros usos        |
+| 13   | 03-10-2023 | Ter | Aula prática: canto e baixo                    |
+| 14   | 05-10-2023 | Qui | Aula prática: canto e baixo                    |
+| 15   | 10-10-2023 | Ter | Prova II                                       |
+|      | 12-10-2023 | Qui | **Feriado**                                    |
+| 16   | 17-10-2023 | Ter | Tonicização, Modulação: análise de obras       |
+| 17   | 19-10-2023 | Qui | Tipos de modulação                             |
+| 18   | 24-10-2023 | Ter | Aula prática: análise de obras, canto/baixo    |
+| 19   | 26-10-2023 | Qui | Aula prática: análise de obras, canto/baixo    |
+| 20   | 31-10-2023 | Ter | Aula prática: análise de obras, canto/baixo    |
+|      | 02-11-2023 | Qui | **Feriado**                                    |
+| 21   | 07-11-2023 | Ter | Aula prática: análise de obras, canto/baixo    |
+| 22   | 09-11-2023 | Qui | Aula prática: análise de obras, canto/baixo    |
+| 23   | 14-11-2023 | Ter | Aula prática: análise de obras, canto/baixo    |
+| 24   | 16-11-2023 | Qui | Aula prática: análise de obras, canto/baixo    |
+| 25   | 21-11-2023 | Ter | Aula prática: análise de obras, canto/baixo    |
+| 26   | 23-11-2023 | Qui | Prova III                                      |
+| 27   | 28-11-2023 | Ter | Segunda chamada                                |
+| 28   | 30-11-2023 | Qui | Entrega de resultados                          |
+|      | 05-12-2023 | Ter | **Reservado para eventual reposição**          |
+|      | 07-12-2023 | Qui | **Reservado para eventual reposição**          |
+|      | 12-12-2023 | Ter | **Reservado para eventual reposição**          |
 {: .table .table-sm}
 
 <!-- <iframe
@@ -197,7 +200,7 @@ levados impressos para a aula.
 
 #### 9.1.1. Análise harmônica e formal (frases)
 
-Aula 1, dia 06/08/2019
+Aula 1
 
 - Mozart K284, mov. 3, tema
 
@@ -218,7 +221,7 @@ Aula 11, dia 05/09/2019 (prova)
 
 #### 9.1.2. Modulação
 
-Aulas 10 a 15
+Aulas 18 a 23
 
 *Apenas a primeira página*, exceto nas peças em
  que há indicação de duas páginas.
@@ -244,12 +247,12 @@ partida e chegada da modulação.
 
 Organização por aula:
 
-- Aula 10: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
-- Aula 11: Mozart K310, Mozart K333
-- Aula 12: Mozart K280, Mozart K570
-- Aula 13: Kuhlau Op. 59, n. 1, as que faltaram
-- Aula 14: Haydn XVI/32, Haydn XVI/34, N. 47
-- Aula 15: Beethoven Op. 2, n. 1, Beethoven Op. 10, n. 1
+- Aula 18: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
+- Aula 19: Mozart K310, Mozart K333
+- Aula 20: Mozart K280, Mozart K570
+- Aula 21: Kuhlau Op. 59, n. 1, as que faltaram
+- Aula 22: Haydn XVI/32, Haydn XVI/34, N. 47
+- Aula 23: Beethoven Op. 2, n. 1, Beethoven Op. 10, n. 1
 
 <!-- #### 7.1.3. Análise harmônica e formal (formas compostas)
 
@@ -259,23 +262,15 @@ Aula 20, dia 10/10/2019
 
 ## 10. Notas
 
-Semestre 2022.2
+Semestre 2023.2
 
-| Matrícula | T    | P1  | P2  | P3  | M   | R   |
-| --------- | ---- | --- | --- | --- | --- | --- |
-| 211103539 |      |     |     |     |     | RF  |
-| 213104824 |      |     |     |     |     | RF  |
-| 216122270 | 10.0 | 3.5 | 7   | 4.5 | 6.3 | AP  |
-| 216122282 |      | 4.5 |     |     |     | RF  |
-| 216126636 |      | 2.0 |     |     |     | RF  |
-| 218124889 | -    | 8.3 | 8.3 | 8   | 6.2 | AP  |
-| 218124896 |      | 9.2 | 5.0 | 7.5 | 5.4 | AP  |
-| 220119159 | 5.0  | 6.5 | 7.8 | 8.5 | 7   | AP  |
+| Matrícula | P1  | P2  | P3  | M   | R   |
+| --------- | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 {: .table .table-sm}
 
 Legenda:
 
-- T: trabalho
 - P1, P2 e P3: provas 1, 2 e 3
 - M: Média final
 - R: Resultado

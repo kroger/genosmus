@@ -90,40 +90,43 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No período de ausência do professor haverá um trabalho de análise a ser realizado.
 
-| Aula | Data       | Dia | Tópico                                             |
-| ---- | ---------- | --- | -------------------------------------------------- |
-|      | 16-08-2022 | Ter | **Reservado para semana inaugural**                |
-| 1    | 18-08-2022 | Qui | Análise Mozart K 545                               |
-| 2    | 23-08-2022 | Ter | Análise Kuhlau Op. 59 N. 1                         |
-| 3    | 25-08-2022 | Qui | Análise Haydn XVI/32 N. 47 Si menor                |
-| 4    | 30-08-2022 | Ter | Análise Clementi Op. 1 N. 5                        |
-| 5    | 01-09-2022 | Qui | Análise Mozart K 280                               |
-| 6    | 06-09-2022 | Ter | Análise Mozart K 333                               |
-| 7    | 08-09-2022 | Qui | Análise Haydn XVI/34 Mi menor                      |
-| 8    | 13-09-2022 | Ter | Prova I                                            |
-| 9    | 15-09-2022 | Qui | Análise Beethoven Op. 2, n. 1                      |
-| 10   | 20-09-2022 | Ter | Análise Beethoven Op. 2, n. 2                      |
-| 11   | 22-09-2022 | Qui | Análise Beethoven Op. 2, n. 3                      |
-| 12   | 27-09-2022 | Ter | Análise Beethoven Op. 10, n. 1                     |
-| 13   | 29-09-2022 | Qui | Análise Beethoven Op. 14, n. 1                     |
-|      | 04-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
-|      | 06-10-2022 | Qui | **Ausência do professor. Data a confirmar**        |
-|      | 11-10-2022 | Ter | **Ausência do professor. Data a confirmar**        |
-|      | 13-10-2022 | Qui | **Ausência do professor. Data a confirmar**        |
-| 14   | 18-10-2022 | Ter | Análise Beethoven Op. 13, n. 1                     |
-| 15   | 20-10-2022 | Qui | Análise Beethoven Op. 14, n. 2                     |
-| 16   | 25-10-2022 | Ter | Prova II                                           |
-| 17   | 27-10-2022 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3             |
-| 18   | 01-11-2022 | Ter | Análise Beethoven Op. 53                           |
-| 19   | 03-11-2022 | Qui | Análise Beethoven Op. 57                           |
-| 20   | 08-11-2022 | Ter | Análise Beethoven Op. 67                           |
-| 21   | 10-11-2022 | Qui | Análise Mozart K 465                               |
-|      | 15-11-2022 | Ter | **Feriado**                                        |
-| 22   | 17-11-2022 | Qui | Análise Beethoven Op. 111                          |
-| 23   | 22-11-2022 | Ter | Prova III                                          |
-| 24   | 24-11-2022 | Qui | Sem aula: tempo para correção                      |
-| 25   | 29-11-2022 | Ter | Segunda chamada                                    |
-| 26   | 01-12-2022 | Qui | Entrega de resultados e Haydn Op. 50, n. 3, mov. 1 |
+| Aula | Data       | Dia | Tópico                                 |
+| ---- | ---------- | --- | -------------------------------------- |
+|      | 15-08-2023 | Ter | **Reservado para semana inaugural**    |
+| 1    | 17-08-2023 | Qui | Análise Mozart K 545                   |
+| 2    | 22-08-2023 | Ter | Análise Kuhlau Op. 59 N. 1             |
+| 3    | 24-08-2023 | Qui | Análise Haydn XVI/32 N. 47 Si menor    |
+| 4    | 29-08-2023 | Ter | Análise Clementi Op. 1 N. 5            |
+| 5    | 31-08-2023 | Qui | Análise Mozart K 280                   |
+| 6    | 05-09-2023 | Ter | Análise Mozart K 333                   |
+|      | 07-09-2023 | Qui | **Feriado**                            |
+| 7    | 12-09-2023 | Ter | Prova I                                |
+| 8    | 14-09-2023 | Qui | Análise Beethoven Op. 2, n. 1          |
+| 9    | 19-09-2023 | Ter | Análise Beethoven Op. 2, n. 2          |
+| 10   | 21-09-2023 | Qui | Análise Beethoven Op. 2, n. 3          |
+| 11   | 26-09-2023 | Ter | Análise Beethoven Op. 10, n. 1         |
+| 12   | 28-09-2023 | Qui | Análise Beethoven Op. 14, n. 1         |
+| 13   | 03-10-2023 | Ter | Análise Beethoven Op. 13, n. 1         |
+| 14   | 05-10-2023 | Qui | Análise Beethoven Op. 14, n. 2         |
+| 15   | 10-10-2023 | Ter | Prova II                               |
+|      | 12-10-2023 | Qui | **Feriado**                            |
+| 16   | 17-10-2023 | Ter | Análise Beethoven - a definir          |
+| 17   | 19-10-2023 | Qui | Análise Beethoven - a definir          |
+| 18   | 24-10-2023 | Ter | Análise Beethoven - a definir          |
+| 19   | 26-10-2023 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3 |
+|      | 31-10-2023 | Ter | **Feriado**                            |
+| 20   | 02-11-2023 | Qui | Análise Beethoven Op. 53               |
+| 21   | 07-11-2023 | Ter | Análise Beethoven Op. 57               |
+| 22   | 09-11-2023 | Qui | Análise Beethoven Op. 67               |
+| 23   | 14-11-2023 | Ter | Análise Mozart K 465                   |
+| 24   | 16-11-2023 | Qui | Análise Beethoven Op. 111              |
+| 25   | 21-11-2023 | Ter | Análise Haydn Op. 50, n. 3, mov. 1     |
+| 26   | 23-11-2023 | Qui | Prova III                              |
+| 27   | 28-11-2023 | Ter | Segunda chamada                        |
+| 28   | 30-11-2023 | Qui | Entrega de resultados                  |
+|      | 05-12-2023 | Ter | **Reservado para eventual reposição**  |
+|      | 07-12-2023 | Qui | **Reservado para eventual reposição**  |
+|      | 12-12-2023 | Ter | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
 ## 8. Obras para análise
@@ -191,26 +194,15 @@ Edição preferencial: Edition Peters
 
 ## 9. Notas
 
-Semestre 2022.2
+Semestre 2023.2
 
-| Matrícula | T   | P1   | P2  | P3   | M   | R   |
-| --------- | --- | ---- | --- | ---- | --- | --- |
-| 214100097 | 10  | 5    | 7.4 | 6.2  | 7.0 | AP  |
-| 216122288 | 8.0 | 9.2  | 9*  | 8.8  | 8.8 | AP  |
-| 216220739 | 10  | 7.6  | 7.8 | 10*  | 8.9 | AP  |
-| 216220741 | 8.5 | 9.5  | 4.2 | 5.6  | 7.0 | AP  |
-| 217121979 | 10  | 8.0* | 4.0 | 8.8  | 7.7 | AP  |
-| 217121986 | -   | 6.5* | 8.4 | 6.5* | 5.4 | AP  |
-| 217221338 | 10  | 9.5* | 9.3 | 10   | 9.7 | AP  |
-| 218124904 | 10  | 10*  | 9.8 | 10   | 10  | AP  |
-| 218124905 | 10  | 8    | 10  | 10   | 9.8 | AP  |
-| 219122236 | 10  | 7.4  | 9.0 | 6.0  | 8.4 | AP  |
-| 219122243 | 10  | 9.8  | 5.0 | 7.9  | 8.2 | AP  |
+| Matrícula | P1  | P2  | P3  | M   | R   |
+| --------- | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 {: .table .table-sm}
 
 Legenda:
 
-- T: trabalho
 - P1, P2 e P3: provas 1, 2 e 3
 - M: Média final
 - R: Resultado
