@@ -92,38 +92,38 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No
 
 | Aula | Data       | Dia | Tópico                                 |
 | ---- | ---------- | --- | -------------------------------------- |
-|      | 15-08-2023 | Ter | **Reservado para semana inaugural**    |
-| 1    | 17-08-2023 | Qui | Análise Mozart K 545                   |
-| 2    | 22-08-2023 | Ter | Análise Kuhlau Op. 59 N. 1             |
-| 3    | 24-08-2023 | Qui | Análise Haydn XVI/32 N. 47 Si menor    |
-| 4    | 29-08-2023 | Ter | Análise Clementi Op. 1 N. 5            |
-| 5    | 31-08-2023 | Qui | Análise Mozart K 280                   |
-| 6    | 05-09-2023 | Ter | Análise Mozart K 333                   |
+| 1    | 15-08-2023 | Ter | Análise Mozart K 545                   |
+| 2    | 17-08-2023 | Qui | Análise Kuhlau Op. 59 N. 1             |
+| 3    | 22-08-2023 | Ter | Análise Haydn XVI/32 N. 47 Si menor    |
+| 4    | 24-08-2023 | Qui | Análise Clementi Op. 1 N. 5            |
+| 5    | 29-08-2023 | Ter | Análise Mozart K 280                   |
+| 6    | 31-08-2023 | Qui | Análise Mozart K 333                   |
+| 7    | 05-09-2023 | Ter | Análise Haydn XVI/34 Mi menor          |
 |      | 07-09-2023 | Qui | **Feriado**                            |
-| 7    | 12-09-2023 | Ter | Prova I                                |
-| 8    | 14-09-2023 | Qui | Análise Beethoven Op. 2, n. 1          |
-| 9    | 19-09-2023 | Ter | Análise Beethoven Op. 2, n. 2          |
-| 10   | 21-09-2023 | Qui | Análise Beethoven Op. 2, n. 3          |
-| 11   | 26-09-2023 | Ter | Análise Beethoven Op. 10, n. 1         |
-| 12   | 28-09-2023 | Qui | Análise Beethoven Op. 14, n. 1         |
-| 13   | 03-10-2023 | Ter | Análise Beethoven Op. 13, n. 1         |
-| 14   | 05-10-2023 | Qui | Análise Beethoven Op. 14, n. 2         |
-| 15   | 10-10-2023 | Ter | Prova II                               |
+| 8    | 12-09-2023 | Ter | Prova I                                |
+| 9    | 14-09-2023 | Qui | Análise Beethoven Op. 2, n. 1          |
+| 10   | 19-09-2023 | Ter | Análise Beethoven Op. 2, n. 2          |
+| 11   | 21-09-2023 | Qui | Análise Beethoven Op. 2, n. 3          |
+| 12   | 26-09-2023 | Ter | Análise Beethoven Op. 10, n. 1         |
+| 13   | 28-09-2023 | Qui | Análise Beethoven Op. 14, n. 1         |
+| 14   | 03-10-2023 | Ter | Análise Beethoven Op. 13, n. 1         |
+| 15   | 05-10-2023 | Qui | Análise Beethoven Op. 14, n. 2         |
+| 16   | 10-10-2023 | Ter | Prova II                               |
 |      | 12-10-2023 | Qui | **Feriado**                            |
-| 16   | 17-10-2023 | Ter | Análise Beethoven - a definir          |
-| 17   | 19-10-2023 | Qui | Análise Beethoven - a definir          |
-| 18   | 24-10-2023 | Ter | Análise Beethoven - a definir          |
-| 19   | 26-10-2023 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3 |
-|      | 31-10-2023 | Ter | **Feriado**                            |
-| 20   | 02-11-2023 | Qui | Análise Beethoven Op. 53               |
-| 21   | 07-11-2023 | Ter | Análise Beethoven Op. 57               |
-| 22   | 09-11-2023 | Qui | Análise Beethoven Op. 67               |
-| 23   | 14-11-2023 | Ter | Análise Mozart K 465                   |
-| 24   | 16-11-2023 | Qui | Análise Beethoven Op. 111              |
-| 25   | 21-11-2023 | Ter | Análise Haydn Op. 50, n. 3, mov. 1     |
-| 26   | 23-11-2023 | Qui | Prova III                              |
-| 27   | 28-11-2023 | Ter | Segunda chamada                        |
-| 28   | 30-11-2023 | Qui | Entrega de resultados                  |
+| 17   | 17-10-2023 | Ter | Análise Beethoven - a definir          |
+| 18   | 19-10-2023 | Qui | Análise Beethoven - a definir          |
+| 19   | 24-10-2023 | Ter | Análise Beethoven - a definir          |
+| 20   | 26-10-2023 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3 |
+| 21   | 31-10-2023 | Ter | Análise Beethoven Op. 53               |
+|      | 02-11-2023 | Qui | **Feriado**                            |
+| 22   | 07-11-2023 | Ter | Análise Beethoven Op. 57               |
+| 23   | 09-11-2023 | Qui | Análise Beethoven Op. 67               |
+| 24   | 14-11-2023 | Ter | Análise Mozart K 465                   |
+| 25   | 16-11-2023 | Qui | Análise Beethoven Op. 111              |
+| 26   | 21-11-2023 | Ter | Análise Haydn Op. 50, n. 3, mov. 1     |
+| 27   | 23-11-2023 | Qui | Prova III                              |
+| 28   | 28-11-2023 | Ter | Segunda chamada                        |
+| 29   | 30-11-2023 | Qui | Entrega de resultados                  |
 |      | 05-12-2023 | Ter | **Reservado para eventual reposição**  |
 |      | 07-12-2023 | Qui | **Reservado para eventual reposição**  |
 |      | 12-12-2023 | Ter | **Reservado para eventual reposição**  |

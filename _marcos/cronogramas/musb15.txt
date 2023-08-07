@@ -1,13 +1,13 @@
 Abstração e representação de contornos
-Voz e coro
 Identidade e reflexão de contornos
-**Feriado**
-Texto e fala
 Redução de contornos
-Composição vocal
-Similaridade de contornos
 **Feriado**
+Similaridade de contornos
 Acento melódico
+Voz e coro
+Texto e fala
+**Feriado**
+Composição vocal
 Consultas e análises
 **Feriado**
 Consultas e análises

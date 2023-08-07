@@ -169,15 +169,15 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 | Aula | Data       | Dia | Tópico                                 |
 | ---- | ---------- | --- | -------------------------------------- |
 | 1    | 17-08-2023 | Qui | Abstração e representação de contornos |
-| 2    | 24-08-2023 | Qui | Voz e coro                             |
-| 3    | 31-08-2023 | Qui | Identidade e reflexão de contornos     |
+| 2    | 24-08-2023 | Qui | Identidade e reflexão de contornos     |
+| 3    | 31-08-2023 | Qui | Redução de contornos                   |
 |      | 07-09-2023 | Qui | **Feriado**                            |
-| 4    | 14-09-2023 | Qui | Texto e fala                           |
-| 5    | 21-09-2023 | Qui | Redução de contornos                   |
-| 6    | 28-09-2023 | Qui | Composição vocal                       |
-| 7    | 05-10-2023 | Qui | Similaridade de contornos              |
+| 4    | 14-09-2023 | Qui | Similaridade de contornos              |
+| 5    | 21-09-2023 | Qui | Acento melódico                        |
+| 6    | 28-09-2023 | Qui | Voz e coro                             |
+| 7    | 05-10-2023 | Qui | Texto e fala                           |
 |      | 12-10-2023 | Qui | **Feriado**                            |
-| 8    | 19-10-2023 | Qui | Acento melódico                        |
+| 8    | 19-10-2023 | Qui | Composição vocal                       |
 | 9    | 26-10-2023 | Qui | Consultas e análises                   |
 |      | 02-11-2023 | Qui | **Feriado**                            |
 | 10   | 09-11-2023 | Qui | Consultas e análises                   |
@@ -244,8 +244,8 @@ analisada em conjunto durante as aulas:
 
 ### 10.1. Complementar
 
-1. How, Deborah H. 2009. "Arnold Schoenberg’s Prelude from the Suite   for Piano, Op. 25: From Composition with Twelve-Tones to the    Twelve-Tone Method." University of Southern California.
-1. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
+1. How, Deborah H. 2009. "Arnold Schoenberg's Prelude from the Suite for Piano, Op. 25: From Composition with Twelve-Tones to the Twelve-Tone Method." University of Southern California.
+2. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
 ## 11. Links
 
