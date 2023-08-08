@@ -63,6 +63,7 @@ title: Marcos Sampaio
 <h4>Pós-graduação</h4>
 
 <ul>
+    <li>Fórum de Compositores</li>
     {% for page in pages %}
     {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
     {% if site.data.docentes.marcos.atual contains disciplina %}
