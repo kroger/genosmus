@@ -7,14 +7,14 @@ level: graduacao
 
 Plano de curso da disciplina Literatura e Estruturação Musical II, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
 
-Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
-
 ## 1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto
 estrito, da harmonia, e da construção de frases musicais
 básicas. Apreciação de obras musicais referentes aos elementos
 estudados.
+
+**OBS**: Esta ementa está desatualizada e aguarda tramitação de reestruturação curricular para atualização.
 
 ## 2. Objetivos
 
@@ -53,7 +53,7 @@ São pré-requisitos para esta disciplina:
 
 - AVA/Moodle UFBA
 
-Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns, diário e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
+Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
 
 ## 6. Avaliação
 
@@ -65,17 +65,17 @@ conteúdo das provas é acumulativo.
 
 ### 6.1. Nota
 
-A média final é equivalente à média simples das notas das provas.
+A média final é equivalente à média aritmética das notas das provas.
 
 ### 6.2. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+De acordo com o Artigo 115 do Regulamento de Ensino de Graduação, o aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
 1. direito assegurado por legislação específica
 2. motivo de saúde comprovado por atestado médico
 3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero.
 
 A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
 
@@ -126,14 +126,14 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuycKabRlsgj1buqsh89Yq7-IP2ZCBdWThS48TCWpOzJEAH9HNy6t9U2gPCmC1Ps_sM3-QFL-VuZ8d/pubhtml?gid=1985509221&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="300"></iframe> -->
 
-## 8. Exercícios de apoio
+<!-- ## 8. Exercícios de apoio
 
 A cada semana o professor disponibilizará exercícios de apoio para a realização em casa. Esses exercícios serão parcialmente corrigidos em aula. A sua realização é desejada, mas opcional. Não valem nota.
 
 1. [Notas melódicas, cadências e frases](https://goo.gl/Rv69f1)
-2. [Encadeamento de tétrades](https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing)
+2. [Encadeamento de tétrades](https://docs.google.com/document/d/1VuK_gVB4LyoUzLHhlYdRgv55yK8vbPPFxOssSdAUumI/edit?usp=sharing) -->
 
-## 9. Material para análise
+## 8. Material para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -193,7 +193,7 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
   1. Paganini Capriccios Op 1, n. 4. (p. 7)
   1. Schubert D574, mov. 3 (pp. 13 (111) e 14 (112))
 
-### 9.1. Lista organizada por conteúdo
+### 8.1. Lista organizada por conteúdo
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser
 levados impressos para a aula.
@@ -221,6 +221,8 @@ Aula 11, dia 05/09/2019 (prova)
 
 #### 9.1.2. Modulação
  -->
+
+#### Modulação
 
 Aulas 18 a 23
 
@@ -261,7 +263,7 @@ Aula 20, dia 10/10/2019
 
 - Mozart K330, mov. 2 (todo o movimento) -->
 
-## 10. Notas
+## 9. Notas
 
 Semestre 2023.2
 
@@ -276,7 +278,7 @@ Legenda:
 - M: Média final
 - R: Resultado
 
-## 11. Links
+## 10. Links
 
  - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
  - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
@@ -291,7 +293,7 @@ Legenda:
  - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA70%20LEM%20II.pdf)
  - [Departamento de Música da UFBA](http://dmusufba.com)
 
-## 12. Bibliografia
+## 11. Bibliografia
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;"> Aldwell, Edward,
   and Carl Schachter. 2002. <i>Harmony and Voice
@@ -338,7 +340,7 @@ Legenda:
 
 <!-- mendeley type="folders" id="d4453a45-45fc-4da1-819e-4fae34da1a24" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
-## 13. Comunicação com o professor
+## 12. Comunicação com o professor
 
 O único meio adicional de comunicação autorizado pelo professor é o
 email, em horário comercial. Assuntos acadêmicos não são tratados por

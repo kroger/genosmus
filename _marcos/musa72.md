@@ -7,8 +7,6 @@ level: graduacao
 
 Plano de curso da disciplina Literatura e Estruturação Musical IV, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
 
-Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
-
 ## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas
@@ -16,7 +14,7 @@ combinações. Estudo de formas musicais de estrutura única, binária e
 ternária. Apreciação de obras musicais referentes aos elementos
 estudados.
 
-**OBS**: Esta ementa está desatualizada e aguarda tramitação de reforma curricular para atualização.
+**OBS**: Esta ementa está desatualizada e aguarda tramitação de reestruturação curricular para atualização.
 
 ## 2. Objetivos
 
@@ -62,29 +60,27 @@ Trabalhos práticos de análise formal e aula expositiva. A compreensão da Form
 
 - AVA/Moodle UFBA
 
-Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns, diário e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
+Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
 
 ## 6. Avaliação
 
-A avaliação nesta disciplina é realizada mediante 3 provas e um trabalho de análise. O critério de correção é subjetivo, com ênfase nos elementos mais importantes da Forma Sonata. O conteúdo das provas é acumulativo.
-
-**OBS**: O trabalho deverá ser entregue pelo Moodle e no prazo indicado. Não serão aceitos trabalhos fora do prazo ou entregues por outro meio.
+A avaliação nesta disciplina é realizada mediante 3 provas. O critério de correção é subjetivo, com ênfase nos elementos mais importantes da Forma Sonata. O conteúdo das provas é acumulativo.
 
 ### 6.1. Nota
 
-A média final é equivalente à média aritmética das notas das provas e trabalho.
+A média final é equivalente à média aritmética das notas das provas.
 
 ### 6.2. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+De acordo com o Artigo 115 do Regulamento de Ensino de Graduação, o aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
   1. direito assegurado por legislação específica
   2. motivo de saúde comprovado por atestado médico
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero.
 
-A prova de segunda chamada ocorrerá em data definida no cronograma da disciplina.
+A prova de segunda chamada ocorrerá em data previamente definida no cronograma da disciplina.
 
 ## 7. Cronograma
 

@@ -7,8 +7,6 @@ level: graduacao
 
 Plano de curso da disciplina Composição VI, do curso de Composição e Regência da UFBA.
 
-Esta página é um espelho da página oficial do curso, no [AVA/Moodle UFBA](https://ava.ufba.br/).
-
 ## 1. Ementa
 
 Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
@@ -51,13 +49,13 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 ## 4. Metodologia
 
-Aula expositiva dialogal entre estudantes, professor e convidados (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
+Aula expositiva dialogal entre estudantes e professor.
 
 ## 5. Ambientes virtuais utilizados
 
 - Moodle (AVA) UFBA
 
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns, e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
+Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
 
 ## 6. Avaliação
 
@@ -76,7 +74,7 @@ Os trabalhos serão aceitos apenas se forem entregues:
 
 ### 6.1. Trabalhos
 
-Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. Estão previamente bloqueados no Moodle.
+Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. A descrição de cada trabalho está disponível no Moodle.
 
 #### 6.1.1. Exercícios básicos
 
@@ -134,13 +132,13 @@ As notas serão definidas de acordo com o seguinte critério:
 
 ### 6.4. Segunda chamada
 
-O aluno que não entregar um dos trabalhos no dia marcado terá direito a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
+De acordo com o Artigo 115 do Regulamento de Ensino de Graduação, o aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
-1. direito assegurado por legislação específica.
-2. motivo de saúde comprovado por atestado médico.
+1. direito assegurado por legislação específica
+2. motivo de saúde comprovado por atestado médico
 3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitiva da nota zero.
 
 O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
 
@@ -155,7 +153,7 @@ Semestre 2023.2
 
 ## 7. Assiduidade e pontualidade
 
-Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas. A carga horária da disciplina é de 51 horas semestrais e a frequência mínima definida pelo Regulamento de Ensino de Graduação e Pós-Graduação é de 75%.
+Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas. A carga horária da disciplina é de 45 horas semestrais e a frequência mínima definida pelo Regulamento de Ensino de Graduação e Pós-Graduação é de 75%.
 
 ## 8. Cronograma
 
