@@ -80,11 +80,7 @@ Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, su
 
 Pequenos exercícios solicitados pelo professor. Duração curta e formações relacionadas com o trabalho final. Os detalhes serão definidos ao longo do semestre.
 
-#### 6.1.2. Miniatura
-
-Composição de pequena duração para coro à capella a ser realizada durante afastamento do professor.
-
-#### 6.1.3. Composição final
+#### 6.1.2. Composição final
 
 O trabalho final de composição deverá ser elaborado ao longo de 4 semanas, com apresentação semanal de partitura e relatório do progresso no trabalho.
 
@@ -101,8 +97,7 @@ A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
 1. Exercícios básicos (peso 3)
-2. Miniatura (peso 1)
-2. Acompanhamento da composição final (peso 2)
+2. Acompanhamento da composição final (peso 3)
 3. Composição final (peso 4)
 
 ### 6.3. Critérios de avaliação
