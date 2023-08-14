@@ -246,6 +246,7 @@ analisada em conjunto durante as aulas:
 - [Conteúdo programático](http://dmusufba.com/wp-content/uploads/MUSB15-Composicao-VI.pdf)  aprovado pelo Departamento de Música
 - [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) -  Calculadora de classes de notas
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de  contornos
+- [Vencedores Gaudeamus](https://gaudeamus.nl/en/winners-of-the-gaudeamus-award/)
 
 <hr>
 
