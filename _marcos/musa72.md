@@ -84,7 +84,7 @@ A prova de segunda chamada ocorrerá em data previamente definida no cronograma 
 
 ## 7. Cronograma
 
-Este cronograma é uma previsão e poderá ser alterado ao longo do semestre. No período de ausência do professor haverá um trabalho de análise a ser realizado.
+Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 | Aula | Data       | Dia | Tópico                                 |
 | ---- | ---------- | --- | -------------------------------------- |
