@@ -161,14 +161,14 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 
 | Aula | Data       | Dia | Tópico                                 |
 | ---- | ---------- | --- | -------------------------------------- |
-| 1    | 17-08-2023 | Qui | Abstração e representação de contornos |
-| 2    | 24-08-2023 | Qui | Identidade e reflexão de contornos     |
-| 3    | 31-08-2023 | Qui | Redução de contornos                   |
-|      | 07-09-2023 | Qui | **Feriado**                            |
-| 4    | 14-09-2023 | Qui | Similaridade de contornos              |
-| 5    | 21-09-2023 | Qui | Acento melódico                        |
-| 6    | 28-09-2023 | Qui | Voz e coro                             |
-| 7    | 05-10-2023 | Qui | Texto e fala                           |
+| 1    | 17-08-2023 | Qui | Ausência dos estudantes                |
+| 2    | 24-08-2023 | Qui | Abstração e representação de contornos |
+| 3    | 31-08-2023 | Qui | Identidade e reflexão de contornos     |
+| 4    | 07-09-2023 | Qui | Redução de contornos                   |
+|      | 14-09-2023 | Qui | **Feriado**                            |
+| 5    | 21-09-2023 | Qui | Similaridade de contornos              |
+| 6    | 28-09-2023 | Qui | Acento melódico                        |
+| 7    | 05-10-2023 | Qui | Voz e coro, texto e fala               |
 |      | 12-10-2023 | Qui | **Feriado**                            |
 | 8    | 19-10-2023 | Qui | Composição vocal                       |
 | 9    | 26-10-2023 | Qui | Consultas e análises                   |
