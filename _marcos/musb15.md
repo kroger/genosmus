@@ -247,6 +247,7 @@ analisada em conjunto durante as aulas:
 - [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) -  Calculadora de classes de notas
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de  contornos
 - [Vencedores Gaudeamus](https://gaudeamus.nl/en/winners-of-the-gaudeamus-award/)
+- [Concursos de Composição](https://www.musicalchairs.info/composer/competitions)
 
 <hr>
 
