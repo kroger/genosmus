@@ -210,6 +210,11 @@ analisada em conjunto durante as aulas:
 1. H. Villa-Lobos. Choros 10
 1. H. Villa-Lobos. Bachianas 9
 
+Vencedores de concursos recentes:
+
+1. Takagi, Hinako. "L'instant" https://youtu.be/RmmTtKZv7bw
+1. Kim, Shin. "The Song of Oneiroi" https://youtu.be/hgCDW4r__84
+
 ## 10. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
