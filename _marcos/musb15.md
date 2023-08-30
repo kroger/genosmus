@@ -212,8 +212,8 @@ analisada em conjunto durante as aulas:
 
 Vencedores de concursos recentes:
 
-1. Takagi, Hinako. "L'instant" https://youtu.be/RmmTtKZv7bw
-1. Kim, Shin. "The Song of Oneiroi" https://youtu.be/hgCDW4r__84
+1. Takagi, Hinako. "L'instant" [https://youtu.be/RmmTtKZv7bw](https://youtu.be/RmmTtKZv7bw)
+1. Kim, Shin. "The Song of Oneiroi" [https://youtu.be/hgCDW4r__84](https://youtu.be/hgCDW4r__84)
 
 ## 10. Bibliografia
 
