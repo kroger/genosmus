@@ -100,23 +100,23 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 12   | 26-09-2023 | Ter | Aula prática: canto e baixo                 |
 | 13   | 28-09-2023 | Qui | Acordes de sexta aumentada: outros usos     |
 | 14   | 03-10-2023 | Ter | Aula prática: canto e baixo                 |
-| 15   | 05-10-2023 | Qui | Aula prática: canto e baixo                 |
-| 16   | 10-10-2023 | Ter | Prova II                                    |
+| 15   | 05-10-2023 | Qui | Prova II                                    |
+|      | 10-10-2023 | Ter | **Seminários Internacionais EMUS**          |
 |      | 12-10-2023 | Qui | **Feriado**                                 |
-| 17   | 17-10-2023 | Ter | Tonicização, Modulação: análise de obras    |
-| 18   | 19-10-2023 | Qui | Tipos de modulação                          |
-| 19   | 24-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 20   | 26-10-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 21   | 31-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
+| 16   | 17-10-2023 | Ter | Tonicização, Modulação: análise de obras    |
+| 17   | 19-10-2023 | Qui | Tipos de modulação                          |
+| 18   | 24-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
+| 19   | 26-10-2023 | Qui | Aula prática: análise de obras, canto/baixo |
+| 20   | 31-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
 |      | 02-11-2023 | Qui | **Feriado**                                 |
-| 22   | 07-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 23   | 09-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 24   | 14-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 25   | 16-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 26   | 21-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 27   | 23-11-2023 | Qui | Prova III                                   |
-| 28   | 28-11-2023 | Ter | Segunda chamada                             |
-| 29   | 30-11-2023 | Qui | Entrega de resultados                       |
+| 21   | 07-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
+| 22   | 09-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
+| 23   | 14-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
+| 24   | 16-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
+| 25   | 21-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
+| 26   | 23-11-2023 | Qui | Prova III                                   |
+| 27   | 28-11-2023 | Ter | Segunda chamada                             |
+| 28   | 30-11-2023 | Qui | Entrega de resultados                       |
 |      | 05-12-2023 | Ter | **Reservado para eventual reposição**       |
 |      | 07-12-2023 | Qui | **Reservado para eventual reposição**       |
 |      | 12-12-2023 | Ter | **Reservado para eventual reposição**       |
