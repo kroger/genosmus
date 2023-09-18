@@ -94,11 +94,11 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 7    | 05-09-2023 | Ter | Aula prática: canto e baixo                 |
 |      | 07-09-2023 | Qui | **Feriado**                                 |
 | 8    | 12-09-2023 | Ter | Prova I                                     |
-| 9    | 14-09-2023 | Qui | Acorde de sexta napolitana                  |
-| 10   | 19-09-2023 | Ter | Acordes de sexta aumentada italiana         |
-| 11   | 21-09-2023 | Qui | Acordes de sexta aumentada francesa e alemã |
-| 12   | 26-09-2023 | Ter | Aula prática: canto e baixo                 |
-| 13   | 28-09-2023 | Qui | Acordes de sexta aumentada: outros usos     |
+| 9    | 14-09-2023 | Qui | Acordes de sexta aumentada italiana         |
+| 10   | 19-09-2023 | Ter | Acordes de sexta aumentada francesa e alemã |
+| 11   | 21-09-2023 | Qui | Aula prática: canto e baixo                 |
+| 12   | 26-09-2023 | Ter | Acordes de sexta aumentada: outros usos     |
+| 13   | 28-09-2023 | Qui | Acorde de sexta napolitana                  |
 | 14   | 03-10-2023 | Ter | Aula prática: canto e baixo                 |
 | 15   | 05-10-2023 | Qui | Prova II                                    |
 |      | 10-10-2023 | Ter | **Seminários Internacionais EMUS**          |
