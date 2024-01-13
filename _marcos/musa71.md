@@ -64,64 +64,60 @@ A nota do semestre será a média aritmética das notas das provas.
 
 ### 6.2. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a
-requerer até dois dias úteis após a sua realização comprovando-se umas
-das seguintes situações:
+O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
   1. direito assegurado por legislação específica.
   2. motivo de saúde comprovado por atestado médico.
   3. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta
-à segunda chamada implicará na manutenção automática e definitva da
-nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
-de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
-A data de realização de segunda chamada está prevista no cronograma da
-disciplina.
+A data de realização de segunda chamada está prevista no cronograma da disciplina.
 
 ## 7. Cronograma
 
-O conteúdo e dias das aulas do cronograma poderão ser
-modificados de acordo com a necessidade e eventualidade.
+O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data       | Dia  | Conteúdo                                                  |
-| ---: | :--------- | :--- | :-------------------------------------------------------- |
-|      | 14-03-2023 | Ter  | **Congresso UFBA**                                        |
-|      | 16-03-2023 | Qui  | **Congresso UFBA**                                        |
-|    1 | 21-03-2023 | Ter  | Revisão de tonicização e modulação                        |
-|    2 | 23-03-2023 | Qui  | Mistura de modos                                          |
-|    3 | 28-03-2023 | Ter  | Mistura de modos                                          |
-|    4 | 30-03-2023 | Qui  | Prática de harmonização, composição e análise de h.crom.  |
-|    5 | 04-04-2023 | Ter  | Acordes de nona                                           |
-|      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                                 |
-|      | 11-04-2023 | Ter  | **Ausência do professor**                                 |
-|    6 | 13-04-2023 | Qui  | Acordes alterados e substituições                         |
-|    7 | 18-04-2023 | Ter  | Prática de harmonização, composição e análise de h.crom.  |
-|    8 | 20-04-2023 | Qui  | Prova I                                                   |
-|    9 | 25-04-2023 | Ter  | Conceitos de forma e características gerais das frases    |
-|   10 | 27-04-2023 | Qui  | Estrutura harmônica da frase                              |
-|   11 | 02-05-2023 | Ter  | Estrutura melódica da frase                               |
-|   12 | 04-05-2023 | Qui  | Prática de harmonização, composição e análise             |
-|   13 | 09-05-2023 | Ter  | Desenvolvimento de frases                                 |
-|   14 | 11-05-2023 | Qui  | Combinação de frases 1 - períodos                         |
-|   15 | 16-05-2023 | Ter  | Combinação de frases 2 - detalhamento de períodos         |
-|   16 | 18-05-2023 | Qui  | Prática de harmonização, composição e análise             |
-|   17 | 23-05-2023 | Ter  | Prática de harmonização, composição e análise             |
-|   18 | 25-05-2023 | Qui  | Prova II                                                  |
-|   19 | 30-05-2023 | Ter  | Pequenas formas: divisão em partes, desenho, mov. harm.   |
-|   20 | 01-06-2023 | Qui  | Prática de harmonização, composição e análise de períodos |
-|   21 | 06-06-2023 | Ter  | Pequenas formas: binária contínua e secional              |
-|      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                               |
-|   22 | 13-06-2023 | Ter  | Prática de harmonização, composição e análise de bin. c/s |
-|      | 15-06-2023 | Qui  | **Ausência do professor**                                 |
-|   23 | 20-06-2023 | Ter  | Pequenas formas: ternária contínua e secional             |
-|   24 | 22-06-2023 | Qui  | Formas compostas e Pequenas obras                         |
-|   25 | 27-06-2023 | Ter  | Prática de harmonização, composição e análise de f. comp. |
-|   26 | 29-06-2023 | Qui  | Prova III                                                 |
-|      | 04-07-2023 | Ter  | **Reservado correção de provas (sem aula)**               |
-|   27 | 06-07-2023 | Qui  | Segunda chamada                                           |
-|   28 | 11-07-2023 | Ter  | Entrega de resultados                                     |
+No período 2023--2025, o professor está coordenando o Colegiado de Composição e Regência. Essa função inclui o atendimento a compromissos que, regimentalmente, precedem qualquer atividade de ensino. Para o caso de algum desses compromissos ocorrer no horário de aula, o cronograma dispõe dos eventos "Reposição a demandas do do Colegiado". Se não houver necessidade de reposição, essas aulas serão usadas para a realização de exercícios de composição, harmonização e análise.
+
+| Aula | Data | Dia  | Conteúdo |
+| ---: | :--- | :--- | :------- |
+|  | 12-03-2024 | Ter | **Reservado abertura do semestre** |
+| 1 | 14-03-2024 | Qui | Revisão de tonicização e modulação |
+| 2 | 19-03-2024 | Ter | Mistura de modos |
+| 3 | 21-03-2024 | Qui | Mistura de modos |
+| 4 | 26-03-2024 | Ter | Prática de harmonização, composição e análise de h.crom. |
+|  | 28-03-2024 | Qui | **Feriado: Semana Santa** |
+| 5 | 02-04-2024 | Ter | Acordes de nona |
+| 6 | 04-04-2024 | Qui | Acordes alterados e substituições |
+| 7 | 09-04-2024 | Ter | Prática de harmonização, composição e análise de h.crom. |
+|  | 11-04-2024 | Qui | **Reposição demandas do Colegiado** |
+| 8 | 16-04-2024 | Ter | Prova I |
+| 9 | 18-04-2024 | Qui | Conceitos de forma e características gerais das frases |
+| 10 | 23-04-2024 | Ter | Estrutura harmônica da frase |
+| 11 | 25-04-2024 | Qui | Estrutura melódica da frase |
+| 12 | 30-04-2024 | Ter | Prática de harmonização, composição e análise |
+| 13 | 02-05-2024 | Qui | Desenvolvimento de frases |
+| 14 | 07-05-2024 | Ter | Combinação de frases 1 - períodos |
+| 15 | 09-05-2024 | Qui | Combinação de frases 2 - detalhamento de períodos |
+|  | 14-05-2024 | Ter | **Reposição demandas do Colegiado** |
+| 16 | 16-05-2024 | Qui | Prova II |
+| 17 | 21-05-2024 | Ter | Prática de harmonização, composição e análise |
+| 18 | 23-05-2024 | Qui | Pequenas formas: divisão em partes, desenho, mov. harm. |
+| 19 | 28-05-2024 | Ter | Prática de harmonização, composição e análise de períodos |
+|  | 30-05-2024 | Qui | **Feriado: Corpus Christi** |
+| 20 | 04-06-2024 | Ter | Pequenas formas: binária contínua e secional |
+| 21 | 06-06-2024 | Qui | Prática de harmonização, composição e análise de bin. c/s |
+| 22 | 11-06-2024 | Ter | Pequenas formas: ternária contínua e secional |
+| 23 | 13-06-2024 | Qui | Formas compostas e pequenas obras |
+|  | 18-06-2024 | Ter | **Reposição demandas do Colegiado** |
+| 24 | 20-06-2024 | Qui | Prova III |
+|  | 25-06-2024 | Ter | **Feriado: São João** |
+| 25 | 27-06-2024 | Qui | Segunda chamada |
+|  | 02-07-2024 | Ter | **Feriado: Independência da Bahia** |
+|  | 04-07-2024 | Qui | **Reservado correção de provas (sem aula)** |
+| 26 | 09-07-2024 | Ter | Entrega de resultados |
+| 27 | 11-07-2024 | Qui | Reservado para reposição emergencial |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio

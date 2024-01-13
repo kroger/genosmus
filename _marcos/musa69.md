@@ -57,64 +57,61 @@ A nota do semestre será a média aritmética das notas das provas.
 
 ### 6.2. Segunda chamada
 
-O aluno que faltar às provas terá direito à segunda chamada se a
-requerer até dois dias úteis após a sua realização comprovando-se umas
-das seguintes situações:
+O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
 1. direito assegurado por legislação específica
 1. motivo de saúde comprovado por atestado médico
 1. razão de força maior, a critério do professor.
 
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta
-à segunda chamada implicará na manutenção automática e definitva da
-nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento
-de Ensino de Graduação.
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
 A data de realização de segunda chamada está prevista no cronograma da
 disciplina.
 
 ## 7. Cronograma
 
-O conteúdo e dias das aulas do cronograma poderão ser
-modificados de acordo com a necessidade e eventualidade.
+O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo com a necessidade e eventualidade.
+
+No período 2023--2025, o professor está coordenando o Colegiado de Composição e Regência. Essa função inclui o atendimento a compromissos que, regimentalmente, precedem qualquer atividade de ensino. Para o caso de algum desses compromissos ocorrer no horário de aula, o cronograma dispõe dos eventos "Reposição a demandas do do Colegiado". Se não houver necessidade de reposição, essas aulas serão usadas para a realização de exercícios de composição, harmonização e análise.
 
 | Aula | Data       | Dia  | Conteúdo                                           |
 | ---: | :--------- | :--- | :------------------------------------------------- |
-|      | 14-03-2023 | Ter  | **Congresso UFBA**                                 |
-|      | 16-03-2023 | Qui  | **Congresso UFBA**                                 |
-|    1 | 21-03-2023 | Ter  | Apresentação e revisão (intervalos e acordes)      |
-|    2 | 23-03-2023 | Qui  | Escrita a quatro vozes e campo harmônico           |
-|    3 | 28-03-2023 | Ter  | Tríades a quatro vozes e cifras (pos. fund.)       |
-|    4 | 30-03-2023 | Qui  | Encadeamentos de tríades (pos. fund.)              |
-|    5 | 04-04-2023 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
-|      | 06-04-2023 | Qui  | **Feriado: Semana Santa**                          |
-|      | 11-04-2023 | Ter  | **Ausência do professor**                          |
-|    6 | 13-04-2023 | Qui  | Encadeamentos de tríades (pos. fund e invertidas)  |
-|    7 | 18-04-2023 | Ter  | Ciclo de quintas, sucessões, progressões, bx. dado |
-|    8 | 20-04-2023 | Qui  | Prova I                                            |
-|    9 | 25-04-2023 | Ter  | Tríades a quatro vozes e cifras (2a. inversão)     |
-|   10 | 27-04-2023 | Qui  | Encadeamentos de tríades (todas)                   |
-|   11 | 02-05-2023 | Ter  | Harmonização de canto dado, colcheias              |
-|   12 | 04-05-2023 | Qui  | Notas melódicas - passagem e bordadura             |
-|   13 | 09-05-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   14 | 11-05-2023 | Qui  | Dominante secundária                               |
-|   15 | 16-05-2023 | Ter  | Notas melódicas - ritardo, suspensão               |
-|   16 | 18-05-2023 | Qui  | Prática de composição, harmonização e análise      |
-|   17 | 23-05-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   18 | 25-05-2023 | Qui  | Prova II                                           |
-|   19 | 30-05-2023 | Ter  | Acordes de sétima da dominante                     |
-|   20 | 01-06-2023 | Qui  | Notas melódicas - apojatura e escapada             |
-|   21 | 06-06-2023 | Ter  | Prática de composição, harmonização e análise      |
-|      | 08-06-2023 | Qui  | **Feriado: Corpus Christi**                        |
-|   22 | 13-06-2023 | Ter  | Prática de composição, harmonização e análise      |
-|      | 15-06-2023 | Qui  | **Ausência do professor**                          |
-|   23 | 20-06-2023 | Ter  | Acordes de sétima da dominante (inversão 1)        |
-|   24 | 22-06-2023 | Qui  | Prática de composição, harmonização e análise      |
-|   25 | 27-06-2023 | Ter  | Prática de composição, harmonização e análise      |
-|   26 | 29-06-2023 | Qui  | Prova III                                          |
-|      | 04-07-2023 | Ter  | **Reservado correção de provas (sem aula)**        |
-|   27 | 06-07-2023 | Qui  | Segunda chamada                                    |
-|   28 | 11-07-2023 | Ter  | Entrega de resultados                              |
+|      | 12-03-2024 | Ter  | **Reservado abertura do semestre**                 |
+|    1 | 14-03-2024 | Qui  | Apresentação e revisão (intervalos e acordes)      |
+|    2 | 19-03-2024 | Ter  | Escrita a quatro vozes e campo harmônico           |
+|    3 | 21-03-2024 | Qui  | Tríades a quatro vozes e cifras (pos. fund.)       |
+|    4 | 26-03-2024 | Ter  | Encadeamentos de tríades (pos. fund.)              |
+|      | 28-03-2024 | Qui  | **Semana Santa**                                   |
+|    5 | 02-04-2024 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
+|    6 | 04-04-2024 | Qui  | Encadeamentos de tríades (pos. fund e invertidas)  |
+|    7 | 09-04-2024 | Ter  | Ciclo de quintas, sucessões, progressões, bx. dado |
+|      | 11-04-2024 | Qui  | **Reposição demandas do Colegiado**                |
+|    8 | 16-04-2024 | Ter  | Prova I                                            |
+|    9 | 18-04-2024 | Qui  | Tríades a quatro vozes e cifras (2a. inversão)     |
+|   10 | 23-04-2024 | Ter  | Encadeamentos de tríades (todas)                   |
+|   11 | 25-04-2024 | Qui  | Harmonização de canto dado, colcheias              |
+|   12 | 30-04-2024 | Ter  | Notas melódicas - passagem e bordadura             |
+|   13 | 02-05-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   14 | 07-05-2024 | Ter  | Dominante secundária                               |
+|   15 | 09-05-2024 | Qui  | Notas melódicas - ritardo, suspensão               |
+|      | 14-05-2024 | Ter  | **Reposição demandas do Colegiado**                |
+|   16 | 16-05-2024 | Qui  | Prova II                                           |
+|   17 | 21-05-2024 | Ter  | Acordes de sétima da dominante                     |
+|   18 | 23-05-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   19 | 28-05-2024 | Ter  | Prática de composição, harmonização e análise      |
+|      | 30-05-2024 | Qui  | **Feriado: Corpus Christi**                        |
+|   20 | 04-06-2024 | Ter  | Notas melódicas - apojatura e escapada             |
+|   21 | 06-06-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   22 | 11-06-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   23 | 13-06-2024 | Qui  | Acordes de sétima da dominante (inversão 1)        |
+|      | 18-06-2024 | Ter  | **Reposição demandas do Colegiado**                |
+|   24 | 20-06-2024 | Qui  | Prova III                                          |
+|      | 25-06-2024 | Ter  | **São João**                                       |
+|   25 | 27-06-2024 | Qui  | Segunda chamada                                    |
+|      | 02-07-2024 | Ter  | **Feriado: Independência da Bahia**                |
+|      | 04-07-2024 | Qui  | **Reservado correção de provas (sem aula)**        |
+|   26 | 09-07-2024 | Ter  | Entrega de resultados                              |
+|   27 | 11-07-2024 | Qui  | Reservado para reposição emergencial               |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
@@ -165,41 +162,16 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 | Matrícula | P1  | P2  | P3  | Média | Resultado |
 | --------- | --- | --- | --- | ----- | --------- |
-| 219122261 | 5.4 | 7.5 | 5.6 | 6.2   | AP        |
-| 219122262 | 6.8 | 7.0 | 5.7 | 6.5   | AP        |
-| 219216971 | 9.1 | 8.5 | 7.3 | 8.3   | AP        |
-| 220119188 | 7.9 | 5.4 | 6.4 | 6.6   | AP        |
-| 220121573 | -   | -   | -   | -     | RF        |
-| 221120493 | 8.2 | 7.2 | 5.0 | 6.8   | AP        |
-| 221120494 | 4.5 | 2.5 | 0.5 | 2.5   | RR        |
-| 221120497 | 3.9 | 5.8 | 4.5 | 5.0   | AP        |
-| 221120499 | 5.2 | 7.4 | 7.0 | 6.5   | AP        |
-| 221120500 | 1.9 | 4.3 | 4.6 | 3.6   | RR        |
-| 221120501 | 4.0 | 5.0 | 6.1 | 5.0   | AP        |
-| 221120505 | 8.8 | 9.3 | 7.1 | 8.4   | AP        |
-| 221120506 | 9.7 | 6.6 | -   | 5.4   | AP        |
-| 221120508 | 7.0 | 8.4 | 4.9 | 6.8   | AP        |
-| 221120509 | 8.2 | 8.9 | 8.1 | 8.4   | AP        |
-| 221120510 | 9.7 | 8.2 | 8.8 | 8.9   | AP        |
-| 222118661 | 2.9 | 4.5 | 1.4 | 2.9   | RR        |
-| 222118665 | -   | -   | -   | -     | RF        |
-| 222118666 | 7.8 | 5.7 | 5.3 | 6.3   | AP        |
-| 222118671 | 7.6 | 8.8 | 5.3 | 7.2   | AP        |
-| 222118674 | 9.7 | 9.8 | 9.7 | 9.7   | AP        |
-| 222118676 | 7.8 | 9.0 | 8.1 | 8.3   | AP        |
-| 223118603 | 9.6 | 9.6 | 9.6 | 9.6   | AP        |
-| 223118604 | 7.6 | 8.2 | 8.0 | 7.9   | AP        |
-| 223118605 | 8.8 | 9.0 | 7.2 | 8.3   | AP        |
-| 223118606 | 8.5 | 9.3 | 7.2 | 8.3   | AP        |
+|           |     |     |     |       |           |
 {: .table .table-sm}
 
 Estatística
 
 | Item          | Valor |
 | ------------- | ----- |
-| Média         | 6.8   |
-| Mediana       | 6.8   |
-| Desvio padrão | 1.98  |
+| Média         |       |
+| Mediana       |       |
+| Desvio padrão |       |
 {: .table .table-sm}
 
 ## 10. Bibliografia

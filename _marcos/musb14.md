@@ -140,32 +140,26 @@ A carga horária da disciplina é de 45 horas semestrais. De acordo com o [Regul
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
-| Aula | Data       | Dia | Tópico                                                            |
-| ---- | ---------- | --- | ----------------------------------------------------------------- |
-|      | 16-03-2023 | Qui | **Congresso UFBA**                                                |
-| 1    | 23-03-2023 | Qui | Apresentação, Politonalidade (Sidnei/Marcos)                      |
-| 2    | 30-03-2023 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 (Sidnei) |
-|      | 06-04-2023 | Qui | **Feriado: Semana Santa**                                         |
-| 3    | 13-04-2023 | Qui | Politonalidade - dimensão horizontal. Miniatura 1 (Sidnei)        |
-| 4    | 20-04-2023 | Qui | Policordes - dimensão vertical. Exercício básico 2 (Sidnei)       |
-| 5    | 27-04-2023 | Qui | Policordes - dimensão vertical. Miniatura 2 (Sidnei/Marcos)       |
-| 6    | 04-05-2023 | Qui | Politonalidade e policordes. Exercício básico 3 (Sidnei)          |
-| 7    | 11-05-2023 | Qui | Politonalidade e policordes. Miniatura 3 (Sidnei)                 |
-| 8    | 18-05-2023 | Qui | Pós-tonalismo, serialismo e indeterminação. (Sidnei)              |
-| 9    | 25-05-2023 | Qui | Consulta composição final 1 (Sidnei/Marcos)                       |
-| 10   | 01-06-2023 | Qui | Consulta composição final 2 (Sidnei)                              |
-|      | 08-06-2023 | Qui | **Feriado: Corpus Christi**                                       |
-| 11   | 15-06-2023 | Qui | Consulta composição final 3 (Sidnei)                              |
-| 12   | 22-06-2023 | Qui | Consulta composição final 4 (Sidnei)                              |
-| 13   | 29-06-2023 | Qui | Consulta composição final 5 (Sidnei)                              |
-| 14   | 06-07-2023 | Qui | Entrega da composição final e relatório (Sidnei/Marcos)           |
-| 15   | 13-07-2023 | Qui | Reservado para reposição                                          |
+| Aula | Data | Dia | Tópico |
+| ---- | ---- | --- | ------ |
+| 1 | 14-03-2024 | Qui | Apresentação, Politonalidade |
+| 2 | 21-03-2024 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
+|  | 28-03-2024 | Qui | **Feriado: Semana Santa** |
+| 3 | 04-04-2024 | Qui | Politonalidade - dimensão horizontal. Miniatura 1 |
+| 4 | 11-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2 |
+| 5 | 18-04-2024 | Qui | Policordes - dimensão vertical. Miniatura 2 |
+| 6 | 25-04-2024 | Qui | Politonalidade e policordes. Exercício básico 3 |
+| 7 | 02-05-2024 | Qui | Politonalidade e policordes. Miniatura 3 |
+| 8 | 09-05-2024 | Qui | Pós-tonalismo, serialismo e indeterminação |
+| 9 | 16-05-2024 | Qui | Consulta composição final 1 |
+| 10 | 23-05-2024 | Qui | Consulta composição final 2 |
+|  | 30-05-2024 | Qui | **Feriado: Corpus Christi** |
+| 11 | 06-06-2024 | Qui | Consulta composição final 3 |
+| 12 | 13-06-2024 | Qui | Consulta composição final 4 |
+| 13 | 20-06-2024 | Qui | Consulta composição final 5 |
+| 14 | 27-06-2024 | Qui | Entrega da composição final e relatório |
+| 15 | 04-07-2024 | Qui | Reservado para reposição emergencial |
 {: .table .table-sm}
-
-Legenda:
-
-- S: Sidnei
-- S + M: Sidnei e Marcos
 
 ## 9. Trabalhos
 
@@ -339,7 +333,7 @@ analisada em conjunto durante as aulas:
 
 | Matrícula | M1  | M2  | M3  | C   | Média | Resultado |
 | --------- | --- | --- | --- | --- | ----- | --------- |
-| ...       |     |     |     |     |       |           |
+|           |     |     |     |     |       |           |
 {: .table .table-sm}
 
 Legenda:
