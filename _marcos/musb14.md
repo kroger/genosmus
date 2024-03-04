@@ -6,8 +6,6 @@ number_sections: true
 level: graduacao
 ---
 
-**Obs**: No semestre 2023.1, as aulas serão ministradas pelo mestrando Sidnei Marques de Oliveira, em estágio docente sob orientação do Prof. Marcos.
-
 ## 1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração
@@ -21,36 +19,36 @@ dimensões.
 Ao final do curso espera-se que o estudante seja capaz de:
 
 1. Utilizar variados princípios de organização de alturas na Composição Musical.
-2. Compor em formato de miniatura
-3. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
-4. Compor para orquestra sinfônica
+1. Compor em formato de miniatura
+1. Compor para formações camerísticas diversas, como quarteto de cordas, quarteto de trombones, etc.
+1. Compor para orquestra sinfônica
 
 ## 3. Conteúdo programático
 
 1. Politonalidade
-2. Serialismo
-3. Conjunto de classes de notas
-4. Procedimentos imitativos
-5. Organização total
-6. Indeterminância: improvisação, aleatoridade, indeterminância,
-   música formalizada
-7. Música experimental
-8. Efeitos especiais
-9. Apresentação e discussão do trabalho criativo
-10. Composição para formações camerísticas até orquestras de pequenas
+1. Serialismo
+1. Conjunto de classes de notas
+1. Procedimentos imitativos
+1. Organização total
+1. Indeterminância: improvisação, aleatoridade, indeterminância, música formalizada
+1. Música experimental
+1. Efeitos especiais
+1. Apresentação e discussão do trabalho criativo
+1.  Composição para formações camerísticas até orquestras de pequenas
 
 ## 4. Metodologia
 
-Aula expositiva dialogal (atividade síncrona e gravada) e discussão sobre os tópicos abordados em fórum (atividade assíncrona).
+Aula expositiva dialogal e discussão.
 
 Os conteúdos serão apresentados a partir do estudo do repertório e a sua compreensão ocorrerá mediante realização de trabalhos práticos de composição e análise realizados semanalmente.
 
 ## 5. Ambientes virtuais utilizados
 
-- Moodle (AVA) UFBA
-- Página Genos
+- Página no site do Genos
+- [Fórum da disciplina](https://forum.sampaio.me)
+- Sistema de transferência de arquivos (ex: [send](https://send.ephemeral.land/))
 
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (via fóruns e chat do sistema).
+A comunicação e entrega de trabalhos será realizada via Fórum privado e, quando não houver alternativa, email.
 
 ## 6. Avaliação
 
@@ -69,10 +67,10 @@ A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
 1. Miniaturas 1 a 3 (peso 3)
-2. Exercícios 1 a 3 (peso 1)
-3. Composição final (peso 3)
-4. Relatório sobre a composição final (peso 1)
-5. Relatórios semanais sobre composição final (peso 2)
+1. Exercícios 1 a 3 (peso 1)
+1. Composição final (peso 3)
+1. Relatório sobre a composição final (peso 1)
+1. Relatórios semanais sobre composição final (peso 2)
 
 <!-- TODO: adaptar -->
 <!-- Dessa forma, a média final será calculada pela equação 1, onde M
@@ -86,9 +84,9 @@ Os trabalhos serão aceitos apenas se forem entregues:
 
 1. em versão elaborada em software de editoração de partitura (ou similar)
 1. no prazo definido nesta página
-1. via postagem no fórum do ambiente virtual de aprendizagem (AVA/Moodle)
+1. via postagem em sistema de envio de arquivos (ex: send) e envio do link pelo Fórum.
 
-Nenhum trabalho poderá ser entregue por email ou outra via que não o fórum do Moodle.
+**Trabalhos enviados por email serão descartados.**
 
 ### 6.2. Critérios de avaliação
 
@@ -121,8 +119,8 @@ O aluno que não entregar um dos trabalhos no dia marcado terá direito
 a entregar na aula seguinte se fizer a requisição até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
 1. direito assegurado por legislação específica.
-2. motivo de saúde comprovado por atestado médico.
-3. razão de força maior, a critério do professor.
+1. motivo de saúde comprovado por atestado médico.
+1. razão de força maior, a critério do professor.
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta
 à segunda chamada implicará na manutenção automática e definitiva da
@@ -392,19 +390,12 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 
 ## 13. Links
 
-- Playlist com vídeos no
-  [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
-- [Conteúdo
-  programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf)
-  aprovado pelo Departamento de Música
-- [PC
-  Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) -
-  Calculadora de classes de notas
-- [Contour Metrics](https://contour.sampaio.me) - Calculadora de
-  contornos
-- [Dobrado
-  182](https://jornalggn.com.br/sites/default/files/documentos/dob000117.pdf) -
-  Partitura
+- [Fórum da disciplina](https://forum.sampaio.me)
+- Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
+- [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
+- [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) - Calculadora de classes de notas
+- [Contour Metrics](https://contour.sampaio.me) - Calculadora de contornos
+- [Dobrado 182](https://jornalggn.com.br/sites/default/files/documentos/dob000117.pdf) - Partitura
 
 <hr>
 

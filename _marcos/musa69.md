@@ -195,6 +195,7 @@ Estatística
 
 ## 11. Links
 
+- [Fórum da disciplina](https://forum.sampaio.me)
 - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
 - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
 - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf) (15MB)
@@ -214,7 +215,7 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ## 13. Comunicação com o professor
 
-A comunicação com o professor fora do horário de aula é realizada   exclusivamente por email ou fórum Moodle.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
 <hr>
 

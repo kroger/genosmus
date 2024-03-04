@@ -209,7 +209,7 @@ Aula 1
 Aulas 2 e 3
 
 - Schubert, Sehnsucht D310B
-- Exemplos do capítulo de empréstimo modal de RG (ver AVA/Moodle). Esses
+- Exemplos do capítulo de empréstimo modal de RG (ver Fórum). Esses
   exemplos poderão ser vistos no celular.
 
 #### 8.2.3. Acordes de nona, alterados, etc.
@@ -401,22 +401,23 @@ Schirmer.
 
 ## 11. Links
 
- - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
- - [EK11](https://www.dropbox.com/s/j9krkhmz3hced95/ek11.pdf?dl=0)
- - [EK12](https://www.dropbox.com/s/1a23gik9a6ue3a1/ek12.pdf?dl=0)
- - [EK13](https://www.dropbox.com/s/06i481dwzoql1f1/ek13.pdf?dl=0)
- - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
- - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
- - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf) (15MB)
- - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf) (83MB)
- - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf) (126MB)
- - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf) (28MB)
- - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf) (67MB)
- - [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD!N8kH_bu7MuoLFw2JuRuhqS7BoDSXwjFBqd416LrD4PI)
- - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
- - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
- - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
- - [Departamento de Música da UFBA](http://dmusufba.com)
+- [Fórum da disciplina](https://forum.sampaio.me)
+- [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
+- [EK11](https://www.dropbox.com/s/j9krkhmz3hced95/ek11.pdf?dl=0)
+- [EK12](https://www.dropbox.com/s/1a23gik9a6ue3a1/ek12.pdf?dl=0)
+- [EK13](https://www.dropbox.com/s/06i481dwzoql1f1/ek13.pdf?dl=0)
+- [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
+- [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf) (36MB)
+- [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf) (15MB)
+- [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf) (83MB)
+- [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf) (126MB)
+- [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf) (28MB)
+- [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf) (67MB)
+- [RG, cap. empréstimo modal](https://mega.nz/#!H1YGhaBD!N8kH_bu7MuoLFw2JuRuhqS7BoDSXwjFBqd416LrD4PI)
+- [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
+- [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
+- [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
+- [Departamento de Música da UFBA](http://dmusufba.com)
 
 ## 12. Aulas em vídeo
 
@@ -426,7 +427,7 @@ Playlist do Youtube com resoluções de baixos e cantos dados.
 
 ## 13. Comunicação com o professor
 
-A comunicação com o professor fora do horário de aula é realizada   exclusivamente por email ou fórum Moodle.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
 <hr>
 
