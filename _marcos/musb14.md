@@ -393,7 +393,7 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 ## 13. Links
 
 - [Fórum da disciplina](https://forum.sampaio.me)
-- Playlist com vídeos no [YouTube](https://www.youtube.com/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3).
+- Playlist com vídeos no [Individious](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious).
 - [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
 - [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) - Calculadora de classes de notas
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de contornos

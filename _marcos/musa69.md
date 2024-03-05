@@ -215,14 +215,9 @@ Estatística
 - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
 - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/wp-content/uploads/MUSA69-LEM-I.pdf)
 - [Departamento de Música da UFBA](http://dmusufba.com)
+- [Resoluções de baixos e cantos dados em vídeo](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious)
 
-## 12. Aulas em vídeo
-
-Playlist do Youtube com resoluções de baixos e cantos dados.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## 13. Comunicação com o professor
+## 12. Comunicação com o professor
 
 A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
