@@ -331,7 +331,9 @@ analisada em conjunto durante as aulas:
 
 | Matrícula | M1  | M2  | M3  | C   | Média | Resultado |
 | --------- | --- | --- | --- | --- | ----- | --------- |
-|           |     |     |     |     |       |           |
+| 220119121 |     |     |     |     |       |           |
+| 221120481 |     |     |     |     |       |           |
+| 221215627 |     |     |     |     |       |           |
 {: .table .table-sm}
 
 Legenda:
