@@ -357,9 +357,9 @@ Estatística
 
 | Item          | Valor |
 | ------------- | ----- |
-| Média         | 6.11  |
-| Mediana       | 7.35  |
-| Desvio padrão | 2.84  |
+| Média         |       |
+| Mediana       |       |
+| Desvio padrão |       |
 {: .table .table-sm}
 
 ## 10. Bibliografia
