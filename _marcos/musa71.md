@@ -7,52 +7,41 @@ level: graduacao
 
 ## 1. Ementa
 
-Estudo da harmonia cromática, da construção de frases musicais e suas
-combinações. Estudo de formas musicais de estrutura única, binária e
-ternária. Apreciação de obras musicais referentes aos elementos
-estudados.
+Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados.
 
 ## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
 
-  1. Compreender, mediante análise, a harmonia e forma de pequenas
-     obras com trechos modulatórias e recursos cromáticos, tais como
-     _lieder_ e minuetos.
-  2. Realizar baixos cifrados e harmonizar melodias modulatórias com
-     recursos cromáticos a quatro vozes.
-  3. Compor _lieder_ binário e ternário.
+1. Compreender, mediante análise, a harmonia e forma de pequenas obras com trechos modulatórias e recursos cromáticos, tais como _lieder_ e minuetos.
+1. Realizar baixos cifrados e harmonizar melodias modulatórias com recursos cromáticos a quatro vozes.
+1. Compor _lieder_ binário e ternário.
 
 ## 3. Conteúdo programático
 
-  1. Mistura de modos
-  2. Acordes alterados, de 9ª, 11ª e 13ª.
-  3. Forma, contorno e gênero, desenvolvimento e combinação de frases
-  4. Pequenas formas: divisão em partes
-  5. Formas binárias, ternárias, únicas
+1. Mistura de modos
+1. Acordes alterados, de 9ª, 11ª e 13ª.
+1. Forma, contorno e gênero, desenvolvimento e combinação de frases
+1. Pequenas formas: divisão em partes
+1. Formas binárias, ternárias, únicas
 
 ## 4. Pré-requisitos
 
 São pré-requisitos para a disciplina:
 
-  1. Reconhecimento e aplicação de modulação
-  2. Reconhecimento e aplicação de acordes de sexta aumentada e sexta
-     napolitana
-  3. Harmonização a quatro vozes de melodias modulatórias, incluindo
-     condução de vozes
-  4. Realização de baixo cifrado a quatro vozes
+1. Reconhecimento e aplicação de modulação
+1. Reconhecimento e aplicação de acordes de sexta aumentada e sexta napolitana
+1. Harmonização a quatro vozes de melodias modulatórias, incluindo condução de vozes
+1. Realização de baixo cifrado a quatro vozes
 
 ## 5. Metodologia
 
 A metodologia para atingir os objetivos propostos é baseada em
 exercícios a serem realizados em classe e em casa:
 
-  1. Análise de relações harmônicas e formais de repertório de
-     pequenas obras instrumentais e seções de grandes obras, tais como
-     trio, minueto e tema de variações
-  2. Harmonização de melodias modulatórias com recursos cromáticos a
-     quatro vozes
-  3. Composição de pequenas formas musicais
+1. Análise de relações harmônicas e formais de repertório de pequenas obras instrumentais e seções de grandes obras, tais como trio, minueto e tema de variações
+1. Harmonização de melodias modulatórias com recursos cromáticos a quatro vozes
+1. Composição de pequenas formas musicais
 
 ## 6. Avaliação
 
@@ -66,9 +55,9 @@ A nota do semestre será a média aritmética das notas das provas.
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
-  1. direito assegurado por legislação específica.
-  2. motivo de saúde comprovado por atestado médico.
-  3. razão de força maior, a critério do professor.
+1. direito assegurado por legislação específica.
+1. motivo de saúde comprovado por atestado médico.
+1. razão de força maior, a critério do professor.
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
@@ -139,13 +128,11 @@ No período 2023--2025, o professor está coordenando o Colegiado de Composiçã
 
 Seleção de obras para análise ao longo do semestre.
 
-O material para análise está inteiramente disponível no site do IMSLP
-(buscar informações a respeito no Google). Caso algum link esteja
-quebrado, buscar direto no IMSLP e informar o professor.
+O material para análise está inteiramente disponível no site do [IMSLP](https://imslp.org) (buscar informações a respeito na internet).
 
 ### 8.1. Lista completa
 
-Lista em construção. Todas as partituras estão disponíveis no [IMSLP](https://imslp.org). Observar números e movimentos.
+Lista em construção. Todas as partituras estão disponíveis no IMSLP. Observar números e movimentos.
 
 1. Bach (J.S.), BWV16.6. Coral #007 (Riemenschneider) Nun lob, mein Seel, den Herren
 1. Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen Sterben
@@ -191,9 +178,7 @@ Lista em construção. Todas as partituras estão disponíveis no [IMSLP](https:
 
 ### 8.2. Lista organizada por conteúdo
 
-Partituras a serem usadas nas aulas. Todos os itens deverão ser
-levados impressos para a aula. Essa lista poderá sofrer ajustes ao
-longo do semestre.
+Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula. Essa lista poderá sofrer ajustes ao longo do semestre.
 
 #### 8.2.1. Revisão de frases, períodos, tonicalização e modulação
 
@@ -363,36 +348,21 @@ Estatística
 
 ## 10. Bibliografia
 
-1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice
-Leading_. 3rded. Thomson Schirmer.
-1. D'Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris:
-Durand.
-1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.  New
- York, NY: W.W. Norton and Company.
-1. Green, Douglass M. 1979. _Form in Tonal Music_: an Introduction to
-Analysis. Holt Rinehart and Winston.
-1. Grove, George, and Stanley Sadie. 1980. _The New Grove Dictionary
-of Music and Musicians_. Edited by Stanley Sadie.  2nded. London,
-Washington: Macmillan Publishers.
-1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in Analysis and
-Synthesis. Boston: Houghton Mifflin.
-1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal Harmony, with an
-Introduction to Twentieth-Century Music_.  3rd ed. New York, NY:
-McGraw-Hill.
-1. Palisca, Claude V. 2001. _Norton Anthology of Western
-Music_. 4thed. New York and London: W. W. Norton & Company.
+1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice Leading_. 3rded. Thomson Schirmer.
+1. D'Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris: Durand.
+1. Gauldin, Robert. 1997. _Harmonic Practice in Tonal Music_.  New York, NY: W.W. Norton and Company.
+1. Green, Douglass M. 1979. _Form in Tonal Music_: an Introduction to Analysis. Holt Rinehart and Winston.
+1. Grove, George, and Stanley Sadie. 1980. _The New Grove Dictionary of Music and Musicians_. Edited by Stanley Sadie.  2nded. London, Washington: Macmillan Publishers.
+1. Kohs, Ellis Bonoff. 1976. _Musical Form_: Studies in Analysis and Synthesis. Boston: Houghton Mifflin.
+1. Kostka, Stefan M., and Dorothy Payne. 1995. _Tonal Harmony, with an Introduction to Twentieth-Century Music_.  3rd ed. New York, NY: McGraw-Hill.
+1. Palisca, Claude V. 2001. _Norton Anthology of Western Music_. 4thed. New York and London: W. W. Norton & Company.
 1. Piston, Walter. 1959. _Harmony_. London: Victor Gollancz Ltd.
-1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary of
- Music_. Cambridge, MA: Belknap Press of Harvard University Press.
-1. Schoenberg, Arnold. 1967. _Fundamentals of Music
- Composition_. Faber and Faber.
-1. Schoenberg, Arnold. 1954. _Structural Functions of Harmony_.
-Edited by Leonard Stein. London: Faber and Faber.
-1. Schoenberg, Arnold. 1983. _Theory of Harmony_. Berkeley, CA:
-University of California Press.
+1. Randel, Don Michael, ed. 1986. _The New Harvard Dictionary of Music_. Cambridge, MA: Belknap Press of Harvard University Press.
+1. Schoenberg, Arnold. 1967. _Fundamentals of Music Composition_. Faber and Faber.
+1. Schoenberg, Arnold. 1954. _Structural Functions of Harmony_. Edited by Leonard Stein. London: Faber and Faber.
+1. Schoenberg, Arnold. 1983. _Theory of Harmony_. Berkeley, CA: University of California Press.
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza.
-1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_.  New York:
-Schirmer.
+1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_.  New York: Schirmer.
 1. "Musictheory.net." 2000. http://musictheory.net.
 1. "Resposta Tonal." 2015. https://respostatonal.com.
 

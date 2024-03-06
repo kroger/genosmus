@@ -44,8 +44,7 @@ Além de:
 1. Leitura e escrita em claves de Sol e Fá
 1. Solfejo de melodias simples
 
-Tais pré-requisitos fazem parte da prova de ingresso dos cursos de
-música.
+Tais pré-requisitos fazem parte da prova de ingresso dos cursos de música.
 
 ## 6. Avaliação
 
@@ -65,8 +64,7 @@ O aluno que faltar às provas terá direito à segunda chamada se a requerer at�
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda chamada implicará na manutenção automática e definitva da nota zero. Para maiores detalhes consultar o Artigo 115 do Regulamento de Ensino de Graduação.
 
-A data de realização de segunda chamada está prevista no cronograma da
-disciplina.
+A data de realização de segunda chamada está prevista no cronograma da disciplina.
 
 ## 7. Cronograma
 
