@@ -205,14 +205,14 @@ Aulas 5 e 6
 
 #### 8.2.4. Prática - harmonia cromática
 
-Aulas 7 e 8
+Aula 7
 
 Obras não finalizadas em aulas anteriores
 
 #### 8.2.5. Conceitos de forma e características gerais das frases
 
 <!-- Aula 10, dia -->
-Aula 9, dia 25/04/23
+Aula 9
 
 - Schumann op. 68, n. 7
 - Clementi, op. 36, n. 1, mov. 1
@@ -220,7 +220,7 @@ Aula 9, dia 25/04/23
 #### 8.2.6. Estrutura harmônica da frase
 
 <!-- Aula 11 -->
-Aula 10, dia 27/04/23
+Aula 10
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -229,7 +229,7 @@ Aula 10, dia 27/04/23
 #### 8.2.7. Estrutura melódica da frase
 
 <!-- Aulas 12 e 13 -->
-Aulas 11 e 12, dias 02 e 04/05
+Aulas 11 e 12
 
 - Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 - Clementi, op. 36, n. 1, mov. 1
@@ -240,7 +240,7 @@ Aulas 11 e 12, dias 02 e 04/05
 #### 8.2.8. Desenvolvimento de frase
 
 <!-- Aula 14 -->
-Aula 13, dia 09/05
+Aula 13
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
@@ -251,7 +251,7 @@ Aula 13, dia 09/05
 #### 8.2.9. Combinação de frases, detalhamento de períodos
 
 <!-- Aulas 15 e 16 -->
-Aulas 14 e 15, dias 11 e 16/05
+Aulas 14 a 16
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -261,7 +261,7 @@ Aulas 14 e 15, dias 11 e 16/05
 
 #### 8.2.10. Pequenas formas: partes, desenho e movimento harmônico
 
-Aulas 20 e 21
+Aulas 18 e 19
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -273,7 +273,7 @@ Aulas 20 e 21
 
 #### 8.2.11. Formas binárias: contínuas e secionais
 
-Aulas 22 e 23
+Aulas 20 e 21
 
 - Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
   Sterben.
@@ -295,7 +295,7 @@ Aula 23, dia 28/05/2019
 
 #### 8.2.12. Formas ternárias: contínuas e secionais
 
-Aula 24
+Aula 22 e 23
 
 [adicionar exemplo secional]
 
@@ -303,7 +303,7 @@ Aula 24
 
 #### 8.2.13. Análise de pequenas formas
 
-Aulas 25 e 26
+Aulas 24 e 25
 
 - Beethoven op. 26, mov. 3  (p 10 (198) e p 11 (199))
 - Brahms, op. 49, n. 4 (Wiegenlied)
