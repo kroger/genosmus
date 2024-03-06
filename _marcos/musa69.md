@@ -79,9 +79,9 @@ No período 2023--2025, o professor está coordenando o Colegiado de Composiçã
 |    3 | 19-03-2024 | Ter  | Tríades a quatro vozes e cifras (pos. fund.)       |
 |    4 | 21-03-2024 | Qui  | Encadeamentos de tríades (pos. fund.)              |
 |    5 | 26-03-2024 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
+|      | 28-03-2024 | Qui  | **Feriado (pré): Semana Santa**                    |
 |    6 | 02-04-2024 | Ter  | Encadeamentos de tríades (pos. fund e invertidas)  |
 |    7 | 04-04-2024 | Qui  | Ciclo de quintas, sucessões, progressões, bx. dado |
-|      | 28-03-2024 | Qui  | **Feriado: Semana Santa**                          |
 |    8 | 09-04-2024 | Ter  | Prova I                                            |
 |      | 11-04-2024 | Qui  | **Ausência do professor (a confirmar)**            |
 |    9 | 16-04-2024 | Ter  | Tríades a quatro vozes e cifras (2a. inversão)     |
@@ -91,24 +91,24 @@ No período 2023--2025, o professor está coordenando o Colegiado de Composiçã
 |   13 | 30-04-2024 | Ter  | Prática de composição, harmonização e análise      |
 |   14 | 02-05-2024 | Qui  | Dominante secundária                               |
 |   15 | 07-05-2024 | Ter  | Notas melódicas - ritardo, suspensão               |
-|      | 09-05-2024 | Qui  | **Reposição demandas do Colegiado**                |
-|   16 | 14-05-2024 | Ter  | Prova II                                           |
-|   17 | 16-05-2024 | Qui  | Acordes de sétima da dominante                     |
-|   18 | 21-05-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   19 | 23-05-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   16 | 09-05-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
+|   17 | 14-05-2024 | Ter  | Prova II                                           |
+|   18 | 16-05-2024 | Qui  | Acordes de sétima da dominante                     |
+|   19 | 21-05-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   20 | 23-05-2024 | Qui  | Prática de composição, harmonização e análise      |
 |      | 28-05-2024 | Ter  | **Feriado: Corpus Christi**                        |
-|   20 | 30-05-2024 | Qui  | Notas melódicas - apojatura e escapada             |
-|   21 | 04-06-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   22 | 06-06-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   23 | 11-06-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
-|      | 13-06-2024 | Qui  | **Reposição demandas do Colegiado**                |
-|   24 | 18-06-2024 | Ter  | Prova III                                          |
-|      | 20-06-2024 | Qui  | **Feriado: São João**                              |
-|   25 | 25-06-2024 | Ter  | Segunda chamada                                    |
-|      | 27-06-2024 | Qui  | **Feriado: Independência da Bahia**                |
-|      | 02-07-2024 | Ter  | **Reservado para correção de provas (sem aula)**   |
-|   26 | 04-07-2024 | Qui  | Entrega de resultados                              |
-|   27 | 09-07-2024 | Ter  | Reservado para reposição emergencial               |
+|   21 | 30-05-2024 | Qui  | Notas melódicas - apojatura e escapada             |
+|   22 | 04-06-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   23 | 06-06-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   24 | 11-06-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
+|   25 | 13-06-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
+|   26 | 18-06-2024 | Ter  | Prova III                                          |
+|      | 20-06-2024 | Qui  | **Reservado para correção de provas (sem aula)**   |
+|      | 25-06-2024 | Ter  | **Feriado (pós): São João**                        |
+|   27 | 27-06-2024 | Qui  | Segunda chamada                                    |
+|      | 02-07-2024 | Ter  | **Feriado: Independência da Bahia**                |
+|   28 | 04-07-2024 | Qui  | Entrega de resultados                              |
+|   29 | 09-07-2024 | Ter  | Reservado para reposição emergencial               |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio

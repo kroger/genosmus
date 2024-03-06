@@ -142,7 +142,7 @@ modificados de acordo com a necessidade e eventualidade.
 | ---- | ---------- | --- | -------------------------------------------------------- |
 | 1    | 14-03-2024 | Qui | Apresentação, Politonalidade                             |
 | 2    | 21-03-2024 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
-|      | 28-03-2024 | Qui | **Feriado: Semana Santa**                                |
+|      | 28-03-2024 | Qui | **Feriado (pré): Semana Santa**                          |
 | 3    | 04-04-2024 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
 |      | 11-04-2024 | Qui | **Ausência do professor (a confirmar)**                  |
 | 4    | 18-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
