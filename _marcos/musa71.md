@@ -67,7 +67,7 @@ A data de realização de segunda chamada está prevista no cronograma da discip
 
 O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo com a necessidade e eventualidade.
 
-No período 2023--2025, o professor está coordenando o Colegiado de Composição e Regência. Essa função inclui o atendimento a compromissos que, regimentalmente, precedem qualquer atividade de ensino. Para o caso de algum desses compromissos ocorrer no horário de aula, o cronograma dispõe dos eventos "Reposição a demandas do do Colegiado". Se não houver necessidade de reposição, essas aulas serão usadas para a realização de exercícios de composição, harmonização e análise.
+Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados. Por prevenção, o cronograma dispõe de aulas de reposição de conteúdo. Caso não haja necessidade de reposição, essas aulas serão usadas para exercícios práticos.
 
 | Aula | Data       | Dia  | Conteúdo                                                 |
 | ---: | :--------- | :--- | :------------------------------------------------------- |
