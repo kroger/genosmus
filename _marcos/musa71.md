@@ -182,7 +182,7 @@ Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impress
 
 #### 8.2.1. Revisão de frases, períodos, tonicalização e modulação
 
-Aula 1
+Aula 1 (ver data em [cronograma](#7-cronograma)).
 
 - Schumann op. 68, n. 7
 - Mozart K545, mov. 1
@@ -190,7 +190,7 @@ Aula 1
 
 #### 8.2.2. Empréstimo modal
 
-Aulas 2 e 3
+Aulas 2 e 3 (ver data em [cronograma](#7-cronograma)).
 
 - Schubert, Sehnsucht D310B
 - Exemplos do capítulo de empréstimo modal de RG (ver Fórum). Esses
@@ -198,21 +198,21 @@ Aulas 2 e 3
 
 #### 8.2.3. Acordes de nona, alterados, etc.
 
-Aulas 5 e 6
+Aulas 5 e 6 (ver data em [cronograma](#7-cronograma)).
 
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
 #### 8.2.4. Prática - harmonia cromática
 
-Aula 7
+Aula 7 (ver data em [cronograma](#7-cronograma)).
 
 Obras não finalizadas em aulas anteriores
 
 #### 8.2.5. Conceitos de forma e características gerais das frases
 
 <!-- Aula 10, dia -->
-Aula 9
+Aula 9 (ver data em [cronograma](#7-cronograma)).
 
 - Schumann op. 68, n. 7
 - Clementi, op. 36, n. 1, mov. 1
@@ -220,7 +220,7 @@ Aula 9
 #### 8.2.6. Estrutura harmônica da frase
 
 <!-- Aula 11 -->
-Aula 10
+Aula 10 (ver data em [cronograma](#7-cronograma)).
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -229,7 +229,7 @@ Aula 10
 #### 8.2.7. Estrutura melódica da frase
 
 <!-- Aulas 12 e 13 -->
-Aulas 11 e 12
+Aulas 11 e 12 (ver data em [cronograma](#7-cronograma)).
 
 - Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 - Clementi, op. 36, n. 1, mov. 1
@@ -240,7 +240,7 @@ Aulas 11 e 12
 #### 8.2.8. Desenvolvimento de frase
 
 <!-- Aula 14 -->
-Aula 13
+Aula 13 (ver data em [cronograma](#7-cronograma)).
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
@@ -251,7 +251,7 @@ Aula 13
 #### 8.2.9. Combinação de frases, detalhamento de períodos
 
 <!-- Aulas 15 e 16 -->
-Aulas 14 a 16
+Aulas 14 a 16 (ver data em [cronograma](#7-cronograma)).
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -261,7 +261,7 @@ Aulas 14 a 16
 
 #### 8.2.10. Pequenas formas: partes, desenho e movimento harmônico
 
-Aulas 18 e 19
+Aulas 18 e 19 (ver data em [cronograma](#7-cronograma)).
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -273,7 +273,7 @@ Aulas 18 e 19
 
 #### 8.2.11. Formas binárias: contínuas e secionais
 
-Aulas 20 e 21
+Aulas 20 e 21 (ver data em [cronograma](#7-cronograma)).
 
 - Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
   Sterben.
@@ -295,7 +295,7 @@ Aula 23, dia 28/05/2019
 
 #### 8.2.12. Formas ternárias: contínuas e secionais
 
-Aula 22 e 23
+Aulas 22 e 23 (ver data em [cronograma](#7-cronograma)).
 
 [adicionar exemplo secional]
 
@@ -303,7 +303,7 @@ Aula 22 e 23
 
 #### 8.2.13. Análise de pequenas formas
 
-Aulas 24 e 25
+Aulas 24 e 25 (ver data em [cronograma](#7-cronograma)).
 
 - Beethoven op. 26, mov. 3  (p 10 (198) e p 11 (199))
 - Brahms, op. 49, n. 4 (Wiegenlied)
