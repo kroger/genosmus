@@ -395,9 +395,9 @@ Gary L. Wittlich, 322–87. Englewood Cliffs, NJ: Prentice Hall.
 - [Fórum da disciplina](https://forum.sampaio.me)
 - Playlist com vídeos no [Individious](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClLBNT0sWKN3BOZDhwjp1F3). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious).
 - [Conteúdo programático](http://dmusufba.com/docs/conteudos/pdf/MUSB14%20Composicao%20V.pdf) aprovado pelo Departamento de Música
-- [PC Calculate](http://www.mta.ca/pc-set/calculator/pc_calculate.html) - Calculadora de classes de notas
-- [Contour Metrics](https://contour.sampaio.me) - Calculadora de contornos
+- [Zarlino](https://zsuite.sampaio.me/pt-br) - Suíte de ferramentas musicais (contornos, conjuntos, etc.)
 - [Dobrado 182](https://jornalggn.com.br/sites/default/files/documentos/dob000117.pdf) - Partitura
+- [Curso de Teoria Pós-tonal](https://musica.ufma.br/proj_ext/tpt/tpt.html) Ricardo Bordini, UFMA
 
 <hr>
 
