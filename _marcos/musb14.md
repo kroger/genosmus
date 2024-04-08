@@ -144,19 +144,19 @@ modificados de acordo com a necessidade e eventualidade.
 | 2    | 21-03-2024 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
 |      | 28-03-2024 | Qui | **Feriado (pré): Semana Santa**                          |
 | 3    | 04-04-2024 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
-|      | 11-04-2024 | Qui | **Ausência do professor (a confirmar)**                  |
-| 4    | 18-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
-| 5    | 25-04-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 02-05-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 09-05-2024 | Qui | Politonalidade e policordes. Miniatura 3                 |
-| 8    | 16-05-2024 | Qui | Pós-tonalismo, serialismo e indeterminação               |
-| 9    | 23-05-2024 | Qui | Consulta composição final 1                              |
+| 4    | 11-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
+| 5    | 18-04-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
+| 6    | 25-04-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
+| 7    | 02-05-2024 | Qui | Politonalidade e policordes. Miniatura 3                 |
+| 8    | 09-05-2024 | Qui | Pós-tonalismo, serialismo e indeterminação               |
+| 9    | 16-05-2024 | Qui | Consulta composição final 1                              |
+| 10   | 23-05-2024 | Qui | Consulta composição final 2                              |
 |      | 30-05-2024 | Qui | **Feriado: Corpus Christi**                              |
-| 10   | 06-06-2024 | Qui | Consulta composição final 2                              |
-| 11   | 13-06-2024 | Qui | Consulta composição final 3                              |
-| 12   | 20-06-2024 | Qui | Consulta composição final 4                              |
-| 13   | 27-06-2024 | Qui | Entrega da composição final e relatório                  |
-| 14   | 04-07-2024 | Qui | Reservado para reposição emergencial                     |
+| 11   | 06-06-2024 | Qui | Consulta composição final 3                              |
+| 12   | 13-06-2024 | Qui | Consulta composição final 4                              |
+| 13   | 20-06-2024 | Qui | Consulta composição final 5                              |
+| 14   | 27-06-2024 | Qui | Entrega da composição final e relatório                  |
+| 15   | 04-07-2024 | Qui | Reservado para reposição emergencial                     |
 {: .table .table-sm}
 
 ## 9. Trabalhos
