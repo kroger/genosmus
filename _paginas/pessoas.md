@@ -27,11 +27,10 @@ title: Pessoas
 
 #### Graduação
 
-- Daniel Costa Oliveira
-- Jaderson Cardona de Oliveira
-- Kevin Macedo
+- Daniel Lopes de Oliveira
 - Lisa Mascarenhas Gusmão
 - Paulo Roberto Pitta da Fonseca Filho
+- Renato Alves da Silva Filho
 - Vicente Sanches de Oliveira
 
 ## Ex-membros
@@ -61,3 +60,6 @@ Pessoas que colaboraram com o Genos:
 - Carla Patrícia Henriques de Castro (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
 - Matheus Travassos de Oliveira Ramos (bolsista de Iniciação Científica entre ago/2019 e jul/2020)
 - Pedro de Andrade Vieira (voluntário em pesquisa em 2020)
+- Daniel Costa Oliveira (voluntário de pesquisa em 2022)
+- Kevin Macedo (voluntário de pesquisa em 2022)
+- Jaderson Cardona de Oliveira (bolsista de Iniciação Científica entre ago/2020 e set/2023)
