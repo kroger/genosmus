@@ -11,7 +11,7 @@ exclude: [.idea, img, vendor, .bundle, bower_components, "_pedro/anterior", "out
 collections:
   paginas:
     output: true
-    permalink: /:path
+    permalink: /:path/
   pedro:
     output: true
     permalink: /:collection/:name
