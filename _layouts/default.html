@@ -38,14 +38,9 @@
                 <a class="p-2 text-muted" href="/">{{ site.title | escape }}</a>
                 <a class="p-2 text-muted" href=""></a>
 
-                {% for link in site.data.navigation.main %}
-                {% if link.url contains "http" %}
-                {% assign url = link.url %}
-                {% else %}
-                {% assign url = link.url | relative_url %}
-                {% endif %}
-                <a class="p-2 text-muted" href="{{ url }}">{{ link.title }}</a>
-                {% endfor %}
+                <a class="p-2 text-muted" href="/marcos/">Marcos</a>
+                <a class="p-2 text-muted" href="pesquisa.html">Pesquisa</a>
+                <a class="p-2 text-muted" href="pessoas.html">Pessoas</a>
             </nav>
         </div>
     </header>
