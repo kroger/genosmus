@@ -1,6 +1,4 @@
 main:
-  - title: "Pedro"
-    url: /pedro/
   - title: "Marcos"
     url: /marcos/
   - title: "Pesquisa"
