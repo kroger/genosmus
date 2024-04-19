@@ -23,7 +23,7 @@ title: Pessoas
 
 #### Mestrado
 
-- Sidnei Marques de Carvalho
+- Sidnei Marques de Oliveira
 
 #### Graduação
 
