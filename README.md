@@ -1,29 +1,23 @@
 O site do [Genos](https://genosmus.com/) é desenvolvido usando o
-[Jekyll](https://jekyllrb.com) e hospedado no
-[Netlify](https://app.netlify.com).
+[Jekyll](https://jekyllrb.com) e hospedado no GitHub Pages.
 
 ## Organização
 
 Os diretórios principais são:
 
-- **_paginas**: As páginas principais do site como *index*, *ensino* e
-  *pesquisa* estão nesse diretório
-
 - **_marcos**: páginas com as disciplinas de Marcos. As disciplinas do
   semestre atual devem ser listadas em `_data/docentes.yml`. A lista
   das disciplinas é gerada automaticamente.
 
-- **_pedro**: páginas com as disciplinas de Pedro. As disciplinas do
-  semestre atual devem estar no diretório `_pedro`, e as disciplinas
-  de semestres anteriores no diretório `anterior`. A lista das
-  disciplinas é gerada automaticamente.
-
 - **_data/docentes.yml**: dados dos docentes como email, website, e
   nome.
 
+As páginas principais do site como *index*, *ensino* e *pesquisa* estão no
+diretório principal.
+
 ## Publicando Alterações no Site
 
-O site é publicado automaticamente pelo Netlify após um `git commit`.
+O site é publicado automaticamente pelo GitHub Pages após um `git commit`.
 A maneira mais fácil de fazer uma alteração no site é editando
 diretamente pela interface web do Github:
 
@@ -38,7 +32,7 @@ repositório com o site e instalar o Jekyll.
 
     git clone git@github.com:kroger/genosmus.git
 
-### 2. Instale a versão mais nova do Ruby (3.0)
+### 2. Instale a versão mais nova do Ruby (3.3)
 
 No Mac, com o homebrew:
 
@@ -48,8 +42,13 @@ No Mac, com o homebrew:
 ou instale com com o `rbenv` (vai compilar a versão do Ruby)
 
   	brew install rbenv
-    rbenv install 3.0
-    rbenv global 3.0.0
+    rbenv install 3.3.0
+    rbenv global 3.3.0
+
+Em versões recentes do macOS com M1 eu tive que instalar o `posix-spawn` com o
+comando abaixo para evitar [errors de compilação][2]:
+
+    gem install posix-spawn -- --with-cflags="-Wno-incompatible-function-pointer-types"
 
 No Linux, ver documentação [Jekyll][1]:
 
@@ -80,21 +79,5 @@ Esse comando vai executar `bundle exec jekyll serve`. Outros
 comando do Jekyll podem ser executados dessa maneira, como `bundle
 exec jekyll clean`, etc.
 
-## Configuração no Netlify
-
-A versão mais nova do Ruby disponível no Netlify é 2.6.2, enquanto a
-versão mais nova disponível (e que eu uso localmente para
-desenvolvimento) é 3.0.0.
-
-Uma opção seria usar `.ruby-version` mas para não ter que manter duas
-versões de Ruby localmente apenas para rodar esse site, o mais fácil é
-configurar a versão de Ruby na interface do Netlify. Em "Build &
-Deploy -> Environment -> Environment variables" e criar a variável
-`RUBY_VERSION` com valor `2.6.2`.
-
-## Email
-
-O email do genos é genos@genosmus.com e pode ser acessado em
-https://mail.zoho.com/zm/
-
 [1]: https://jekyllrb.com/docs/installation/ubuntu/
+[2]: https://github.com/rtomayko/posix-spawn/issues/92
