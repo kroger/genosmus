@@ -85,30 +85,30 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 |    8 | 09-04-2024 | Ter  | Prova I                                            |
 |    9 | 11-04-2024 | Qui  | Tríades a quatro vozes e cifras (2a. inversão)     |
 |   10 | 16-04-2024 | Ter  | Encadeamentos de tríades (todas)                   |
-|   11 | 18-04-2024 | Qui  | Harmonização de canto dado, colcheias              |
-|   12 | 23-04-2024 | Ter  | Encadeamentos de tríades (todas)                   |
-|   13 | 25-04-2024 | Qui  | Notas melódicas - passagem e bordadura             |
-|   14 | 30-04-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   15 | 02-05-2024 | Qui  | Dominante secundária                               |
-|   16 | 07-05-2024 | Ter  | Notas melódicas - ritardo, suspensão               |
-|   17 | 09-05-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
-|   18 | 14-05-2024 | Ter  | Prova II                                           |
-|   19 | 16-05-2024 | Qui  | Acordes de sétima da dominante                     |
-|   20 | 21-05-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   21 | 23-05-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   22 | 28-05-2024 | Ter  | Notas melódicas - apojatura e escapada             |
+|      | 18-04-2024 | Qui  | **Ausência do professor**                          |
+|   11 | 23-04-2024 | Ter  | Harmonização de canto dado, colcheias              |
+|      | 25-04-2024 | Qui  | **Ausência do professor**                          |
+|   12 | 30-04-2024 | Ter  | Notas melódicas - passagem e bordadura             |
+|   13 | 02-05-2024 | Qui  | Dominante secundária                               |
+|   14 | 07-05-2024 | Ter  | Notas melódicas - ritardo, suspensão               |
+|   15 | 09-05-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
+|   16 | 14-05-2024 | Ter  | Prova II                                           |
+|   17 | 16-05-2024 | Qui  | Acordes de sétima da dominante                     |
+|   18 | 21-05-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   19 | 23-05-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   20 | 28-05-2024 | Ter  | Notas melódicas - apojatura e escapada             |
 |      | 30-05-2024 | Qui  | **Feriado: Corpus Christi**                        |
-|   23 | 04-06-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   24 | 06-06-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   25 | 11-06-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
-|   26 | 13-06-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
-|   27 | 18-06-2024 | Ter  | Prova III                                          |
+|   21 | 04-06-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   22 | 06-06-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   23 | 11-06-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
+|   24 | 13-06-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
+|   25 | 18-06-2024 | Ter  | Prova III                                          |
 |      | 20-06-2024 | Qui  | **Reservado para correção de provas (sem aula)**   |
 |      | 25-06-2024 | Ter  | **Feriado (pós): São João**                        |
-|   28 | 27-06-2024 | Qui  | Segunda chamada                                    |
+|   26 | 27-06-2024 | Qui  | Segunda chamada                                    |
 |      | 02-07-2024 | Ter  | **Feriado: Independência da Bahia**                |
-|   29 | 04-07-2024 | Qui  | Entrega de resultados                              |
-|   30 | 09-07-2024 | Ter  | Reservado para reposição emergencial               |
+|   27 | 04-07-2024 | Qui  | Entrega de resultados                              |
+|   28 | 09-07-2024 | Ter  | Reservado para reposição emergencial               |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
