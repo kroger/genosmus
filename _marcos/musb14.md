@@ -138,6 +138,8 @@ A carga horária da disciplina é de 45 horas semestrais. De acordo com o [Regul
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
 
+**Obs**: o cronograma está ajustado para o retorno pós-greve.
+
 | Aula | Data       | Dia | Tópico                                                   |
 | ---- | ---------- | --- | -------------------------------------------------------- |
 | 1    | 14-03-2024 | Qui | Apresentação, Politonalidade                             |
@@ -147,16 +149,15 @@ modificados de acordo com a necessidade e eventualidade.
 | 4    | 11-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
 |      | 18-04-2024 | Qui | **Ausência do professor**                                |
 |      | 25-04-2024 | Qui | **Ausência do professor**                                |
-| 5    | 02-05-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 09-05-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 16-05-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
-| 8    | 23-05-2024 | Qui | Consulta composição final 1                              |
-|      | 30-05-2024 | Qui | **Feriado: Corpus Christi**                              |
-| 9    | 06-06-2024 | Qui | Consulta composição final 2                              |
-| 10   | 13-06-2024 | Qui | Consulta composição final 3                              |
-| 11   | 20-06-2024 | Qui | Consulta composição final 4                              |
-| 12   | 27-06-2024 | Qui | Entrega da composição final e relatório                  |
-| 13   | 04-07-2024 | Qui | Reservado para reposição emergencial                     |
+| 5    | 27-06-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
+| 6    | 04-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
+|      | 11-07-2024 | Qui | **Ausência do professor**                                |
+| 7    | 18-07-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
+| 8    | 25-07-2024 | Qui | Consulta composição final 1                              |
+| 9    | 01-08-2024 | Qui | Consulta composição final 2                              |
+| 10   | 08-08-2024 | Qui | Consulta composição final 3                              |
+| 11   | 15-08-2024 | Qui | Consulta composição final 4                              |
+| 12   | 22-08-2024 | Qui | Entrega da composição final e relatório                  |
 {: .table .table-sm}
 
 ## 9. Trabalhos

@@ -69,6 +69,8 @@ O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo co
 
 Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados. Por prevenção, o cronograma dispõe de aulas de reposição de conteúdo. Caso não haja necessidade de reposição, essas aulas serão usadas para exercícios práticos.
 
+**Obs**: o cronograma está ajustado para o retorno pós-greve.
+
 | Aula | Data       | Dia  | Conteúdo                                                 |
 | ---: | :--------- | :--- | :------------------------------------------------------- |
 |    1 | 12-03-2024 | Ter  | Revisão de tonicização e modulação                       |
@@ -85,27 +87,25 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 |      | 18-04-2024 | Qui  | **Ausência do professor**                                |
 |   11 | 23-04-2024 | Ter  | Estrutura melódica da frase                              |
 |      | 25-04-2024 | Qui  | **Ausência do professor**                                |
-|   12 | 30-04-2024 | Ter  | Desenvolvimento de frases                                |
-|   13 | 02-05-2024 | Qui  | Combinação de frases 1 - períodos                        |
-|   14 | 07-05-2024 | Ter  | Combinação de frases 2 - detalhamento de períodos        |
-|   15 | 09-05-2024 | Qui  | Reposição - Colegiado Comp./Reg.                         |
-|   16 | 14-05-2024 | Ter  | Prova II                                                 |
-|   17 | 16-05-2024 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.  |
-|   18 | 21-05-2024 | Ter  | Prática de harmonização, composição e análise            |
-|   19 | 23-05-2024 | Qui  | Pequenas formas: binária contínua e secional             |
-|   20 | 28-05-2024 | Ter  | Prática de harmonização, composição e análise            |
-|      | 30-05-2024 | Qui  | **Feriado: Corpus Christi**                              |
-|   21 | 04-06-2024 | Ter  | Pequenas formas: ternária contínua e secional            |
-|   22 | 06-06-2024 | Qui  | Prática de harmonização, composição e análise            |
-|   23 | 11-06-2024 | Ter  | Formas compostas e pequenas obras                        |
-|   24 | 13-06-2024 | Qui  | Reposição - Colegiado Comp./Reg.                         |
-|   25 | 18-06-2024 | Ter  | Prova III                                                |
-|      | 20-06-2024 | Qui  | **Reservado correção de provas (sem aula)**              |
-|      | 25-06-2024 | Ter  | **Feriado (pós): São João**                              |
-|   26 | 27-06-2024 | Qui  | Segunda chamada                                          |
+|      | 27-06-2024 | Qui  | **Reestruturação do semestre**                           |
 |      | 02-07-2024 | Ter  | **Feriado: Independência da Bahia**                      |
-|   27 | 04-07-2024 | Qui  | Entrega de resultados                                    |
-|   28 | 09-07-2024 | Ter  | Reservado para reposição emergencial                     |
+|   12 | 04-07-2024 | Qui  | Desenvolvimento de frases                                |
+|   13 | 09-07-2024 | Ter  | Combinação de frases 1 - períodos                        |
+|      | 11-07-2024 | Qui  | **Ausência do professor**                                |
+|   14 | 16-07-2024 | Ter  | Combinação de frases 2 - detalhamento de períodos        |
+|   15 | 18-07-2024 | Qui  | Reposição - Colegiado Comp./Reg.                         |
+|   16 | 23-07-2024 | Ter  | Prova II                                                 |
+|   17 | 25-07-2024 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.  |
+|   18 | 30-07-2024 | Ter  | Prática de harmonização, composição e análise            |
+|   19 | 01-08-2024 | Qui  | Pequenas formas: binária contínua e secional             |
+|   20 | 06-08-2024 | Ter  | Prática de harmonização, composição e análise            |
+|   21 | 08-08-2024 | Qui  | Pequenas formas: ternária contínua e secional            |
+|   22 | 13-08-2024 | Ter  | Prática de harmonização, composição e análise            |
+|   23 | 15-08-2024 | Qui  | Formas compostas e pequenas obras                        |
+|   24 | 20-08-2024 | Ter  | Reposição - Colegiado Comp./Reg.                         |
+|   25 | 22-08-2024 | Qui  | Prova III                                                |
+|   26 | 27-08-2024 | Ter  | Segunda chamada                                          |
+|   27 | 29-08-2024 | Qui  | Entrega de resultados                                    |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
