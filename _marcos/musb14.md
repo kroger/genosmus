@@ -149,15 +149,15 @@ modificados de acordo com a necessidade e eventualidade.
 | 4    | 11-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
 |      | 18-04-2024 | Qui | **Ausência do professor**                                |
 |      | 25-04-2024 | Qui | **Ausência do professor**                                |
-| 5    | 27-06-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 04-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
-|      | 11-07-2024 | Qui | **Ausência do professor**                                |
-| 7    | 18-07-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
-| 8    | 25-07-2024 | Qui | Consulta composição final 1                              |
-| 9    | 01-08-2024 | Qui | Consulta composição final 2                              |
-| 10   | 08-08-2024 | Qui | Consulta composição final 3                              |
-| 11   | 15-08-2024 | Qui | Consulta composição final 4                              |
-| 12   | 22-08-2024 | Qui | Entrega da composição final e relatório                  |
+|      | 27-06-2024 | Qui | **Reestruturação do semestre**                           |
+| 5    | 04-07-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
+| 6    | 11-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
+|      | 18-07-2024 | Qui | **Ausência do professor**                                |
+| 7    | 25-07-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
+| 8    | 01-08-2024 | Qui | Consulta composição final 1                              |
+| 9    | 08-08-2024 | Qui | Consulta composição final 2                              |
+| 10   | 15-08-2024 | Qui | Consulta composição final 3                              |
+| 11   | 22-08-2024 | Qui | Entrega da composição final e relatório                  |
 {: .table .table-sm}
 
 ## 9. Trabalhos
