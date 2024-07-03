@@ -240,18 +240,18 @@ Aulas 11 e 12 (ver data em [cronograma](#7-cronograma)).
 #### 8.2.8. Desenvolvimento de frase
 
 <!-- Aula 14 -->
-Aula 13 (ver data em [cronograma](#7-cronograma)).
+Aula 12 (ver data em [cronograma](#7-cronograma)).
 
 - Beethoven op. 57, mov. 1 (apenas primeira página)
 - Beethoven op. 67, mov. 3 (apenas primeira página)
 - Clementi, op. 36, n. 1, mov. 2
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
-- Schubert, op. 99, mov. 3 (apenas primeira página)
+- ~~Schubert, op. 99, mov. 3 (apenas primeira página)~~
 
 #### 8.2.9. Combinação de frases, detalhamento de períodos
 
 <!-- Aulas 15 e 16 -->
-Aulas 14 a 16 (ver data em [cronograma](#7-cronograma)).
+Aulas 13 a 15 (ver data em [cronograma](#7-cronograma)).
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -261,7 +261,7 @@ Aulas 14 a 16 (ver data em [cronograma](#7-cronograma)).
 
 #### 8.2.10. Pequenas formas: partes, desenho e movimento harmônico
 
-Aulas 18 e 19 (ver data em [cronograma](#7-cronograma)).
+Aulas 17 e 18 (ver data em [cronograma](#7-cronograma)).
 
 - Clementi, op. 36, n. 1, mov. 1
 - Clementi, op. 36, n. 1, mov. 2
@@ -273,7 +273,7 @@ Aulas 18 e 19 (ver data em [cronograma](#7-cronograma)).
 
 #### 8.2.11. Formas binárias: contínuas e secionais
 
-Aulas 20 e 21 (ver data em [cronograma](#7-cronograma)).
+Aulas 19 e 20 (ver data em [cronograma](#7-cronograma)).
 
 - Bach (J.S.), BWV262. Coral #153 (Riemenschneider) Alle Menschen Müssen
   Sterben.
@@ -295,7 +295,7 @@ Aula 23, dia 28/05/2019
 
 #### 8.2.12. Formas ternárias: contínuas e secionais
 
-Aulas 22 e 23 (ver data em [cronograma](#7-cronograma)).
+Aulas 21 e 22 (ver data em [cronograma](#7-cronograma)).
 
 [adicionar exemplo secional]
 
@@ -303,7 +303,7 @@ Aulas 22 e 23 (ver data em [cronograma](#7-cronograma)).
 
 #### 8.2.13. Análise de pequenas formas
 
-Aulas 24 e 25 (ver data em [cronograma](#7-cronograma)).
+Aulas 23 e 24 (ver data em [cronograma](#7-cronograma)).
 
 - Beethoven op. 26, mov. 3  (p 10 (198) e p 11 (199))
 - Brahms, op. 49, n. 4 (Wiegenlied)
