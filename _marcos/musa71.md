@@ -142,38 +142,38 @@ Lista em construção. Todas as partituras estão disponíveis no IMSLP. Observa
 1. Beethoven, op. 18 n. 1, mov. 1 (apenas 3 primeiras páginas)
 1. Beethoven op. 26, mov. 2 Trio  (p. 197 (9))
 1. Beethoven op. 26, mov. 3 (p 10 (198) e p 11 (199))
-1. Beethoven op. 57, mov. 1 (apenas primeira página).
-1. Beethoven op. 67, mov. 3 (apenas primeira página)
+1. Beethoven op. 57, mov. 1 (apenas primeira página) [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.23,_Op.57_%28Beethoven,_Ludwig_van%29)
+1. Beethoven op. 67, mov. 3 (apenas primeira página) [IMSLP](https://imslp.org/wiki/Symphony_No.5,_Op.67_%28Beethoven,_Ludwig_van%29)
 1. Brahms, op. 49, n. 4 (Wiegenlied)
-1. Clementi, op. 36, n. 1, mov. 1.
+1. Clementi, op. 36, n. 1, mov. 1. [IMSLP](https://imslp.org/wiki/6_Piano_Sonatinas,_Op.36_%28Clementi,_Muzio%29)
 1. Clementi, op. 36, n. 1, mov. 2.
 1. Clementi, op. 36, n. 1, mov. 3.
 1. Diabelli, op. 151, n. 1, mov. 1
 1. Diabelli, op. 151, n. 4, mov. 1
 1. Diabelli, op. 168, n. 1, mov. 2
-1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
-1. Haydn, Divertimento in C major, Hob. XVI:7
-1. Haydn, Divertimento in A major, Hob. XVI:5, mov. 2 (Menuetto e Trio)
+1. Franck, Sonata para violino e piano, mov. 1 (apenas primeira página) [IMSLP](https://imslp.org/wiki/Violin_Sonata_%28Franck,_C%C3%A9sar%29)
+1. Haydn, Divertimento in C major, Hob. XVI:7 [IMSLP](https://imslp.org/wiki/Divertimento_in_C_major,_Hob.XVI:7_(Haydn,_Joseph))
+1. Haydn, Divertimento in A major, Hob. XVI:5, mov. 2 (Menuetto e Trio) [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.5%2C_Op.10_No.1_(Beethoven%2C_Ludwig_van))
 1. Haydn, Quarteto de Cordas Op. 17, n. 3, mov. 1 (Tema) Hob. XIII:27
 1. Haydn, Quarteto de Cordas Op. 50, n. 1, mov. 3 Hob. XIII:44
 1. Mendelssohn, op. 72, n. 1
-1. Mozart K284, mov. iii, Tema (p. 10 (54))
-1. Mozart K330, mov. ii (p. 111 (7))
-1. Mozart K331, mov. i, Tema
-1. Mozart K545, mov. i
-1. Mozart K570, mov. ii (p. 6 do pdf)
-1. Mozart K576, mov. ii
+1. Mozart K284, mov. iii, Tema (p. 10 (54)) [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.6_in_D_major,_K.284/205b_(Mozart,_Wolfgang_Amadeus))
+1. Mozart K330, mov. ii (p. 111 (7)) [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.10_in_C_major,_K.330/300h_(Mozart,_Wolfgang_Amadeus))
+1. Mozart K331, mov. i, Tema [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.11_in_A_major,_K.331/300i_(Mozart,_Wolfgang_Amadeus))
+1. Mozart K545, mov. i [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.16_in_C_major,_K.545_(Mozart,_Wolfgang_Amadeus))
+1. Mozart K570, mov. ii (p. 6 do pdf)[IMSLP](https://imslp.org/wiki/Piano_Sonata_No.17_in_B-flat_major,_K.570_(Mozart,_Wolfgang_Amadeus))
+1. Mozart K576, mov. ii [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.18_in_D_major,_K.576_(Mozart,_Wolfgang_Amadeus))
 1. Mozart K597
 1. Schubert, An den Mond. D 468
 1. Schubert, Sehnsucht D310B
 1. Schubert, op. 29, mov. 1 (apenas primeira página)
 1. Schubert, op. 99, mov. 3 (apenas primeira página) Confirmar
-1. Schumann, Álbum para Juventude op. 68, n. 2
+1. Schumann, Álbum para Juventude op. 68, n. 2 [IMSLP](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend%2C_Op.68_(Schumann%2C_Robert))
 1. Schumann, Álbum para Juventude op. 68, n. 7
 1. Schumann, Álbum para Juventude op. 68, n. 8
 1. Schumann, Álbum para Juventude op. 68, n. 9
 1. Schumann, Álbum para Juventude op. 68, n. 17
-1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit".
+1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit". [IMSLP](https://imslp.org/wiki/Kinderszenen,_Op.15_(Schumann,_Robert))
 1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei".
 
 ### 8.2. Lista organizada por conteúdo
@@ -386,6 +386,8 @@ Estatística
 - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Resoluções de baixos e cantos dados em vídeo](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious)
+- [IMSLP, sonatas de Haydn](https://imslp.org/wiki/Piano_Sonatas_(Haydn,_Joseph))
+- [IMSLP, sonatas de Mozart](https://imslp.org/wiki/19_Sonatas_for_the_Piano_(Mozart,_Wolfgang_Amadeus))
 
 ## 12. Comunicação com o professor
 
