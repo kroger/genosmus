@@ -151,8 +151,8 @@ modificados de acordo com a necessidade e eventualidade.
 |      | 25-04-2024 | Qui | **Ausência do professor**                                |
 |      | 27-06-2024 | Qui | **Reestruturação do semestre**                           |
 | 5    | 04-07-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 11-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
-|      | 18-07-2024 | Qui | **Ausência do professor**                                |
+|      | 11-07-2024 | Qui | **Ausência do professor**                                |
+| 6    | 18-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
 | 7    | 25-07-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
 | 8    | 01-08-2024 | Qui | Consulta composição final 1                              |
 | 9    | 08-08-2024 | Qui | Consulta composição final 2                              |
