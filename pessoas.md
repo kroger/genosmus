@@ -11,6 +11,7 @@ title: Pessoas
 - [Dr. Marcos da Silva Sampaio](https://marcos.sampaio.me)
 - [Dr. Guilherme Bertissolo](https://guilhermebertissolo.wordpress.com/)
 - [Dr. Alexandre Espinheira](https://alespinheira.wordpress.com/)
+- [Dr. Lucas Bonetti](https://www.lucasbonetti.com.br/)
 
 ### Estudantes
 
