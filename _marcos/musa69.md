@@ -96,16 +96,16 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 |   13 | 09-07-2024 | Ter  | Dominante secundária                               |
 |      | 11-07-2024 | Qui  | **Ausência do professor**                          |
 |   14 | 16-07-2024 | Ter  | Notas melódicas - ritardo, suspensão               |
-|   15 | 18-07-2024 | Qui  | Reposição - Colegiado Comp./Reg.                   |
-|   16 | 23-07-2024 | Ter  | Prova II                                           |
-|   17 | 25-07-2024 | Qui  | Acordes de sétima da dominante                     |
-|   18 | 30-07-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   15 | 18-07-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   16 | 23-07-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   17 | 25-07-2024 | Qui  | Prova II                                           |
+|   18 | 30-07-2024 | Ter  | Acordes de sétima da dominante                     |
 |   19 | 01-08-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   20 | 06-08-2024 | Ter  | Notas melódicas - apojatura e escapada             |
-|   21 | 08-08-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   20 | 06-08-2024 | Ter  | Prática de composição, harmonização e análise      |
+|   21 | 08-08-2024 | Qui  | Notas melódicas - apojatura e escapada             |
 |   22 | 13-08-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   23 | 15-08-2024 | Qui  | Acordes de sétima da dominante (inversão 1)        |
-|   24 | 20-08-2024 | Ter  | Reposição - Colegiado Comp./Reg.                   |
+|   23 | 15-08-2024 | Qui  | Prática de composição, harmonização e análise      |
+|   24 | 20-08-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
 |   25 | 22-08-2024 | Qui  | Prova III                                          |
 |   26 | 27-08-2024 | Ter  | Segunda chamada                                    |
 |   27 | 29-08-2024 | Qui  | Entrega de resultados                              |

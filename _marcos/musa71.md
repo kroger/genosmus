@@ -93,16 +93,16 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 |   13 | 09-07-2024 | Ter  | Combinação de frases 1 - períodos                        |
 |      | 11-07-2024 | Qui  | **Ausência do professor**                                |
 |   14 | 16-07-2024 | Ter  | Combinação de frases 2 - detalhamento de períodos        |
-|   15 | 18-07-2024 | Qui  | Reposição - Colegiado Comp./Reg.                         |
-|   16 | 23-07-2024 | Ter  | Prova II                                                 |
-|   17 | 25-07-2024 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.  |
-|   18 | 30-07-2024 | Ter  | Prática de harmonização, composição e análise            |
-|   19 | 01-08-2024 | Qui  | Pequenas formas: binária contínua e secional             |
-|   20 | 06-08-2024 | Ter  | Prática de harmonização, composição e análise            |
-|   21 | 08-08-2024 | Qui  | Pequenas formas: ternária contínua e secional            |
-|   22 | 13-08-2024 | Ter  | Prática de harmonização, composição e análise            |
-|   23 | 15-08-2024 | Qui  | Formas compostas e pequenas obras                        |
-|   24 | 20-08-2024 | Ter  | Reposição - Colegiado Comp./Reg.                         |
+|   15 | 18-07-2024 | Qui  | Prática de harmonização, composição e análise            |
+|   16 | 23-07-2024 | Ter  | Prática de harmonização, composição e análise            |
+|   17 | 25-07-2024 | Qui  | Prova II                                                 |
+|   18 | 30-07-2024 | Ter  | Pequenas formas: divisão em partes, desenho, mov. harm.  |
+|   19 | 01-08-2024 | Qui  | Prática de harmonização, composição e análise            |
+|   20 | 06-08-2024 | Ter  | Pequenas formas: binária contínua e secional             |
+|   21 | 08-08-2024 | Qui  | Prática de harmonização, composição e análise            |
+|   22 | 13-08-2024 | Ter  | Pequenas formas: ternária contínua e secional            |
+|   23 | 15-08-2024 | Qui  | Prática de harmonização, composição e análise            |
+|   24 | 20-08-2024 | Ter  | Formas compostas e pequenas obras                        |
 |   25 | 22-08-2024 | Qui  | Prova III                                                |
 |   26 | 27-08-2024 | Ter  | Segunda chamada                                          |
 |   27 | 29-08-2024 | Qui  | Entrega de resultados                                    |
