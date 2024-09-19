@@ -5,32 +5,19 @@ toc: true
 level: graduacao
 ---
 
+Plano de curso da disciplina Literatura e Estruturação Musical I, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
+
 ## 1. Ementa
 
 Revisão da teoria musical básica; estudo dos princípios do contraponto estrito, da harmonia, e da construção de frases musicais básicas. Apreciação de obras musicais referentes aos elementos estudados.
+
+**OBS**: Esta ementa está desatualizada e aguarda tramitação de reestruturação curricular para atualização.
 
 ## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de compreender as relações harmônicas de obras diatônicas simples, realizar baixos cifrados diatônicos a quatro vozes, bem como harmonizar melodias diatônicas simples a quatro vozes, com domínio de condução de vozes.
 
-## 3. Conteúdo programático
-
-1. Revisão da teoria básica: intervalos musicais, escalas e suas estruturas, acordes (tríades) e suas inversões e cifragens, progressões de acordes.
-1. Princípios da harmonia: progressões, cadências. Acordes de 7ª de dominante. Cifragens. Exercícios de harmonização de canto dado e realização de baixo dado.
-1. A frase musical. Motivos, membros.
-1. Princípios da análise musical, com peças curtas e harmonias simples.
-
-## 4. Metodologia
-
-A metodologia para atingir os objetivos propostos é baseada em
-exercícios a serem realizados em classe e em casa:
-
-1. Análise de relações harmônicas e princípios de condução de vozes de repertório coral
-1. Harmonização a quatro vozes de melodias diatônicas e modulatórias simples
-1. Realização a quatro vozes de baixo cifrado com harmonia diatônica e modulatória simples
-1. Realização de exercícios exaustivos de condução de vozes
-
-## 5. Pré-requisitos
+## 3. Pré-requisitos
 
 São pré-requisitos dessa disciplina o entendimento da estrutura e a
 percepção de:
@@ -45,6 +32,23 @@ Além de:
 1. Solfejo de melodias simples
 
 Tais pré-requisitos fazem parte da prova de ingresso dos cursos de música.
+
+## 4. Conteúdo programático
+
+1. Revisão da teoria básica: intervalos musicais, escalas e suas estruturas, acordes (tríades) e suas inversões e cifragens, progressões de acordes.
+1. Princípios da harmonia: progressões, cadências. Acordes de 7ª de dominante. Cifragens. Exercícios de harmonização de canto dado e realização de baixo dado.
+1. A frase musical. Motivos, membros.
+1. Princípios da análise musical, com peças curtas e harmonias simples.
+
+## 5. Metodologia
+
+A metodologia para atingir os objetivos propostos é baseada em
+exercícios a serem realizados em classe e em casa:
+
+1. Análise de relações harmônicas e princípios de condução de vozes de repertório coral
+1. Harmonização a quatro vozes de melodias diatônicas e modulatórias simples
+1. Realização a quatro vozes de baixo cifrado com harmonia diatônica e modulatória simples
+1. Realização de exercícios exaustivos de condução de vozes
 
 ## 6. Avaliação
 

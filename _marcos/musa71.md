@@ -9,6 +9,8 @@ level: graduacao
 
 Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados.
 
+**OBS**: Esta ementa está desatualizada e aguarda tramitação de reestruturação curricular para atualização.
+
 ## 2. Objetivos
 
 Ao final do curso espera-se que o estudante seja capaz de:
@@ -17,15 +19,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 1. Realizar baixos cifrados e harmonizar melodias modulatórias com recursos cromáticos a quatro vozes.
 1. Compor _lieder_ binário e ternário.
 
-## 3. Conteúdo programático
-
-1. Mistura de modos
-1. Acordes alterados, de 9ª, 11ª e 13ª.
-1. Forma, contorno e gênero, desenvolvimento e combinação de frases
-1. Pequenas formas: divisão em partes
-1. Formas binárias, ternárias, únicas
-
-## 4. Pré-requisitos
+## 3. Pré-requisitos
 
 São pré-requisitos para a disciplina:
 
@@ -33,6 +27,14 @@ São pré-requisitos para a disciplina:
 1. Reconhecimento e aplicação de acordes de sexta aumentada e sexta napolitana
 1. Harmonização a quatro vozes de melodias modulatórias, incluindo condução de vozes
 1. Realização de baixo cifrado a quatro vozes
+
+## 4. Conteúdo programático
+
+1. Mistura de modos
+1. Acordes alterados, de 9ª, 11ª e 13ª.
+1. Forma, contorno e gênero, desenvolvimento e combinação de frases
+1. Pequenas formas: divisão em partes
+1. Formas binárias, ternárias, únicas
 
 ## 5. Metodologia
 
