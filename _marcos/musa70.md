@@ -85,41 +85,46 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 | Aula | Data       | Dia | Tópico                                      |
 | ---- | ---------- | --- | ------------------------------------------- |
-| 1    | 15-08-2023 | Ter | Tétrades dominantes invertidas              |
-| 2    | 17-08-2023 | Qui | Tétrades diminutas                          |
-| 3    | 22-08-2023 | Ter | Tétrades comuns                             |
-| 4    | 24-08-2023 | Qui | Tétrades: todas                             |
-| 5    | 29-08-2023 | Ter | Aula prática: canto e baixo                 |
-| 6    | 31-08-2023 | Qui | Aula prática: canto e baixo                 |
-| 7    | 05-09-2023 | Ter | Aula prática: canto e baixo                 |
-|      | 07-09-2023 | Qui | **Feriado**                                 |
-| 8    | 12-09-2023 | Ter | Prova I                                     |
-| 9    | 14-09-2023 | Qui | Acordes de sexta aumentada italiana         |
-| 10   | 19-09-2023 | Ter | Acordes de sexta aumentada francesa e alemã |
-| 11   | 21-09-2023 | Qui | Aula prática: canto e baixo                 |
-| 12   | 26-09-2023 | Ter | Acordes de sexta aumentada: outros usos     |
-| 13   | 28-09-2023 | Qui | Acorde de sexta napolitana                  |
-| 14   | 03-10-2023 | Ter | Aula prática: canto e baixo                 |
-| 15   | 05-10-2023 | Qui | Prova II                                    |
-|      | 10-10-2023 | Ter | **Seminários Internacionais EMUS**          |
-|      | 12-10-2023 | Qui | **Feriado**                                 |
-| 16   | 17-10-2023 | Ter | Tonicização, Modulação: análise de obras    |
-| 17   | 19-10-2023 | Qui | Tipos de modulação                          |
-| 18   | 24-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 19   | 26-10-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 20   | 31-10-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-|      | 02-11-2023 | Qui | **Feriado**                                 |
-| 21   | 07-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 22   | 09-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 23   | 14-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 24   | 16-11-2023 | Qui | Aula prática: análise de obras, canto/baixo |
-| 25   | 21-11-2023 | Ter | Aula prática: análise de obras, canto/baixo |
-| 26   | 23-11-2023 | Qui | Prova III                                   |
-| 27   | 28-11-2023 | Ter | Segunda chamada                             |
-| 28   | 30-11-2023 | Qui | Entrega de resultados                       |
-|      | 05-12-2023 | Ter | **Reservado para eventual reposição**       |
-|      | 07-12-2023 | Qui | **Reservado para eventual reposição**       |
-|      | 12-12-2023 | Ter | **Reservado para eventual reposição**       |
+| 1    | 01-10-2024 | Ter | Tétrades dominantes invertidas              |
+| 2    | 03-10-2024 | Qui | Tétrades diminutas                          |
+|      | 08-10-2024 | Ter | **Seminários Internacionais EMUS**          |
+|      | 10-10-2024 | Qui | **Seminários Internacionais EMUS**          |
+|      | 15-10-2024 | Ter | **Seminários Internacionais EMUS**          |
+|      | 17-10-2024 | Qui | **Congresso da TeMA**                       |
+| 3    | 22-10-2024 | Ter | Tétrades comuns                             |
+| 4    | 24-10-2024 | Qui | Tétrades: todas                             |
+| 5    | 29-10-2024 | Ter | Aula prática: canto e baixo                 |
+| 6    | 31-10-2024 | Qui | Aula prática: canto e baixo                 |
+| 7    | 05-11-2024 | Ter | Aula prática: canto e baixo                 |
+| 8    | 07-11-2024 | Qui | Prova I                                     |
+| 9    | 12-11-2024 | Ter | Acordes de sexta aumentada italiana         |
+| 10   | 14-11-2024 | Qui | Acordes de sexta aumentada francesa e alemã |
+| 11   | 19-11-2024 | Ter | Aula prática: canto e baixo                 |
+| 12   | 21-11-2024 | Qui | Acordes de sexta aumentada: outros usos     |
+|      | 26-11-2024 | Ter | **Congresso da UFBA**                       |
+|      | 28-11-2024 | Qui | **Congresso da UFBA**                       |
+| 13   | 03-12-2024 | Ter | Acorde de sexta napolitana                  |
+| 14   | 05-12-2024 | Qui | Aula prática: canto e baixo                 |
+| 15   | 10-12-2024 | Ter | Prova II                                    |
+| 16   | 12-12-2024 | Qui | Tonicização, Modulação: análise de obras    |
+| 17   | 17-12-2024 | Ter | Tipos de modulação                          |
+| 18   | 19-12-2024 | Qui | Aula prática: análise de obras, canto/baixo |
+|      | 24-12-2024 | Ter | **Recesso**                                 |
+|      | 26-12-2024 | Qui | **Recesso**                                 |
+|      | 31-12-2024 | Ter | **Recesso**                                 |
+|      | 02-01-2025 | Qui | **Recesso**                                 |
+| 19   | 07-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 20   | 09-01-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 21   | 14-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+|      | 16-01-2025 | Qui | **Lavagem do Bonfim**                       |
+| 22   | 21-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 23   | 23-01-2025 | Qui | Prova III                                   |
+| 24   | 28-01-2025 | Ter | Segunda chamada                             |
+| 25   | 30-01-2025 | Qui | Entrega de resultados                       |
+|      | 04-02-2025 | Ter | **Reservado para visita do MEC**            |
+|      | 06-02-2025 | Qui | **Reservado para visita do MEC**            |
+|      | 11-02-2025 | Ter | **Reservado para visita do MEC**            |
+|      | 13-02-2025 | Qui | **Reservado para eventual reposição**       |
 {: .table .table-sm}
 
 <!-- <iframe
@@ -265,26 +270,10 @@ Aula 20, dia 10/10/2019
 
 ## 9. Notas
 
-Semestre 2023.2
+Semestre 2024.2
 
 | Matrícula | P1   | P2   | P3   | M    | R    |
 | --------: | :--- | :--- | :--- | :--- | :--- |
-| 219122262 | 1.3  | 3.4  | 2.1  | 2.3  | RP   |
-| 219216971 | 9.2  | 8.9  | 7.2  | 8.4  | AP   |
-| 220119188 | -    | -    | -    | -    | -    |
-| 221120482 | 6.3  | 8.0  | 6.3  | 6.9  | AP   |
-| 221120493 | 3.3  | 3.9  | 2.3  | 3.2  | RP   |
-| 221120497 | -    | -    | -    | -    | -    |
-| 221120501 | 3.7  | 5.4  | 3.0  | 4.0  | RP   |
-| 221120506 | 5.0  | 6.1  | 5.0  | 5.4  | AP   |
-| 221120509 | 7.4  | 8.6  | 8.5  | 8.2  | AP   |
-| 221120510 | 9.2  | 8.9  | 7.4  | 8.5  | AP   |
-| 222118666 | 4.8  | 5.0  | 6.2  | 5.3  | AP   |
-| 222118671 | 5.3  | 6.6  | 6.2  | 6.0  | AP   |
-| 222118676 | 7.6  | 9.8  | 6.5  | 8.0  | AP   |
-| 223118604 | 8.1  | 6.9  | 4.9  | 6.6  | AP   |
-| 223118606 | 5.7  | 6.5  | 7.0  | 6.4  | AP   |
-| 223118607 | 8.3  | 9.2  | 9.4  | 9.0  | AP   |
 {: .table .table-sm}
 
 Legenda:
@@ -294,9 +283,9 @@ Legenda:
 - R: Resultado
 
 Resumo estatístico:
-- Média: 6.3
-- Desvio padrão: 2.08
-- Mediana: 6.5
+- Média:
+- Desvio padrão:
+- Mediana:
 
 ## 10. Links
 

@@ -161,24 +161,26 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 
 | Aula | Data       | Dia | Tópico                                 |
 | ---- | ---------- | --- | -------------------------------------- |
-| 1    | 17-08-2023 | Qui | Ausência dos estudantes                |
-| 2    | 24-08-2023 | Qui | Abstração e representação de contornos |
-| 3    | 31-08-2023 | Qui | Identidade e reflexão de contornos     |
-|      | 07-09-2023 | Qui | **Feriado**                            |
-| 4    | 14-09-2023 | Qui | Redução de contornos                   |
-| 5    | 21-09-2023 | Qui | Similaridade de contornos              |
-| 6    | 28-09-2023 | Qui | Acento melódico                        |
-| 7    | 05-10-2023 | Qui | Voz e coro, texto e fala               |
-|      | 12-10-2023 | Qui | **Feriado**                            |
-| 8    | 19-10-2023 | Qui | Composição vocal                       |
-| 9    | 26-10-2023 | Qui | Consultas e análises                   |
-|      | 02-11-2023 | Qui | **Feriado**                            |
-| 10   | 09-11-2023 | Qui | Consultas e análises                   |
-| 11   | 16-11-2023 | Qui | Consultas e análises                   |
-| 12   | 23-11-2023 | Qui | Consultas e análises                   |
-| 13   | 30-11-2023 | Qui | Entrega de trabalhos                   |
-|      | 07-12-2023 | Qui | **Reservado para eventual reposição**  |
-|      | 14-12-2023 | Qui | **Reservado para eventual reposição**  |
+| 1    | 03-10-2024 | Qui | Abstração e representação de contornos |
+|      | 10-10-2024 | Qui | **Seminários Internacionais EMUS**     |
+|      | 17-10-2024 | Qui | **Congresso da TeMA**                  |
+| 2    | 24-10-2024 | Qui | Identidade e reflexão de contornos     |
+| 3    | 31-10-2024 | Qui | Redução de contornos                   |
+| 4    | 07-11-2024 | Qui | Similaridade de contornos              |
+| 5    | 14-11-2024 | Qui | Acento melódico                        |
+| 6    | 21-11-2024 | Qui | Voz e coro, texto e fala               |
+|      | 28-11-2024 | Qui | **Congresso da UFBA**                  |
+| 7    | 05-12-2024 | Qui | Composição vocal                       |
+| 8    | 12-12-2024 | Qui | Consultas e análises                   |
+| 9    | 19-12-2024 | Qui | Consultas e análises                   |
+|      | 26-12-2024 | Qui | **Recesso**                            |
+|      | 02-01-2025 | Qui | **Recesso**                            |
+| 10   | 09-01-2025 | Qui | Consultas e análises                   |
+|      | 16-01-2025 | Qui | **Lavagem do Bonfim**                  |
+| 11   | 23-01-2025 | Qui | Entrega de trabalhos                   |
+|      | 30-01-2025 | Qui | **Reservado para visita do MEC**       |
+|      | 06-02-2025 | Qui | **Reservado para visita do MEC**       |
+|      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
 ## 9. Análise
