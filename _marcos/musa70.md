@@ -49,11 +49,15 @@ São pré-requisitos para esta disciplina:
     6. Acorde napolitano
     7. Acordes de sexta aumentada (italiana, francesa e alemã)
 
-## 5. Ambientes virtuais
+## 5. Metodologia
 
-- AVA/Moodle UFBA
+A metodologia para atingir os objetivos propostos é baseada em
+exercícios a serem realizados em classe e em casa:
 
-Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
+1. Análise de relações harmônicas e princípios de condução de vozes de repertório coral
+1. Harmonização a quatro vozes de melodias diatônicas e modulatórias simples
+1. Realização a quatro vozes de baixo cifrado com harmonia diatônica e modulatória simples
+1. Realização de exercícios exaustivos de condução de vozes
 
 ## 6. Avaliação
 
@@ -227,7 +231,7 @@ Aula 11, dia 05/09/2019 (prova)
 #### 9.1.2. Modulação
  -->
 
-#### Modulação
+#### 8.1.1. Modulação
 
 Aulas 18 a 23
 
@@ -274,6 +278,7 @@ Semestre 2024.2
 
 | Matrícula | P1   | P2   | P3   | M    | R    |
 | --------: | :--- | :--- | :--- | :--- | :--- |
+|           |      |      |      |      |      |
 {: .table .table-sm}
 
 Legenda:
@@ -287,22 +292,7 @@ Resumo estatístico:
 - Desvio padrão:
 - Mediana:
 
-## 10. Links
-
- - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
- - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
- - [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
- - [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
- - [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
- - [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
- - [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
- - [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
- - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
- - [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
- - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA70%20LEM%20II.pdf)
- - [Departamento de Música da UFBA](http://dmusufba.com)
-
-## 11. Bibliografia
+## 10. Bibliografia
 
 <p style="margin-left: 24pt; text-indent: -24.0pt;"> Aldwell, Edward,
   and Carl Schachter. 2002. <i>Harmony and Voice
@@ -349,11 +339,25 @@ Resumo estatístico:
 
 <!-- mendeley type="folders" id="d4453a45-45fc-4da1-819e-4fae34da1a24" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
+## 11. Links
+
+- [Fórum da disciplina](https://forum.sampaio.me)
+- [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
+- [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf)
+- [KP2](https://www.dropbox.com/s/54qp5r28nj6tygi/kostka-2.pdf)
+- [KP3](https://www.dropbox.com/s/phezrz5yd83606c/kostka-3.pdf)
+- [KP4](https://www.dropbox.com/s/5b44zanef3kxhcd/kostka-4.pdf)
+- [KP5](https://www.dropbox.com/s/cyvy9da9vsk29o6/kostka-5.pdf)
+- [KP6](https://www.dropbox.com/s/ruqvkfqte6zbal4/kostka-6.pdf)
+- [Partituras dos 371 Corais de Bach](http://bit.ly/2Go5uCV)
+- [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
+- [Tutorial para contraponto a duas vozes: figuração](http://www.youtube.com/watch?v=i1mZ7SibDZ0)
+- [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA70%20LEM%20II.pdf)
+- [Departamento de Música da UFBA](http://dmusufba.com)
+
 ## 12. Comunicação com o professor
 
-O único meio adicional de comunicação autorizado pelo professor é o
-email, em horário comercial. Assuntos acadêmicos não são tratados por
-telefone ou mensagens em nenhuma hipótese.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
 <hr>
 

@@ -51,13 +51,7 @@ Ao final do curso espera-se que o estudante seja capaz de:
 
 Aula expositiva dialogal entre estudantes e professor.
 
-## 5. Ambientes virtuais utilizados
-
-- Moodle (AVA) UFBA
-
-Toda a comunicação e entrega de trabalhos será realizada via Moodle (pelos fóruns e chat do sistema), via email UFBA. Não haverá comunicação direta por email.
-
-## 6. Avaliação
+## 5. Avaliação
 
 A avaliação será realizada mediante os seguintes trabalhos:
 
@@ -67,20 +61,20 @@ A avaliação será realizada mediante os seguintes trabalhos:
 Os trabalhos serão aceitos apenas se forem entregues:
 
 <!-- 1. em versão elaborada em software de editoração de partitura (ou similar) -->
-1. via ambiente virtual de aprendizagem (AVA/Moodle)
-1. no prazo definido na interface do ambiente virtual de aprendizagem (AVA/Moodle)
+1. via ambiente fórum da disciplina
+2. no prazo definido
 
-**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o AVA/Moodle.
+**IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o fórum da disciplina.
 
-### 6.1. Trabalhos
+### 5.1. Trabalhos
 
-Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. A descrição de cada trabalho está disponível no Moodle.
+Todos os trabalhos deverão ser entregues pelo fórum da disciplina. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav. A descrição de cada trabalho está disponível no fórum.
 
-#### 6.1.1. Exercícios básicos
+#### 5.1.1. Exercícios básicos
 
 Pequenos exercícios solicitados pelo professor. Duração curta e formações relacionadas com o trabalho final. Os detalhes serão definidos ao longo do semestre.
 
-#### 6.1.2. Composição final
+#### 5.1.2. Composição final
 
 O trabalho final de composição deverá ser elaborado ao longo de 4 semanas, com apresentação semanal de partitura e relatório do progresso no trabalho.
 
@@ -91,7 +85,7 @@ O trabalho final de composição deverá ser elaborado ao longo de 4 semanas, co
   - Uso de técnicas de altura para construção de algum texto da obra
   - Uso de técnicas relacionadas a coro/voz apreciadas durante o semestre
 
-### 6.2. Nota
+### 5.2. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
@@ -100,7 +94,7 @@ obtido nos trabalhos, de acordo com os seguintes pesos:
 2. Acompanhamento da composição final (peso 3)
 3. Composição final (peso 4)
 
-### 6.3. Critérios de avaliação
+### 5.3. Critérios de avaliação
 
 Os critérios gerais de avaliação são:
 
@@ -125,7 +119,7 @@ As notas serão definidas de acordo com o seguinte critério:
 | 0%   | -        | -                      | -                             | -                          |
 {: .table .table-sm}
 
-### 6.4. Segunda chamada
+### 5.4. Segunda chamada
 
 De acordo com o Artigo 115 do Regulamento de Ensino de Graduação, o aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -137,7 +131,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projetos. A perda de dados não será aceita como justificativa para dilatar o prazo de entrega.
 
-### 6.5. Resultados
+### 5.5. Resultados
 
 Semestre 2023.2
 
@@ -146,11 +140,11 @@ Semestre 2023.2
 |           |       |           |
 {: .table .table-sm}
 
-## 7. Assiduidade e pontualidade
+## 6. Assiduidade e pontualidade
 
 Assiduidade e pontualidade são de fundamental importância neste curso e serão rigorosamente observadas. A carga horária da disciplina é de 45 horas semestrais e a frequência mínima definida pelo Regulamento de Ensino de Graduação e Pós-Graduação é de 75%.
 
-## 8. Cronograma
+## 7. Cronograma
 
 O conteúdo e dias das aulas do cronograma abaixo poderão ser
 modificados de acordo com a necessidade e eventualidade.
@@ -183,7 +177,7 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 |      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
-## 9. Análise
+## 8. Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
@@ -217,7 +211,7 @@ Vencedores de concursos recentes:
 1. Takagi, Hinako. "L'instant" [https://youtu.be/RmmTtKZv7bw](https://youtu.be/RmmTtKZv7bw)
 1. Kim, Shin. "The Song of Oneiroi" [https://youtu.be/hgCDW4r__84](https://youtu.be/hgCDW4r__84)
 
-## 10. Bibliografia
+## 9. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
 1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: ACritical Evaluation of the Discipline and Its Application to Bartók's
@@ -242,12 +236,12 @@ Vencedores de concursos recentes:
 
 **Obs**: Textos de Marcos Sampaio estão disponíveis em [https://marcos.sampaio.me/publication/](https://marcos.sampaio.me/publication/)
 
-### 10.1. Complementar
+### 9.1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg's Prelude from the Suite for Piano, Op. 25: From Composition with Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 2. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
-## 11. Links
+## 10. Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/watch?v=tbArUJBRRJ0&list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ).
 - [Conteúdo programático](http://dmusufba.com/wp-content/uploads/MUSB15-Composicao-VI.pdf)  aprovado pelo Departamento de Música
@@ -255,6 +249,11 @@ Vencedores de concursos recentes:
 - [Contour Metrics](https://contour.sampaio.me) - Calculadora de  contornos
 - [Vencedores Gaudeamus](https://gaudeamus.nl/en/winners-of-the-gaudeamus-award/)
 - [Concursos de Composição](https://www.musicalchairs.info/composer/competitions)
+
+## 11. Comunicação com o professor
+
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
+
 
 <hr>
 

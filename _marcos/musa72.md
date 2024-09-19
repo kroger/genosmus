@@ -195,27 +195,11 @@ Edição preferencial: Edition Peters
 
 ## 9. Notas
 
-Semestre 2023.2
+Semestre 2024.2
 
 | Matrícula | P1   | P2   | P3   | M    | R    |
 | --------: | :--- | :--- | :--- | :--- | :--- |
-| 201514950 | 6.9  | 4.5  | 5.6  | 5.7  | AP   |
-| 201518286 | 8.4  | 2.5  | 5.0  | 5.3  | AP   |
-| 216126636 | -    | -    | -    | -    | -    |
-| 218124850 | -    | -    | -    | -    | -    |
-| 218124882 | 2.5  | 6.3  | 8.0  | 5.6  | AP   |
-| 218124889 | 3.1  | 8.9  | 6.2  | 6.1  | AP   |
-| 218124896 | 6.5  | 7.5  | 3.9  | 6.0  | AP   |
-| 218124903 | 6.0  | 6.8  | 5.8  | 6.2  | AP   |
-| 218124912 | -    | -    | -    | -    | -    |
-| 219216972 | 4.8  | 9.7  | 9.1  | 7.9  | AP   |
-| 219217805 | 9.5  | 9.8  | 6.0  | 8.4  | AP   |
-| 219217873 | 7.2  | 7.9  | 7.2  | 7.4  | AP   |
-| 220119166 | 6.1  | 9.8  | 8.0  | 8.0  | AP   |
-| 220119192 | 8.9  | 9.3  | 6.7  | 8.3  | AP   |
-| 221120485 | 4.0  | 8.3  | 8.3  | 6.9  | AP   |
-| 221120491 | 10.0 | 9.5  | 10.0 | 9.8  | AP   |
-| 222118673 | 10.0 | 9.8  | 10.0 | 9.9  | AP   |
+|           |      |      |      |      |      |
 {: .table .table-sm}
 
 Legenda:
@@ -225,24 +209,11 @@ Legenda:
 - R: Resultado
 
 Resumo estatístico:
-- Média: 7.25
-- Desvio padrão: 1.52
-- Mediana: 7.15
+- Média:
+- Desvio padrão:
+- Mediana:
 
-## 10. Links
-
- - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
- - [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
- - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
- - [Departamento de Música da UFBA](http://dmusufba.com)
- - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
-
-### 10.1. Softwares para edição de PDF
-
-- [Xournal](https://xournalpp.github.io/). Windows, Linux e Mac.
-- [Sketch on PDF](https://play.google.com/store/apps/details?id=com.applikationsprogramvara.sketchonpdfs). Android.
-
-## 11. Bibliografia
+## 10. Bibliografia
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
@@ -263,9 +234,24 @@ Resumo estatístico:
   Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
   Musicales</i>. Barcelona: Editorial Labor.  </p>
 
+## 11. Links
+
+- [Fórum da disciplina](https://forum.sampaio.me)
+- [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
+- [EK23](https://www.dropbox.com/s/0jnmmmh57lvt2j6/ek23.pdf?dl=0)
+- [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA72%20LEM%20IV.pdf)
+- [Departamento de Música da UFBA](http://dmusufba.com)
+- [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
+
+### 11.1. Softwares para edição de PDF
+
+- [Xournal](https://xournalpp.github.io/). Windows, Linux e Mac.
+- [Sketch on PDF](https://play.google.com/store/apps/details?id=com.applikationsprogramvara.sketchonpdfs). Android.
+
+
 ## 12. Comunicação com o professor
 
-A comunicação da disciplina deverá ocorrer exlusivamente pelo AVA/Moodle. Assuntos acadêmicos não serão tratados por telefone ou mensagens em nenhuma hipótese.
+A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
 <!-- O único meio adicional de comunicação autorizado pelo professor é o
 email, em horário comercial. Assuntos acadêmicos não são tratados por
