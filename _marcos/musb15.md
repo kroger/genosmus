@@ -180,7 +180,7 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 ## 8. Notas
 
 | Matrícula |
-| --------: |
+| --------- |
 | 220119121 |
 | 221215627 |
 | 220119119 |
