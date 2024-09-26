@@ -27,6 +27,7 @@ teorias da música.
 O grupo de pesquisa Genos tem desenvolvido os seguintes projetos de
 pesquisa:
 
+- Os Caminhos do Áudio e da Produção Musical no Brasil: Mapeamento de Profissionais e Processos Formativos
 - [Estudo quantitativo de uma coleção de obras de Haydn, Mozart e Beethoven](https://marcos.sampaio.me/project/haydn-mozart-beethoven/)
 - [Algoritmos de similaridade de contornos](https://marcos.sampaio.me/project/contour-similarity/) (concluído)
 - [Aplicação de contornos na Composição Musical](https://marcos.sampaio.me/project/composition-with-contours/) (concluído)
