@@ -7,6 +7,8 @@ level: graduacao
 
 Plano de curso da disciplina Composição VI, do curso de Composição e Regência da UFBA.
 
+**OBS: o conteúdo vocal e formação instrumental da peça final não estão confirmados**
+
 ## 1. Ementa
 
 Continuação de Composição Musical V: Estudo e prática de Técnicas Composicionais -- manipulação e exploração de elementos musicais do século XX, politonalismo, pós-tonalismo, atonalismo, serialismo, aleatorismo e audição comentada de obras representativas do século XX, com ênfase em obras de pequenas dimensões.
@@ -61,7 +63,7 @@ A avaliação será realizada mediante os seguintes trabalhos:
 Os trabalhos serão aceitos apenas se forem entregues:
 
 <!-- 1. em versão elaborada em software de editoração de partitura (ou similar) -->
-1. via ambiente fórum da disciplina
+1. via fórum da disciplina
 2. no prazo definido
 
 **IMPORTANTE**: Nenhum trabalho poderá ser entregue por email ou outra via que não o fórum da disciplina.
@@ -133,11 +135,13 @@ O estudante deverá criar o hábito de fazer backup dos seus trabalhos e projeto
 
 ### 5.5. Resultados
 
-Semestre 2023.2
+Semestre 2024.2
 
 | Matrícula | Média | Resultado |
 | --------- | ----- | --------- |
-|           |       |           |
+| 220119121 |       |           |
+| 221215627 |       |           |
+| 220119119 |       |           |
 {: .table .table-sm}
 
 ## 6. Assiduidade e pontualidade
@@ -177,16 +181,8 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 |      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
-## 8. Notas
 
-| Matrícula |
-| --------- |
-| 220119121 |
-| 221215627 |
-| 220119119 |
-{: .table .table-sm}
-
-## 9. Análise
+## 8. Análise
 
 Ao longo do semestre uma seleção dentre as obras listadas será
 analisada em conjunto durante as aulas:
@@ -220,7 +216,7 @@ Vencedores de concursos recentes:
 1. Takagi, Hinako. "L'instant" [https://youtu.be/RmmTtKZv7bw](https://youtu.be/RmmTtKZv7bw)
 1. Kim, Shin. "The Song of Oneiroi" [https://youtu.be/hgCDW4r__84](https://youtu.be/hgCDW4r__84)
 
-## 10. Bibliografia
+## 9. Bibliografia
 
 1. Adler, Samuel. 1989. The Study of Orchestration. 2nd ed. New York, NY: W.W. Norton and Company.
 1. Antokoletz, Elliott. 2016. "In Defense of Theory and Analysis: ACritical Evaluation of the Discipline and Its Application to Bartók's
@@ -245,12 +241,12 @@ Vencedores de concursos recentes:
 
 **Obs**: Textos de Marcos Sampaio estão disponíveis em [https://marcos.sampaio.me/publication/](https://marcos.sampaio.me/publication/)
 
-### 10.1. Complementar
+### 9.1. Complementar
 
 1. How, Deborah H. 2009. "Arnold Schoenberg's Prelude from the Suite for Piano, Op. 25: From Composition with Twelve-Tones to the Twelve-Tone Method." University of Southern California.
 2. Rodrigues, Nelson. 1967. O vício doce e vil. Correio da Manhã, Caderno   2. 14/4/1967 [link](http://memoria.bn.br/DocReader/089842_07/81340).
 
-## 11. Links
+## 10. Links
 
 - Playlist com vídeos no [YouTube](https://www.youtube.com/watch?v=tbArUJBRRJ0&list=PLTuRmdq29ACk488OOx34lH-tW0RN0nBDJ).
 - [Conteúdo programático](http://dmusufba.com/wp-content/uploads/MUSB15-Composicao-VI.pdf)  aprovado pelo Departamento de Música
@@ -259,7 +255,7 @@ Vencedores de concursos recentes:
 - [Vencedores Gaudeamus](https://gaudeamus.nl/en/winners-of-the-gaudeamus-award/)
 - [Concursos de Composição](https://www.musicalchairs.info/composer/competitions)
 
-## 12. Comunicação com o professor
+## 11. Comunicação com o professor
 
 A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
