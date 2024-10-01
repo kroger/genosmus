@@ -56,21 +56,15 @@ Ao final do curso, espera-se que o estudante seja capaz de:
 
 Trabalhos práticos de análise formal e aula expositiva. A compreensão da Forma Sonata ocorre como resultado de análises orientadas de múltiplas obras, com ênfase na observação das relações das suas estruturas musicais. O repertório é concentrado no classicismo vienense.
 
-## 5. Ambientes virtuais
-
-- AVA/Moodle UFBA
-
-Toda a comunicação e discussão sobre conteúdos ocorrerão pelas ferramentas do Moodle (fóruns e chat do sistema). Não serão utilizadas outras formas de comunicação como email ou mensagem instantânea.
-
-## 6. Avaliação
+## 5. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. O critério de correção é subjetivo, com ênfase nos elementos mais importantes da Forma Sonata. O conteúdo das provas é acumulativo.
 
-### 6.1. Nota
+### 5.1. Nota
 
 A média final é equivalente à média aritmética das notas das provas.
 
-### 6.2. Segunda chamada
+### 5.2. Segunda chamada
 
 De acordo com o Artigo 115 do Regulamento de Ensino de Graduação, o aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -82,7 +76,7 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A prova de segunda chamada ocorrerá em data previamente definida no cronograma da disciplina.
 
-## 7. Cronograma
+## 6. Cronograma
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
@@ -130,7 +124,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 |      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
-## 8. Obras para análise
+## 7. Obras para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -138,7 +132,7 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 [Em construção]
 
-### 8.1. Beethoven
+### 7.1. Beethoven
 
 Edição preferencial: Breitkopf und Härtel, reimpressa pela E.F. Kalmus.
 
@@ -164,7 +158,7 @@ Edição preferencial: Breitkopf und Härtel, reimpressa pela E.F. Kalmus.
 1. Piano Sonata n. 31. Op. 110
 1. Piano Sonata n. 32. Op. 111, mov. 1.
 
-### 8.2. Mozart
+### 7.2. Mozart
 
 Edição preferencial: Breitkopf und Härtel
 
@@ -178,7 +172,7 @@ Edição preferencial: Breitkopf und Härtel
 1. Piano Sonata n. 16. K 545, mov. 1
 1. Piano Sonata n. 18. K 576, mov. 1
 
-### 8.3. Haydn
+### 7.3. Haydn
 
 Edição preferencial: Edition Peters
 
@@ -186,14 +180,14 @@ Edição preferencial: Edition Peters
 1. PIano Sonata XVI/34 N. 47 Mi menor, mov. 1
 2. Quarteto de cordas  Op. 50, n. 3, mov. 1
 
-### 8.4. Outros
+### 7.4. Outros
 
 1. Brahms Op. 68, mov. 1 (ver versão para 2 pianos em "arranjos e transcrições", no IMSLP)
 1. Clementi Op. 1 N. 5, mov. 1 (ver pasta de recursos do Moodle)
 1. Hindemith, Piano Sonata n. 2, mov. 1 (edição B.  Schott's Söhne)
 1. Kuhlau Op. 59 N. 1, mov. 1
 
-## 9. Notas
+## 8. Notas
 
 Semestre 2024.2
 
@@ -227,7 +221,7 @@ Resumo estatístico:
 - Desvio padrão:
 - Mediana:
 
-## 10. Bibliografia
+## 9. Bibliografia
 
 <!-- mendeley type="folders" id="2a50eba5-8599-484a-8c0c-1819e67886eb" sortby="authors" csl="http://genosmus.com/wp-content/plugins/mendeleyplugin/style/chicago-author-date.csl" -->
 
@@ -248,7 +242,7 @@ Resumo estatístico:
   Joaquín. 1960. <i>Curso de Formas Musicales: Con Numerosos Ejemplos
   Musicales</i>. Barcelona: Editorial Labor.  </p>
 
-## 11. Links
+## 10. Links
 
 - [Fórum da disciplina](https://forum.sampaio.me)
 - [DG](https://www.dropbox.com/s/sjp4axx10ebcjct/dg.pdf)
@@ -257,13 +251,13 @@ Resumo estatístico:
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Playlist Youtube: 32 Sonatas Beethoven - Barenboim](https://www.youtube.com/watch?v=nS3YwjOAekc&list=PLaO5yzGGmlgEncr13JjVJA-hG4VXtXA6S)
 
-### 11.1. Softwares para edição de PDF
+### 10.1. Softwares para edição de PDF
 
 - [Xournal](https://xournalpp.github.io/). Windows, Linux e Mac.
 - [Sketch on PDF](https://play.google.com/store/apps/details?id=com.applikationsprogramvara.sketchonpdfs). Android.
 
 
-## 12. Comunicação com o professor
+## 11. Comunicação com o professor
 
 A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
