@@ -233,7 +233,7 @@ Vencedores de concursos recentes:
 1. Sampaio, Marcos da Silva, e Alex Pochat. 2016. "Aplicação de Contornos Na Composição Musical." In Perspectivas de Interpretação, Teoria e Composição Musical, editado por Heinz Karl Novaes Schwebel e José Maurício Valle Brandão, 13--28. Salvador, BA: EDUFBA.
 1. Sampaio, Marcos da Silva. 2012. "A Teoria de Relações de Contornos Musicais: Inconsistências, Soluções e Ferramentas." Universidade Federal da Bahia. https://repositorio.ufba.br/ri/handle/ri/10555.
 1. Sampaio, Marcos da Silva. 2017. "A Teoria de Relações de Contornos No Brasil." In Teoria e Análise Musical Em Perspectiva Didática, 123--38. Salvador, BA: EDUFBA.
-1. Schoenberg, Arnold. 1996. Fundamentos Da Composição Musical. 3rd   ed. São Paulo: EDUSP.
+1. Sampaio, Marcos da Silva. 2024. "A teoria dos contornos musicais" In Teorias Estrangeiras no Brasil: migração, enculturação e aculturação. Salvador, BA: Associação Brasileira de Teoria e Análise Musical.
 1. Stone, Kurt. 1980. Music Notation in the Twentieth Century: A Practical Guidebook. New York, NY: W.W. Norton and Company.
 1. Straus, Joseph Nathan. 1990. Introduction to Post-Tonal   Theory. Englewood Cliffs, NJ: Prentice-Hall.
 1. Wuorinen, Charles. 1979. Simple Composition. New York and London:   Longman.
