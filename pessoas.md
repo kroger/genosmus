@@ -24,15 +24,15 @@ title: Pessoas
 
 #### Mestrado
 
-- Sidnei Marques de Oliveira
+- Sidnei Marques de Oliveira ([Lattes](http://lattes.cnpq.br/8589873345658247))
 
 #### Graduação
 
 - Daniel Lopes de Oliveira
 - Lisa Mascarenhas Gusmão
 - Paulo Roberto Pitta da Fonseca Filho
-- Renato Alves da Silva Filho
-- Vicente Sanches de Oliveira
+- Renato Alves da Silva Filho ([Lattes](http://lattes.cnpq.br/8789530538276029))
+- Vicente Sanches de Oliveira ([Lattes](http://lattes.cnpq.br/7390695997527457))
 
 ## Ex-membros
 
