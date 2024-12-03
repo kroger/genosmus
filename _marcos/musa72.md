@@ -100,7 +100,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 12   | 21-11-2024 | Qui | Análise Beethoven Op. 10, n. 1         |
 |      | 26-11-2024 | Ter | **Congresso da UFBA**                  |
 |      | 28-11-2024 | Qui | **Congresso da UFBA**                  |
-| 13   | 03-12-2024 | Ter | Análise Beethoven Op. 13, n. 1         |
+| 13   | 03-12-2024 | Ter | Análise Beethoven Op. 13               |
 | 14   | 05-12-2024 | Qui | Análise Beethoven Op. 14, n. 1         |
 | 15   | 10-12-2024 | Ter | Prova II                               |
 | 16   | 12-12-2024 | Qui | Análise Beethoven Op. 14, n. 2         |
