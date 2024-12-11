@@ -259,7 +259,7 @@ partida e chegada da modulação.
 
 Organização por aula:
 
-- Aula 16: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
+- Aula 16: Mozart K284, Mozart K545
 - Aula 17: Mozart K310, Mozart K333
 - Aula 18: Mozart K280, Mozart K570
 - Aula 19: Kuhlau Op. 59, n. 1, as que faltaram
