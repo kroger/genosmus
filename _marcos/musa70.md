@@ -233,7 +233,7 @@ Aula 11, dia 05/09/2019 (prova)
 
 #### 8.1.1. Modulação
 
-Aulas 18 a 23
+Aulas 16 a 22
 
 *Apenas a primeira página*, exceto nas peças em
  que há indicação de duas páginas.
@@ -259,12 +259,12 @@ partida e chegada da modulação.
 
 Organização por aula:
 
-- Aula 18: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
-- Aula 19: Mozart K310, Mozart K333
-- Aula 20: Mozart K280, Mozart K570
-- Aula 21: Kuhlau Op. 59, n. 1, as que faltaram
-- Aula 22: Haydn XVI/32, Haydn XVI/34, N. 47
-- Aula 23: Beethoven Op. 2, n. 1, Beethoven Op. 10, n. 1
+- Aula 16: Mozart K284, Mozart K545, Clementi Op. 1, n. 5
+- Aula 17: Mozart K310, Mozart K333
+- Aula 18: Mozart K280, Mozart K570
+- Aula 19: Kuhlau Op. 59, n. 1, as que faltaram
+- Aula 20: Haydn XVI/32, Haydn XVI/34, N. 47
+- Aula 21: Beethoven Op. 2, n. 1, Beethoven Op. 10, n. 1
 
 <!-- #### 7.1.3. Análise harmônica e formal (formas compostas)
 
