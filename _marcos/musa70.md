@@ -302,9 +302,9 @@ Legenda:
 - R: Resultado
 
 Resumo estatístico:
-- Média:
-- Desvio padrão:
-- Mediana:
+- Média: 7.01
+- Desvio padrão: 2.14
+- Mediana: 7.6
 
 ## 10. Bibliografia
 
