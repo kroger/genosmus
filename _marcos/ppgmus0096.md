@@ -1,5 +1,5 @@
 ---
-title: 'MUSE29 -- Tópicos em Teoria e Análise Musical II'
+title: 'PPGMUS0096 -- Tópicos em Teoria e Análise Musical II'
 layout: disciplina
 toc: true
 level: pos-graduacao
