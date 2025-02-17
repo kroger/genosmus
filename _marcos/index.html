@@ -44,22 +44,6 @@ title: Marcos Sampaio
 
 <h2 id="ensino">Ensino</h2>
 
-<h3>Semestre 2025.1</h3>
-
-<h4>Graduação</h4>
-
-<ul>
-  <li>MUSA69 &ndash; Literatura e Estruturação Musical I</li>
-  <li>MUSA71 &ndash; Literatura e Estruturação Musical III</li>
-  <li>MUSB14 &ndash; Composição V</li>
-</ul>
-
-<h4>Pós-graduação</h4>
-
-<ul>
-  <li>PPGMUS0096 &ndash; Tópicos em Teoria e Análise Musical II</li>
-</ul>
-
 <h3>Semestre {{ semestre_atual }}</h3>
 
 <h4>Graduação</h4>
@@ -68,8 +52,8 @@ title: Marcos Sampaio
   {% for page in pages %}
   {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
   {% if site.data.docentes.marcos.atual contains disciplina %}
-  <!-- <li>{{ page.title | replace: '--', '&ndash;' }}</li> -->
-  <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+  <li>{{ page.title | replace: '--', '&ndash;' }}</li>
+  <!-- <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li> -->
   {% endif %}
   {% endfor %}
 </ul>
@@ -82,8 +66,8 @@ title: Marcos Sampaio
     {% for page in pages %}
     {% assign disciplina = page.relative_path | split: '/' | last | replace: '.md', '' %}
     {% if site.data.docentes.marcos.atual contains disciplina %}
-    <!--<li>{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</li>-->
-    <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li>
+    <li>{{ page.title | replace: '&#45;&#45;', '&ndash;' }}</li>
+    <!-- <li><a href="{{ page.url }}">{{ page.title | replace: '--', '&ndash;' }}</a></li> -->
     {% endif %}
     {% endfor %}
 </ul>
