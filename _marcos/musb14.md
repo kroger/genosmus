@@ -142,22 +142,22 @@ modificados de acordo com a necessidade e eventualidade.
 
 | Aula | Data       | Dia | Tópico                                                   |
 | ---- | ---------- | --- | -------------------------------------------------------- |
-| 1    | 14-03-2024 | Qui | Apresentação, Politonalidade                             |
-| 2    | 21-03-2024 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
-|      | 28-03-2024 | Qui | **Feriado (pré): Semana Santa**                          |
-| 3    | 04-04-2024 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
-| 4    | 11-04-2024 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
-|      | 18-04-2024 | Qui | **Ausência do professor**                                |
-|      | 25-04-2024 | Qui | **Ausência do professor**                                |
-|      | 27-06-2024 | Qui | **Reestruturação do semestre**                           |
-| 5    | 04-07-2024 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-|      | 11-07-2024 | Qui | **Ausência do professor**                                |
-| 6    | 18-07-2024 | Qui | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 25-07-2024 | Qui | Pós-tonalismo, serialismo e indeterminação. Miniatura 3  |
-| 8    | 01-08-2024 | Qui | Consulta composição final 1                              |
-| 9    | 08-08-2024 | Qui | Consulta composição final 2                              |
-| 10   | 15-08-2024 | Qui | Consulta composição final 3                              |
-| 11   | 22-08-2024 | Qui | Entrega da composição final e relatório                  |
+| 1    | 27-03-2025 | Qui | Apresentação, Politonalidade                             |
+| 2    | 03-04-2025 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
+| 3    | 10-04-2025 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
+|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**                          |
+| 4    | 24-04-2025 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
+| 5    | 01-05-2025 | Qui | Policordes - dimensão vertical. Miniatura 2              |
+| 6    | 08-05-2025 | Qui | Politonalidade e policordes. Exercício básico 3          |
+| 7    | 15-05-2025 | Qui | Politonalidade e policordes. Miniatura 3                 |
+| 8    | 22-05-2025 | Qui | Pós-tonalismo, serialismo e indeterminação.              |
+| 9    | 29-05-2025 | Qui | Consulta composição final 1                              |
+| 10   | 05-06-2025 | Qui | Consulta composição final 2                              |
+| 11   | 12-06-2025 | Qui | Consulta composição final 3                              |
+| 12   | 19-06-2025 | Qui | Consulta composição final 4                              |
+| 13   | 26-06-2025 | Qui | Consulta composição final 5                              |
+| 14   | 03-07-2025 | Qui | Entrega da composição final e relatório                  |
+|      | 10-07-2025 | Qui | **Ausência do professor**                                |
 {: .table .table-sm}
 
 ## 9. Trabalhos

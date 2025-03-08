@@ -80,39 +80,42 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 
 | Aula | Data       | Dia  | Conteúdo                                           |
 | ---: | :--------- | :--- | :------------------------------------------------- |
-|    1 | 12-03-2024 | Ter  | Apresentação e revisão (intervalos e acordes)      |
-|    2 | 14-03-2024 | Qui  | Escrita a quatro vozes e campo harmônico           |
-|    3 | 19-03-2024 | Ter  | Tríades a quatro vozes e cifras (pos. fund.)       |
-|    4 | 21-03-2024 | Qui  | Encadeamentos de tríades (pos. fund.)              |
-|    5 | 26-03-2024 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
-|      | 28-03-2024 | Qui  | **Feriado (pré): Semana Santa**                    |
-|    6 | 02-04-2024 | Ter  | Encadeamentos de tríades (pos. fund e invertidas)  |
-|    7 | 04-04-2024 | Qui  | Ciclo de quintas, sucessões, progressões, bx. dado |
-|    8 | 09-04-2024 | Ter  | Prova I                                            |
-|    9 | 11-04-2024 | Qui  | Tríades a quatro vozes e cifras (2a. inversão)     |
-|   10 | 16-04-2024 | Ter  | Encadeamentos de tríades (todas)                   |
-|      | 18-04-2024 | Qui  | **Ausência do professor**                          |
-|   11 | 23-04-2024 | Ter  | Harmonização de canto dado, colcheias              |
-|      | 25-04-2024 | Qui  | **Ausência do professor**                          |
-|      | 27-06-2024 | Qui  | **Reestruturação do semestre**                     |
-|      | 02-07-2024 | Ter  | **Feriado: Independência da Bahia**                |
-|   12 | 04-07-2024 | Qui  | Notas melódicas - passagem e bordadura             |
-|   13 | 09-07-2024 | Ter  | Dominante secundária                               |
-|      | 11-07-2024 | Qui  | **Ausência do professor**                          |
-|   14 | 16-07-2024 | Ter  | Notas melódicas - ritardo, suspensão               |
-|   15 | 18-07-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   16 | 23-07-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   17 | 25-07-2024 | Qui  | Prova II                                           |
-|   18 | 30-07-2024 | Ter  | Acordes de sétima da dominante                     |
-|   19 | 01-08-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   20 | 06-08-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   21 | 08-08-2024 | Qui  | Notas melódicas - apojatura e escapada             |
-|   22 | 13-08-2024 | Ter  | Prática de composição, harmonização e análise      |
-|   23 | 15-08-2024 | Qui  | Prática de composição, harmonização e análise      |
-|   24 | 20-08-2024 | Ter  | Acordes de sétima da dominante (inversão 1)        |
-|   25 | 22-08-2024 | Qui  | Prova III                                          |
-|   26 | 27-08-2024 | Ter  | Segunda chamada                                    |
-|   27 | 29-08-2024 | Qui  | Entrega de resultados                              |
+|    1 | 25-03-2025 | Ter  | Apresentação e revisão (intervalos e acordes)      |
+|    2 | 27-03-2025 | Qui  | Escrita a quatro vozes e campo harmônico           |
+|    3 | 01-04-2025 | Ter  | Tríades a quatro vozes e cifras (pos. fund.)       |
+|    4 | 03-04-2025 | Qui  | Encadeamentos de tríades (pos. fund.)              |
+|    5 | 08-04-2025 | Ter  | Tríades a quatro vozes e cifras (1a inversão)      |
+|    6 | 10-04-2025 | Qui  | Encadeamentos de tríades (pos. fund e invertidas)  |
+|    7 | 15-04-2025 | Ter  | Ciclo de quintas, sucessões, progressões, bx. dado |
+|      | 17-04-2025 | Qui  | **Feriado (pré): Semana Santa**                    |
+|    8 | 22-04-2025 | Ter  | Prova I                                            |
+|    9 | 24-04-2025 | Qui  | Tríades a quatro vozes e cifras (2a. inversão)     |
+|   10 | 29-04-2025 | Ter  | Encadeamentos de tríades (todas)                   |
+|      | 01-05-2025 | Qui  | **Feriado: Dia do Trabalho**                       |
+|   11 | 06-05-2025 | Ter  | Harmonização de canto dado, colcheias              |
+|   12 | 08-05-2025 | Qui  | Notas melódicas - passagem e bordadura             |
+|   13 | 13-05-2025 | Ter  | Dominante secundária                               |
+|   14 | 15-05-2025 | Qui  | Notas melódicas - ritardo, suspensão               |
+|   15 | 20-05-2025 | Ter  | Prática de composição, harmonização e análise      |
+|   16 | 22-05-2025 | Qui  | Prática de composição, harmonização e análise      |
+|   17 | 27-05-2025 | Ter  | Prova II                                           |
+|   18 | 29-05-2025 | Qui  | Acordes de sétima da dominante                     |
+|   19 | 03-06-2025 | Ter  | Prática de composição, harmonização e análise      |
+|   20 | 05-06-2025 | Qui  | Prática de composição, harmonização e análise      |
+|   21 | 10-06-2025 | Ter  | Notas melódicas - apojatura e escapada             |
+|   22 | 12-06-2025 | Qui  | Prática de composição, harmonização e análise      |
+|   23 | 17-06-2025 | Ter  | Prática de composição, harmonização e análise      |
+|   24 | 19-06-2025 | Qui  | Acordes de sétima da dominante (inversão 1)        |
+|      | 24-06-2025 | Ter  | **Feriado: São João**                              |
+|   25 | 26-06-2025 | Qui  | Prática de composição, harmonização e análise      |
+|   26 | 01-07-2025 | Ter  | Prática de composição, harmonização e análise      |
+|   27 | 03-07-2025 | Qui  | Prova III                                          |
+|   28 | 08-07-2025 | Ter  | Segunda chamada                                    |
+|      | 10-07-2025 | Qui  | **Ausência do professor**                          |
+|      | 15-07-2025 | Ter  | **Reservado para correção**                        |
+|   29 | 17-07-2025 | Qui  | Entrega de resultados                              |
+|      | 22-07-2025 | Ter  | **Reservado para emergências**                     |
+|      | 24-07-2025 | Qui  | **Reservado para emergências**                     |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
