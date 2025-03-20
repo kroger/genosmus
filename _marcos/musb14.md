@@ -6,6 +6,8 @@ number_sections: true
 level: graduacao
 ---
 
+Plano de curso da disciplina Composição V, do curso de Composição e Regência da Universidade Federal da Bahia.
+
 ## 1. Ementa
 
 Estudo e prática de Técnicas Composicionais: manipulação e exploração
@@ -67,10 +69,8 @@ A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
 1. Miniaturas 1 a 3 (peso 3)
-1. Exercícios 1 a 3 (peso 1)
-1. Composição final (peso 3)
-1. Relatório sobre a composição final (peso 1)
-1. Relatórios semanais sobre composição final (peso 2)
+1. Exercícios 1 a 3 (peso 2)
+1. Composição final (peso 5)
 
 <!-- TODO: adaptar -->
 <!-- Dessa forma, a média final será calculada pela equação 1, onde M
@@ -140,29 +140,31 @@ modificados de acordo com a necessidade e eventualidade.
 
 **Obs**: o cronograma está ajustado para o retorno pós-greve.
 
-| Aula | Data       | Dia | Tópico                                                   |
-| ---- | ---------- | --- | -------------------------------------------------------- |
-| 1    | 27-03-2025 | Qui | Apresentação, Politonalidade                             |
-| 2    | 03-04-2025 | Qui | Politonalidade - dimensão horizontal. Exercício básico 1 |
-| 3    | 10-04-2025 | Qui | Politonalidade - dimensão horizontal. Miniatura 1        |
-|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**                          |
-| 4    | 24-04-2025 | Qui | Policordes - dimensão vertical. Exercício básico 2       |
-| 5    | 01-05-2025 | Qui | Policordes - dimensão vertical. Miniatura 2              |
-| 6    | 08-05-2025 | Qui | Politonalidade e policordes. Exercício básico 3          |
-| 7    | 15-05-2025 | Qui | Politonalidade e policordes. Miniatura 3                 |
-| 8    | 22-05-2025 | Qui | Pós-tonalismo, serialismo e indeterminação.              |
-| 9    | 29-05-2025 | Qui | Consulta composição final 1                              |
-| 10   | 05-06-2025 | Qui | Consulta composição final 2                              |
-| 11   | 12-06-2025 | Qui | Consulta composição final 3                              |
-| 12   | 19-06-2025 | Qui | Consulta composição final 4                              |
-| 13   | 26-06-2025 | Qui | Consulta composição final 5                              |
-| 14   | 03-07-2025 | Qui | Entrega da composição final e relatório                  |
-|      | 10-07-2025 | Qui | **Ausência do professor**                                |
+| Aula | Data       | Dia | Tópico                                            |
+| ---- | ---------- | --- | ------------------------------------------------- |
+| 1    | 27-03-2025 | Qui | Apresentação, Politonalidade                      |
+| 2    | 03-04-2025 | Qui | Politonalidade - dimensão horizontal. Exercício 1 |
+| 3    | 10-04-2025 | Qui | Politonalidade - dimensão horizontal. Miniatura 1 |
+|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**                   |
+| 4    | 24-04-2025 | Qui | Policordes - dimensão vertical. Exercício 2       |
+| 5    | 01-05-2025 | Qui | Policordes - dimensão vertical. Miniatura 2       |
+| 6    | 08-05-2025 | Qui | Politonalidade e policordes. Exercício 3          |
+| 7    | 15-05-2025 | Qui | Politonalidade e policordes. Miniatura 3          |
+| 8    | 22-05-2025 | Qui | Pós-tonalismo, serialismo e indeterminação        |
+| 9    | 29-05-2025 | Qui | Consulta composição final 1                       |
+| 10   | 05-06-2025 | Qui | Consulta composição final 2                       |
+| 11   | 12-06-2025 | Qui | Consulta composição final 3                       |
+| 12   | 19-06-2025 | Qui | Consulta composição final 4                       |
+| 13   | 26-06-2025 | Qui | Consulta composição final 5                       |
+| 14   | 03-07-2025 | Qui | Entrega da composição final                       |
+|      | 10-07-2025 | Qui | **Ausência do professor**                         |
+|      | 17-07-2025 | Qui | **Reservado para emergências**                    |
+|      | 24-07-2025 | Qui | **Reservado para emergências**                    |
 {: .table .table-sm}
 
 ## 9. Trabalhos
 
-Todos os trabalhos deverão ser entregues via AVA/Moodle. Para cada trabalho, subir para o repositório os devidos arquivos PDF e MP3. Evitar arquivos .wav.
+Todos os trabalhos deverão ser entregues via fórum da disciplina. Para cada trabalho, enviar o link dos arquivos PDF e MP3. Evitar arquivos WAV.
 
 ### 9.1. Miniaturas
 
@@ -332,9 +334,7 @@ analisada em conjunto durante as aulas:
 
 | Matrícula | M1  | M2  | M3  | C   | Média | Resultado |
 | --------- | --- | --- | --- | --- | ----- | --------- |
-| 220119121 | 9.0 | 8.5 |     |     |       |           |
-| 221120481 | -   |     |     |     |       |           |
-| 221215627 | 9.5 | 9.0 |     |     |       |           |
+|           |     |     |     |     |       |           |
 {: .table .table-sm}
 
 Legenda:

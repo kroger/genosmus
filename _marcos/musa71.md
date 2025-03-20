@@ -5,6 +5,8 @@ toc: true
 level: graduacao
 ---
 
+Plano de curso da disciplina Literatura e Estruturação Musical III, dos cursos de Canto Lírico, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
+
 ## 1. Ementa
 
 Estudo da harmonia cromática, da construção de frases musicais e suas combinações. Estudo de formas musicais de estrutura única, binária e ternária. Apreciação de obras musicais referentes aos elementos estudados.
@@ -45,15 +47,22 @@ exercícios a serem realizados em classe e em casa:
 1. Harmonização de melodias modulatórias com recursos cromáticos a quatro vozes
 1. Composição de pequenas formas musicais
 
-## 6. Avaliação
+## 6. Ambientes virtuais utilizados
+
+- Página no site do Genos
+- [Fórum da disciplina](https://forum.sampaio.me)
+
+A comunicação será realizada via fórum privado.
+
+## 7. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-### 6.1. Nota
+### 7.1. Nota
 
 A nota do semestre será a média aritmética das notas das provas.
 
-### 6.2. Segunda chamada
+### 7.2. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -65,13 +74,11 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A data de realização de segunda chamada está prevista no cronograma da disciplina.
 
-## 7. Cronograma
+## 8. Cronograma
 
 O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo com a necessidade e eventualidade.
 
-Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados. Por prevenção, o cronograma dispõe de aulas de reposição de conteúdo. Caso não haja necessidade de reposição, essas aulas serão usadas para exercícios práticos.
-
-**Obs**: o cronograma está ajustado para o retorno pós-greve.
+Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados.
 
 | Aula | Data       | Dia  | Conteúdo                                                 |
 | ---: | :--------- | :--- | :------------------------------------------------------- |
@@ -129,13 +136,13 @@ Em função da coordenação do Colegiado de Composição e Regência, o profess
 12. [Análise de forma de pequena obra 2](https://docs.google.com/document/d/1IHzF_r5xIwWXJ4iFueH-cx-ssutwhwRKqmdJ1WB7mPU/edit?usp=sharing)
 13. [Análise e composição de pequena obra](https://docs.google.com/document/d/1iw45ZlYpsPZY7mSGkAYO8Szr5PZhb5g6h5JFyHrExyw/edit?usp=sharing) -->
 
-## 8. Material para Análise
+## 9. Material para Análise
 
 Seleção de obras para análise ao longo do semestre.
 
 O material para análise está inteiramente disponível no site do [IMSLP](https://imslp.org) (buscar informações a respeito na internet).
 
-### 8.1. Lista completa
+### 9.1. Lista completa
 
 Lista em construção. Todas as partituras estão disponíveis no IMSLP. Observar números e movimentos.
 
@@ -181,11 +188,11 @@ Lista em construção. Todas as partituras estão disponíveis no IMSLP. Observa
 1. Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit". [IMSLP](https://imslp.org/wiki/Kinderszenen,_Op.15_(Schumann,_Robert))
 1. Schumann, Kinderszenen op. 15, no. 7 "Träumerei".
 
-### 8.2. Lista organizada por conteúdo
+### 9.2. Lista organizada por conteúdo
 
 Partituras a serem usadas nas aulas. Todos os itens deverão ser levados impressos para a aula. Essa lista poderá sofrer ajustes ao longo do semestre.
 
-#### 8.2.1. Revisão de frases, períodos, tonicalização e modulação
+#### 9.2.1. Revisão de frases, períodos, tonicalização e modulação
 
 Aula 1 (ver data em [cronograma](#7-cronograma)).
 
@@ -193,7 +200,7 @@ Aula 1 (ver data em [cronograma](#7-cronograma)).
 - Mozart K545, mov. 1
 - Bach (J.S.), BWV16.6. Coral #007 (Riemenschneider)
 
-#### 8.2.2. Empréstimo modal
+#### 9.2.2. Empréstimo modal
 
 Aulas 2 e 3 (ver data em [cronograma](#7-cronograma)).
 
@@ -201,20 +208,20 @@ Aulas 2 e 3 (ver data em [cronograma](#7-cronograma)).
 - Exemplos do capítulo de empréstimo modal de RG (ver Fórum). Esses
   exemplos poderão ser vistos no celular.
 
-#### 8.2.3. Acordes de nona, alterados, etc.
+#### 9.2.3. Acordes de nona, alterados, etc.
 
 Aulas 5 e 6 (ver data em [cronograma](#7-cronograma)).
 
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - Schubert, Sehnsucht D310B (correção)
 
-#### 8.2.4. Prática - harmonia cromática
+#### 9.2.4. Prática - harmonia cromática
 
 Aula 7 (ver data em [cronograma](#7-cronograma)).
 
 Obras não finalizadas em aulas anteriores
 
-#### 8.2.5. Conceitos de forma e características gerais das frases
+#### 9.2.5. Conceitos de forma e características gerais das frases
 
 <!-- Aula 10, dia -->
 Aula 9 (ver data em [cronograma](#7-cronograma)).
@@ -222,7 +229,7 @@ Aula 9 (ver data em [cronograma](#7-cronograma)).
 - Schumann op. 68, n. 7
 - Clementi, op. 36, n. 1, mov. 1
 
-#### 8.2.6. Estrutura harmônica da frase
+#### 9.2.6. Estrutura harmônica da frase
 
 <!-- Aula 11 -->
 Aula 10 (ver data em [cronograma](#7-cronograma)).
@@ -231,7 +238,7 @@ Aula 10 (ver data em [cronograma](#7-cronograma)).
 - Clementi, op. 36, n. 1, mov. 2
 - Schumann op. 68, n. 9
 
-#### 8.2.7. Estrutura melódica da frase
+#### 9.2.7. Estrutura melódica da frase
 
 <!-- Aulas 12 e 13 -->
 Aulas 11 e 12 (ver data em [cronograma](#7-cronograma)).
@@ -242,7 +249,7 @@ Aulas 11 e 12 (ver data em [cronograma](#7-cronograma)).
 - Schumann op. 68, n. 7
 - Schumann op. 68, n. 9
 
-#### 8.2.8. Desenvolvimento de frase
+#### 9.2.8. Desenvolvimento de frase
 
 <!-- Aula 14 -->
 Aula 12 (ver data em [cronograma](#7-cronograma)).
@@ -253,7 +260,7 @@ Aula 12 (ver data em [cronograma](#7-cronograma)).
 - Franck, Sonata para violino e piano, mov. 1 (apenas primeira página)
 - ~~Schubert, op. 99, mov. 3 (apenas primeira página)~~
 
-#### 8.2.9. Combinação de frases, detalhamento de períodos
+#### 9.2.9. Combinação de frases, detalhamento de períodos
 
 <!-- Aulas 15 e 16 -->
 Aulas 13 a 15 (ver data em [cronograma](#7-cronograma)).
@@ -264,7 +271,7 @@ Aulas 13 a 15 (ver data em [cronograma](#7-cronograma)).
 - Mozart K330, mov. 2 (p 111 (7))
 - Mozart K570, mov. ii (p 6 do pdf)
 
-#### 8.2.10. Pequenas formas: partes, desenho e movimento harmônico
+#### 9.2.10. Pequenas formas: partes, desenho e movimento harmônico
 
 Aulas 17 e 18 (ver data em [cronograma](#7-cronograma)).
 
@@ -276,7 +283,7 @@ Aulas 17 e 18 (ver data em [cronograma](#7-cronograma)).
 
 (composições já usadas no semestre)
 
-#### 8.2.11. Formas binárias: contínuas e secionais
+#### 9.2.11. Formas binárias: contínuas e secionais
 
 Aulas 19 e 20 (ver data em [cronograma](#7-cronograma)).
 
@@ -298,7 +305,7 @@ Aula 23, dia 28/05/2019
 - Diabelli, op. 168, n. 1, mov. 2
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit" -->
 
-#### 8.2.12. Formas ternárias: contínuas e secionais
+#### 9.2.12. Formas ternárias: contínuas e secionais
 
 Aulas 21 e 22 (ver data em [cronograma](#7-cronograma)).
 
@@ -306,7 +313,7 @@ Aulas 21 e 22 (ver data em [cronograma](#7-cronograma)).
 
 - Schumann, Kinderszenen op. 15, no. 6 "Wichtige Begebenheit"
 
-#### 8.2.13. Análise de pequenas formas
+#### 9.2.13. Análise de pequenas formas
 
 Aulas 23 e 24 (ver data em [cronograma](#7-cronograma)).
 
@@ -319,27 +326,13 @@ Aulas 23 e 24 (ver data em [cronograma](#7-cronograma)).
 - Schumann, Kinderszenen op. 15, no. 7 "Träumerei"
 - Schumann op. 68, n. 9
 
-## 9. Notas
+## 10. Notas
 
 [Em construção]
 
-| Matrícula |   P1 | P2   | P3   |    M | R    |
-| --------: | ---: | :--- | :--- | ---: | :--- |
-| 221120499 |  8.8 | 10.0 | 8.9  |  9.2 | AP   |
-| 221120505 |  7.6 | 9.4  | 8.9  |  8.6 | AP   |
-| 221120509 |  9.7 | 9.7  | 8.4  |  9.3 | AP   |
-| 221120510 |  8.0 | 8.7  | 9.7  |  8.8 | AP   |
-| 221120744 |  8.2 | 5.0  | 4.7  |  6.0 | AP   |
-| 222115055 |  7.5 | 6.1  | 7.8  |  7.1 | AP   |
-| 222118651 |  2.4 | -    | -    |  0.8 | TR   |
-| 222118654 |  9.7 | 8.3  | 7.3  |  8.4 | AP   |
-| 222118656 |  4.5 | 7.1  | 5.5  |  5.7 | AP   |
-| 222118671 |  8.6 | 9.7  | 8.7  |  9.0 | AP   |
-| 222118676 |  9.0 | 9.4  | 8.9  |  9.1 | AP   |
-| 223118607 | 10.0 | 10.0 | 9.6  | 10.0 | AP   |
-| 223118610 |  7.5 | 6.4  | 7.8  |  7.2 | AP   |
-| 223118615 |  4.7 | 2.5  | 1.1  |  2.8 | RR   |
-| 223118618 |  6.1 | 7.2  | 3.9  |  5.7 | AP   |
+| Matrícula | P1  | P2  | P3  | M   | R   |
+| --------- | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 {: .table .table-sm}
 
 Estatística
@@ -351,7 +344,7 @@ Estatística
 | Desvio padrão |       |
 {: .table .table-sm}
 
-## 10. Bibliografia
+## 11. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice Leading_. 3rded. Thomson Schirmer.
 1. D'Indy, Vincent. 1912. _Cours de Composition Musicale_.  Paris: Durand.
@@ -371,7 +364,7 @@ Estatística
 1. "Musictheory.net." 2000. http://musictheory.net.
 1. "Resposta Tonal." 2015. https://respostatonal.com.
 
-## 11. Links
+## 12. Links
 
 - [Fórum da disciplina](https://forum.sampaio.me)
 - [EK4](https://www.dropbox.com/s/nk1jwzerz21rt1v/ek-4.pdf?dl=0)
@@ -390,11 +383,11 @@ Estatística
 - [Áudio dos 371 Corais de Bach no YouTube](https://www.youtube.com/watch?v=Jp4v99F4Kac&list=PL6QFt5ca_y9kPKJZS9vgpgSAPDj1eN3lh)
 - [Conteúdo Programático aprovado pelo Departamento de Música](http://dmusufba.com/docs/conteudos/pdf/MUSA71%20LEM%20III.pdf)
 - [Departamento de Música da UFBA](http://dmusufba.com)
-- [Resoluções de baixos e cantos dados em vídeo](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious)
+- [Resoluções de baixos e cantos dados em vídeo](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn). Se o link não funcionar, buscar no [Invidious](https://farside.link/invidious)
 - [IMSLP, sonatas de Haydn](https://imslp.org/wiki/Piano_Sonatas_(Haydn,_Joseph))
 - [IMSLP, sonatas de Mozart](https://imslp.org/wiki/19_Sonatas_for_the_Piano_(Mozart,_Wolfgang_Amadeus))
 
-## 12. Comunicação com o professor
+## 13. Comunicação com o professor
 
 A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 

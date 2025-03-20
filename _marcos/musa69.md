@@ -5,7 +5,7 @@ toc: true
 level: graduacao
 ---
 
-Plano de curso da disciplina Literatura e Estruturação Musical I, dos cursos de Canto, Composição e Regência, Instrumento e Licenciatura em Música da UFBA.
+Plano de curso da disciplina Literatura e Estruturação Musical I, dos cursos de Canto Lírico, Composição e Regência, Instrumento e Licenciatura em Música da Universidade Federal da Bahia.
 
 ## 1. Ementa
 
@@ -31,7 +31,7 @@ Além de:
 1. Leitura e escrita em claves de Sol e Fá
 1. Solfejo de melodias simples
 
-Tais pré-requisitos fazem parte da prova de ingresso dos cursos de música.
+Esses pré-requisitos fazem parte da prova de ingresso dos cursos de música.
 
 ## 4. Conteúdo programático
 
@@ -50,15 +50,22 @@ exercícios a serem realizados em classe e em casa:
 1. Realização a quatro vozes de baixo cifrado com harmonia diatônica e modulatória simples
 1. Realização de exercícios exaustivos de condução de vozes
 
-## 6. Avaliação
+## 6. Ambientes virtuais utilizados
+
+- Página no site do Genos
+- [Fórum da disciplina](https://forum.sampaio.me)
+
+A comunicação será realizada via fórum privado.
+
+## 7. Avaliação
 
 A avaliação nesta disciplina é realizada mediante 3 provas. As provas são compostas por questões de composição e/ou análise e têm como objetivo avaliar o aprendizado dos conteúdos da disciplina. O critério de correção é subjetivo, como o próprio conteúdo da disciplina. O conteúdo das provas é acumulativo.
 
-### 6.1. Nota
+### 7.1. Nota
 
 A nota do semestre será a média aritmética das notas das provas.
 
-### 6.2. Segunda chamada
+### 7.2. Segunda chamada
 
 O aluno que faltar às provas terá direito à segunda chamada se a requerer até dois dias úteis após a sua realização comprovando-se umas das seguintes situações:
 
@@ -70,13 +77,11 @@ A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segu
 
 A data de realização de segunda chamada está prevista no cronograma da disciplina.
 
-## 7. Cronograma
+## 8. Cronograma
 
 O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo com a necessidade e eventualidade.
 
-Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados. Por prevenção, o cronograma dispõe de aulas de reposição de conteúdo. Caso não haja necessidade de reposição, essas aulas serão usadas para exercícios práticos.
-
-**Obs**: o cronograma está ajustado para o retorno pós-greve.
+Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados.
 
 | Aula | Data       | Dia  | Conteúdo                                           |
 | ---: | :--------- | :--- | :------------------------------------------------- |
@@ -140,7 +145,7 @@ Os exercícios estão sendo organizados em [marcos.sampaio.me/tag/exercicios](ht
 12. [Harmonização de melodia e análise harmônica](https://docs.google.com/document/d/1sVgPAwNA55aOuDyq5XbfPF9_aRgB-nbrqPtLoo8HreE/edit?usp=sharing)
 13. [Funções secundárias, realização de baixo cifrado e análise harmônica](https://docs.google.com/document/d/19ZSLZXYey5xnJobLo2SiLULRB_IiH5vnZXCyB4lI8KA/edit?usp=sharing) -->
 
-## 8. Material para análise
+## 9. Material para análise
 
 Seleção de obras para análise ao longo do semestre.
 
@@ -148,7 +153,7 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 [Em construção]
 
-1. J. S. Bach, Chorale Harmonizations ([Ed. Riemenschneider](https://imslp.org/wiki/371_Riemenschneider_Chorale_Harmonizations_(Simpson,_Daniel_L%C3%A9o)))
+1. J. S. Bach, Chorale Harmonizations ([Ed. Riemenschneider](https://imslp.org/wiki/371_Harmonized_Chorales_and_69_Chorale_Melodies_(Bach,_Johann_Sebastian)))
    1. #001
    1. #006
    1. #007
@@ -160,24 +165,13 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 1. R. Schumann, Álbum para Juventude op. 68, n. 2
 1. M. Clementi, op. 36, n. 1, mov. 1.
 
-## 9. Notas
+## 10. Notas
 
 [Em construção]
 
-| Matrícula | P1   | P2   | P3   | M    | R    |
-| --------: | :--- | :--- | :--- | :--- | :--- |
-| 201514992 | -    | -    | -    | -    | RR   |
-| 220119182 | 6.6  | 6.7  | 1.7  | 5.0  | AP   |
-| 220121575 | -    | -    | -    | -    | -    |
-| 221120503 | 8.1  | 9.3  | 8.2  | 8.5  | AP   |
-| 222118661 | 7.8  | 10.0 | 3.3  | 7.0  | AP   |
-| 223115416 | 9.6  | 10.0 | 7.3  | 9.0  | AP   |
-| 223118632 | 7.9  | 10.0 | 9.2  | 9.0  | AP   |
-| 223118639 | 7.8  | 6.2  | -    | 4.7  | RR   |
-| 223119867 | 8.0  | 8.7  | 6.0  | 7.6  | AP   |
-| 224115484 | -    | -    | -    | -    | RR   |
-| 224119561 | 5.7  | 8.4  | 8.0  | 7.4  | AP   |
-| 224119562 | 8.4  | 7.7  | 7.4  | 7.8  | AP   |
+| Matrícula | P1  | P2  | P3  | M   | R   |
+| --------- | --- | --- | --- | --- | --- |
+|           |     |     |     |     |     |
 {: .table .table-sm}
 
 Estatística
@@ -189,7 +183,7 @@ Estatística
 | Desvio padrão |       |
 {: .table .table-sm}
 
-## 10. Bibliografia
+## 11. Bibliografia
 
 1. Aldwell, Edward, and Carl Schachter. 2002. _Harmony and Voice Leading_. 3rded. Thomson Schirmer.
 1. Bordini, Ricardo Mazzini. 2020. Curso de Teoria e Percepção Musical. Disponível em [http://musica.ufma.br/bordini/ext/unidades/unidades.html](http://musica.ufma.br/bordini/ext/unidades/unidades.html). Acessado em 16/12/2022.
@@ -208,7 +202,7 @@ Estatística
 1. Ulrich Michels. 1982. _Atlas de Música_. Madrid: Alianza. 1. Wedge, George A. 1930. _Applied Harmony, a Text-Book_. New York: Schirmer.
 1. "Musictheory.net." 2000. [http://musictheory.net](http://musictheory.net)
 
-## 11. Links
+## 12. Links
 
 - [Fórum da disciplina](https://forum.sampaio.me)
 - [KP1](https://www.dropbox.com/s/e1b1ae3ia3gzczs/kostka-1.pdf) (16MB)
@@ -223,7 +217,7 @@ Estatística
 - [Departamento de Música da UFBA](http://dmusufba.com)
 - [Resoluções de baixos e cantos dados em vídeo](https://invidious.private.coffee/playlist?list=PLTuRmdq29AClW1du2AK_o9p7_3BazuYDn). Se o link não funcionar, buscar no [Individious](https://farside.link/invidious)
 
-## 12. Comunicação com o professor
+## 13. Comunicação com o professor
 
 A comunicação com o professor fora do horário de aula é realizada   exclusivamente pelo fórum ou email.
 
