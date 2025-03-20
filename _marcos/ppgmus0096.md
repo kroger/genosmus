@@ -11,7 +11,7 @@ Plano de curso da disciplina Tópicos em Teoria e Análise Musical II, dos curso
 
 No semestre 2025.1, as atividades da disciplina Tópicos em Teoria e Análise Musical II consistirão na leitura e discussão do livro comemorativa dos 10 anos, seleção de tópicos do livro e redação de artigo que conecte estes tópicos ao projeto individual de pesquisa do discente.
 
-Dia, horário e local: Terças-feiras, das 14:50 às 17:35, no GenosLab.
+Dia, horário e local: Terças-feiras, das 14:50 às 17:35, na sala 201.
 
 ## 2. Ementa
 
