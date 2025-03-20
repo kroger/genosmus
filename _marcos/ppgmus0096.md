@@ -113,9 +113,13 @@ O trabalho final consiste em um artigo para publicação em revista científica 
 
 [Em construção]
 
-| Matrícula | D   | T   | M   | R   |
-| --------- | --- | --- | --- | --- |
-|           |     |     |     |     |
+| Matrícula  | D   | T   | M   | R   |
+| ---------- | --- | --- | --- | --- |
+| 2023120228 |     |     |     |     |
+| 2025103941 |     |     |     |     |
+| 2025103960 |     |     |     |     |
+| 2025104690 |     |     |     |     |
+| 2025104706 |     |     |     |     |
 {: .table .table-sm}
 
 Legenda:
