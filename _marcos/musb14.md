@@ -56,20 +56,18 @@ A comunicação e entrega de trabalhos será realizada via Fórum privado e, qua
 
 A avaliação será realizada mediante os seguintes trabalhos:
 
-1. Composição de 3 miniaturas para formações diversas, cada uma
+1. Composição de duas miniaturas para formações diversas, cada uma
 relacionada com um princípio composicional previamente definido.
-1. Composição de 3 exercícios básicos, para treinamento dos conteúdos estudados.
+1. Composição de quatro exercícios básicos, para treinamento dos conteúdos estudados.
 1. Composição de uma obra de duração de 3 a 4 minutos para orquestra sinfônica, com uso sistemático de pelo menos um dos princípios de organização de alturas abordados no curso.
-1. Relatório sobre a composição final com a demonstração da aplicação dos princípios de alturas abordados no curso.
-1. 5 Relatórios demonstrando o progresso semanal na realização do trabalho final.
 
 ### 6.1. Nota
 
 A nota do semestre será equivalente a uma média ponderada do resultado
 obtido nos trabalhos, de acordo com os seguintes pesos:
 
-1. Miniaturas 1 a 3 (peso 3)
-1. Exercícios 1 a 3 (peso 2)
+1. Miniaturas 1 e 2 (peso 3)
+1. Exercícios 1 a 4 (peso 2)
 1. Composição final (peso 5)
 
 <!-- TODO: adaptar -->
@@ -140,26 +138,26 @@ modificados de acordo com a necessidade e eventualidade.
 
 **Obs**: o cronograma está ajustado para o retorno pós-greve.
 
-| Aula | Data       | Dia | Tópico                                            |
-| ---- | ---------- | --- | ------------------------------------------------- |
-| 1    | 27-03-2025 | Qui | Apresentação, Politonalidade                      |
-| 2    | 03-04-2025 | Qui | Politonalidade - dimensão horizontal. Exercício 1 |
-| 3    | 10-04-2025 | Qui | Politonalidade - dimensão horizontal. Miniatura 1 |
-|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**                   |
-| 4    | 24-04-2025 | Qui | Policordes - dimensão vertical. Exercício 2       |
-| 5    | 01-05-2025 | Qui | Policordes - dimensão vertical. Miniatura 2       |
-| 6    | 08-05-2025 | Qui | Politonalidade e policordes. Exercício 3          |
-| 7    | 15-05-2025 | Qui | Politonalidade e policordes. Miniatura 3          |
-| 8    | 22-05-2025 | Qui | Pós-tonalismo, serialismo e indeterminação        |
-| 9    | 29-05-2025 | Qui | Consulta composição final 1                       |
-| 10   | 05-06-2025 | Qui | Consulta composição final 2                       |
-| 11   | 12-06-2025 | Qui | Consulta composição final 3                       |
-| 12   | 19-06-2025 | Qui | Consulta composição final 4                       |
-| 13   | 26-06-2025 | Qui | Consulta composição final 5                       |
-| 14   | 03-07-2025 | Qui | Entrega da composição final                       |
-|      | 10-07-2025 | Qui | **Ausência do professor**                         |
-|      | 17-07-2025 | Qui | **Reservado para emergências**                    |
-|      | 24-07-2025 | Qui | **Reservado para emergências**                    |
+| Aula | Data       | Dia | Tópico                                   |
+| ---- | ---------- | --- | ---------------------------------------- |
+| 1    | 27-03-2025 | Qui | Apresentação                             |
+| 2    | 03-04-2025 | Qui | Politonalidade. Exercício básico 1       |
+| 3    | 10-04-2025 | Qui | Policordes. Exercício básico 2           |
+|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**          |
+| 4    | 24-04-2025 | Qui | Politonalidade e policordes. Miniatura 1 |
+| 5    | 01-05-2025 | Qui | Serialismo. Exercício básico 3           |
+| 6    | 08-05-2025 | Qui | Pós-tonalismo. Exercício básico 4        |
+| 7    | 15-05-2025 | Qui | Serialismo e pós-tonalismo. Miniatura 2  |
+| 8    | 22-05-2025 | Qui | Consulta composição final 1              |
+| 9    | 29-05-2025 | Qui | Consulta composição final 2              |
+| 10   | 05-06-2025 | Qui | Consulta composição final 3              |
+| 11   | 12-06-2025 | Qui | Consulta composição final 4              |
+| 12   | 19-06-2025 | Qui | Consulta composição final 5              |
+| 13   | 26-06-2025 | Qui | Consulta composição final 6              |
+| 14   | 03-07-2025 | Qui | Entrega da composição final              |
+|      | 10-07-2025 | Qui | **Ausência do professor**                |
+|      | 17-07-2025 | Qui | **Reservado para emergências**           |
+|      | 24-07-2025 | Qui | **Reservado para emergências**           |
 {: .table .table-sm}
 
 ## 9. Trabalhos
@@ -332,16 +330,17 @@ analisada em conjunto durante as aulas:
 
 [Em construção]
 
-| Matrícula | M1  | M2  | M3  | C   | Média | Resultado |
-| --------- | --- | --- | --- | --- | ----- | --------- |
-| 221120481 |     |     |     |     |       |           |
-| 221120482 |     |     |     |     |       |           |
-| 223118604 |     |     |     |     |       |           |
+| Matrícula | E1  | E2  | E3  | E4  | M1  | M2  | C   | Média | Resultado |
+| --------- | --- | --- | --- | --- | --- | --- | --- | ----- | --------- |
+| 221120481 |     |     |     |     |     |     |     |       |           |
+| 221120482 |     |     |     |     |     |     |     |       |           |
+| 223118604 |     |     |     |     |     |     |     |       |           |
 {: .table .table-sm}
 
 Legenda:
 
-- M1 a M3: Miniaturas 1 a 3
+- E1 a E4: Exercícios básicos 1 a 4
+- M1 e M2: Miniaturas 1 e 2
 - C: Composição final
 
 ## 12. Bibliografia
