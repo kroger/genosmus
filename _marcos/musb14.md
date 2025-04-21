@@ -139,22 +139,22 @@ modificados de acordo com a necessidade e eventualidade.
 **Obs**: o cronograma está ajustado para o retorno pós-greve.
 
 | Aula | Data       | Dia | Tópico                                   |
-| ---- | ---------- | --- | ---------------------------------------- |
-| 1    | 27-03-2025 | Qui | Apresentação                             |
+|------|------------|-----|------------------------------------------|
+| 1    | 27-03-2025 | Qui | Apresentação.                            |
 | 2    | 03-04-2025 | Qui | Politonalidade. Exercício básico 1       |
 | 3    | 10-04-2025 | Qui | Policordes. Exercício básico 2           |
 |      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**          |
-| 4    | 24-04-2025 | Qui | Politonalidade e policordes. Miniatura 1 |
-| 5    | 01-05-2025 | Qui | Serialismo. Exercício básico 3           |
-| 6    | 08-05-2025 | Qui | Pós-tonalismo. Exercício básico 4        |
-| 7    | 15-05-2025 | Qui | Serialismo e pós-tonalismo. Miniatura 2  |
-| 8    | 22-05-2025 | Qui | Consulta composição final 1              |
-| 9    | 29-05-2025 | Qui | Consulta composição final 2              |
-| 10   | 05-06-2025 | Qui | Consulta composição final 3              |
-| 11   | 12-06-2025 | Qui | Consulta composição final 4              |
-| 12   | 19-06-2025 | Qui | Consulta composição final 5              |
-| 13   | 26-06-2025 | Qui | Consulta composição final 6              |
-| 14   | 03-07-2025 | Qui | Entrega da composição final              |
+|      | 24-04-2025 | Qui | **Manutenção EMUS**                      |
+|      | 01-05-2025 | Qui | **Feriado: Dia do Trabalho**             |
+| 4    | 08-05-2025 | Qui | Politonalidade e policordes. Miniatura 1 |
+| 5    | 15-05-2025 | Qui | Serialismo. Exercício básico 3           |
+| 6    | 22-05-2025 | Qui | Pós-tonalismo. Exercício básico 4        |
+| 7    | 29-05-2025 | Qui | Serialismo e pós-tonalismo. Miniatura 2  |
+| 8    | 05-06-2025 | Qui | Consulta composição final 1              |
+| 9    | 12-06-2025 | Qui | Consulta composição final 2              |
+| 10   | 19-06-2025 | Qui | Consulta composição final 3              |
+| 11   | 26-06-2025 | Qui | Consulta composição final 4              |
+| 12   | 03-07-2025 | Qui | Entrega da composição final              |
 |      | 10-07-2025 | Qui | **Ausência do professor**                |
 |      | 17-07-2025 | Qui | **Reservado para emergências**           |
 |      | 24-07-2025 | Qui | **Reservado para emergências**           |
