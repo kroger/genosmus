@@ -80,44 +80,44 @@ O conteúdo e dias das aulas do cronograma poderão ser modificados de acordo co
 
 Em função da coordenação do Colegiado de Composição e Regência, o professor poderá se ausentar de aulas para atender a chamados da Congregação da EMUS ou instâncias superiores da Universidade. Nesses casos, avisará pelo fórum da disciplina (ver [links](#11-links)) e definirá os trabalhos a serem realizados.
 
-| Aula | Data       | Dia  | Conteúdo                                                 |
-| ---: | :--------- | :--- | :------------------------------------------------------- |
-|    1 | 25-03-2025 | Ter  | Revisão de tonicização e modulação                       |
-|    2 | 27-03-2025 | Qui  | Mistura de modos                                         |
-|    3 | 01-04-2025 | Ter  | Mistura de modos                                         |
-|    4 | 03-04-2025 | Qui  | Prática de harmonização, composição e análise de h.crom. |
-|    5 | 08-04-2025 | Ter  | Acordes de nona                                          |
-|    6 | 10-04-2025 | Qui  | Acordes alterados e substituições                        |
-|    7 | 15-04-2025 | Ter  | Prática de harmonização, composição e análise de h.crom. |
-|      | 17-04-2025 | Qui  | **Feriado (pré): Semana Santa**                          |
-|    8 | 22-04-2025 | Ter  | Prova I                                                  |
-|    9 | 24-04-2025 | Qui  | Conceitos de forma e características gerais das frases   |
-|   10 | 29-04-2025 | Ter  | Estrutura harmônica da frase                             |
-|      | 01-05-2025 | Qui  | **Feriado: Dia do Trabalho**                             |
-|   11 | 06-05-2025 | Ter  | Estrutura melódica da frase                              |
-|   12 | 08-05-2025 | Qui  | Desenvolvimento de frases                                |
-|   13 | 13-05-2025 | Ter  | Combinação de frases 1 - períodos                        |
-|   14 | 15-05-2025 | Qui  | Combinação de frases 2 - detalhamento de períodos        |
-|   15 | 20-05-2025 | Ter  | Prática de harmonização, composição e análise            |
-|   16 | 22-05-2025 | Qui  | Prática de harmonização, composição e análise            |
-|   17 | 27-05-2025 | Ter  | Prova II                                                 |
-|   18 | 29-05-2025 | Qui  | Pequenas formas: divisão em partes, desenho, mov. harm.  |
-|   19 | 03-06-2025 | Ter  | Prática de harmonização, composição e análise            |
-|   20 | 05-06-2025 | Qui  | Pequenas formas: binária contínua e secional             |
-|   21 | 10-06-2025 | Ter  | Prática de harmonização, composição e análise            |
-|   22 | 12-06-2025 | Qui  | Pequenas formas: ternária contínua e secional            |
-|   23 | 17-06-2025 | Ter  | Prática de harmonização, composição e análise            |
-|   24 | 19-06-2025 | Qui  | Prática de harmonização, composição e análise            |
-|      | 24-06-2025 | Ter  | **Feriado: São João**                                    |
-|   25 | 26-06-2025 | Qui  | Prática de harmonização, composição e análise            |
-|   26 | 01-07-2025 | Ter  | Formas compostas e pequenas obras                        |
-|   27 | 03-07-2025 | Qui  | Prova III                                                |
-|   28 | 08-07-2025 | Ter  | Segunda chamada                                          |
-|      | 10-07-2025 | Qui  | **Ausência do professor**                                |
-|      | 15-07-2025 | Ter  | **Reservado para correção**                              |
-|   29 | 17-07-2025 | Qui  | Entrega de resultados                                    |
-|      | 22-07-2025 | Ter  | **Reservado para emergências**                           |
-|      | 24-07-2025 | Qui  | **Reservado para emergências**                           |
+| Aula | Data       | Dia | Conteúdo                                                 |
+|------|------------|-----|----------------------------------------------------------|
+| 1    | 25-03-2025 | Ter | Revisão de tonicização e modulação                       |
+| 2    | 27-03-2025 | Qui | Mistura de modos                                         |
+| 3    | 01-04-2025 | Ter | Mistura de modos                                         |
+| 4    | 03-04-2025 | Qui | Prática de harmonização, composição e análise de h.crom. |
+| 5    | 08-04-2025 | Ter | Acordes de nona                                          |
+| 6    | 10-04-2025 | Qui | Acordes alterados e substituições                        |
+| 7    | 15-04-2025 | Ter | Prática de harmonização, composição e análise de h.crom. |
+|      | 17-04-2025 | Qui | **Feriado (pré): Semana Santa**                          |
+| 8    | 22-04-2025 | Ter | Prática de harmonização, composição e análise de h.crom. |
+|      | 24-04-2025 | Qui | **Manutenção EMUS**                                      |
+| 9    | 29-04-2025 | Ter | Prova I                                                  |
+|      | 01-05-2025 | Qui | **Feriado: Dia do Trabalho**                             |
+| 10   | 06-05-2025 | Ter | Conceitos de forma e características gerais das frases   |
+| 11   | 08-05-2025 | Qui | Estrutura harmônica da frase                             |
+| 12   | 13-05-2025 | Ter | Estrutura melódica da frase                              |
+| 13   | 15-05-2025 | Qui | Desenvolvimento de frases                                |
+| 14   | 20-05-2025 | Ter | Combinação de frases 1 - períodos                        |
+| 15   | 22-05-2025 | Qui | Combinação de frases 2 - detalhamento de períodos        |
+| 16   | 27-05-2025 | Ter | Prática de harmonização, composição e análise            |
+| 17   | 29-05-2025 | Qui | Prova II                                                 |
+| 18   | 03-06-2025 | Ter | Prática de harmonização, composição e análise            |
+| 19   | 05-06-2025 | Qui | Pequenas formas: divisão em partes, desenho, mov. harm.  |
+| 20   | 10-06-2025 | Ter | Prática de harmonização, composição e análise            |
+| 21   | 12-06-2025 | Qui | Pequenas formas: binária contínua e secional             |
+| 22   | 17-06-2025 | Ter | Prática de harmonização, composição e análise            |
+| 23   | 19-06-2025 | Qui | Pequenas formas: ternária contínua e secional            |
+|      | 24-06-2025 | Ter | **Feriado: São João**                                    |
+| 24   | 26-06-2025 | Qui | Prática de harmonização, composição e análise            |
+| 25   | 01-07-2025 | Ter | Formas compostas e pequenas obras                        |
+| 26   | 03-07-2025 | Qui | Prova III                                                |
+| 27   | 08-07-2025 | Ter | Segunda chamada                                          |
+|      | 10-07-2025 | Qui | **Ausência do professor**                                |
+|      | 15-07-2025 | Ter | **Reservado para correção**                              |
+| 28   | 17-07-2025 | Qui | Entrega de resultados                                    |
+|      | 22-07-2025 | Ter | **Reservado para emergências**                           |
+|      | 24-07-2025 | Qui | **Reservado para emergências**                           |
 {: .table .table-sm}
 
 <!-- ## 8. Exercícios de apoio
