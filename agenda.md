@@ -3,7 +3,7 @@ layout: page
 title: Agenda
 ---
 
-Agenda de horários por docente
+Agenda de horários do GenosLab.
 
 ## 2025.2
 
