@@ -21,16 +21,16 @@ title: Pessoas
 - Me. Dennis Queiroz de Carvalho
 - Me. Gilmário Celso Bispo de Jesus
 - Me. Tharcísio Vaz da Costa de Moraes
+- Me. Sidnei Marques de Oliveira ([Lattes](http://lattes.cnpq.br/8589873345658247))
 
 #### Mestrado
 
-- Sidnei Marques de Oliveira ([Lattes](http://lattes.cnpq.br/8589873345658247))
+- Paulo Roberto Pitta da Fonseca Filho
 
 #### Graduação
 
 - Daniel Lopes de Oliveira
 - Lisa Mascarenhas Gusmão
-- Paulo Roberto Pitta da Fonseca Filho
 - Renato Alves da Silva Filho ([Lattes](http://lattes.cnpq.br/8789530538276029))
 - Vicente Sanches de Oliveira ([Lattes](http://lattes.cnpq.br/7390695997527457))
 
