@@ -14,7 +14,7 @@ Agenda de horários do GenosLab.
 | 10:40   |            |            |        | Lucas  |           |
 | 11:35   |            |            |        | Lucas  |           |
 | 12:30   |            |            |        |        |           |
-| 13:00   |            |            |        | Lucas  | Guilherme |
+| 13:00   |            |            | Lucas  | Lucas  | Guilherme |
 | 13:55   | Espinheira | Espinheira | Lucas  | Lucas  | Guilherme |
 | 14:50   | Espinheira | Espinheira | Lucas  | Marcos | Guilherme |
 | 15:45   | Espinheira | Espinheira | Lucas  | Marcos | Guilherme |
