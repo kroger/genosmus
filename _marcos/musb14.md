@@ -330,11 +330,11 @@ analisada em conjunto durante as aulas:
 
 [Em construção]
 
-| Matrícula | E1  | E2  | E3  | E4  | M1  | M2  | C   | Média | Resultado |
-| --------- | --- | --- | --- | --- | --- | --- | --- | ----- | --------- |
-| 221120481 |     |     |     |     |     |     |     |       |           |
-| 221120482 |     |     |     |     |     |     |     |       |           |
-| 223118604 |     |     |     |     |     |     |     |       |           |
+| Matrícula | Média | Resultado |
+| --------- | ----- | --------- |
+| 221120481 | 4.5   | RR        |
+| 221120482 | 7.0   | AP        |
+| 223118604 | 9.5   | AP        |
 {: .table .table-sm}
 
 Legenda:
