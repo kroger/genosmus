@@ -80,48 +80,46 @@ A prova de segunda chamada ocorrerá em data previamente definida no cronograma 
 
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
-| Aula | Data       | Dia | Tópico                                 |
-| ---- | ---------- | --- | -------------------------------------- |
-| 1    | 01-10-2024 | Ter | Análise Mozart K 545                   |
-| 2    | 03-10-2024 | Qui | Análise Kuhlau Op. 59 N. 1             |
-|      | 08-10-2024 | Ter | **Seminários Internacionais EMUS**     |
-|      | 10-10-2024 | Qui | **Seminários Internacionais EMUS**     |
-|      | 15-10-2024 | Ter | **Seminários Internacionais EMUS**     |
-|      | 17-10-2024 | Qui | **Congresso da TeMA**                  |
-| 3    | 22-10-2024 | Ter | Análise Haydn XVI/32 Si menor          |
-| 4    | 24-10-2024 | Qui | Análise Clementi Op. 1 n. 5            |
-| 5    | 29-10-2024 | Ter | Análise Mozart K 280                   |
-| 6    | 31-10-2024 | Qui | Análise Mozart K 333                   |
-| 7    | 05-11-2024 | Ter | Análise Haydn XVI/34 Mi menor          |
-| 8    | 07-11-2024 | Qui | Prova I                                |
-| 9    | 12-11-2024 | Ter | Análise Beethoven Op. 2, n. 1          |
-| 10   | 14-11-2024 | Qui | Análise Beethoven Op. 2, n. 2          |
-| 11   | 19-11-2024 | Ter | Análise Beethoven Op. 2, n. 3          |
-| 12   | 21-11-2024 | Qui | Análise Beethoven Op. 10, n. 1         |
-|      | 26-11-2024 | Ter | **Congresso da UFBA**                  |
-|      | 28-11-2024 | Qui | **Congresso da UFBA**                  |
-| 13   | 03-12-2024 | Ter | Análise Beethoven Op. 13               |
-| 14   | 05-12-2024 | Qui | Análise Beethoven Op. 14, n. 1         |
-| 15   | 10-12-2024 | Ter | Prova II                               |
-| 16   | 12-12-2024 | Qui | Análise Beethoven Op. 14, n. 2         |
-| 17   | 17-12-2024 | Ter | Análise Beethoven Op. 27, n. 2, mov. 3 |
-| 18   | 19-12-2024 | Qui | Análise Beethoven Op. 28               |
-|      | 24-12-2024 | Ter | **Recesso**                            |
-|      | 26-12-2024 | Qui | **Recesso**                            |
-|      | 31-12-2024 | Ter | **Recesso**                            |
-|      | 02-01-2025 | Qui | **Recesso**                            |
-| 19   | 07-01-2025 | Ter | Análise Beethoven Op. 31, n. 3         |
-| 20   | 09-01-2025 | Qui | Análise Beethoven Op. 53               |
-| 21   | 14-01-2025 | Ter | Análise Beethoven Op. 57               |
-|      | 16-01-2025 | Qui | **Lavagem do Bonfim**                  |
-| 22   | 21-01-2025 | Ter | Análise Beethoven Op. 67               |
-| 23   | 23-01-2025 | Qui | Prova III                              |
-| 24   | 28-01-2025 | Ter | Segunda chamada                        |
-| 25   | 30-01-2025 | Qui | Entrega de resultados                  |
-|      | 04-02-2025 | Ter | **Reservado para visita do MEC**       |
-|      | 06-02-2025 | Qui | **Reservado para visita do MEC**       |
-|      | 11-02-2025 | Ter | **Reservado para visita do MEC**       |
-|      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
+| Aula | Data       | Dia | Tópico                                       |
+|------|------------|-----|----------------------------------------------|
+|      | 02-09-2025 | Ter | **Congresso da UFBA**                        |
+|      | 04-09-2025 | Qui | **Congresso da UFBA**                        |
+| 1    | 09-09-2025 | Ter | Análise Mozart K 545                         |
+| 2    | 11-09-2025 | Qui | Análise Kuhlau Op. 59 N. 1                   |
+| 3    | 16-09-2025 | Ter | Análise Haydn XVI/32 Si menor                |
+| 4    | 18-09-2025 | Qui | Análise Clementi Op. 1 n. 5                  |
+| 5    | 23-09-2025 | Ter | Análise Mozart K 280                         |
+| 6    | 25-09-2025 | Qui | Análise Mozart K 333                         |
+| 7    | 30-09-2025 | Ter | Análise Haydn XVI/34 Mi menor                |
+| 8    | 02-10-2025 | Qui | Prova I                                      |
+| 9    | 07-10-2025 | Ter | Análise Beethoven Op. 2, n. 1                |
+| 10   | 09-10-2025 | Qui | Análise Beethoven Op. 2, n. 2                |
+| 11   | 14-10-2025 | Ter | Análise Beethoven Op. 2, n. 3                |
+| 12   | 16-10-2025 | Qui | Análise Beethoven Op. 10, n. 1               |
+| 13   | 21-10-2025 | Ter | Análise Beethoven Op. 13, n. 1               |
+| 14   | 23-10-2025 | Qui | Análise Beethoven Op. 14, n. 1               |
+| 15   | 28-10-2025 | Ter | Prova II                                     |
+|      | 30-10-2025 | Qui | **Ausência do professor**                    |
+| 16   | 04-11-2025 | Ter | Análise Maria Hester Park (definir obra)     |
+| 17   | 06-11-2025 | Qui | Análise Hélène de Montgeroult (definir obra) |
+| 18   | 11-11-2025 | Ter | Análise Beethoven Op. 14, n. 2               |
+| 19   | 13-11-2025 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3       |
+| 20   | 18-11-2025 | Ter | Análise Beethoven Op. 28                     |
+| 21   | 20-11-2025 | Qui | Análise Beethoven Op. 31, n. 3               |
+| 22   | 25-11-2025 | Ter | Análise Beethoven Op. 53                     |
+| 23   | 27-11-2025 | Qui | Análise Beethoven Op. 57                     |
+| 24   | 02-12-2025 | Ter | Análise Beethoven Op. 67                     |
+| 25   | 04-12-2025 | Qui | Análise Mozart K 465                         |
+| 26   | 09-12-2025 | Ter | Análise Beethoven Op. 111                    |
+| 27   | 11-12-2025 | Qui | Prova III                                    |
+| 28   | 16-12-2025 | Ter | Segunda chamada                              |
+| 29   | 18-12-2025 | Qui | Entrega de resultados                        |
+|      | 23-12-2025 | Ter | **Recesso**                                  |
+|      | 25-12-2025 | Qui | **Recesso**                                  |
+|      | 30-12-2025 | Ter | **Recesso**                                  |
+|      | 01-01-2026 | Qui | **Recesso**                                  |
+|      | 06-01-2026 | Ter | **Reservado para eventual reposição**        |
+|      | 08-01-2026 | Qui | **Reservado para eventual reposição**        |
 {: .table .table-sm}
 
 ## 7. Obras para análise

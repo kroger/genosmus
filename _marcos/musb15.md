@@ -158,27 +158,26 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 **OBS**: em construção
 
 | Aula | Data       | Dia | Tópico                                 |
-| ---- | ---------- | --- | -------------------------------------- |
-| 1    | 03-10-2024 | Qui | Abstração e representação de contornos |
-|      | 10-10-2024 | Qui | **Seminários Internacionais EMUS**     |
-|      | 17-10-2024 | Qui | **Congresso da TeMA**                  |
-| 2    | 24-10-2024 | Qui | Identidade e reflexão de contornos     |
-| 3    | 31-10-2024 | Qui | Redução de contornos                   |
-| 4    | 07-11-2024 | Qui | Similaridade de contornos              |
-| 5    | 14-11-2024 | Qui | Acento melódico                        |
-| 6    | 21-11-2024 | Qui | Voz e coro, texto e fala               |
-|      | 28-11-2024 | Qui | **Congresso da UFBA**                  |
-| 7    | 05-12-2024 | Qui | Composição vocal                       |
-| 8    | 12-12-2024 | Qui | Consultas e análises                   |
-| 9    | 19-12-2024 | Qui | Consultas e análises                   |
-|      | 26-12-2024 | Qui | **Recesso**                            |
-|      | 02-01-2025 | Qui | **Recesso**                            |
-| 10   | 09-01-2025 | Qui | Consultas e análises                   |
-|      | 16-01-2025 | Qui | **Lavagem do Bonfim**                  |
-| 11   | 23-01-2025 | Qui | Entrega de trabalhos                   |
-|      | 30-01-2025 | Qui | **Reservado para visita do MEC**       |
-|      | 06-02-2025 | Qui | **Reservado para visita do MEC**       |
-|      | 13-02-2025 | Qui | **Reservado para eventual reposição**  |
+|------|------------|-----|----------------------------------------|
+|      | 04-09-2025 | Qui | **Congresso da UFBA**                  |
+| 1    | 11-09-2025 | Qui | Abstração e representação de contornos |
+| 2    | 18-09-2025 | Qui | Identidade e reflexão de contornos     |
+| 3    | 25-09-2025 | Qui | Redução de contornos                   |
+| 4    | 02-10-2025 | Qui | Similaridade de contornos              |
+| 5    | 09-10-2025 | Qui | Acento melódico                        |
+| 6    | 16-10-2025 | Qui | Voz e coro, texto e fala               |
+| 7    | 23-10-2025 | Qui | Composição vocal                       |
+|      | 30-10-2025 | Qui | **Ausência do professor**              |
+| 8    | 06-11-2025 | Qui | Consultas e análises                   |
+| 9    | 13-11-2025 | Qui | Consultas e análises                   |
+| 10   | 20-11-2025 | Qui | Consultas e análises                   |
+| 11   | 27-11-2025 | Qui | Consultas e análises                   |
+| 12   | 04-12-2025 | Qui | Consultas e análises                   |
+| 13   | 11-12-2025 | Qui | Consultas e análises                   |
+| 14   | 18-12-2025 | Qui | Entrega de trabalhos                   |
+|      | 25-12-2025 | Qui | **Recesso**                            |
+|      | 01-01-2026 | Qui | **Recesso**                            |
+|      | 08-01-2026 | Qui | **Reservado para eventual reposição**  |
 {: .table .table-sm}
 
 

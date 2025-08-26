@@ -88,47 +88,45 @@ A prova de segunda chamada ocorrerá em data definida no cronograma da disciplin
 Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 
 | Aula | Data       | Dia | Tópico                                      |
-| ---- | ---------- | --- | ------------------------------------------- |
-| 1    | 01-10-2024 | Ter | Tétrades dominantes invertidas              |
-| 2    | 03-10-2024 | Qui | Tétrades diminutas                          |
-|      | 08-10-2024 | Ter | **Seminários Internacionais EMUS**          |
-|      | 10-10-2024 | Qui | **Seminários Internacionais EMUS**          |
-|      | 15-10-2024 | Ter | **Seminários Internacionais EMUS**          |
-|      | 17-10-2024 | Qui | **Congresso da TeMA**                       |
-| 3    | 22-10-2024 | Ter | Tétrades comuns                             |
-| 4    | 24-10-2024 | Qui | Tétrades: todas                             |
-| 5    | 29-10-2024 | Ter | Aula prática: canto e baixo                 |
-| 6    | 31-10-2024 | Qui | Aula prática: canto e baixo                 |
-| 7    | 05-11-2024 | Ter | Aula prática: canto e baixo                 |
-| 8    | 07-11-2024 | Qui | Prova I                                     |
-| 9    | 12-11-2024 | Ter | Acordes de sexta aumentada italiana         |
-| 10   | 14-11-2024 | Qui | Acordes de sexta aumentada francesa e alemã |
-| 11   | 19-11-2024 | Ter | Aula prática: canto e baixo                 |
-| 12   | 21-11-2024 | Qui | Acordes de sexta aumentada: outros usos     |
-|      | 26-11-2024 | Ter | **Congresso da UFBA**                       |
-|      | 28-11-2024 | Qui | **Congresso da UFBA**                       |
-| 13   | 03-12-2024 | Ter | Acorde de sexta napolitana                  |
-| 14   | 05-12-2024 | Qui | Aula prática: canto e baixo                 |
-| 15   | 10-12-2024 | Ter | Prova II                                    |
-| 16   | 12-12-2024 | Qui | Tonicização, Modulação: análise de obras    |
-| 17   | 17-12-2024 | Ter | Tipos de modulação                          |
-| 18   | 19-12-2024 | Qui | Aula prática: análise de obras, canto/baixo |
-|      | 24-12-2024 | Ter | **Recesso**                                 |
-|      | 26-12-2024 | Qui | **Recesso**                                 |
-|      | 31-12-2024 | Ter | **Recesso**                                 |
-|      | 02-01-2025 | Qui | **Recesso**                                 |
-| 19   | 07-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 20   | 09-01-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 21   | 14-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-|      | 16-01-2025 | Qui | **Lavagem do Bonfim**                       |
-| 22   | 21-01-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 23   | 23-01-2025 | Qui | Prova III                                   |
-| 24   | 28-01-2025 | Ter | Segunda chamada                             |
-| 25   | 30-01-2025 | Qui | Entrega de resultados                       |
-|      | 04-02-2025 | Ter | **Reservado para visita do MEC**            |
-|      | 06-02-2025 | Qui | **Reservado para visita do MEC**            |
-|      | 11-02-2025 | Ter | **Reservado para visita do MEC**            |
-|      | 13-02-2025 | Qui | **Reservado para eventual reposição**       |
+|------|------------|-----|---------------------------------------------|
+|      | 02-09-2025 | Ter | **Congresso da UFBA**                       |
+|      | 04-09-2025 | Qui | **Congresso da UFBA**                       |
+| 1    | 09-09-2025 | Ter | Tétrades dominantes invertidas              |
+| 2    | 11-09-2025 | Qui | Tétrades diminutas                          |
+| 3    | 16-09-2025 | Ter | Tétrades comuns                             |
+| 4    | 18-09-2025 | Qui | Tétrades: todas                             |
+| 5    | 23-09-2025 | Ter | Aula prática: canto e baixo                 |
+| 6    | 25-09-2025 | Qui | Aula prática: canto e baixo                 |
+| 7    | 30-09-2025 | Ter | Aula prática: canto e baixo                 |
+| 8    | 02-10-2025 | Qui | Prova I                                     |
+| 9    | 07-10-2025 | Ter | Acordes de sexta aumentada italiana         |
+| 10   | 09-10-2025 | Qui | Acordes de sexta aumentada francesa e alemã |
+| 11   | 14-10-2025 | Ter | Aula prática: canto e baixo                 |
+| 12   | 16-10-2025 | Qui | Acordes de sexta aumentada: outros usos     |
+| 13   | 21-10-2025 | Ter | Acorde de sexta napolitana                  |
+| 14   | 23-10-2025 | Qui | Aula prática: canto e baixo                 |
+| 15   | 28-10-2025 | Ter | Prova II                                    |
+|      | 30-10-2025 | Qui | **Ausência do professor**                   |
+| 16   | 04-11-2025 | Ter | Tonicização, Modulação: análise de obras    |
+| 17   | 06-11-2025 | Qui | Tipos de modulação                          |
+| 18   | 11-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 19   | 13-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 20   | 18-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 21   | 20-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 22   | 25-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 23   | 27-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 24   | 02-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+|      | 04-12-2025 | Qui | **Feriado: Dia da Consciência Negra**       |
+| 25   | 09-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 26   | 11-12-2025 | Qui | Prova III                                   |
+| 27   | 16-12-2025 | Ter | Segunda chamada                             |
+| 28   | 18-12-2025 | Qui | Entrega de resultados                       |
+|      | 23-12-2025 | Ter | **Recesso**                                 |
+|      | 25-12-2025 | Qui | **Recesso**                                 |
+|      | 30-12-2025 | Ter | **Recesso**                                 |
+|      | 01-01-2026 | Qui | **Recesso**                                 |
+|      | 06-01-2026 | Ter | **Reservado para eventual reposição**       |
+|      | 08-01-2026 | Qui | **Reservado para eventual reposição**       |
 {: .table .table-sm}
 
 <!-- <iframe
