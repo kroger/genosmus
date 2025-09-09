@@ -91,36 +91,36 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 |------|------------|-----|---------------------------------------------|
 |      | 02-09-2025 | Ter | **Congresso da UFBA**                       |
 |      | 04-09-2025 | Qui | **Congresso da UFBA**                       |
-| 1    | 09-09-2025 | Ter | Tétrades dominantes invertidas              |
-| 2    | 11-09-2025 | Qui | Tétrades diminutas                          |
-| 3    | 16-09-2025 | Ter | Tétrades comuns                             |
-| 4    | 18-09-2025 | Qui | Tétrades: todas                             |
-| 5    | 23-09-2025 | Ter | Aula prática: canto e baixo                 |
-| 6    | 25-09-2025 | Qui | Aula prática: canto e baixo                 |
-| 7    | 30-09-2025 | Ter | Aula prática: canto e baixo                 |
-| 8    | 02-10-2025 | Qui | Prova I                                     |
-| 9    | 07-10-2025 | Ter | Acordes de sexta aumentada italiana         |
-| 10   | 09-10-2025 | Qui | Acordes de sexta aumentada francesa e alemã |
-| 11   | 14-10-2025 | Ter | Aula prática: canto e baixo                 |
-| 12   | 16-10-2025 | Qui | Acordes de sexta aumentada: outros usos     |
-| 13   | 21-10-2025 | Ter | Acorde de sexta napolitana                  |
-| 14   | 23-10-2025 | Qui | Aula prática: canto e baixo                 |
-| 15   | 28-10-2025 | Ter | Prova II                                    |
+|      | 09-09-2025 | Ter | **UFBA - ajustes**                          |
+| 1    | 11-09-2025 | Qui | Tétrades dominantes invertidas              |
+| 2    | 16-09-2025 | Ter | Tétrades diminutas                          |
+| 3    | 18-09-2025 | Qui | Tétrades comuns                             |
+| 4    | 23-09-2025 | Ter | Tétrades: todas                             |
+| 5    | 25-09-2025 | Qui | Aula prática: canto e baixo                 |
+| 6    | 30-09-2025 | Ter | Aula prática: canto e baixo                 |
+| 7    | 02-10-2025 | Qui | Prova I                                     |
+| 8    | 07-10-2025 | Ter | Acordes de sexta aumentada italiana         |
+| 9    | 09-10-2025 | Qui | Acordes de sexta aumentada francesa e alemã |
+| 10   | 14-10-2025 | Ter | Aula prática: canto e baixo                 |
+| 11   | 16-10-2025 | Qui | Acordes de sexta aumentada: outros usos     |
+| 12   | 21-10-2025 | Ter | Acorde de sexta napolitana                  |
+| 13   | 23-10-2025 | Qui | Aula prática: canto e baixo                 |
+| 14   | 28-10-2025 | Ter | Prova II                                    |
 |      | 30-10-2025 | Qui | **Ausência do professor**                   |
-| 16   | 04-11-2025 | Ter | Tonicização, Modulação: análise de obras    |
-| 17   | 06-11-2025 | Qui | Tipos de modulação                          |
-| 18   | 11-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 19   | 13-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 20   | 18-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 21   | 20-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 22   | 25-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 23   | 27-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 24   | 02-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 15   | 04-11-2025 | Ter | Tonicização, Modulação: análise de obras    |
+| 16   | 06-11-2025 | Qui | Tipos de modulação                          |
+| 17   | 11-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 18   | 13-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 19   | 18-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 20   | 20-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 21   | 25-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 22   | 27-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 23   | 02-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
 |      | 04-12-2025 | Qui | **Feriado: Dia da Consciência Negra**       |
-| 25   | 09-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 26   | 11-12-2025 | Qui | Prova III                                   |
-| 27   | 16-12-2025 | Ter | Segunda chamada                             |
-| 28   | 18-12-2025 | Qui | Entrega de resultados                       |
+| 24   | 09-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 25   | 11-12-2025 | Qui | Prova III                                   |
+| 26   | 16-12-2025 | Ter | Segunda chamada                             |
+| 27   | 18-12-2025 | Qui | Entrega de resultados                       |
 |      | 23-12-2025 | Ter | **Recesso**                                 |
 |      | 25-12-2025 | Qui | **Recesso**                                 |
 |      | 30-12-2025 | Ter | **Recesso**                                 |
