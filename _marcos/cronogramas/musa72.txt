@@ -4,7 +4,7 @@
 Análise Mozart K 545
 Análise Kuhlau Op. 59 N. 1
 Análise Haydn XVI/32 Si menor
-Análise Clementi Op. 1 n. 5
+Análise Haydn XVI/34 Mi menor
 Análise Mozart K 280
 Análise Mozart K 333
 Prova I
@@ -36,6 +36,6 @@ Entrega de resultados
 **Recesso**
 **Reservado para eventual reposição**
 **Reservado para eventual reposição**
-Análise Haydn XVI/34 Mi menor
+Análise Clementi Op. 1 n. 5
 Análise Beethoven Op. 81a
 Análise Haydn Op. 50, n. 3, mov. 1

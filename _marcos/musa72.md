@@ -88,7 +88,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 1    | 11-09-2025 | Qui | Análise Mozart K 545                         |
 | 2    | 16-09-2025 | Ter | Análise Kuhlau Op. 59 N. 1                   |
 | 3    | 18-09-2025 | Qui | Análise Haydn XVI/32 Si menor                |
-| 4    | 23-09-2025 | Ter | Análise Clementi Op. 1 n. 5                  |
+| 4    | 23-09-2025 | Ter | Análise Haydn XVI/34 Mi menor                |
 | 5    | 25-09-2025 | Qui | Análise Mozart K 280                         |
 | 6    | 30-09-2025 | Ter | Análise Mozart K 333                         |
 | 7    | 02-10-2025 | Qui | Prova I                                      |
