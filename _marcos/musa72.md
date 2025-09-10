@@ -134,7 +134,7 @@ O material para análise está inteiramente disponível no site do [IMSLP](https
 
 Edição preferencial: Breitkopf und Härtel, reimpressa pela E.F. Kalmus.
 
-1. Piano Sonata n. 1. Op 2, n. 1, mov. 1.
+1. [Piano Sonata n. 1. Op 2, n. 1, mov. 1.](https://imslp.org/wiki/Piano_Sonata_No.1,_Op.2_No.1_(Beethoven,_Ludwig_van))
 1. Piano Sonata n. 2. Op 2, n. 2, mov. 1.
 1. Piano Sonata n. 3. Op 2, n. 3, mov. 1.
 1. Piano Sonata n. 5. Op 10, n. 1, mov. 1 (Little Pathétique).
@@ -150,32 +150,32 @@ Edição preferencial: Breitkopf und Härtel, reimpressa pela E.F. Kalmus.
 1. Sinfonia n. 5. Op 67, mov. 1.
 1. Piano Sonata n. 26. Op 81a, mov. 1 (Les Audieux).
 1. Violino Sonata n. 10. Op. 96, mov. 1.
-1. Piano Sonata n. 28. Op. 101
-1. Piano Sonata n. 29. Op. 106 (Hammerklavier)
-1. Piano Sonata n. 30. Op. 109
-1. Piano Sonata n. 31. Op. 110
+1. Piano Sonata n. 28. Op. 101, mov. 1.
+1. Piano Sonata n. 29. Op. 106 (Hammerklavier), mov. 1.
+1. Piano Sonata n. 30. Op. 109, mov. 1.
+1. Piano Sonata n. 31. Op. 110, mov. 1.
 1. Piano Sonata n. 32. Op. 111, mov. 1.
 
 ### 7.2. Mozart
 
 Edição preferencial: Breitkopf und Härtel
 
-1. Piano Sonata n. 2. K 280, mov. 1
+1. [Piano Sonata n. 2. K 280, mov. 1](https://imslp.org/wiki/Piano_Sonata_No.2_in_F_major,_K.280/189e_(Mozart,_Wolfgang_Amadeus))
 1. Piano Sonata n. 8. K 310, mov. 1
 1. Piano Sonata n. 9. K 311, mov. 1
-1. Piano Sonata n. 13. K 333, mov. 1
+1. [Piano Sonata n. 13. K 333, mov. 1](https://imslp.org/wiki/Piano_Sonata_No.13_in_B-flat_major,_K.333/315c_(Mozart,_Wolfgang_Amadeus))
 1. Piano Sonata n. 14. K 457, mov. 1
 1. String Quartet K 465, mov. 1
 1. Piano Sonata n. 15. K 533, mov. 1
-1. Piano Sonata n. 16. K 545, mov. 1
+1. [Piano Sonata n. 16. K 545, mov. 1](https://imslp.org/wiki/Piano_Sonata_No.16_in_C_major,_K.545_(Mozart,_Wolfgang_Amadeus))
 1. Piano Sonata n. 18. K 576, mov. 1
 
 ### 7.3. Haydn
 
 Edição preferencial: Edition Peters
 
-1. Piano Sonata XVI/32 N. 47 Si menor, mov. 1
-1. PIano Sonata XVI/34 N. 47 Mi menor, mov. 1
+1. [Piano Sonata XVI/32 N. 47 Si menor, mov. 1](https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_Hob.XVI:32_(Haydn,_Joseph))
+1. [Piano Sonata XVI/34 N. 47 Mi menor, mov. 1](https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_Hob.XVI:34_(Haydn,_Joseph))
 2. Quarteto de cordas  Op. 50, n. 3, mov. 1
 
 ### 7.4. Outros
@@ -183,7 +183,8 @@ Edição preferencial: Edition Peters
 1. Brahms Op. 68, mov. 1 (ver versão para 2 pianos em "arranjos e transcrições", no IMSLP)
 1. Clementi Op. 1 N. 5, mov. 1 (ver pasta de recursos do Moodle)
 1. Hindemith, Piano Sonata n. 2, mov. 1 (edição B.  Schott's Söhne)
-1. Kuhlau Op. 59 N. 1, mov. 1
+1. [Kuhlau Op. 59 N. 1, mov. 1](https://imslp.org/wiki/3_Sonatas,_Op.59_(Kuhlau,_Friedrich))
+1. [Park, Marie Hester. Op. 7, mov. 1](https://imslp.org/wiki/Piano_Sonata_in_C_major%2C_Op.7_(Park%2C_Maria_Hester))
 
 ## 8. Notas
 
