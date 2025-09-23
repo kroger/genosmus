@@ -4,7 +4,7 @@
 Análise Mozart K 545
 Análise Kuhlau Op. 59 N. 1
 Análise Haydn XVI/32 Si menor
-Análise Haydn XVI/34 Mi menor
+~Análise Haydn XVI/34 Mi menor~ Congregação
 Análise Mozart K 280
 Análise Mozart K 333
 Prova I
