@@ -100,7 +100,7 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 13   | 23-10-2025 | Qui | Análise Beethoven Op. 14, n. 1                |
 | 14   | 28-10-2025 | Ter | Prova II                                      |
 |      | 30-10-2025 | Qui | **Ausência do professor**                     |
-| 15   | 04-11-2025 | Ter | Análise Maria Hester Park (definir obra)      |
+| 15   | 04-11-2025 | Ter | Análise Maria Hester Park Op. 7, mov. 1       |
 | 16   | 06-11-2025 | Qui | Análise Hélène de Montgeroult (definir obra)  |
 | 17   | 11-11-2025 | Ter | Análise Beethoven Op. 14, n. 2                |
 | 18   | 13-11-2025 | Qui | Análise Beethoven Op. 27, n. 2, mov. 3        |
