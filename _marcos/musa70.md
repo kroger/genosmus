@@ -112,11 +112,11 @@ Este cronograma é uma previsão e poderá ser alterado ao longo do semestre.
 | 17   | 11-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
 | 18   | 13-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
 | 19   | 18-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 20   | 20-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 21   | 25-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-| 22   | 27-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
-| 23   | 02-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
-|      | 04-12-2025 | Qui | **Feriado: Dia da Consciência Negra**       |
+|      | 20-11-2025 | Qui | **Feriado: Dia da Consciência Negra**       |
+| 20   | 25-11-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 21   | 27-11-2025 | Qui | Aula prática: análise de obras, canto/baixo |
+| 22   | 02-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
+| 23   | 04-12-2025 | Qui | Aula prática: análise de obras, canto/baixo |
 | 24   | 09-12-2025 | Ter | Aula prática: análise de obras, canto/baixo |
 | 25   | 11-12-2025 | Qui | Prova III                                   |
 | 26   | 16-12-2025 | Ter | Segunda chamada                             |

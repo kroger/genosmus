@@ -170,11 +170,11 @@ As aulas sem conteúdo de voz e contornos, a partir do dia 26/10 serão dedicada
 |      | 30-10-2025 | Qui | **Ausência do professor**              |
 | 8    | 06-11-2025 | Qui | Consultas e análises                   |
 | 9    | 13-11-2025 | Qui | Consultas e análises                   |
-| 10   | 20-11-2025 | Qui | Consultas e análises                   |
-| 11   | 27-11-2025 | Qui | Consultas e análises                   |
-| 12   | 04-12-2025 | Qui | Consultas e análises                   |
-| 13   | 11-12-2025 | Qui | Consultas e análises                   |
-| 14   | 18-12-2025 | Qui | Entrega de trabalhos                   |
+|      | 20-11-2025 | Qui | **Feriado: Dia da Consciência Negra**  |
+| 10   | 27-11-2025 | Qui | Consultas e análises                   |
+| 11   | 04-12-2025 | Qui | Consultas e análises                   |
+| 12   | 11-12-2025 | Qui | Consultas e análises                   |
+| 13   | 18-12-2025 | Qui | Entrega de trabalhos                   |
 |      | 25-12-2025 | Qui | **Recesso**                            |
 |      | 01-01-2026 | Qui | **Recesso**                            |
 |      | 08-01-2026 | Qui | **Reservado para eventual reposição**  |
