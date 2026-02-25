@@ -6,8 +6,14 @@ description: "Grupo de Pesquisa em Computação Musical"
 google_analytics: "UA-25220567-1"
 
 timezone: "America/Bahia"
-
 markdown: kramdown
+#theme: minimal-mistakes-jekyll
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-include-cache
+
 exclude:
   - img
   - .bundle
@@ -16,4 +22,12 @@ exclude:
   - "*.bib"
   - "Gemfile*"
   - Makefile
+  
+include: ["_pages"]
+
+atom_feed:
+  hide: true
+
+footer:
+  links: []
   
