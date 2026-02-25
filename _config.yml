@@ -12,11 +12,3 @@ collections:
   marcos:
     output: true
     permalink: /:collection/:name
-
-toc:
-  min_level: 1
-  max_level: 2
-
-plugins:
-  - jekyll-toc
-  - jekyll-last-modified-at
