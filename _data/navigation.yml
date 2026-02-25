@@ -1,7 +1,7 @@
 main:
   - title: "Pesquisa"
-    url: /pesquisa/
+    url: /pesquisa
   - title: "Pessoas"
-    url: /pessoas/
+    url: /pessoas
   - title: "Agenda"
-    url: /agenda/
+    url: /agenda
