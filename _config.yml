@@ -16,3 +16,6 @@ exclude:
   - Gemfile*
   - Makefile
   - README.md
+
+atom_feed:{ hide: true }
+footer: {links: [] }
