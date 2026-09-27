@@ -1,0 +1,17 @@
+base_url = "https://genosmus.com"
+compile_sass = false
+build_search_index = false
+theme = "linkita"
+default_language = "pt"
+
+
+[extra]
+toc = false
+header_menu_name = "menu_name"
+page_info = []
+
+[extra.menus]
+menu_name = [
+  { url = "@base/pessoas/", name = "Pessoas" },
+  { url = "@base/pesquisa/", name = "Pesquisa" }
+]
