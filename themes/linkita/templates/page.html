@@ -1,0 +1,23 @@
+{% extends "index.html" %}
+{% block main %}
+<article>
+  {% include "injects/page_start.html" %}
+  <header class="mb-16">
+    <h1 class="my-0! pb-3">{{ page.title }}</h1>
+    {{ <_page_info page={page} on_page={true} /> }}
+  </header>
+  {{ <_cover_image /> }}
+  {{ <_toc conf={config.extra.toc} def={true} /> }}
+  <!-- Content -->
+  <section>{{ page.content | safe }}</section>
+  <hr />
+  {{ <_post_taxonomies /> }}
+  {%- if page.lower is map or page.higher is map %}
+  {{ <_post_navigation invert={config.extra.invert_page_navigation} /> }}
+  {%- endif %}
+  {%- if page.extra.comment | default(value=config.extra.comment) %}
+  {{ <_giscus conf={config.extra.giscus} /> }}
+  {%- endif %}
+  {% include "injects/page_end.html" %}
+</article>
+{% endblock main %}

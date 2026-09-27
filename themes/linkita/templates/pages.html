@@ -1,0 +1,21 @@
+{% extends "index.html" %}
+{% block main %}
+{%- if _g_profile %}
+  {{ <_profile _g_profile /> }}
+{%- endif %}
+<article>
+  {%- if not _g_profile and page.title %}
+  <header class="mb-16">
+    <h1 class="my-0!">{{ page.title }}</h1>
+  </header>
+  {%- endif %}
+  {{ <_cover_image /> }}
+  {{ <_toc conf={config.extra.toc} def={false} /> }}
+  <!-- Content -->
+  <section>{{ page.content | safe }}</section>
+  {%- if page.lower is map or page.higher is map %}
+  <hr />
+  {{ <_post_navigation invert={config.extra.invert_page_navigation} /> }}
+  {%- endif %}
+</article>
+{% endblock main %}

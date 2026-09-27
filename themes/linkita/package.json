@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev:css": "tailwindcss -i static/app.css -o static/main.min.css --minify --watch",
+    "build:css": "tailwindcss -i static/app.css -o static/main.min.css --minify",
+    "build:nomincss": "tailwindcss -i static/app.css -o static/main.css",
+    "build:js": "terser -o static/js/zola-theme.min.js static/js/theme/color.js static/js/theme/*.js",
+    "build:gcJS": "terser static/js/gc.js -o static/js/gc.min.js"
+  },
+  "devDependencies": {
+    "@iarna/toml": "^2.2.5",
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/typography": "^0.5.20",
+    "instant.page": "^5.2.0",
+    "katex": "^0.18.7",
+    "puppeteer": "^25.11.0",
+    "simple-icons": "^16.32.0",
+    "tailwindcss": "^4.3.3",
+    "terser": "^5.51.2"
+  }
+}

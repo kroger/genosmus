@@ -1,0 +1,76 @@
+{% component _profile(@page: map, @ctx: map, _g_profile: map) -%}
+  {%- if _g_profile.languages?[ctx.lang]?.name is string %}
+    {%- set profile_name = _g_profile.languages[ctx.lang].name %}
+  {%- elif _g_profile.name is string %}
+    {%- set profile_name = _g_profile.name %}
+  {%- endif %}
+  {%- if _g_profile.languages?[ctx.lang]?.bio is string %}
+    {%- set profile_bio = _g_profile.languages[ctx.lang].bio %}
+  {%- elif _g_profile.bio is string %}
+    {%- set profile_bio = _g_profile.bio %}
+  {%- endif %}
+  {%- if _g_profile.languages?[ctx.lang]?.social is array %}
+    {%- set profile_social = _g_profile.languages[ctx.lang].social %}
+  {%- elif _g_profile.social is array %}
+    {%- set profile_social = _g_profile.social %}
+  {%- endif %}
+  {%- if _g_profile.languages?[ctx.lang]?.avatar_alt is string %}
+    {%- set profile_avatar_alt = _g_profile.languages[ctx.lang].avatar_alt %}
+  {%- elif _g_profile.avatar_alt is string %}
+    {%- set profile_avatar_alt = _g_profile.avatar_alt %}
+  {%- endif %}
+<div class="mb-16 flex items-start">
+  {%- if _g_profile.avatar_url %}
+  <div
+    class="not-prose shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/50 p-3 shadow-sm dark:bg-white/10">
+    <img
+      class="my-0 aspect-square w-16 rounded-full bg-black/5! hover:animate-spin{%
+        if _g_profile.avatar_invert %} dark:invert{% endif %}"
+      src="{{ <_link_static path={_g_profile.avatar_url} /> }}"{%
+        if profile_avatar_alt is string %} alt="{{ profile_avatar_alt }}"{% endif %} />
+  </div>
+  {%- endif %}
+  <div class="{%
+    if _g_profile.avatar_url %}ml-5{%
+    elif page.content %}ml-0{%
+    else %}ml-4 lg:ml-6{% endif %}">
+    {%- if profile_name is string %}
+    <h1 class="mb-2 text-3xl font-bold">{{ profile_name }}</h1>
+    {%- endif %}
+    {%- if profile_bio is string %}
+    <div class="mb-2 wrap-break-word">
+      {{ profile_bio | markdown(inline=true) | safe }}
+    </div>
+    {%- endif %}
+
+    {%- if profile_social is array %}
+    <nav class="flex justify-start {%
+    if profile_social | length > 5 %}flex-row flex-wrap gap-x-3{%
+    else %}space-x-3{% endif %} dark:invert">
+      {%- for social in profile_social %}
+        {%- if social.urls?[ctx.lang] is string %}
+          {%- set social_url = social.urls[ctx.lang] %}
+        {%- else %}
+          {%- set social_url = social.url %}
+        {%- endif %}
+        {%- if social.titles?[ctx.lang] is string %}
+          {%- set social_title = social.titles[ctx.lang] %}
+        {%- elif social.title %}
+          {%- set social_title = social.title %}
+        {%- else %}
+          {%- set social_title = social.name %}
+        {%- endif %}
+      <a
+        class="primary-link h-8 w-8 text-[0px] [background:var(--url)_center_center/cover_no-repeat]"
+        style="--url: url({{ <_link_social_icon icon={social.name} prl={false} /> }});"
+        href="{{ <_link dest={social_url} /> }}"
+        target="_blank"
+        rel="{% if social.name == `rss` %}alternate{% else %}me{% endif %}"
+        title="{{ social_title }}"
+        >{{ social.name }}</a>
+      {%- endfor %}
+    </nav>
+    {%- endif %}
+  </div>
+</div>
+{% endcomponent %}

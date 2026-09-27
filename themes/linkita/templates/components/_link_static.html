@@ -1,0 +1,3 @@
+{% component _link_static(path: string, cachebust=true) %}{{
+  <_link dest={get_url(path=path, cachebust=cachebust, trailing_slash=false)} /> }}{%
+endcomponent %}

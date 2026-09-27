@@ -1,0 +1,89 @@
+{#- Rename section to page #}
+{%- if section is defined and page is defined %}
+  {{- throw(message="both section and page are defined") }}
+{%- elif section is undefined and page is defined %}
+  {%- set ctx = {"is_section": false, "is_taxonomy": false, "is_404": false} %}
+{%- elif section is defined and page is undefined %}
+  {%- set ctx = {"is_section": true, "is_taxonomy": false, "is_404": false} %}
+  {%- set page = section %}
+  {%- set section = none %}
+{%- else %}
+  {%- if taxonomy is map %}
+    {%- set ctx = {"is_section": false, "is_taxonomy": true, "is_404": false} %}
+  {%- else %}
+    {%- set ctx = {"is_section": false, "is_taxonomy": false, "is_404": true} %}
+  {%- endif %}
+  {%- set page = { "lang": lang, "extra": {} } %}
+{%- endif %}
+
+{#- For relative links #}
+{%- set ctx = {
+  ...ctx,
+  "lang": page.lang,
+  "base_url": get_url(path=``, trailing_slash=true, lang=default_language),
+  "ugly_urls": config.extra.ugly_urls,
+  "hreflang": page.lang,
+  "num_format": config.extra.languages?[page.lang]?.num_format | default(value=page.lang),
+  "is_mode_serve": config.mode is string and config.mode == "serve",
+  "is_article": page.date is string or page.updated is string,
+} %}
+{%- if config.extra.relative_urls and current_url is string %}
+  {%- set ctx = {...ctx, "cu_url": current_url | trim_start(pat=ctx.base_url) | split(pat=`/`) } %}
+{%- endif %}
+
+{#- Load translations #}
+{%- if config.extra.languages?[lang]?.hreflang is string %}
+  {%- set ctx = {...ctx, "hreflang": config.extra.languages[lang].hreflang} %}
+  {%- set i18n = load_data(path=`i18n/`~ctx.hreflang~`.json`, format=`json`, required=false) %}
+{%- endif %}
+{%- if not i18n %}
+  {%- set i18n = load_data(path=`i18n/`~lang~`.json`, format=`json`, required=false) %}
+  {%- if not i18n %}
+    {%- set i18n = load_data(path=`i18n/en.json`, format=`json`, required=true) %}
+  {%- endif %}
+{%- endif %}
+
+{%- if config.extra.menu_i18n %}
+  {%- set _i18n_menu = load_data(path=`i18n/menu.json`, format=`json`) %}
+{%- endif %}
+
+{%- if ctx.is_404 %}
+  {%- set page = {...page, "title": <_str key=`error_not_found` /> } %}
+{%- endif %}
+
+{%- if page.extra.profile is string %}
+  {%- set ctx = {...ctx, "profile": page.extra.profile} %}
+{%- elif taxonomy?.name is string and taxonomy.name == "authors" and term?.name is string %}
+  {%- set ctx = {...ctx, "profile": term.name} %}
+{%- endif %}
+{%- if ctx.profile %}
+  {%- if config.extra.profiles?[ctx.profile] %}
+    {%- set _g_profile = config.extra.profiles[ctx.profile] %}
+  {%- else %}
+    {%- set _g_profile = {"name": ctx.profile} %}
+  {%- endif %}
+{%- else %}
+  {%- set _g_profile = {} %}
+{%- endif %}
+{%- if config.author %}
+  {%- if config.extra.profiles?[config.author] %}
+    {%- set _ca_profile = config.extra.profiles[config.author] %}
+  {%- else %}
+    {%- set _ca_profile = {"name": config.author} %}
+  {%- endif %}
+{%- else %}
+  {%- set _ca_profile = {} %}
+{%- endif %}
+
+{%- if page.extra.cover?.image is string %}
+  {%- set ctx = {
+    ...ctx,
+    "image": {
+      "url": <_link_cover_image path={page.extra.cover.image} assets={page.assets} />,
+      "alt": page.extra.cover.alt,
+      "width": page.extra.cover.width,
+      "height": page.extra.cover.height,
+    },
+  } %}
+{%- endif %}
+{%- block html %}{% endblock html %}
