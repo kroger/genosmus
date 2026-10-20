@@ -1,4 +1,4 @@
-base_url = "https://genosmus.com"
+base_url = "https://genos.ufba.br"
 compile_sass = false
 build_search_index = false
 theme = "linkita"
