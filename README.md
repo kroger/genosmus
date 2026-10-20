@@ -1,12 +1,6 @@
 
 Esse site é feito com o [Zola](https://www.getzola.org).
 
-## Publicando Alterações no Site
-
-O site é publicado automaticamente pelo GitHub Pages após um `git commit`. A
-maneira mais fácil de fazer uma alteração no site é editando diretamente pela
-interface web do Github.
-
 ## Alterações Locais
 
 Para modificar e visualizar o site localmente deve-se clonar o repositório com o
